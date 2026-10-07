@@ -8208,6 +8208,42 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "39080": {
+    "season_id": 39080,
+    "title": "地球热带岛屿之旅",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/d7eb5cb0d4786153a714a5a6a82b584ccc051366.png",
+    "evaluate": "三个标志性的岛屿——马达加斯加，婆罗洲，夏威夷，每一个都是封闭的生态系统，与大陆隔绝。这些岛屿拥有丰富的野生动物和人类文化，也是地球上最脆弱的地方之一。马达加斯加极端的地貌造就了岛上最大的独特动物群，包括著名的狐猴。婆罗洲生活着会游泳的猴子、会飞的蛇和巨大的食肉植物，只有最顽强的动物才能在热气腾腾的丛林和高山中生存下来。对夏威夷的野生动物来说，在组成夏威夷的孤立的小块陆地上开拓殖民地是最大的挑战。但对于那些成功的鲸鱼、信天翁和毛毛虫来说，这里是现实生活中的天堂。",
+    "jpTitle": "",
+    "seasonTitle": "地球热带岛屿之旅",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-07-14 21:30:00",
+      "pub_time_show": "2021年07月14日21:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 409982,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "马达加斯加",
+      "婆罗洲",
+      "夏威夷"
+    ],
+    "total": 3,
+    "seasons": [
+      {
+        "id": 39080,
+        "title": "英文原版"
+      },
+      {
+        "id": 284278,
+        "title": "中文配音版"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
   "39213": {
     "season_id": 39213,
     "title": "你好生活 第3季",
@@ -10176,6 +10212,41 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "160616": {
+    "season_id": 160616,
+    "title": "寄生游戏 第一季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e258760bb084ed325a6712228ff9c25f49afe396.png",
+    "evaluate": "影片由生物学家Dan O'Neill主持，探索了自然界中真实存在的、能控制宿主大脑的寄生生物，如真菌、蠕虫和昆虫等，揭示了它们如何将动物变成“僵尸”般的行为。",
+    "jpTitle": "",
+    "seasonTitle": "寄生游戏 第一季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-02-14 11:00:00",
+      "pub_time_show": "02月14日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 3127370,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "外来入侵者",
+      "躯体掠夺者"
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 160616,
+        "title": "英文原版"
+      },
+      {
+        "id": 284198,
+        "title": "中文配音版"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
   },
   "162111": {
     "season_id": 162111,
@@ -98209,6 +98280,220 @@
       {
         "id": 283903,
         "title": "第7季"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284193": {
+    "season_id": 284193,
+    "title": "文艺复兴：美与殇",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fefd2309032e7e59fed5177a82c4401d15dda4a0.jpg",
+    "evaluate": "文艺复兴时期充满了动荡不安、背叛、流血和政治变革。然而，这也是一个创造力空前繁盛的时代。本纪录片以或许是那个时代最伟大的艺术家——米开朗琪罗为引导，展现他如何在那个充满暴力的现实世界中求生，以及他的生命轨迹如何与同时代的两位天才——达·芬奇和拉斐尔交汇。节目融合专家访谈、戏剧化重现以及对非凡艺术作品的沉浸式体验，带领观众踏上一场生动鲜活的旅程，探索人类最高的艺术成就，同时揭示最深的阴谋与动荡。",
+    "jpTitle": "",
+    "seasonTitle": "文艺复兴：美与殇",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-14 18:00:00",
+      "pub_time_show": "08月14日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5449572,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "扬名",
+      "",
+      ""
+    ],
+    "total": 3,
+    "seasons": [],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284198": {
+    "season_id": 284198,
+    "title": "寄生游戏 第一季（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e258760bb084ed325a6712228ff9c25f49afe396.png",
+    "evaluate": "影片由生物学家Dan O'Neill主持，探索了自然界中真实存在的、能控制宿主大脑的寄生生物，如真菌、蠕虫和昆虫等，揭示了它们如何将动物变成“僵尸”般的行为。",
+    "jpTitle": "",
+    "seasonTitle": "寄生游戏 第一季（中配版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-17 09:00:00",
+      "pub_time_show": "08月17日09:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5490441,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "外来入侵者",
+      "躯体掠夺者"
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 160616,
+        "title": "英文原版"
+      },
+      {
+        "id": 284198,
+        "title": "中文配音版"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284272": {
+    "season_id": 284272,
+    "title": "公主驾到，天才厨子已超神！",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6c62bdc586cdba56673a1641cd559292702b1f4a.jpg",
+    "evaluate": "现代厨王苏长乐穿越成被黑心舅舅活埋的落魄孤女，从乱葬岗爬出后，她凭借一手绝世厨艺接手濒临倒闭的醉仙楼。香酥蚱蜢、麻辣小龙虾、河蚌豆腐汤……一道道创意菜式吊打百味居，逆袭成为民间厨艺大比魁首。正当她手撕渣亲、夺回母亲菜谱与酒楼时，竟意外发现生父乃当朝皇帝，假公主苏灵儿当场翻车。从民间厨神到大周长公主，苏长乐凭手艺逆天改命，在国宴上碾压西域第一厨，最终创办免费厨神学院，以一己之力改写命运与阶层。",
+    "jpTitle": "",
+    "seasonTitle": "公主驾到，天才厨子已超神！",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-17 23:00:00",
+      "pub_time_show": "08月17日23:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5472196,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 17,
+    "seasons": [
+      {
+        "id": 284272,
+        "title": "动画"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284278": {
+    "season_id": 284278,
+    "title": "地球热带岛屿之旅（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/d7eb5cb0d4786153a714a5a6a82b584ccc051366.png",
+    "evaluate": "三个标志性的岛屿——马达加斯加，婆罗洲，夏威夷，每一个都是封闭的生态系统，与大陆隔绝。这些岛屿拥有丰富的野生动物和人类文化，也是地球上最脆弱的地方之一。马达加斯加极端的地貌造就了岛上最大的独特动物群，包括著名的狐猴。婆罗洲生活着会游泳的猴子、会飞的蛇和巨大的食肉植物，只有最顽强的动物才能在热气腾腾的丛林和高山中生存下来。对夏威夷的野生动物来说，在组成夏威夷的孤立的小块陆地上开拓殖民地是最大的挑战。但对于那些成功的鲸鱼、信天翁和毛毛虫来说，这里是现实生活中的天堂。",
+    "jpTitle": "",
+    "seasonTitle": "地球热带岛屿之旅（中配版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-18 19:00:00",
+      "pub_time_show": "08月18日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5529159,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "马达加斯加",
+      "婆罗洲",
+      "夏威夷"
+    ],
+    "total": 3,
+    "seasons": [
+      {
+        "id": 39080,
+        "title": "英文原版"
+      },
+      {
+        "id": 284278,
+        "title": "中文配音版"
+      }
+    ],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284320": {
+    "season_id": 284320,
+    "title": "能有多大事",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a3daada8913ea4e2ce5bfa0d48e22387cd102166.png",
+    "evaluate": "五星大厨许多金辛苦大半辈子，退休时衣食无忧，准备告诉儿女们自己和黄昏恋女友马小芬的婚事，还打算完婚后周游世界，哪知他幸福的晚年生活却因为小儿子被骗巨款完全乱了套。尽管法律条文认定成年孩子的债务与他没有任何连带关系，但是，为了减轻小儿子的罪行，为了一份担当，许多金卖房打工，走上“子债父偿”的艰辛路。而被骗的小儿子许小成在寻找骗子的讨债路上同样艰辛，最终他协助警察破获大案，还自己清白。尽管许多金子债父偿让家人误解，窘迫生活把他逼入死角，但他依然保持乐观的态度和做人的良心，树立了自己是“打不死的老强”的顽强形象。许多金的担当、坚韧、自强得到所有人的理解，他也闯出新天地，办起了了托老所，赢得马小芬忠贞不渝的爱情。",
+    "jpTitle": "",
+    "seasonTitle": "能有多大事",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-14 23:30:00",
+      "pub_time_show": "08月14日23:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5460837,
+    "episodeCount": 30,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 30,
+    "seasons": [],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284397": {
+    "season_id": 284397,
+    "title": "你我在托斯卡纳",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3f3547f09e6b89bea8c41d98e940dd08297cdb22.png",
+    "evaluate": "故事放在阳光充沛的意大利托斯卡纳：葡萄园、石头小镇、晚风、晚餐、微醺和突如其来的心动。美国女子安娜（海莉·贝利 饰）只身闯入托斯卡纳乡间，擅自住进一栋看似废弃的古老庄园——却不知它的主人表亲迈克尔（雷吉-让·佩吉 饰）随时会回来。两个陌生人在葡萄藤与石板路间交锋、和解，卷入当地家族与小镇的温热日常，意外开启一段跨越文化与心防的浪漫奇遇。女主海莉·贝利拥有非常鲜明的银幕特质：年轻、灵动、自然，带着一种很容易让观众产生情感代入的真诚感。",
+    "jpTitle": "",
+    "seasonTitle": "你我在托斯卡纳",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-19 10:00:00",
+      "pub_time_show": "09月19日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5814418,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "checkedAt": "2026-10-07",
+    "richCheckedAt": "2026-10-07"
+  },
+  "284458": {
+    "season_id": 284458,
+    "title": "和平精英：地铁逃生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/0005aebab3ba8c13aa2dcf49b53a8c31b6f0862d.jpg",
+    "evaluate": "在苏尔南92号矿区大爆炸后，面对可怕的辐射与突变怪物，幸存者们在资源枯竭的土地上挣扎求生。“紫矿”是大爆炸后产生的一种珍贵而又危险的矿石，它引来了多方势力对这片土地的觊觎。一条关于“紫矿晶核”的天价悬赏令，在本就混乱的苏尔南再掀风浪……",
+    "jpTitle": "",
+    "seasonTitle": "和平精英：地铁逃生",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-26 12:00:00",
+      "pub_time_show": "08月26日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5670105,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "投石",
+      "问路",
+      "猎人"
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 284458,
+        "title": "第一季"
       }
     ],
     "checkedAt": "2026-10-07",
