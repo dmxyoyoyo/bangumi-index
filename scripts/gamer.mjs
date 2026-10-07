@@ -8,30 +8,61 @@ import {root,readJson,writeJson} from './shared.mjs';
 const source='https://api.gamer.com.tw/anime/v1/anime_list.php';
 const simplify=OpenCC.Converter({from:'tw',to:'cn'});
 const key=text=>simplify(String(text||'')).normalize('NFKC').toLowerCase().replace(/[\p{P}\p{S}\p{Z}\s]/gu,'');
-async function readPage(page){
- const response=await fetch(source+'?page='+page,{signal:AbortSignal.timeout(30000)});
+async function readPage(page,sort=1){
+ const response=await fetch(source+'?sort='+sort+'&page='+page,{signal:AbortSignal.timeout(30000)});
  if(!response.ok)throw new Error('动画疯目录 HTTP '+response.status+'，保留上次结果');
  const result=await response.json();
  if(result.error||!result.data)throw new Error('动画疯目录返回错误，保留上次结果');
  return result.data;
 }
-export async function collectGamer(pageReader=readPage){
- const first=await pageReader(1),pages=Number(first.totalPage);
+async function collectGamerOnce(pageReader,wait,sort){
+ const first=await pageReader(1,sort),pages=Number(first.totalPage);
  if(!Number.isSafeInteger(pages)||pages<1)throw new Error('动画疯分页信息无效');
  const pageSize=first.animeList?.length;
  if(!pageSize)throw new Error('动画疯首个分页为空');
- const seen=new Set(),items=[];
+ const items=new Map();let lastPageSize=pageSize;
  function append(data,page){
-  if(Number(data.totalPage)!==pages||!Array.isArray(data.animeList)||!data.animeList.length||(page<pages&&data.animeList.length!==pageSize)||data.animeList.length>pageSize)throw new Error('动画疯分页不完整或同步期间发生变化');
-  for(const item of data.animeList){const id=Number(item.animeSn);if(!Number.isSafeInteger(id)||id<=0||!String(item.title||'').trim()||seen.has(id))throw new Error('动画疯作品字段无效或分页重复');seen.add(id);items.push(item);}
-  if(page%10===0||page===pages)console.log(JSON.stringify({phase:'gamer-pages',page,pages,records:items.length}));
+  if(Number(data.totalPage)!==pages||!Array.isArray(data.animeList)||!data.animeList.length||(page<pages&&data.animeList.length!==pageSize)||data.animeList.length>pageSize)throw Object.assign(new Error('动画疯第 '+page+' 页不完整或同步期间发生变化'),{retryable:true});
+  const duplicates=[];
+  for(const item of data.animeList){
+   const id=Number(item.animeSn);
+   if(!Number.isSafeInteger(id)||id<=0||!String(item.title||'').trim())throw new Error('动画疯第 '+page+' 页作品字段无效，ID：'+item.animeSn);
+   if(items.has(id))duplicates.push(id);
+   items.set(id,item);
+  }
+  if(duplicates.length)console.warn(JSON.stringify({phase:'gamer-page-overlap',page,sort,ids:duplicates}));
+  if(page===pages)lastPageSize=data.animeList.length;
+  if(page%10===0||page===pages)console.log(JSON.stringify({phase:'gamer-pages',page,pages,records:items.size,sort}));
  }
  append(first,1);
- for(let page=2;page<=pages;page++){await delay(500);append(await pageReader(page),page);}
- const end=await pageReader(1);
- if(Number(end.totalPage)!==pages||JSON.stringify(end.animeList?.map(x=>x.animeSn))!==JSON.stringify(first.animeList.map(x=>x.animeSn)))throw new Error('动画疯目录在同步期间变化，请下次重试');
- return {meta:{source,officialDirectory:'https://ani.gamer.com.tw/animeList.php',pages,records:items.length,lastSuccessfulRefresh:new Date().toISOString()},items};
+ for(let page=2;page<=pages;page++){await wait(500);append(await pageReader(page,sort),page);}
+ const end=await pageReader(1,sort);
+ if(Number(end.totalPage)!==pages||JSON.stringify(end.animeList?.map(x=>x.animeSn))!==JSON.stringify(first.animeList.map(x=>x.animeSn)))throw Object.assign(new Error('动画疯目录在同步期间变化'),{retryable:true});
+ const records=(pages-1)*pageSize+lastPageSize;
+ return {meta:{source,officialDirectory:'https://ani.gamer.com.tw/animeList.php',pages,records,lastSuccessfulRefresh:new Date().toISOString()},items:[...items.values()],signature:[pages,pageSize,records].join('-')};
 }
+export async function collectGamer(pageReader=readPage,wait=delay){
+ let collected=new Map(),signature='';
+ for(let attempt=1;attempt<=3;attempt++){
+  let failure;
+  try{
+   const result=await collectGamerOnce(pageReader,wait,[1,2,1][attempt-1]);
+   if(result.items.length===result.meta.records)return {meta:result.meta,items:result.items};
+   if(signature!==result.signature){collected.clear();signature=result.signature;}
+   for(const item of result.items)collected.set(Number(item.animeSn),item);
+   if(collected.size===result.meta.records)return {meta:result.meta,items:[...collected.values()]};
+   if(collected.size>result.meta.records)collected=new Map(result.items.map(item=>[Number(item.animeSn),item]));
+   failure=new Error('动画疯目录尚未完整：唯一 ID '+collected.size+' / 应有 '+result.meta.records+'，保留上次结果');
+  }catch(error){
+   if(!error.retryable)throw error;
+   collected.clear();signature='';failure=error;
+  }
+  if(attempt===3)throw failure;
+  console.warn(JSON.stringify({phase:'gamer-pagination-retry',attempt,reason:failure.message,nextAttempt:attempt+1}));
+  await wait(10000);
+ }
+}
+
 async function build(raw){
  const originals=await enrichGamerOriginals(raw,{offline:process.argv.includes('--offline')});
  const subjects=Object.values(await readJson('data/bangumi-subjects.json',{})),names=new Map();
