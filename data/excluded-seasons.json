@@ -1,0 +1,2879 @@
+{
+  "reviewedAt": "2026-10-06",
+  "reason": "按用户要求排除的短剧及接口未返回历史记录",
+  "userSamples": [
+    2338837,
+    2338954,
+    2339050,
+    2339206,
+    2339407
+  ],
+  "basis": "以用户确认的五部 AI 短剧为样例，核对官方地区、国创类型、无风格标签、批次日期、集数与剧情简介；同类短剧按审查名单筛除，不把缺少中国版 ID 或 Bangumi 条目本身作为删除依据。官方未逐条提供 AI 生成标记，同批归类属于内容审查判断。 另按用户要求排除未核查且接口未返回的历史记录，不将其标为官方确认下架。",
+  "items": [
+    {
+      "intlId": 2336732,
+      "title": "病娇反派",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336732&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2331675,
+      "title": "圣剑契约",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331675&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2335800,
+      "title": "重生之我在蛇界当女王",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335800&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2336482,
+      "title": "摆烂修仙",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336482&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2410454,
+      "title": "末日求生：开局一辆斯太尔重卡",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2410454&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2331436,
+      "title": "神启之力",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331436&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2410325,
+      "title": "末日狂想：恋爱系统带我躺赢",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2410325&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 13 Episodes"
+    },
+    {
+      "intlId": 2328729,
+      "title": "末世地堡求生记",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328729&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2408951,
+      "title": "我靠御兽成团宠",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408951&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 14 Episodes"
+    },
+    {
+      "intlId": 2336997,
+      "title": "尘湮旧梦",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336997&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2327969,
+      "title": "冷香暖玉",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2327969&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2330557,
+      "title": "三岁识文",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330557&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2408552,
+      "title": "盛宠之下，妃谋暗藏",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408552&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2337538,
+      "title": "穿越救世",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337538&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2408332,
+      "title": "娘娘，陛下又带着球跑了",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408332&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2410567,
+      "title": "末世重生 蜡笔显灵",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2410567&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 14 Episodes"
+    },
+    {
+      "intlId": 2329663,
+      "title": "漂亮债主",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329663&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2409296,
+      "title": "星城屠兽行",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409296&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 13 Episodes"
+    },
+    {
+      "intlId": 2409508,
+      "title": "重生长公主：朕的崽崽不好惹",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409508&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2339556,
+      "title": "高温末日",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339556&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 2 Episodes"
+    },
+    {
+      "intlId": 2408752,
+      "title": "甜心蛋主",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408752&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2329052,
+      "title": "漠北雁归",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329052&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2408484,
+      "title": "卿是朝朝",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408484&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2408393,
+      "title": "破局王妃",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408393&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2332342,
+      "title": "碎东宫",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332342&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2338146,
+      "title": "嫡谋双姝-重生后我选了冷面主母",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338146&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2330432,
+      "title": "全球灾变：我能无限升级安全屋",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330432&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 2 Episodes"
+    },
+    {
+      "intlId": 2410257,
+      "title": "迷雾都市",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2410257&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 16 Episodes"
+    },
+    {
+      "intlId": 2409395,
+      "title": "终焉救赎",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409395&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2339662,
+      "title": "高中往事",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339662&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2410033,
+      "title": "皇后只想种地养鸡",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2410033&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2330695,
+      "title": "丧尸之门",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330695&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2408674,
+      "title": "踏遍三界寻吾母",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408674&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2335323,
+      "title": "重生归来：不做婆家垫脚石",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335323&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2409860,
+      "title": "凤临金殿",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409860&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 15 Episodes"
+    },
+    {
+      "intlId": 2328950,
+      "title": "末世重生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328950&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 23 Episodes"
+    },
+    {
+      "intlId": 2332652,
+      "title": "躺着超神",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332652&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2340253,
+      "title": "华岁锦章",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340253&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 14 Episodes"
+    },
+    {
+      "intlId": 2340000,
+      "title": "黑心闺蜜",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340000&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2339793,
+      "title": "宫道寒灯",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339793&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2409206,
+      "title": "信标",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409206&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2409092,
+      "title": "系统攻略",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409092&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2330897,
+      "title": "谁懂啊！我等丧尸，却成了唯一预言家",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330897&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2334395,
+      "title": "玉佩情缘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334395&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 3 Episodes"
+    },
+    {
+      "intlId": 2334137,
+      "title": "一针入魂，高武封神",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334137&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2333538,
+      "title": "心动信号",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333538&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2409626,
+      "title": "重生之路，互换荣华",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409626&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2332936,
+      "title": "天命兽侣",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332936&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2337453,
+      "title": "穿进恐怖游戏：全凭沙雕系统苟命",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337453&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2331045,
+      "title": "深宫沉壁",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331045&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2338461,
+      "title": "断亲扶己",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338461&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2409722,
+      "title": "错嫁牌位后，我被上神宠疯了",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409722&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2408816,
+      "title": "晚星与渊",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2408816&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2332551,
+      "title": "胎穿深宫：贵妃娘不好惹",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332551&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2409932,
+      "title": "合租续章",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409932&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2328400,
+      "title": "梦回情深",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328400&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 15 Episodes"
+    },
+    {
+      "intlId": 2334837,
+      "title": "月落旧梦",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334837&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2336587,
+      "title": "别长安",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336587&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2409788,
+      "title": "绯色迷案",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2409788&s_locale=en_US",
+      "officialStart": "Jun 25, 2026",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2328297,
+      "title": "洛水泱泱",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328297&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2340395,
+      "title": "加点成神",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340395&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2333402,
+      "title": "小乞丐的摸鱼修仙路",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333402&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2338060,
+      "title": "嫡后重生录",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338060&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2331864,
+      "title": "双夫临门",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331864&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2332192,
+      "title": "泗水良缘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332192&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2331993,
+      "title": "双生劫：影护君归",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331993&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2335404,
+      "title": "重生后，我撕碎了全家剧本",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335404&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2337118,
+      "title": "赤焰新生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337118&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2331575,
+      "title": "生存之战",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331575&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2336637,
+      "title": "冰封堡垒",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336637&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2335083,
+      "title": "芷兰辞",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335083&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 12 Episodes"
+    },
+    {
+      "intlId": 2333222,
+      "title": "西棠逐风",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333222&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2333336,
+      "title": "仙尊当诛",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333336&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2330039,
+      "title": "倾城娇主",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330039&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2339936,
+      "title": "黑莲花她步步为营",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339936&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2338366,
+      "title": "豆腐西施",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338366&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2328651,
+      "title": "末日寻光",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328651&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2341010,
+      "title": "金凤归来",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341010&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 3 Episodes"
+    },
+    {
+      "intlId": 2328844,
+      "title": "末世鲤鱼",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328844&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2333604,
+      "title": "心盟记",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333604&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2338211,
+      "title": "嫡女休夫",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338211&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2333473,
+      "title": "小四逆袭",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333473&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2328532,
+      "title": "末日启明",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328532&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2341261,
+      "title": "锦锁尘情",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341261&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2332779,
+      "title": "桃花落处是重逢",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332779&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2335027,
+      "title": "真龙觉醒",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335027&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2332288,
+      "title": "岁岁无宁",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332288&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 17 Episodes"
+    },
+    {
+      "intlId": 2340147,
+      "title": "花烬重生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340147&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2329964,
+      "title": "青云如故",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329964&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2336380,
+      "title": "转身之后，我成了业内女王",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336380&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2338694,
+      "title": "废土家园",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338694&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2333001,
+      "title": "退婚渣竹马，我嫁他上司了",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333001&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2335488,
+      "title": "重生锦途",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335488&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2339132,
+      "title": "凤逆仙途",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339132&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2340553,
+      "title": "嘉愿成双",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340553&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2336028,
+      "title": "朱扉掩意",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336028&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 16 Episodes"
+    },
+    {
+      "intlId": 2334000,
+      "title": "夜奔",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334000&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2334923,
+      "title": "折雪以此生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334923&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2339407,
+      "title": "夫君修仙要杀我正道",
+      "decision": "user-confirmed-ai-short",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339407&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2334263,
+      "title": "玉满暮雨",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334263&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 18 Episodes"
+    },
+    {
+      "intlId": 2331294,
+      "title": "深宫烛泪",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331294&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2329219,
+      "title": "墨上孤寒",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329219&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2328482,
+      "title": "末日黎明",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328482&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2337709,
+      "title": "蛋仔娘娘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337709&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2333829,
+      "title": "玄狐逆袭",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333829&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 3 Episodes"
+    },
+    {
+      "intlId": 2337844,
+      "title": "得知我要招赘后，状元郎他不装了",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337844&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2336172,
+      "title": "朱墙恨晚",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336172&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2333108,
+      "title": "我的系统有点癫",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333108&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2327747,
+      "title": "老公让实习生带美甲做手术",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2327747&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 18 Episodes"
+    },
+    {
+      "intlId": 2334065,
+      "title": "一两烟火",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334065&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2338569,
+      "title": "房车：末日庇护所",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338569&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2340675,
+      "title": "江山如卿",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340675&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2340822,
+      "title": "将军骨",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340822&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2333940,
+      "title": "妖丹奇缘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333940&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2341505,
+      "title": "绝地逃亡",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341505&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2337253,
+      "title": "宠夫成瘾",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337253&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2330321,
+      "title": "囚鸢",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330321&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2338837,
+      "title": "焚心：六年通房，烈火重生",
+      "decision": "user-confirmed-ai-short",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338837&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2339853,
+      "title": "故人心未死",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339853&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2334586,
+      "title": "院墙之内：我们的末日桃花源",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334586&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2341450,
+      "title": "锦帐春深",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341450&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2339050,
+      "title": "风云长安",
+      "decision": "user-confirmed-ai-short",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339050&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2329474,
+      "title": "南唐旧事",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329474&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2332457,
+      "title": "碎玉成鉴",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332457&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2329128,
+      "title": "墨染素心",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329128&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2335621,
+      "title": "重生之公主复仇",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335621&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2332064,
+      "title": "四时皆如愿",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332064&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2330182,
+      "title": "囚凰诛上卿",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330182&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2332845,
+      "title": "桃花落尽见清欢",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2332845&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2331777,
+      "title": "盛世昭月",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331777&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2337359,
+      "title": "穿成炮灰大师兄的第三年",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337359&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2341112,
+      "title": "锦瑟华年",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341112&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2336892,
+      "title": "钗续前缘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336892&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2330371,
+      "title": "权臣宠妃",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330371&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2339308,
+      "title": "凤女踏雪",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339308&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2334479,
+      "title": "玉簪烬",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334479&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 16 Episodes"
+    },
+    {
+      "intlId": 2329876,
+      "title": "亲情人生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329876&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2340088,
+      "title": "侯府嫡女",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340088&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2335893,
+      "title": "周氏三女",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335893&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2330822,
+      "title": "上元记",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2330822&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2329794,
+      "title": "弃凤求凰",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329794&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2328160,
+      "title": "梨花落尽",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328160&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2338267,
+      "title": "东宫雪落",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338267&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 31 Episodes"
+    },
+    {
+      "intlId": 2336269,
+      "title": "珠隐龙章",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336269&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2341651,
+      "title": "绝境囤生机",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341651&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2340491,
+      "title": "家的救赎序章",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340491&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2327822,
+      "title": "冷宫奇遇",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2327822&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2337628,
+      "title": "错意人生",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337628&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2335571,
+      "title": "重生姨娘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335571&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2341351,
+      "title": "锦绣未央",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2341351&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 4 Episodes"
+    },
+    {
+      "intlId": 2327650,
+      "title": "绝世暴雨",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2327650&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2335191,
+      "title": "重生不做侯府垫脚石",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335191&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 11 Episodes"
+    },
+    {
+      "intlId": 2329551,
+      "title": "宁为婢，不为妾",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329551&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 13 Episodes"
+    },
+    {
+      "intlId": 2337930,
+      "title": "灯影移盘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2337930&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2335744,
+      "title": "重生之悔",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2335744&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2338954,
+      "title": "风月残",
+      "decision": "user-confirmed-ai-short",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338954&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2339206,
+      "title": "凤逆玄雀",
+      "decision": "user-confirmed-ai-short",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2339206&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2333683,
+      "title": "续命姻缘",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333683&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 9 Episodes"
+    },
+    {
+      "intlId": 2340897,
+      "title": "姐姐去世后，由我来给上大学的外甥女发生活费（亲恩两断）",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2340897&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 7 Episodes"
+    },
+    {
+      "intlId": 2334726,
+      "title": "院有清欢",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2334726&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2329352,
+      "title": "谋权千金",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2329352&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 10 Episodes"
+    },
+    {
+      "intlId": 2336827,
+      "title": "不弃如禾",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2336827&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2328086,
+      "title": "离谱王朝",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2328086&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 6 Episodes"
+    },
+    {
+      "intlId": 2338518,
+      "title": "恶吟反噬",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2338518&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2333171,
+      "title": "舞女逆袭",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333171&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 14 Episodes"
+    },
+    {
+      "intlId": 2331176,
+      "title": "深宫咸鱼会算卦",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331176&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 2331344,
+      "title": "深苑沉梦",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2331344&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 8 Episodes"
+    },
+    {
+      "intlId": 2333880,
+      "title": "丫鬟逆袭",
+      "decision": "same-format-short-drama",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2333880&s_locale=en_US",
+      "officialStart": "Jan 1, 2019",
+      "episodeCount": "Total 5 Episodes"
+    },
+    {
+      "intlId": 34486,
+      "title": "在地下城寻求邂逅是否搞错了什幺 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34486",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34648,
+      "title": "半妖的夜叉姬",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34648",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34651,
+      "title": "成神之日",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34651",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34675,
+      "title": "钢之炼金术师 FULLMETAL ALCHEMIST",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34675",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34829,
+      "title": "彗星路西法",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34829",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34838,
+      "title": "夏目友人帐",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34838",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34839,
+      "title": "黑子的篮球 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34839",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 34981,
+      "title": "黑子的篮球 第三季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34981",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35041,
+      "title": "初恋怪兽",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35041",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35084,
+      "title": "厨病激发BOY",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35084",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35141,
+      "title": "碧奇魂",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35141",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35149,
+      "title": "如果她的旗帜被折断了",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35149",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35192,
+      "title": "续 夏目友人帐",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35192",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35193,
+      "title": "夏目友人帐 叁",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35193",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35230,
+      "title": "夏目友人帐 肆",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35230",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35232,
+      "title": "夏目友人帐 伍",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35232",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35233,
+      "title": "夏目友人帐 陆",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35233",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35236,
+      "title": "夏目友人帐 伍 特别篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35236",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35237,
+      "title": "夏目友人帐 陆 特别篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35237",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35240,
+      "title": "剧场版 夏目友人帐 ～缘结空蝉～",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35240",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35261,
+      "title": "黑子的篮球",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35261",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35437,
+      "title": "皿三昧",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35437",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35564,
+      "title": "犬勇者物语",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35564",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35565,
+      "title": "DOG DAYS 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35565",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35566,
+      "title": "迷糊餐厅 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35566",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35569,
+      "title": "DARKER THAN BLACK -流星的双子-",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35569",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35624,
+      "title": "失忆煽动WIXOSS",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35624",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 35802,
+      "title": "宣告黎明的露之歌",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35802",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36127,
+      "title": "剧场版 黑子的篮球 终极一战",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36127",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36247,
+      "title": "迷糊餐厅 第三季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36247",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36313,
+      "title": "名侦探柯南 绀青之拳",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36313",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36316,
+      "title": "名侦探柯南 纯黑的恶梦",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36316",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36319,
+      "title": "名侦探柯南 绝海的侦探",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36319",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36321,
+      "title": "名侦探柯南 沉默的15分钟",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36321",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36322,
+      "title": "名侦探柯南 第11位前锋",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36322",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36323,
+      "title": "钢之炼金术师 叹息之丘的圣星",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36323",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36325,
+      "title": "钢之炼金术师 香巴拉的征服者",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36325",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36326,
+      "title": "名侦探柯南 零的执行人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36326",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36328,
+      "title": "名侦探柯南 殷红的恋歌",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36328",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36329,
+      "title": "名侦探柯南 业火的向日葵",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36329",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36331,
+      "title": "名侦探柯南 异次元的狙击手",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36331",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36357,
+      "title": "名侦探柯南 贝克街的亡灵",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36357",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36372,
+      "title": "目隐都市的演绎者",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36372",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36415,
+      "title": "没落要塞",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36415",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36444,
+      "title": "钢之炼金术师",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36444",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36499,
+      "title": "黑子的篮球 第二季 OVA",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36499",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36500,
+      "title": "黑子的篮球 第三季 OVA",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36500",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36539,
+      "title": "名侦探柯南 第14号目标",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36539",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36540,
+      "title": "名侦探柯南 绀碧之棺",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36540",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36542,
+      "title": "名侦探柯南 计时引爆摩天楼",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36542",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36545,
+      "title": "名侦探柯南 迷宫的十字路口",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36545",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36547,
+      "title": "名侦探柯南 漆黑的追迹者",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36547",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36549,
+      "title": "名侦探柯南 世纪末的魔术师",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36549",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36550,
+      "title": "名侦探柯南 水平线上的阴谋",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36550",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36553,
+      "title": "名侦探柯南 天空的遇难船",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36553",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36555,
+      "title": "名侦探柯南 通往天国的倒数计时",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36555",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36556,
+      "title": "名侦探柯南 瞳孔中的暗杀者",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36556",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36558,
+      "title": "名侦探柯南 银翼的魔术师",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36558",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36559,
+      "title": "名侦探柯南 战栗的乐谱",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36559",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36560,
+      "title": "名侦探柯南 侦探们的镇魂歌",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36560",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36706,
+      "title": "黑子的篮球 Winter Cup总集篇 ～影与光～",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36706",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36707,
+      "title": "黑子的篮球 Winter Cup总集篇 ～大门的另一边～",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36707",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36801,
+      "title": "闪电十一人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36801",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36923,
+      "title": "浪客剑心 维新志士的镇魂歌",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36923",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36924,
+      "title": "浪客剑心 新京都篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36924",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 36940,
+      "title": "里世界郊游",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36940",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37008,
+      "title": "永生之酒",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37008",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37060,
+      "title": "出包王女Darkness",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37060",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37159,
+      "title": "江户川柯南失踪事件～史上最糟糕的两天～",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37159",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37197,
+      "title": "鲁邦三世VS名侦探柯南",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37197",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37203,
+      "title": "名侦探柯南 Episode“ONE” 变小的名侦探",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37203",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37220,
+      "title": "圣斗士星矢 冥王十二宫编",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37220",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37438,
+      "title": "我，要成为双马尾",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37438",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37489,
+      "title": "摇曳露营△ 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37489",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37494,
+      "title": "魔术士奥芬的无赖之旅 基姆拉克篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37494",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37495,
+      "title": "摇滚少女!! 全明星!!",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37495",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37546,
+      "title": "小小雪精灵 夏季特别篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37546",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37817,
+      "title": "剧场版 鬼灭之刃 无限列车篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37817",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37934,
+      "title": "灌篮高手",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37934",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37944,
+      "title": "壳中少女 压缩",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37944",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 37945,
+      "title": "壳中少女 燃烧",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37945",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 38106,
+      "title": "龙珠Z",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=38106",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1002837,
+      "title": "如果烧陶的话也做个马克杯吧",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1002837",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1003433,
+      "title": "美妙世界",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1003433",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1003789,
+      "title": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1003789",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1007441,
+      "title": "剧场版 鬼灭之刃 无限列车篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1007441",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1010228,
+      "title": "现实主义勇者的王国再建记",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1010228",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1010705,
+      "title": "漂流少年",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1010705",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1011348,
+      "title": "见面之后5秒开始战斗",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1011348",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1011550,
+      "title": "绯红结系",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1011550",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1011746,
+      "title": "寒蝉鸣泣之时 卒",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1011746",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1011828,
+      "title": "RE-MAIN：少年与水球",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1011828",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1012009,
+      "title": "平稳世代的韦驮天们",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1012009",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1012866,
+      "title": "盖塔机器人ARC",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1012866",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1016640,
+      "title": "灌篮高手 剧场版",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1016640",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1016771,
+      "title": "灌篮高手 全国制霸吧！樱木花道",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1016771",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1016907,
+      "title": "灌篮高手 湘北最大的危机！燃烧吧樱木花道",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1016907",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1016985,
+      "title": "灌篮高手 咆哮吧篮球员的灵魂！！花道和流川的灼热夏季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1016985",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1021101,
+      "title": "物怪",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1021101",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1021383,
+      "title": "全部成为F THE PERFECT INSIDER",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1021383",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1021443,
+      "title": "坂道上的阿波罗",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1021443",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1022690,
+      "title": "名侦探柯南",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1022690",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1024123,
+      "title": "机器人笔记",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1024123",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1024200,
+      "title": "龙珠",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1024200",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1024774,
+      "title": "龙珠 神龙传说",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1024774",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1024874,
+      "title": "龙珠 魔神城里的睡美人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1024874",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1024939,
+      "title": "龙珠 摩诃不可思议的冒险",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1024939",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025032,
+      "title": "龙珠 最强之道",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025032",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025106,
+      "title": "龙珠超",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025106",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025218,
+      "title": "龙珠：超级赛亚人灭绝计划",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025218",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025342,
+      "title": "龙珠 巴达克之章",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025342",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025552,
+      "title": "龙珠Z 世上最强之人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025552",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1025980,
+      "title": "龙珠Z 地球争霸战",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1025980",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1026453,
+      "title": "龙珠Z 超级赛亚人孙悟空",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1026453",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027032,
+      "title": "龙珠Z 最强对最强",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027032",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027151,
+      "title": "龙珠Z 一百亿能量战士们",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027151",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027212,
+      "title": "龙珠Z 极限之战！！三大超级赛亚人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027212",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027347,
+      "title": "龙珠Z 燃烧吧！热战、烈战、超激战",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027347",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027637,
+      "title": "龙珠Z 银河最强战士",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027637",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027695,
+      "title": "龙珠Z 两人的危机",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027695",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1027823,
+      "title": "龙珠Z 击败超战士",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1027823",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1028116,
+      "title": "龙珠Z 复活的融合！悟空与贝吉塔",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1028116",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1028239,
+      "title": "龙珠Z 龙拳爆发",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1028239",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1028642,
+      "title": "橘色荣耀",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1028642",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1032716,
+      "title": "圣斗士星矢 极乐净土篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1032716",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1032858,
+      "title": "圣斗士星矢 冥界篇",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1032858",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1049771,
+      "title": "Love Live！虹咲学园学园偶像同好会 第二季",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1049771",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052474,
+      "title": "数码宝贝大冒险",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052474",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052552,
+      "title": "数码宝贝大冒险02",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052552",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052755,
+      "title": "数码宝贝驯兽师之王",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052755",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052825,
+      "title": "数码宝贝无限地带",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052825",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052880,
+      "title": "数码宝贝拯救者",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052880",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1052936,
+      "title": "数码宝贝合体战争",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1052936",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1053059,
+      "title": "数码宝贝宇宙 应用怪兽",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1053059",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1053205,
+      "title": "美少女战士Crystal",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1053205",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1053811,
+      "title": "数码宝贝大冒险 滚球兽的诞生",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1053811",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054037,
+      "title": "数码宝贝大冒险02 前篇 数码宝贝飓风登陆!!／后篇 超绝进化!!黄金的数码装甲",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054037",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054096,
+      "title": "数码宝贝大冒险02 超恶魔兽的逆袭",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054096",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054216,
+      "title": "数码宝贝驯兽师之王 冒险者的战斗",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054216",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054358,
+      "title": "数码宝贝驯兽师之王 暴走数码宝贝特急",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054358",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054499,
+      "title": "数码宝贝无限地带 古代数码宝贝复活",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054499",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054679,
+      "title": "数码宝贝拯救队 究极力量!爆裂形态发动!!",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054679",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054819,
+      "title": "数码宝贝大冒险 tri. 第一章「再会」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054819",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1054946,
+      "title": "数码宝贝大冒险 tri. 第二章「决意」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1054946",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055084,
+      "title": "数码宝贝大冒险 tri. 第三章「告白」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055084",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055189,
+      "title": "数码宝贝大冒险 tri. 第四章「丧失」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055189",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055282,
+      "title": "数码宝贝大冒险 tri. 第五章「共生」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055282",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055418,
+      "title": "数码宝贝大冒险 tri. 第六章「我们的未来」",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055418",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055484,
+      "title": "数码宝贝大冒险：最后的进化·羁绊",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055484",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055600,
+      "title": "美少女战士",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055600",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055805,
+      "title": "美少女战士R剧场版 花朵的约定",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055805",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055874,
+      "title": "美少女战士S剧场版 竹取公主的恋人",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055874",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1055948,
+      "title": "美少女战士SuperS剧场版 梦想黑洞的奇迹",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1055948",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1056067,
+      "title": "美少女战士SuperS外传 亚美的初恋",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1056067",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1056209,
+      "title": "美少女战士R",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1056209",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1056272,
+      "title": "美少女战士S",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1056272",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1056420,
+      "title": "美少女战士SuperS",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1056420",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1056515,
+      "title": "美少女战士Sailor Stars",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1056515",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1058569,
+      "title": "名侦探柯南 万圣节的新娘",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1058569",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1058690,
+      "title": "名侦探柯南 本厅的刑警恋爱故事～结婚前夜～",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1058690",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 1065327,
+      "title": "我的英雄学院 像在地狱一样笑吧！",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1065327",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2081692,
+      "title": "逃走中 终极任务",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2081692",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2088612,
+      "title": "龙珠GT",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2088612",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2088669,
+      "title": "圣斗士星矢",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2088669",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2088740,
+      "title": "美食的俘虏",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2088740",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2088822,
+      "title": "不可思议的粗点心店钱天堂",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2088822",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2088957,
+      "title": "金田一少年事件簿R",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2088957",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2100390,
+      "title": "燃夏",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2100390",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    },
+    {
+      "intlId": 2106584,
+      "title": "虚无边境",
+      "decision": "user-requested-source-unavailable",
+      "reason": "用户要求从网站移除未核查且接口未返回的记录；不代表官方确认下架。",
+      "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2106584",
+      "checkedAt": "2026-10-06",
+      "excludedAt": "2026-10-06"
+    }
+  ]
+}

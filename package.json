@@ -1,0 +1,1 @@
+{"name":"sea-bangumi-index","private":true,"scripts":{"update":"node scripts/refresh.mjs","check":"node scripts/check.mjs","serve":"node scripts/serve.mjs"},"dependencies":{"opencc-js":"1.3.1"}}

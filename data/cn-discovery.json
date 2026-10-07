@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-06",
+  "range": [
+    292518,
+    293018
+  ],
+  "backfillRange": [
+    283000,
+    283500
+  ],
+  "backfillNext": 283501,
+  "validCandidates": 2464,
+  "added": 20,
+  "missing": 990
+}
