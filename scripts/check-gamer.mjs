@@ -26,12 +26,46 @@ vm.runInNewContext(await read('dist/home-data.js'),context);assert.equal(context
 const home=await read('dist/index.html');for(const path of ['sea.html','gamer.html','home-data.js','home.js']){assert(home.includes('./'+path));await read('dist/'+path);}
 const gamerHtml=await read('dist/gamer.html');for(const path of ['gamer-data.js','gamer.js','style.css']){assert(gamerHtml.includes('./'+path));await read('dist/'+path);}assert(!gamerHtml.includes('中国版 ss'));
 const fixture=(id,title='动画')=>({animeSn:id,title});
-const pages=[{totalPage:2,animeList:[fixture(1),fixture(2)]},{totalPage:2,animeList:[fixture(3)]}];
-assert.equal((await collectGamer(async page=>pages[page-1])).items.length,3);
-await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:2,animeList:[]}));
-await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:2,animeList:[fixture(1)]}));
-await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:3,animeList:[fixture(3)]}));
-await assert.rejects(collectGamer(async page=>({totalPage:3,animeList:page===1?[fixture(1),fixture(2)]:[fixture(3)]})));
-let calls=0;await assert.rejects(collectGamer(async page=>++calls===3?{...pages[0],animeList:[fixture(4),fixture(5)]}:pages[page-1]));
+const pages=[{totalPage:2,animeList:[fixture(1),fixture(2)]},{totalPage:2,animeList:[fixture(3)]}],wait=async()=>{};
+assert.equal((await collectGamer(async page=>pages[page-1],wait)).items.length,3);
+await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:2,animeList:[]},wait));
+await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:2,animeList:[fixture(1)]},wait),/尚未完整/);
+await assert.rejects(collectGamer(async page=>page===1?pages[0]:{totalPage:3,animeList:[fixture(3)]},wait));
+await assert.rejects(collectGamer(async page=>({totalPage:3,animeList:page===1?[fixture(1),fixture(2)]:[fixture(3)]}),wait));
+let calls=0;
+assert.equal((await collectGamer(async page=>++calls===3?{...pages[0],animeList:[fixture(4),fixture(5)]}:pages[page-1],wait)).items.length,3);
+assert.equal(calls,6);
+const requested=[];
+const recovered=await collectGamer(async(page,sort)=>{
+ requested.push([page,sort]);
+ return sort===1?(page===1?pages[0]:{totalPage:2,animeList:[fixture(2)]}):(page===1?{totalPage:2,animeList:[fixture(4),fixture(5)]}:{totalPage:2,animeList:[fixture(6)]});
+},wait);
+assert.deepEqual(recovered.items.map(x=>x.animeSn),[4,5,6]);
+assert.deepEqual(requested,[[1,1],[2,1],[1,1],[1,2],[2,2],[1,2]]);
+const complemented=await collectGamer(async(page,sort)=>page===1?pages[0]:{totalPage:2,animeList:[fixture(2),fixture(sort===1?3:4)]},wait);
+assert.deepEqual(complemented.items.map(x=>x.animeSn),[1,2,3,4]);assert.equal(complemented.meta.records,4);
+calls=0;
+await assert.rejects(collectGamer(async page=>{calls++;return page===1?pages[0]:{totalPage:2,animeList:[fixture(1)]};},wait),/尚未完整/);
+assert.equal(calls,9);
+calls=0;
+await assert.rejects(collectGamer(async page=>{
+ const round=Math.floor(calls++/3);
+ return page===1?pages[0]:{totalPage:2,animeList:round===0?[fixture(2),fixture(3)]:[fixture(2)]};
+},wait),/尚未完整/);
+assert.equal(calls,9);
+calls=0;
+const replaced=await collectGamer(async page=>{
+ const round=Math.floor(calls++/3);
+ const first=round===0?[fixture(1),fixture(2)]:[fixture(4),fixture(5)];
+ const last=round===0?[fixture(2),fixture(3)]:round===1?[fixture(5),fixture(6)]:[fixture(4),fixture(7)];
+ return {totalPage:2,animeList:page===1?first:last};
+},wait);
+assert.deepEqual(replaced.items.map(x=>x.animeSn),[4,5,6,7]);
+calls=0;
+await assert.rejects(collectGamer(async()=>{calls++;return {totalPage:1,animeList:[fixture(1,'')]};},wait),/作品字段无效/);
+assert.equal(calls,1);
+calls=0;
+await assert.rejects(collectGamer(async()=>{calls++;throw new Error('动画疯目录 HTTP 429');},wait),/HTTP 429/);
+assert.equal(calls,1);
 assert.equal(await read('data/gamer-list.json'),JSON.stringify(raw,null,2)+'\n');
-console.log(JSON.stringify({gamerChecks:'passed',records:catalog.items.length,pages:raw.meta.pages,checks:['unique official IDs and independent links','complete payload and homepage counts','empty/repeated/truncated/changed pagination rejected','failed collection does not replace stored snapshot']}));
+console.log(JSON.stringify({gamerChecks:'passed',records:catalog.items.length,pages:raw.meta.pages,checks:['unique official IDs and independent links','complete payload and homepage counts','empty/truncated/changed pagination rejected; overlaps accepted only after exact unique-count validation','failed collection does not replace stored snapshot']}));
