@@ -46,11 +46,9 @@ function setup(){
  for(const [code,label] of Object.entries(Catalog.origins)){const button=action(label,()=>update({origin:code}),'origin-button');button.dataset.origin=code;$('origins').append(button);}
  $('total-count').textContent=catalog.items.length.toLocaleString('zh-CN');
  $('mapped-count').textContent=catalog.items.filter(Catalog.chineseLink).length.toLocaleString('zh-CN');
- $('data-date').textContent='历史底库：'+catalog.meta.archiveDate+' · 本次整理：'+catalog.meta.updatedAt;
- $('title-note').textContent=catalog.meta.titleNote;
- $('update-note').textContent='每日更新计划：北京时间 07:00 检查官方新增番剧、名称和对应 ID；数据源异常时保留上次结果。'+(catalog.meta.lastSuccessfulRefresh?' 上次完整更新：'+new Date(catalog.meta.lastSuccessfulRefresh).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'}):' 本次名称和 ID 整理已完成，完整刷新仍待数据源恢复。');
+ $('update-note').textContent=catalog.meta.lastSuccessfulRefresh?'上次完整更新：'+new Date(catalog.meta.lastSuccessfulRefresh).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'}):'完整刷新仍待数据源恢复。';
  $('status').addEventListener('change',event=>update({status:event.target.value}));
- $('mapping-note').textContent=catalog.meta.mappingNote;
+ $('mapping-note').textContent=catalog.meta.mappingNote.replace(/^中国版 ID 通过官方标题与完整简介匹配，候选共 \d+ 条。\s*/,'');
  $('live-note').textContent=catalog.meta.liveNote;
  $('search').addEventListener('input',event=>update({query:event.target.value}));
  $('sort').addEventListener('change',event=>update({sort:event.target.value}));
