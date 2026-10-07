@@ -59,8 +59,40 @@ jobs:
         run: npx --yes edgeone@1.6.41 makers deploy ./dist -n bangumi-index -t "$EDGEONE_API_TOKEN" -e production
 
       - name: 核对自定义域名上的目录数据
+        timeout-minutes: 15
         run: |
-          for file in catalog.json data.js gamer-catalog.json gamer-data.js; do
-            curl --fail --retry 5 --retry-delay 10 --max-time 30 --silent --show-error "https://www.qianmoqingyu.dpdns.org/$file?updated=${{ github.run_id }}" -o "$RUNNER_TEMP/live-$file"
-            cmp "dist/$file" "$RUNNER_TEMP/live-$file"
-          done
+          node --input-type=module <<'NODE'
+          import { readFile } from 'node:fs/promises';
+          import { setTimeout as delay } from 'node:timers/promises';
+          const files = ['catalog.json', 'data.js', 'gamer-catalog.json', 'gamer-data.js'];
+          const expected = await Promise.all(files.map(file => readFile('dist/' + file)));
+          for (let attempt = 1; attempt <= 30; attempt++) {
+            let synced = true;
+            for (let index = 0; index < files.length; index++) {
+              const file = files[index];
+              const query = [process.env.GITHUB_RUN_ID, process.env.GITHUB_RUN_ATTEMPT, attempt].join('-');
+              try {
+                const response = await fetch('https://www.qianmoqingyu.dpdns.org/' + file + '?updated=' + query, {
+                  headers: { 'Cache-Control': 'no-cache' },
+                  signal: AbortSignal.timeout(30000)
+                });
+                if (!response.ok || !Buffer.from(await response.arrayBuffer()).equals(expected[index])) {
+                  synced = false;
+                  console.log('第 ' + attempt + ' 次核对：' + file + ' 尚未同步，稍后重试。');
+                  break;
+                }
+              } catch (error) {
+                synced = false;
+                console.log('第 ' + attempt + ' 次核对：' + file + ' 请求失败：' + error.message);
+                break;
+              }
+            }
+            if (synced) {
+              console.log('四个目录文件已与本次发布一致。');
+              process.exit(0);
+            }
+            if (attempt < 30) await delay(20000);
+          }
+          console.error('::error::域名目录未在等待时间内与本次发布一致，请检查 EdgeOne 部署和缓存。');
+          process.exit(1);
+          NODE
