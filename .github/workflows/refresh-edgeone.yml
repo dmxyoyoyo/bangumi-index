@@ -1,0 +1,66 @@
+name: 每日两次更新番剧目录
+
+on:
+  schedule:
+    - cron: '0 7,19 * * *'
+      timezone: Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bangumi-index-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: 获取网站源码
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 检查部署凭证是否已配置
+        env:
+          EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
+        run: |
+          if [ -z "$EDGEONE_API_TOKEN" ]; then
+            echo "请先在仓库 Actions Secrets 中配置 EDGEONE_API_TOKEN。"
+            exit 1
+          fi
+
+      - name: 安装更新脚本的依赖
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - name: 更新两个平台并完成数据检查
+        run: npm run update
+
+      - name: 保存完整更新后的缓存与目录
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data dist/catalog.json dist/data.js dist/gamer-catalog.json dist/gamer-data.js dist/home-data.js
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh anime catalogs"
+            git push
+          fi
+
+      - name: 发布到现有 EdgeOne 生产项目
+        env:
+          EDGEONE_API_TOKEN: ${{ secrets.EDGEONE_API_TOKEN }}
+        run: npx --yes edgeone@1.6.41 makers deploy ./dist -n bangumi-index -t "$EDGEONE_API_TOKEN" -e production
+
+      - name: 核对自定义域名上的目录数据
+        run: |
+          for file in catalog.json data.js gamer-catalog.json gamer-data.js; do
+            curl --fail --retry 5 --retry-delay 10 --max-time 30 --silent --show-error "https://www.qianmoqingyu.dpdns.org/$file?updated=${{ github.run_id }}" -o "$RUNNER_TEMP/live-$file"
+            cmp "dist/$file" "$RUNNER_TEMP/live-$file"
+          done
