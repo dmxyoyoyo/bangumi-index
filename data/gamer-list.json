@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1894,
-    "lastSuccessfulRefresh": "2026-10-08T13:48:36.053Z"
+    "lastSuccessfulRefresh": "2026-10-08T15:19:39.010Z"
   },
   "items": [
     {
@@ -518,7 +518,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.5
+      "score": 4.6
     },
     {
       "acgSn": 146146,
@@ -1091,6 +1091,25 @@
       "score": 4.3
     },
     {
+      "acgSn": 144790,
+      "animeSn": 114127,
+      "videoSn": 49885,
+      "title": "穹廬下的魔女",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000144790.JPG",
+      "dateInfo": "年份：2026/07",
+      "totalEpisode": 12,
+      "popular": 93103,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
       "acgSn": 139434,
       "animeSn": 114144,
       "videoSn": 49965,
@@ -1165,25 +1184,6 @@
         "newArrival": false
       },
       "score": 5
-    },
-    {
-      "acgSn": 144790,
-      "animeSn": 114127,
-      "videoSn": 49885,
-      "title": "穹廬下的魔女",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000144790.JPG",
-      "dateInfo": "年份：2026/07",
-      "totalEpisode": 12,
-      "popular": 93103,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
     },
     {
       "acgSn": 146266,
@@ -1452,25 +1452,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 147133,
-      "animeSn": 114121,
-      "videoSn": 49822,
-      "title": "BanG Dream！YUME∞MITA",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/33/0000147133.JPG",
-      "dateInfo": "年份：2026/07",
-      "totalEpisode": 13,
-      "popular": 65819,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.5
-    },
-    {
       "acgSn": 150547,
       "animeSn": 114132,
       "videoSn": 49817,
@@ -1507,6 +1488,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 147133,
+      "animeSn": 114121,
+      "videoSn": 49822,
+      "title": "BanG Dream！YUME∞MITA",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/33/0000147133.JPG",
+      "dateInfo": "年份：2026/07",
+      "totalEpisode": 13,
+      "popular": 65819,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.5
     },
     {
       "acgSn": 141262,
@@ -2839,25 +2839,6 @@
       "score": 3.7
     },
     {
-      "acgSn": 142507,
-      "animeSn": 113970,
-      "videoSn": 47076,
-      "title": "相反的你和我",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/07/0000142507.JPG",
-      "dateInfo": "年份：2026/01",
-      "totalEpisode": 12,
-      "popular": 121262,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 5
-    },
-    {
       "acgSn": 142204,
       "animeSn": 113971,
       "videoSn": 47077,
@@ -2875,6 +2856,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 142507,
+      "animeSn": 113970,
+      "videoSn": 47076,
+      "title": "相反的你和我",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/07/0000142507.JPG",
+      "dateInfo": "年份：2026/01",
+      "totalEpisode": 12,
+      "popular": 121262,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 5
     },
     {
       "acgSn": 147822,
@@ -3447,25 +3447,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 139384,
-      "animeSn": 113975,
-      "videoSn": 46935,
-      "title": "花樣少年少女",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000139384.JPG",
-      "dateInfo": "年份：2026/01",
-      "totalEpisode": 12,
-      "popular": 5086,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
       "acgSn": 145933,
       "animeSn": 113973,
       "videoSn": 46925,
@@ -3476,6 +3457,25 @@
       "dateInfo": "年份：2026/01",
       "totalEpisode": 12,
       "popular": 3159,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
+    },
+    {
+      "acgSn": 139384,
+      "animeSn": 113975,
+      "videoSn": 46935,
+      "title": "花樣少年少女",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000139384.JPG",
+      "dateInfo": "年份：2026/01",
+      "totalEpisode": 12,
+      "popular": 5086,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -3884,6 +3884,25 @@
       "score": 3.9
     },
     {
+      "acgSn": 130900,
+      "animeSn": 113891,
+      "videoSn": 45698,
+      "title": "給不滅的你 第三季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000130900.JPG",
+      "dateInfo": "年份：2025/10",
+      "totalEpisode": 22,
+      "popular": 5844,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
       "acgSn": 144054,
       "animeSn": 113915,
       "videoSn": 45566,
@@ -3941,25 +3960,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 130900,
-      "animeSn": 113891,
-      "videoSn": 45698,
-      "title": "給不滅的你 第三季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000130900.JPG",
-      "dateInfo": "年份：2025/10",
-      "totalEpisode": 22,
-      "popular": 5844,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 147116,
       "animeSn": 113906,
       "videoSn": 45587,
@@ -3977,6 +3977,25 @@
         "newArrival": false
       },
       "score": 4.1
+    },
+    {
+      "acgSn": 144141,
+      "animeSn": 113888,
+      "videoSn": 45556,
+      "title": "東島丹三郎想成為假面騎士",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000144141.JPG",
+      "dateInfo": "年份：2025/10",
+      "totalEpisode": 24,
+      "popular": 11139,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 5
     },
     {
       "acgSn": 115712,
@@ -4055,18 +4074,37 @@
       "score": 4.2
     },
     {
-      "acgSn": 144141,
-      "animeSn": 113888,
-      "videoSn": 45556,
-      "title": "東島丹三郎想成為假面騎士",
+      "acgSn": 143057,
+      "animeSn": 113886,
+      "videoSn": 45530,
+      "title": "我的英雄學院 FINAL SEASON",
       "favorite": false,
       "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000144141.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000143057.JPG",
       "dateInfo": "年份：2025/10",
-      "totalEpisode": 24,
-      "popular": 11139,
+      "totalEpisode": 13,
+      "popular": 39412,
       "highlightTag": {
         "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 5
+    },
+    {
+      "acgSn": 139878,
+      "animeSn": 113899,
+      "videoSn": 45572,
+      "title": "SPY×FAMILY 間諜家家酒 Season 3",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/78/0000139878.JPG",
+      "dateInfo": "年份：2025/10",
+      "totalEpisode": 13,
+      "popular": 22047,
+      "highlightTag": {
+        "bilingual": true,
         "edition": "",
         "vipTime": "",
         "newArrival": false
@@ -4110,44 +4148,6 @@
         "newArrival": false
       },
       "score": 4.4
-    },
-    {
-      "acgSn": 143057,
-      "animeSn": 113886,
-      "videoSn": 45530,
-      "title": "我的英雄學院 FINAL SEASON",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000143057.JPG",
-      "dateInfo": "年份：2025/10",
-      "totalEpisode": 13,
-      "popular": 39412,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 5
-    },
-    {
-      "acgSn": 139878,
-      "animeSn": 113899,
-      "videoSn": 45572,
-      "title": "SPY×FAMILY 間諜家家酒 Season 3",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/78/0000139878.JPG",
-      "dateInfo": "年份：2025/10",
-      "totalEpisode": 13,
-      "popular": 22047,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 5
     },
     {
       "acgSn": 141450,
@@ -6278,6 +6278,25 @@
       "score": 4.8
     },
     {
+      "acgSn": 141856,
+      "animeSn": 113764,
+      "videoSn": 42909,
+      "title": "九龍大眾浪漫",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/56/0000141856.JPG",
+      "dateInfo": "年份：2025/04",
+      "totalEpisode": 13,
+      "popular": 1382,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
       "acgSn": 142458,
       "animeSn": 113761,
       "videoSn": 42903,
@@ -6314,25 +6333,6 @@
         "newArrival": false
       },
       "score": 4.7
-    },
-    {
-      "acgSn": 141856,
-      "animeSn": 113764,
-      "videoSn": 42909,
-      "title": "九龍大眾浪漫",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/56/0000141856.JPG",
-      "dateInfo": "年份：2025/04",
-      "totalEpisode": 13,
-      "popular": 1382,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
     },
     {
       "acgSn": 126333,
@@ -6696,25 +6696,6 @@
       "score": 4.2
     },
     {
-      "acgSn": 136398,
-      "animeSn": 113720,
-      "videoSn": 41798,
-      "title": "地縛少年花子君 2",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/98/0000136398.JPG",
-      "dateInfo": "年份：2025/01",
-      "totalEpisode": 24,
-      "popular": 6886,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 140791,
       "animeSn": 114073,
       "videoSn": 49216,
@@ -6732,6 +6713,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 136398,
+      "animeSn": 113720,
+      "videoSn": 41798,
+      "title": "地縛少年花子君 2",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/98/0000136398.JPG",
+      "dateInfo": "年份：2025/01",
+      "totalEpisode": 24,
+      "popular": 6886,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 142297,
@@ -6886,25 +6886,6 @@
       "score": 4.2
     },
     {
-      "acgSn": 137041,
-      "animeSn": 113701,
-      "videoSn": 41750,
-      "title": "Dr.STONE 新石紀 第四季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000137041.JPG",
-      "dateInfo": "年份：2025/01",
-      "totalEpisode": 37,
-      "popular": 64272,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 140189,
       "animeSn": 113703,
       "videoSn": 41754,
@@ -6922,6 +6903,25 @@
         "newArrival": false
       },
       "score": 3.5
+    },
+    {
+      "acgSn": 137041,
+      "animeSn": 113701,
+      "videoSn": 41750,
+      "title": "Dr.STONE 新石紀 第四季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000137041.JPG",
+      "dateInfo": "年份：2025/01",
+      "totalEpisode": 37,
+      "popular": 64272,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 139915,
@@ -7969,25 +7969,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 131251,
-      "animeSn": 113642,
-      "videoSn": 40260,
-      "title": "Re：從零開始的異世界生活 第三季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000131251.JPG",
-      "dateInfo": "年份：2024/10",
-      "totalEpisode": 16,
-      "popular": 84384,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 128903,
       "animeSn": 113641,
       "videoSn": 40126,
@@ -8005,6 +7986,25 @@
         "newArrival": false
       },
       "score": 4.5
+    },
+    {
+      "acgSn": 131251,
+      "animeSn": 113642,
+      "videoSn": 40260,
+      "title": "Re：從零開始的異世界生活 第三季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000131251.JPG",
+      "dateInfo": "年份：2024/10",
+      "totalEpisode": 16,
+      "popular": 84384,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 131860,
@@ -8235,25 +8235,6 @@
       "score": 0
     },
     {
-      "acgSn": 150222,
-      "animeSn": 114000,
-      "videoSn": 48074,
-      "title": "爆上戰隊 劇場 BOON！PROMISE THE CIRCUIT",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000150222.JPG",
-      "dateInfo": "年份：2024/07",
-      "totalEpisode": 1,
-      "popular": 64,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 0
-    },
-    {
       "acgSn": 150223,
       "animeSn": 114001,
       "videoSn": 48076,
@@ -8271,6 +8252,25 @@
         "newArrival": false
       },
       "score": 4.3
+    },
+    {
+      "acgSn": 150222,
+      "animeSn": 114000,
+      "videoSn": 48074,
+      "title": "爆上戰隊 劇場 BOON！PROMISE THE CIRCUIT",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000150222.JPG",
+      "dateInfo": "年份：2024/07",
+      "totalEpisode": 1,
+      "popular": 64,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 0
     },
     {
       "acgSn": 149343,
@@ -8434,7 +8434,7 @@
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000137597.JPG",
       "dateInfo": "年份：2024/07",
       "totalEpisode": 12,
-      "popular": 553,
+      "popular": 451796,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -8691,25 +8691,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 138702,
-      "animeSn": 113574,
-      "videoSn": 38863,
-      "title": "超人力霸王雅克",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/02/0000138702.JPG",
-      "dateInfo": "年份：2024/07",
-      "totalEpisode": 28,
-      "popular": 880,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 3.8
-    },
-    {
       "acgSn": 138936,
       "animeSn": 113593,
       "videoSn": 38972,
@@ -8727,6 +8708,25 @@
         "newArrival": false
       },
       "score": 4
+    },
+    {
+      "acgSn": 138702,
+      "animeSn": 113574,
+      "videoSn": 38863,
+      "title": "超人力霸王雅克",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/02/0000138702.JPG",
+      "dateInfo": "年份：2024/07",
+      "totalEpisode": 28,
+      "popular": 880,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 3.8
     },
     {
       "acgSn": 136266,
@@ -9565,25 +9565,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 136147,
-      "animeSn": 113690,
-      "videoSn": 41710,
-      "title": "烏鴉不擇主",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
-      "dateInfo": "年份：2024/04",
-      "totalEpisode": 20,
-      "popular": 2778,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 131287,
       "animeSn": 113528,
       "videoSn": 38112,
@@ -9601,6 +9582,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 136147,
+      "animeSn": 113690,
+      "videoSn": 41710,
+      "title": "烏鴉不擇主",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
+      "dateInfo": "年份：2024/04",
+      "totalEpisode": 20,
+      "popular": 2778,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 138047,
@@ -9793,25 +9793,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 138566,
-      "animeSn": 113531,
-      "videoSn": 37854,
-      "title": "關於我們把節目全部丟給聲優那件事",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000138566.JPG",
-      "dateInfo": "年份：2024/04",
-      "totalEpisode": 12,
-      "popular": 335,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 136715,
       "animeSn": 113526,
       "videoSn": 37929,
@@ -9829,6 +9810,25 @@
         "newArrival": false
       },
       "score": 4.5
+    },
+    {
+      "acgSn": 138566,
+      "animeSn": 113531,
+      "videoSn": 37854,
+      "title": "關於我們把節目全部丟給聲優那件事",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000138566.JPG",
+      "dateInfo": "年份：2024/04",
+      "totalEpisode": 12,
+      "popular": 335,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 128167,
@@ -10154,25 +10154,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 136721,
-      "animeSn": 113452,
-      "videoSn": 37004,
-      "title": "名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000136721.JPG",
-      "dateInfo": "年份：2024/01",
-      "totalEpisode": 12,
-      "popular": 1038,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
-    },
-    {
       "acgSn": 131157,
       "animeSn": 113453,
       "videoSn": 36951,
@@ -10190,6 +10171,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 136721,
+      "animeSn": 113452,
+      "videoSn": 37004,
+      "title": "名湯「異世界溫泉」開拓記～30 多歲溫泉狂熱者，轉生到悠閒的溫泉天國～",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000136721.JPG",
+      "dateInfo": "年份：2024/01",
+      "totalEpisode": 12,
+      "popular": 1038,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
     },
     {
       "acgSn": 134091,
@@ -11028,25 +11028,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 127847,
-      "animeSn": 113404,
-      "videoSn": 35372,
-      "title": "星靈感應",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000127847.JPG",
-      "dateInfo": "年份：2023/10",
-      "totalEpisode": 12,
-      "popular": 656,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 130658,
       "animeSn": 113390,
       "videoSn": 35386,
@@ -11064,6 +11045,25 @@
         "newArrival": false
       },
       "score": 3.8
+    },
+    {
+      "acgSn": 127847,
+      "animeSn": 113404,
+      "videoSn": 35372,
+      "title": "星靈感應",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000127847.JPG",
+      "dateInfo": "年份：2023/10",
+      "totalEpisode": 12,
+      "popular": 656,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 132483,
@@ -11370,6 +11370,44 @@
       "score": 4.9
     },
     {
+      "acgSn": 135648,
+      "animeSn": 113733,
+      "videoSn": 42202,
+      "title": "戰鬥陀螺 X",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000135648.JPG",
+      "dateInfo": "年份：2023/10",
+      "totalEpisode": 51,
+      "popular": 15452,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
+    },
+    {
+      "acgSn": 107525,
+      "animeSn": 113406,
+      "videoSn": 35516,
+      "title": "盾之勇者成名錄 Season 3",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/25/0000107525.JPG",
+      "dateInfo": "年份：2023/10",
+      "totalEpisode": 12,
+      "popular": 3461,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
+    },
+    {
       "acgSn": 130540,
       "animeSn": 113397,
       "videoSn": 35436,
@@ -11444,44 +11482,6 @@
         "newArrival": false
       },
       "score": 5
-    },
-    {
-      "acgSn": 107525,
-      "animeSn": 113406,
-      "videoSn": 35516,
-      "title": "盾之勇者成名錄 Season 3",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/25/0000107525.JPG",
-      "dateInfo": "年份：2023/10",
-      "totalEpisode": 12,
-      "popular": 3461,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
-      "acgSn": 135648,
-      "animeSn": 113733,
-      "videoSn": 42202,
-      "title": "戰鬥陀螺 X",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000135648.JPG",
-      "dateInfo": "年份：2023/10",
-      "totalEpisode": 51,
-      "popular": 15452,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
     },
     {
       "acgSn": 133650,
@@ -11873,7 +11873,7 @@
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/34/0000129734.JPG",
       "dateInfo": "年份：2023/10",
       "totalEpisode": 12,
-      "popular": 290555,
+      "popular": 553,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -13422,6 +13422,25 @@
       "score": 4.4
     },
     {
+      "acgSn": 128843,
+      "animeSn": 113241,
+      "videoSn": 33259,
+      "title": "勇者死了！",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000128843.JPG",
+      "dateInfo": "年份：2023/04",
+      "totalEpisode": 12,
+      "popular": 889,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
+    },
+    {
       "acgSn": 130831,
       "animeSn": 113268,
       "videoSn": 33544,
@@ -13458,25 +13477,6 @@
         "newArrival": false
       },
       "score": 3.3
-    },
-    {
-      "acgSn": 128843,
-      "animeSn": 113241,
-      "videoSn": 33259,
-      "title": "勇者死了！",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000128843.JPG",
-      "dateInfo": "年份：2023/04",
-      "totalEpisode": 12,
-      "popular": 889,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
     },
     {
       "acgSn": 128544,
@@ -17203,25 +17203,6 @@
       "score": 5
     },
     {
-      "acgSn": 115710,
-      "animeSn": 113026,
-      "videoSn": 28875,
-      "title": "處刑少女的生存之道",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000115710.JPG",
-      "dateInfo": "年份：2022/04",
-      "totalEpisode": 12,
-      "popular": 1028,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
-    },
-    {
       "acgSn": 121172,
       "animeSn": 113170,
       "videoSn": 32213,
@@ -17239,6 +17220,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 115710,
+      "animeSn": 113026,
+      "videoSn": 28875,
+      "title": "處刑少女的生存之道",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000115710.JPG",
+      "dateInfo": "年份：2022/04",
+      "totalEpisode": 12,
+      "popular": 1028,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
     },
     {
       "acgSn": 120624,
@@ -17564,25 +17564,6 @@
       "score": 3.4
     },
     {
-      "acgSn": 121151,
-      "animeSn": 112976,
-      "videoSn": 27581,
-      "title": "闇芝居 第十季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000121151.JPG",
-      "dateInfo": "年份：2022/01",
-      "totalEpisode": 13,
-      "popular": 191,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 3.6
-    },
-    {
       "acgSn": 119925,
       "animeSn": 112964,
       "videoSn": 27368,
@@ -17600,6 +17581,25 @@
         "newArrival": false
       },
       "score": 4
+    },
+    {
+      "acgSn": 121151,
+      "animeSn": 112976,
+      "videoSn": 27581,
+      "title": "闇芝居 第十季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000121151.JPG",
+      "dateInfo": "年份：2022/01",
+      "totalEpisode": 13,
+      "popular": 191,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 3.6
     },
     {
       "acgSn": 121149,
@@ -17640,25 +17640,6 @@
       "score": 4.3
     },
     {
-      "acgSn": 116520,
-      "animeSn": 112951,
-      "videoSn": 27356,
-      "title": "薔薇王的葬列",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/20/0000116520.JPG",
-      "dateInfo": "年份：2022/01",
-      "totalEpisode": 25,
-      "popular": 220,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 3.9
-    },
-    {
       "acgSn": 121150,
       "animeSn": 112969,
       "videoSn": 27384,
@@ -17676,6 +17657,25 @@
         "newArrival": false
       },
       "score": 3
+    },
+    {
+      "acgSn": 116520,
+      "animeSn": 112951,
+      "videoSn": 27356,
+      "title": "薔薇王的葬列",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/20/0000116520.JPG",
+      "dateInfo": "年份：2022/01",
+      "totalEpisode": 25,
+      "popular": 220,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 3.9
     },
     {
       "acgSn": 117001,
@@ -19825,25 +19825,6 @@
       "score": 4.6
     },
     {
-      "acgSn": 110445,
-      "animeSn": 112651,
-      "videoSn": 22220,
-      "title": "戰鬥員派遣中！",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000110445.JPG",
-      "dateInfo": "年份：2021/04",
-      "totalEpisode": 12,
-      "popular": 2465,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 115369,
       "animeSn": 112657,
       "videoSn": 22226,
@@ -19861,6 +19842,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 110445,
+      "animeSn": 112651,
+      "videoSn": 22220,
+      "title": "戰鬥員派遣中！",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000110445.JPG",
+      "dateInfo": "年份：2021/04",
+      "totalEpisode": 12,
+      "popular": 2465,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 115627,
@@ -19901,25 +19901,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 129245,
-      "animeSn": 113178,
-      "videoSn": 32292,
-      "title": "衝鋒戰士：恐龍世代",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000129245.JPG",
-      "dateInfo": "年份：2021/04",
-      "totalEpisode": 1,
-      "popular": 65,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 2.7
-    },
-    {
       "acgSn": 114343,
       "animeSn": 112647,
       "videoSn": 22216,
@@ -19937,6 +19918,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 129245,
+      "animeSn": 113178,
+      "videoSn": 32292,
+      "title": "衝鋒戰士：恐龍世代",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000129245.JPG",
+      "dateInfo": "年份：2021/04",
+      "totalEpisode": 1,
+      "popular": 65,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 2.7
     },
     {
       "acgSn": 115852,
@@ -21136,25 +21136,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 110208,
-      "animeSn": 112459,
-      "videoSn": 18428,
-      "title": "我立於百萬生命之上",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/08/0000110208.JPG",
-      "dateInfo": "年份：2020/10",
-      "totalEpisode": 12,
-      "popular": 1469,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.1
-    },
-    {
       "acgSn": 108886,
       "animeSn": 112457,
       "videoSn": 18626,
@@ -21172,6 +21153,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 110208,
+      "animeSn": 112459,
+      "videoSn": 18428,
+      "title": "我立於百萬生命之上",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/08/0000110208.JPG",
+      "dateInfo": "年份：2020/10",
+      "totalEpisode": 12,
+      "popular": 1469,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.1
     },
     {
       "acgSn": 112479,
@@ -22048,6 +22048,25 @@
       "score": 2.7
     },
     {
+      "acgSn": 102102,
+      "animeSn": 102102,
+      "videoSn": 16125,
+      "title": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/02/0000102102.JPG",
+      "dateInfo": "年份：2020/04",
+      "totalEpisode": 12,
+      "popular": 3832,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
       "acgSn": 108120,
       "animeSn": 112691,
       "videoSn": 22593,
@@ -22067,16 +22086,16 @@
       "score": 4.8
     },
     {
-      "acgSn": 102102,
-      "animeSn": 102102,
-      "videoSn": 16125,
-      "title": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐",
+      "acgSn": 109037,
+      "animeSn": 109037,
+      "videoSn": 15151,
+      "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！第二季",
       "favorite": false,
       "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/02/0000102102.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000109037.JPG",
       "dateInfo": "年份：2020/04",
       "totalEpisode": 12,
-      "popular": 3832,
+      "popular": 18983,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -22103,25 +22122,6 @@
         "newArrival": false
       },
       "score": 4.3
-    },
-    {
-      "acgSn": 109037,
-      "animeSn": 109037,
-      "videoSn": 15151,
-      "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！第二季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000109037.JPG",
-      "dateInfo": "年份：2020/04",
-      "totalEpisode": 12,
-      "popular": 18983,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
     },
     {
       "acgSn": 106728,
@@ -23188,6 +23188,25 @@
       "score": 4.1
     },
     {
+      "acgSn": 102477,
+      "animeSn": 113066,
+      "videoSn": 29922,
+      "title": "炎炎消防隊",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
+      "dateInfo": "年份：2019/07",
+      "totalEpisode": 24,
+      "popular": 7313,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
+    },
+    {
       "acgSn": 102289,
       "animeSn": 102289,
       "videoSn": 12651,
@@ -23224,25 +23243,6 @@
         "newArrival": false
       },
       "score": 4.9
-    },
-    {
-      "acgSn": 102477,
-      "animeSn": 113066,
-      "videoSn": 29922,
-      "title": "炎炎消防隊",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
-      "dateInfo": "年份：2019/07",
-      "totalEpisode": 24,
-      "popular": 7313,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
     },
     {
       "acgSn": 104065,
@@ -23530,25 +23530,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 102841,
-      "animeSn": 102841,
-      "videoSn": 12079,
-      "title": "川柳少女",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000102841.JPG",
-      "dateInfo": "年份：2019/04",
-      "totalEpisode": 12,
-      "popular": 456,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 100813,
       "animeSn": 100813,
       "videoSn": 12081,
@@ -23559,6 +23540,25 @@
       "dateInfo": "年份：2019/04",
       "totalEpisode": 12,
       "popular": 415,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
+    },
+    {
+      "acgSn": 102841,
+      "animeSn": 102841,
+      "videoSn": 12079,
+      "title": "川柳少女",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000102841.JPG",
+      "dateInfo": "年份：2019/04",
+      "totalEpisode": 12,
+      "popular": 456,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -24043,25 +24043,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 94804,
-      "animeSn": 112438,
-      "videoSn": 17334,
-      "title": "Re：從零開始的異世界生活 Memory Snow",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000094804.JPG",
-      "dateInfo": "年份：2018/10",
-      "totalEpisode": 1,
-      "popular": 2852,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 94032,
       "animeSn": 94032,
       "videoSn": 10852,
@@ -24081,23 +24062,23 @@
       "score": 4.8
     },
     {
-      "acgSn": 91867,
-      "animeSn": 91867,
-      "videoSn": 10849,
-      "title": "刀劍神域 Alicization",
+      "acgSn": 94804,
+      "animeSn": 112438,
+      "videoSn": 17334,
+      "title": "Re：從零開始的異世界生活 Memory Snow",
       "favorite": false,
       "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/67/0000091867.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000094804.JPG",
       "dateInfo": "年份：2018/10",
-      "totalEpisode": 26,
-      "popular": 19115,
+      "totalEpisode": 1,
+      "popular": 2852,
       "highlightTag": {
-        "bilingual": true,
+        "bilingual": false,
         "edition": "",
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.6
+      "score": 4.8
     },
     {
       "acgSn": 95190,
@@ -24117,6 +24098,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 91867,
+      "animeSn": 91867,
+      "videoSn": 10849,
+      "title": "刀劍神域 Alicization",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/67/0000091867.JPG",
+      "dateInfo": "年份：2018/10",
+      "totalEpisode": 26,
+      "popular": 19115,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
     },
     {
       "acgSn": 93384,
@@ -24157,25 +24157,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 91869,
-      "animeSn": 91869,
-      "videoSn": 10840,
-      "title": "魔法禁書目錄 Ⅲ",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/69/0000091869.JPG",
-      "dateInfo": "年份：2018/10",
-      "totalEpisode": 26,
-      "popular": 2008,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4
-    },
-    {
       "acgSn": 95422,
       "animeSn": 113434,
       "videoSn": 36612,
@@ -24193,6 +24174,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 91869,
+      "animeSn": 91869,
+      "videoSn": 10840,
+      "title": "魔法禁書目錄 Ⅲ",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/69/0000091869.JPG",
+      "dateInfo": "年份：2018/10",
+      "totalEpisode": 26,
+      "popular": 2008,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4
     },
     {
       "acgSn": 99414,
@@ -27596,25 +27596,6 @@
       "score": 4.6
     },
     {
-      "acgSn": 70939,
-      "animeSn": 113552,
-      "videoSn": 38482,
-      "title": "遊戲王 次元的黑暗面",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000070939.JPG",
-      "dateInfo": "年份：2016/04",
-      "totalEpisode": 1,
-      "popular": 3667,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 78452,
       "animeSn": 113053,
       "videoSn": 29569,
@@ -27632,6 +27613,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 70939,
+      "animeSn": 113552,
+      "videoSn": 38482,
+      "title": "遊戲王 次元的黑暗面",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000070939.JPG",
+      "dateInfo": "年份：2016/04",
+      "totalEpisode": 1,
+      "popular": 3667,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 80347,
