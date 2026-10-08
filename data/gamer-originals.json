@@ -1046,6 +1046,19 @@
     "bangumiId": 54433,
     "checkedAt": "2026-10-06"
   },
+  "57096": {
+    "acgId": 57096,
+    "title": "頭文字 D 2nd stage",
+    "candidateOriginalTitle": "頭文字[イニシャル]D Second Stage",
+    "englishTitle": "Initial D Second Stage",
+    "japaneseTitle": "頭文字[イニシャル]D Second Stage",
+    "originalTitle": "頭文字[イニシャル]D Second Stage",
+    "originalStatus": "japanese",
+    "premiereRegion": "不明",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=57096",
+    "checkedAt": "2026-10-09"
+  },
   "57195": {
     "acgId": 57195,
     "title": "AMNESIA 失憶症",
@@ -19815,6 +19828,19 @@
     "bangumiId": 622288,
     "checkedAt": "2026-10-06"
   },
+  "114197": {
+    "acgId": 151823,
+    "title": "冰劍的魔術師將要統一世界 2",
+    "candidateOriginalTitle": "冰剣の魔術師が世界を統べるⅡ",
+    "englishTitle": "",
+    "japaneseTitle": "冰剣の魔術師が世界を統べるⅡ",
+    "originalTitle": "冰剣の魔術師が世界を統べるⅡ",
+    "originalStatus": "japanese",
+    "premiereRegion": "日本",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=151823",
+    "checkedAt": "2026-10-09"
+  },
   "114198": {
     "acgId": 151577,
     "title": "黑化吧！聖女大人 第二季",
@@ -20025,5 +20051,44 @@
     "source": "巴哈姆特 ACG 作品资料",
     "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=154639",
     "checkedAt": "2026-10-06"
+  },
+  "114227": {
+    "acgId": 148486,
+    "title": "鐵旅！meet with 鐵道少女",
+    "candidateOriginalTitle": "てつりょー！meet with 鉄道むすめ",
+    "englishTitle": "TETSURYO! meet with Tetsudou Musume",
+    "japaneseTitle": "てつりょー！meet with 鉄道むすめ",
+    "originalTitle": "てつりょー！meet with 鉄道むすめ",
+    "originalStatus": "japanese",
+    "premiereRegion": "日本",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=148486",
+    "checkedAt": "2026-10-09"
+  },
+  "114228": {
+    "acgId": 154943,
+    "title": "吉伊卡哇 第四季",
+    "candidateOriginalTitle": "ちいかわ",
+    "englishTitle": "Chiikawa",
+    "japaneseTitle": "ちいかわ",
+    "originalTitle": "ちいかわ",
+    "originalStatus": "japanese",
+    "premiereRegion": "日本",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=154943",
+    "checkedAt": "2026-10-09"
+  },
+  "114229": {
+    "acgId": 154944,
+    "title": "套房裡的助教大人",
+    "candidateOriginalTitle": "",
+    "englishTitle": "One-Room TA",
+    "japaneseTitle": "",
+    "originalTitle": "One-Room TA",
+    "originalStatus": "non-japanese",
+    "premiereRegion": "韓國",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=154944",
+    "checkedAt": "2026-10-09"
   }
 }
