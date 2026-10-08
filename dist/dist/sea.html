@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="查询东南亚 B站番剧标题、国际版 ID、历史授权地区与已核实的中国版 ss 链接。">
+<title>B站东南亚 · 番剧索引</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23122740'/%3E%3Cpath d='M9 11h14M9 16h14M9 21h8' stroke='%2355dded' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="./style.css">
+<script defer src="./data.js"></script><script defer src="./catalog.js"></script><script defer src="./covers.js"></script><script defer src="./app.js"></script>
+</head>
+<body class="sea-page">
+<a class="skip" href="#catalog">跳到番剧目录</a>
+<aside class="sidebar">
+ <a class="brand" href="./"><span class="brand-icon" aria-hidden="true">ss</span><span>SEA<span class="brand-sub">番剧索引</span></span></a>
+ <a class="platform-back" href="./">返回平台选择</a>
+ <div class="region-heading">授权地区 <span>官方 / 历史</span></div>
+ <nav id="regions" aria-label="筛选东南亚授权地区"></nav>
+ <div class="side-note">地区筛选依据公开收录记录。<br>当前授权与中国版播放权限需另行确认。</div>
+ <a class="official" href="https://www.bilibili.tv/en/anime" target="_blank" rel="noopener noreferrer">B站国际版官网</a>
+</aside>
+<main>
+ <header class="topbar"><h1>Bilibili东南亚</h1><span class="topbar-platform">B-Global</span></header>
+ <div class="content">
+
+  <section class="stats" aria-label="目录概况">
+   <div><span>已收录记录</span><strong id="total-count">—</strong><small>含不同季度与配音版本</small></div>
+   <div><span>中国版 ID 已核实</span><strong id="mapped-count">—</strong><small>已核对中国版条目；播放权限另行确认</small></div>
+
+  </section>
+  <section class="catalog" id="catalog" aria-label="番剧查询">
+   <div class="controls">
+    <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索中文名、东南亚名、日文原名、ID 或链接" aria-label="搜索番剧"></label>
+    <label class="sort">排序<select id="sort"><option value="mapped">已核实 ID 优先</option><option value="title">标题 A–Z</option><option value="id-desc">国际版 ID 从大到小</option><option value="id-asc">国际版 ID 从小到大</option></select></label>
+   </div>
+   <nav id="origins" class="origin-filters" aria-label="筛选作品制作国家"></nav>
+   <div class="filter-row"><div><h2 id="region-title">全部东南亚地区</h2><span id="result-count" role="status" aria-live="polite">正在读取目录…</span></div><label class="status-filter">状态<select id="status"><option value="all">全部状态</option><option value="unmapped">中国版 ID 未核实</option><option value="upcoming">未开播 / 计划开播</option><option value="aired">已开播 / 首播日期已过</option><option value="unknown">开播时间待核实</option></select></label><label class="check"><input id="mapped-only" type="checkbox">仅显示中国版 ID 已核实</label></div>
+   <div class="table-wrap"><table><thead><tr><th>番剧名称</th><th>国际版 ID</th><th>授权地区 / 来源</th><th>中国版 ss ID</th></tr></thead><tbody id="rows"></tbody></table></div>
+   <div id="empty" class="empty" hidden><h3>没有找到匹配记录</h3><p>尝试缩短番剧名，或取消国家、地区及 ID 筛选。</p><button id="reset">清除筛选</button></div>
+   <div class="pagination"><span id="page-info"></span><div><button id="previous" aria-label="上一页">上一页</button><span id="page-number"></span><button id="next" aria-label="下一页">下一页</button></div></div>
+  </section>
+  <details class="coverage" open><summary>数据来源与覆盖说明</summary><div class="coverage-body">
+   <p><strong>这是可查询的收录目录，目前尚不能保证覆盖所有地区的全部现行番剧。</strong></p>
+   <p>“国际版 ID”用于 bilibili.tv；“中国版 ss ID”用于 bilibili.com。未确认中国版条目的记录不生成中国版链接。仅核实中国版条目时，国际版对应 ID 会标为待核实。同名、不同季度、不同配音版均须分别核实。</p>
+   <p id="update-note"></p><p id="mapping-note"></p><p id="live-note"></p>
+  </div></details>
+  <footer>SEA 番剧索引 <span id="today-visits" title="全站页面浏览次数；按北京时间日期分别计数，由 Hits 统计">今日访问量：—</span> <span>目录链接不改变平台的地区、账号或会员要求。</span></footer>
+ </div>
+</main>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<dialog id="copy-dialog"><form method="dialog"><h2>手动复制</h2><p>浏览器暂时无法自动复制。选中下方内容后复制即可。</p><textarea id="copy-value" rows="3" readonly aria-label="要复制的内容"></textarea><button>关闭</button></form></dialog>
+<noscript><p class="noscript">请启用 JavaScript 以搜索和显示目录。</p></noscript>
+<script defer src="./visits.js"></script>
+</body></html>
+
+
+
+

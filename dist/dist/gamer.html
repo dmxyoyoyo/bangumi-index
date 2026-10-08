@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="查询巴哈姆特动画疯所有动画目录，搜索简体中文名、官方繁体名和日文原名，打开官方作品页面。">
+<title>巴哈姆特动画疯 · 番剧索引</title>
+<link rel="stylesheet" href="./style.css"><script defer src="./gamer-data.js"></script><script defer src="./covers.js"></script><script defer src="./gamer.js"></script>
+</head>
+<body class="gamer-page">
+<a class="skip" href="#catalog">跳到番剧目录</a>
+<aside class="sidebar">
+ <a class="brand" href="./"><span class="brand-icon" aria-hidden="true">番</span><span>番剧<span class="brand-sub">索引</span></span></a>
+ <a class="platform-back" href="./">返回平台选择</a>
+ <div class="region-heading">平台目录</div><nav class="platform-nav" aria-label="选择平台"><a href="./sea.html">B站东南亚</a><a href="./gamer.html" aria-current="page">巴哈姆特动画疯</a></nav>
+ <div class="side-note">目录来自动画疯官方。<br>作品按季度及版本分别收录。</div>
+ <a class="official" href="https://ani.gamer.com.tw/animeList.php" target="_blank" rel="noopener noreferrer">动画疯官方所有动画</a>
+</aside>
+<main>
+ <header class="topbar"><h1>巴哈姆特动画疯</h1><span class="topbar-platform">AniGamer</span></header>
+ <div class="content">
+
+  <section class="stats gamer-stats" aria-label="目录概况"><div><span>官方目录记录</span><strong id="total-count">—</strong><small>含各季度、电影及不同版本</small></div><div><span>最近成功同步</span><strong class="sync-date" id="sync-date">—</strong><small>每日北京时间 07:00 更新</small></div></section>
+  <section class="catalog" id="catalog" aria-label="动画疯番剧查询">
+   <div class="controls"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索简体中文名、官方繁体名、日文原名或作品链接" aria-label="搜索动画疯番剧"></label><label class="sort">排序<select id="sort"><option value="recent">首播年月从新到旧</option><option value="title">标题 A–Z</option><option value="oldest">首播年月从旧到新</option></select></label></div>
+   <div class="filter-row"><div><h2>所有动画</h2><span id="result-count" role="status" aria-live="polite">正在读取目录…</span></div></div>
+   <div class="table-wrap gamer-table"><table><thead><tr><th>番剧名称</th><th>首播年月</th><th>目录集数</th><th>官方页面</th></tr></thead><tbody id="rows"></tbody></table></div>
+   <div class="empty" id="empty" hidden><h3>没有找到匹配记录</h3><p>可尝试简体中文名或动画疯官方名称。</p><button id="reset">清除搜索</button></div>
+   <div class="pagination"><span id="page-info"></span><div><button id="previous" aria-label="上一页">上一页</button><span id="page-number"></span><button id="next" aria-label="下一页">下一页</button></div></div>
+  </section>
+  <details class="coverage"><summary>数据来源与更新说明</summary><div class="coverage-body"><p>目录来自动画疯官方“所有动画”公开接口，完整读取全部分页，以作品 ID 去重。仅在分页检查全部通过后更新快照；接口失败或目录在同步期间发生变化时保留上次结果。</p><p id="title-note"></p><p>首播年月与集数沿用官方目录。集数可能随更新增加；公开收录不代表当前网络、账号具备播放权限。</p><p>与 B站东南亚共用每日北京时间 07:00 的更新流程，网页显示最近一次成功同步的快照。</p><p><a href="https://ani.gamer.com.tw/animeList.php" target="_blank" rel="noopener noreferrer">动画疯官方所有动画</a></p></div></details>
+  <footer>番剧索引 <span id="today-visits" title="全站页面浏览次数；按北京时间日期分别计数，由 Hits 统计">今日访问量：—</span> <span>播放权限以动画疯官方为准。</span></footer>
+ </div>
+</main><noscript><p class="noscript">请启用 JavaScript 以搜索和显示目录。</p></noscript>
+<script defer src="./visits.js"></script>
+</body></html>
