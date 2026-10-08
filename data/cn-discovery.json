@@ -5,11 +5,11 @@
     324326
   ],
   "backfillRange": [
-    285004,
-    285504
+    285505,
+    286005
   ],
-  "backfillNext": 285505,
+  "backfillNext": 286006,
   "validCandidates": 2524,
-  "added": 5,
-  "missing": 984
+  "added": 0,
+  "missing": 991
 }
