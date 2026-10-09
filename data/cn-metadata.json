@@ -8657,6 +8657,58 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "39852": {
+    "season_id": 39852,
+    "title": "流言终结者（精选版）",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/dc967887c0ef794dd64dace4c52feeed0d46157f.jpg",
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的热情以及朴实无华而不失精巧的实验，为观众揭示了一个又一个广为流传的谣言和都市传奇背后的真相。",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者（精选版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-12-24 21:00:00",
+      "pub_time_show": "12月24日21:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 449898,
+    "episodeCount": 70,
+    "episodeTitles": [
+      "逃出落水车",
+      "欢迎模仿",
+      "肮脏的探秘之旅"
+    ],
+    "total": 70,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
   "40069": {
     "season_id": 40069,
     "title": "地狱厨房 第20季",
@@ -8755,6 +8807,58 @@
       {
         "id": 287467,
         "title": "第7季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "40656": {
+    "season_id": 40656,
+    "title": "流言终结者（中配版）",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/dc967887c0ef794dd64dace4c52feeed0d46157f.jpg",
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的热情以及朴实无华而不失精巧的实验，为观众揭示了一个又一个广为流传的谣言和都市传奇背后的真相。 ",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者（中配版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2022-01-28 20:30:00",
+      "pub_time_show": "2022年01月28日20:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 469459,
+    "episodeCount": 27,
+    "episodeTitles": [
+      "欢迎模仿",
+      "肮脏的探秘之旅",
+      "人肉保护垫"
+    ],
+    "total": 27,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
       }
     ],
     "checkedAt": "2026-10-09",
@@ -9861,6 +9965,110 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "95803": {
+    "season_id": 95803,
+    "title": "流言终结者 第一季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b81cfdedefb20ba3d0334ae3aece16c690ef50cf.png",
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的热情以及朴实无华而不失精巧的实验，为观众揭示了一个又一个广为流传的谣言和都市传奇背后的真相。",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者 第一季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-04-24 18:00:00",
+      "pub_time_show": "2025年04月24日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1626122,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "102779": {
+    "season_id": 102779,
+    "title": "流言终结者 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b21dcf40c99aeb821b6d965fc7bfebfbd51863b9.png",
+    "evaluate": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者 第二季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-07-10 18:30:00",
+      "pub_time_show": "2025年07月10日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1863911,
+    "episodeCount": 33,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 33,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
   "102895": {
     "season_id": 102895,
     "title": "你好时光",
@@ -10215,6 +10423,58 @@
     ],
     "checkedAt": "2026-10-07",
     "richCheckedAt": "2026-10-07"
+  },
+  "109661": {
+    "season_id": 109661,
+    "title": "流言终结者 第三季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e229c7c9d811f28a6b35f3bddcffb32b35e121f7.png",
+    "evaluate": "《流言终结者》第三季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者 第三季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-09-04 18:30:00",
+      "pub_time_show": "2025年09月04日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2123508,
+    "episodeCount": 30,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 30,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
   },
   "109856": {
     "season_id": 109856,
@@ -101597,6 +101857,137 @@
         "title": "第7季"
       }
     ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "287666": {
+    "season_id": 287666,
+    "title": "流言终结者 第一季（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b81cfdedefb20ba3d0334ae3aece16c690ef50cf.png",
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的热情以及朴实无华而不失精巧的实验，为观众揭示了一个又一个广为流传的谣言和都市传奇背后的真相。",
+    "jpTitle": "",
+    "seasonTitle": "流言终结者 第一季（中配版）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-19 18:00:00",
+      "pub_time_show": "08月19日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5551718,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "真的有能爆炸的马桶吗？",
+      "加油站为什么不让用手机？",
+      "在电轨上小便会被电击致死？"
+    ],
+    "total": 16,
+    "seasons": [
+      {
+        "id": 39852,
+        "title": "精选版"
+      },
+      {
+        "id": 40656,
+        "title": "精选中配版"
+      },
+      {
+        "id": 95803,
+        "title": "第一季"
+      },
+      {
+        "id": 287666,
+        "title": "第一季中配版"
+      },
+      {
+        "id": 102779,
+        "title": "第二季"
+      },
+      {
+        "id": 109661,
+        "title": "第三季"
+      }
+    ],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "287758": {
+    "season_id": 287758,
+    "title": "黑鸟",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/349e2b64d25267c9c060887dda6797b3d3bb3d0f.png",
+    "evaluate": "公元7世纪末，⼥皇帝当政时期，在神都洛阳⼤开告密之门，任⽤酷吏，滥杀⽆辜。洛阳典客署⼩吏崔异，亲眼⽬睹了上级王珣因家奴告密，在御史台被折磨致死。吓破胆的崔异回到家后，惶惶中怀疑家中也有御史台的眼线，为保全家性命，他对家中乳母和⽼奴起了杀⼼……如长夜般的⽇⼦⾥，每个⼈在⽣死抉择之时，都会看到天空中飞过⿊⽻红嘴的⼤鸟，这是命途终结的预兆，亦或是回头向善的最后告警？",
+    "jpTitle": "",
+    "seasonTitle": "黑鸟",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-22 12:00:00",
+      "pub_time_show": "08月22日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5600804,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 3,
+    "seasons": [],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "287863": {
+    "season_id": 287863,
+    "title": "世界树之巅：起源与跨越",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/914574687e485849744618d1d401185ca1d1fc36.jpg",
+    "evaluate": "由百视通出品的《世界树之巅：起源与跨越》是一部以中美洲文明的起源、发展、辉煌、危机与延续为叙事主线，聚焦奥尔梅克与玛雅两大文明的AI纪实短剧，共22集，分为\"起源篇\"与\"跨越篇\"两个部分。\"起源篇\"以奥尔梅克文明为核心，讲述中美洲早期文明如何在热带沼泽中诞生，如何通过巨石、玉石、神话、贸易、祭祀与符号影响后世；\"跨越篇\"以玛雅文明为核心，讲述这一文明如何从玉米、世界树与创世神话中生长，如何走向古典期高峰，又如何经历系统性崩塌、殖民征服与政治终结，并最终在当代玛雅人的语言、作物、仪式与族群记忆中延续。",
+    "jpTitle": "",
+    "seasonTitle": "世界树之巅：起源与跨越",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-20 17:00:00",
+      "pub_time_show": "08月20日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5567928,
+    "episodeCount": 22,
+    "episodeTitles": [
+      "世界起源",
+      "无碑之王",
+      "血色球场"
+    ],
+    "total": 22,
+    "seasons": [],
+    "checkedAt": "2026-10-09",
+    "richCheckedAt": "2026-10-09"
+  },
+  "287959": {
+    "season_id": 287959,
+    "title": "蓝蓝的天上白云飘",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b581967673e29f1eaf56556212b74d1aa9c356a8.png",
+    "evaluate": "城市青年钱小宁（上白 饰）在迷茫中带着对女友塔娜（其勒木格 饰）的思念，一路北上来到内蒙古大草原。在手机收不到信号的偏远牧区，他和塔娜将一辆旧小巴改造成“移动售货车”，帮牧民代购生活用品。在这片辽阔而温厚的土地上，钱小宁慢慢找到了自己的节奏，也真正明白了“或许，最好的生活，不是在哪里、成为了谁，而是和谁一起，成为了更好的我们。”影片改编自真人真事，在东乌珠穆沁旗草原实景拍摄。",
+    "jpTitle": "",
+    "seasonTitle": "蓝蓝的天上白云飘",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-26 16:00:00",
+      "pub_time_show": "08月26日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5576464,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
     "checkedAt": "2026-10-09",
     "richCheckedAt": "2026-10-09"
   },
