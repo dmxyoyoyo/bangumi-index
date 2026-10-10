@@ -62,6 +62,7 @@ assert.equal(classifyOrigin({area:'Japan',type:4}).category,'japan');
 assert.equal(classifyOrigin({tags:['中国','日本']}).category,'other');
 assert.equal(classifyOrigin({tags:['国产']}).category,'china');
 assert.equal(classifyOrigin({}).category,'other');
+await import('./check-cn.mjs');
 await import('./check-update-failure.mjs');
 await import('./check-gamer.mjs');
 console.log(JSON.stringify({checks:'passed',records:catalog.items.length,mappings:catalog.items.filter(x=>x.cnId).length,scope:'Excluded short dramas, country categories and combined filters, titles/original names, date precision and advance broadcasts, ambiguous editions, source failure preservation, unique IDs, search, filters and local assets'}));
