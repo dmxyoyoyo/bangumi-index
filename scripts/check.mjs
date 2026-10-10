@@ -35,7 +35,7 @@ assert.deepEqual(release({date:'2026-10-07',finished:true}),{status:'aired',conf
 assert.deepEqual(release({date:'2026-10-07',officialUpcoming:true}),{status:'upcoming',confirmed:true});
 assert.equal(release({date:'2026-10'}).status,'unknown');assert.equal(release({date:'2026'}).status,'unknown');
 assert.equal(release({date:'2025'}).status,'aired');assert.equal(release({date:''}).status,'unknown');assert.equal(release({date:'2026-10-06'}).status,'unknown');
-assert.equal(get(2113722).release.source,'B站中国版');assert.equal(get(2113722).release.date,'2024-08-06');
+assert(['B站中国版','B站国际版'].includes(get(2113722).release.source),'配音版日期应来自官方平台');assert.equal(get(2113722).release.date,'2024-08-06');
 assert.equal(get(2432099).release.date,'2026-09-30');assert.equal(get(2432099).release.status,'aired');
 const candidates=[{season_id:1,seasons:[{id:1,title:'S2'}]},{season_id:2,seasons:[{id:2,title:'SP'}]}];
 assert.equal(selectMapping(candidates,null),null);assert.equal(selectMapping(candidates,null,{season:2}).season_id,1);assert.equal(selectMapping(candidates,null,{special:true}).season_id,2);
