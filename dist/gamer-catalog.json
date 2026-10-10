@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1902,
-    "lastSuccessfulRefresh": "2026-10-10T11:51:01.417Z",
+    "lastSuccessfulRefresh": "2026-10-10T16:25:37.267Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -332,23 +332,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114184"
     },
     {
-      "id": 114216,
-      "title": "来自远方",
-      "officialTitle": "來自遠方",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/24/0000150424.JPG",
-      "japaneseTitle": "彼方から",
-      "originalTitle": "彼方から",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/636058",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114216",
-      "date": "2026/10",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114216"
-    },
-    {
       "id": 114180,
       "title": "你好，身为魔女的我，被心上人委托制作迷情药",
       "officialTitle": "你好，身為魔女的我，被心上人委託製作迷情藥",
@@ -400,6 +383,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114209"
     },
     {
+      "id": 114216,
+      "title": "来自远方",
+      "officialTitle": "來自遠方",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/24/0000150424.JPG",
+      "japaneseTitle": "彼方から",
+      "originalTitle": "彼方から",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/636058",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114216",
+      "date": "2026/10",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114216"
+    },
+    {
       "id": 114179,
       "title": "青之芦苇 第二季",
       "officialTitle": "青之蘆葦 第二季",
@@ -432,23 +432,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114214"
-    },
-    {
-      "id": 114207,
-      "title": "至高之力",
-      "officialTitle": "至高之力",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "japaneseTitle": "バーテックスフォース",
-      "originalTitle": "バーテックスフォース",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/636512",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
-      "date": "2026/10",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
     },
     {
       "id": 114210,
@@ -500,6 +483,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114212"
+    },
+    {
+      "id": 114207,
+      "title": "至高之力",
+      "officialTitle": "至高之力",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "japaneseTitle": "バーテックスフォース",
+      "originalTitle": "バーテックスフォース",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/636512",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
+      "date": "2026/10",
+      "episodes": 2,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
     },
     {
       "id": 114211,
@@ -581,7 +581,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114206",
       "date": "2026/10",
-      "episodes": 1,
+      "episodes": 2,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114206"
@@ -598,7 +598,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/542007",
       "date": "2026/10",
-      "episodes": 2,
+      "episodes": 3,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114205"
@@ -2627,23 +2627,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113972"
     },
     {
-      "id": 113944,
-      "title": "勇者之渣",
-      "officialTitle": "勇者之渣",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000144297.JPG",
-      "japaneseTitle": "勇者のクズ",
-      "originalTitle": "勇者のクズ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/544372",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113944",
-      "date": "2026/01",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113944"
-    },
-    {
       "id": 113987,
       "title": "被邻国王太子溺爱的反派千金",
       "officialTitle": "被鄰國王太子溺愛的反派千金",
@@ -2659,6 +2642,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113987"
+    },
+    {
+      "id": 113944,
+      "title": "勇者之渣",
+      "officialTitle": "勇者之渣",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000144297.JPG",
+      "japaneseTitle": "勇者のクズ",
+      "originalTitle": "勇者のクズ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/544372",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113944",
+      "date": "2026/01",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113944"
     },
     {
       "id": 113970,
@@ -2763,6 +2763,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113985"
     },
     {
+      "id": 113983,
+      "title": "卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」",
+      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第五季「幻真星戰篇」",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000148375.JPG",
+      "japaneseTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "originalTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/591584",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113983",
+      "date": "2026/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113983"
+    },
+    {
       "id": 113958,
       "title": "高校！奇面组",
       "officialTitle": "高校！奇面組",
@@ -2795,23 +2812,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113968"
-    },
-    {
-      "id": 113983,
-      "title": "卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」",
-      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第五季「幻真星戰篇」",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000148375.JPG",
-      "japaneseTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-      "originalTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/591584",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113983",
-      "date": "2026/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113983"
     },
     {
       "id": 113966,
@@ -3868,6 +3868,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113890"
     },
     {
+      "id": 113883,
+      "title": "恶食千金与狂血公爵～那个魔物我就美美地享用了！～",
+      "officialTitle": "惡食千金與狂血公爵～那個魔物我就美美地享用了！～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000142157.JPG",
+      "japaneseTitle": "悪食令嬢と狂血公爵～その魔物、私が美味しくいただきます！～",
+      "originalTitle": "悪食令嬢と狂血公爵～その魔物、私が美味しくいただきます！～",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=142157",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113883",
+      "date": "2025/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113883"
+    },
+    {
       "id": 113902,
       "title": "差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&「给他们好看！」",
       "officialTitle": "差點在迷宮深處被信任的夥伴殺掉，但靠著天賜技能「無限扭蛋」獲得等級 9999 的夥伴，我要向前隊友和世界展開復仇＆「給他們好看！」",
@@ -3917,23 +3934,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113916"
-    },
-    {
-      "id": 113883,
-      "title": "恶食千金与狂血公爵～那个魔物我就美美地享用了！～",
-      "officialTitle": "惡食千金與狂血公爵～那個魔物我就美美地享用了！～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000142157.JPG",
-      "japaneseTitle": "悪食令嬢と狂血公爵～その魔物、私が美味しくいただきます！～",
-      "originalTitle": "悪食令嬢と狂血公爵～その魔物、私が美味しくいただきます！～",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=142157",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113883",
-      "date": "2025/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113883"
     },
     {
       "id": 113991,
@@ -4151,7 +4151,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113895",
       "date": "2025/09",
-      "episodes": 14,
+      "episodes": 15,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113895"
@@ -5483,23 +5483,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113750"
     },
     {
-      "id": 113747,
-      "title": "Summer Pockets",
-      "officialTitle": "Summer Pockets",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000140277.JPG",
-      "japaneseTitle": "サマーポケッツ",
-      "originalTitle": "サマーポケッツ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=140277",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113747",
-      "date": "2025/04",
-      "episodes": 26,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113747"
-    },
-    {
       "id": 113781,
       "title": "随兴旅－That′s Journey－",
       "officialTitle": "隨興旅－That′s Journey－",
@@ -5515,6 +5498,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113781"
+    },
+    {
+      "id": 113747,
+      "title": "Summer Pockets",
+      "officialTitle": "Summer Pockets",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000140277.JPG",
+      "japaneseTitle": "サマーポケッツ",
+      "originalTitle": "サマーポケッツ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=140277",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113747",
+      "date": "2025/04",
+      "episodes": 26,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113747"
     },
     {
       "id": 113748,
@@ -5585,23 +5585,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113770"
     },
     {
-      "id": 114063,
-      "title": "赛马娘 灰发灰姑娘",
-      "officialTitle": "賽馬娘 灰髮灰姑娘",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000141058.JPG",
-      "japaneseTitle": "ウマ娘 シンデレラグレイ",
-      "originalTitle": "ウマ娘 シンデレラグレイ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/509297",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114063",
-      "date": "2025/04",
-      "episodes": 23,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114063"
-    },
-    {
       "id": 113779,
       "title": "前桥魔女",
       "officialTitle": "前橋魔女",
@@ -5617,6 +5600,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113779"
+    },
+    {
+      "id": 114063,
+      "title": "赛马娘 灰发灰姑娘",
+      "officialTitle": "賽馬娘 灰髮灰姑娘",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000141058.JPG",
+      "japaneseTitle": "ウマ娘 シンデレラグレイ",
+      "originalTitle": "ウマ娘 シンデレラグレイ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/509297",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114063",
+      "date": "2025/04",
+      "episodes": 23,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114063"
     },
     {
       "id": 113775,
@@ -5721,23 +5721,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113763"
     },
     {
-      "id": 113764,
-      "title": "九龙大众浪漫",
-      "officialTitle": "九龍大眾浪漫",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/56/0000141856.JPG",
-      "japaneseTitle": "九龍ジェネリックロマンス",
-      "originalTitle": "九龍ジェネリックロマンス",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/518090",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/518090",
-      "date": "2025/04",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113764"
-    },
-    {
       "id": 113760,
       "title": "炎炎消防队 叁之章",
       "officialTitle": "炎炎消防隊 參之章",
@@ -5755,21 +5738,21 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113760"
     },
     {
-      "id": 113851,
-      "title": "真･武士传 YAIBA",
-      "officialTitle": "真･武士傳 YAIBA",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/20/0000139420.JPG",
-      "japaneseTitle": "真・侍伝 YAIBA",
-      "originalTitle": "真・侍伝 YAIBA",
+      "id": 113764,
+      "title": "九龙大众浪漫",
+      "officialTitle": "九龍大眾浪漫",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/56/0000141856.JPG",
+      "japaneseTitle": "九龍ジェネリックロマンス",
+      "originalTitle": "九龍ジェネリックロマンス",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=139420",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113851",
+      "originalSourceUrl": "https://bgm.tv/subject/518090",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/518090",
       "date": "2025/04",
-      "episodes": 24,
+      "episodes": 13,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113851"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113764"
     },
     {
       "id": 113761,
@@ -5787,6 +5770,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113761"
+    },
+    {
+      "id": 113851,
+      "title": "真･武士传 YAIBA",
+      "officialTitle": "真･武士傳 YAIBA",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/20/0000139420.JPG",
+      "japaneseTitle": "真・侍伝 YAIBA",
+      "originalTitle": "真・侍伝 YAIBA",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=139420",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113851",
+      "date": "2025/04",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113851"
     },
     {
       "id": 113758,
@@ -6843,6 +6843,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113670"
     },
     {
+      "id": 113632,
+      "title": "转生成猫咪的大叔",
+      "officialTitle": "轉生成貓咪的大叔",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/79/0000138279.JPG",
+      "japaneseTitle": "ねこに転生したおじさん",
+      "originalTitle": "ねこに転生したおじさん",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/484624",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113632",
+      "date": "2024/10",
+      "episodes": 48,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113632"
+    },
+    {
       "id": 113674,
       "title": "寻神的旅途",
       "officialTitle": "尋神的旅途",
@@ -6892,23 +6909,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114172"
-    },
-    {
-      "id": 113632,
-      "title": "转生成猫咪的大叔",
-      "officialTitle": "轉生成貓咪的大叔",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/79/0000138279.JPG",
-      "japaneseTitle": "ねこに転生したおじさん",
-      "originalTitle": "ねこに転生したおじさん",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/484624",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113632",
-      "date": "2024/10",
-      "episodes": 48,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113632"
     },
     {
       "id": 113664,
@@ -6962,23 +6962,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113663"
     },
     {
-      "id": 113666,
-      "title": "妻子变成小学生。",
-      "officialTitle": "妻子變成小學生。",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000130966.JPG",
-      "japaneseTitle": "妻、小学生になる。",
-      "originalTitle": "妻、小学生になる。",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/424680",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/424680",
-      "date": "2024/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113666"
-    },
-    {
       "id": 113669,
       "title": "噗妮露是可爱史莱姆",
       "officialTitle": "噗妮露是可愛史萊姆",
@@ -6994,6 +6977,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113669"
+    },
+    {
+      "id": 113666,
+      "title": "妻子变成小学生。",
+      "officialTitle": "妻子變成小學生。",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000130966.JPG",
+      "japaneseTitle": "妻、小学生になる。",
+      "originalTitle": "妻、小学生になる。",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/424680",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/424680",
+      "date": "2024/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113666"
     },
     {
       "id": 113654,
@@ -9631,23 +9631,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113494"
     },
     {
-      "id": 113855,
-      "title": "BLOODY ESCAPE：地狱的逃走剧",
-      "officialTitle": "BLOODY ESCAPE：地獄的逃走劇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000131122.JPG",
-      "japaneseTitle": "BLOODY ESCAPE -地獄の逃走劇-",
-      "originalTitle": "BLOODY ESCAPE -地獄の逃走劇-",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131122",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113855",
-      "date": "2024/01",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113855"
-    },
-    {
       "id": 113436,
       "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
       "officialTitle": "秒殺外掛太強了，異世界的傢伙們根本就不是對手。",
@@ -9663,6 +9646,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113436"
+    },
+    {
+      "id": 113855,
+      "title": "BLOODY ESCAPE：地狱的逃走剧",
+      "officialTitle": "BLOODY ESCAPE：地獄的逃走劇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000131122.JPG",
+      "japaneseTitle": "BLOODY ESCAPE -地獄の逃走劇-",
+      "originalTitle": "BLOODY ESCAPE -地獄の逃走劇-",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131122",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113855",
+      "date": "2024/01",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113855"
     },
     {
       "id": 113439,
@@ -10260,23 +10260,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113373"
     },
     {
-      "id": 113370,
-      "title": "不死不运",
-      "officialTitle": "不死不運",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000126781.JPG",
-      "japaneseTitle": "アンデッドアンラック",
-      "originalTitle": "アンデッドアンラック",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/397808",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113370",
-      "date": "2023/10",
-      "episodes": 24,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113370"
-    },
-    {
       "id": 113787,
       "title": "全力兔",
       "officialTitle": "全力兔",
@@ -10294,6 +10277,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113787"
     },
     {
+      "id": 113370,
+      "title": "不死不运",
+      "officialTitle": "不死不運",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000126781.JPG",
+      "japaneseTitle": "アンデッドアンラック",
+      "originalTitle": "アンデッドアンラック",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/397808",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113370",
+      "date": "2023/10",
+      "episodes": 24,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113370"
+    },
+    {
       "id": 113385,
       "title": "柚木家的四兄弟",
       "officialTitle": "柚木家的四兄弟",
@@ -10309,23 +10309,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113385"
-    },
-    {
-      "id": 113802,
-      "title": "少女与战车 最终章 第4话",
-      "officialTitle": "少女與戰車 最終章 第4話",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000128737.JPG",
-      "japaneseTitle": "ガールズ＆パンツァー 最終章 第4話",
-      "originalTitle": "ガールズ＆パンツァー 最終章 第4話",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/208827",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113802",
-      "date": "2023/10",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113802"
     },
     {
       "id": 113406,
@@ -10379,21 +10362,21 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113368"
     },
     {
-      "id": 113733,
-      "title": "战斗陀螺 X",
-      "officialTitle": "戰鬥陀螺 X",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000135648.JPG",
-      "japaneseTitle": "ベイブレード X",
-      "originalTitle": "ベイブレード X",
+      "id": 113802,
+      "title": "少女与战车 最终章 第4话",
+      "officialTitle": "少女與戰車 最終章 第4話",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000128737.JPG",
+      "japaneseTitle": "ガールズ＆パンツァー 最終章 第4話",
+      "originalTitle": "ガールズ＆パンツァー 最終章 第4話",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=135648",
+      "originalSourceUrl": "https://bgm.tv/subject/208827",
       "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113733",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113802",
       "date": "2023/10",
-      "episodes": 51,
-      "bilingual": true,
+      "episodes": 1,
+      "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113733"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113802"
     },
     {
       "id": 113397,
@@ -10411,6 +10394,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113397"
+    },
+    {
+      "id": 113733,
+      "title": "战斗陀螺 X",
+      "officialTitle": "戰鬥陀螺 X",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000135648.JPG",
+      "japaneseTitle": "ベイブレード X",
+      "originalTitle": "ベイブレード X",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=135648",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113733",
+      "date": "2023/10",
+      "episodes": 51,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113733"
     },
     {
       "id": 113384,
@@ -10634,23 +10634,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113361"
     },
     {
-      "id": 113393,
-      "title": "Paradox Live THE ANIMATION",
-      "officialTitle": "Paradox Live THE ANIMATION",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/79/0000128479.JPG",
-      "japaneseTitle": "Paradox Live THE ANIMATION",
-      "originalTitle": "Paradox Live THE ANIMATION",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128479",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113393",
-      "date": "2023/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113393"
-    },
-    {
       "id": 113392,
       "title": "B-PROJECT 〜热烈＊Love Call〜",
       "officialTitle": "B-PROJECT 〜熱烈＊Love Call〜",
@@ -10666,6 +10649,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113392"
+    },
+    {
+      "id": 113393,
+      "title": "Paradox Live THE ANIMATION",
+      "officialTitle": "Paradox Live THE ANIMATION",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/79/0000128479.JPG",
+      "japaneseTitle": "Paradox Live THE ANIMATION",
+      "originalTitle": "Paradox Live THE ANIMATION",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128479",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113393",
+      "date": "2023/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113393"
     },
     {
       "id": 113357,
@@ -10770,23 +10770,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113402"
     },
     {
-      "id": 113380,
-      "title": "香格里拉边境",
-      "officialTitle": "香格里拉・開拓異境～糞作獵手挑戰神作～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000125604.JPG",
-      "japaneseTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
-      "originalTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/390980",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/390980",
-      "date": "2023/10",
-      "episodes": 26,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113380"
-    },
-    {
       "id": 113381,
       "title": "队长小翼 Season2 青少年篇",
       "officialTitle": "隊長小翼 Season2 青少年篇",
@@ -10802,6 +10785,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113381"
+    },
+    {
+      "id": 113380,
+      "title": "香格里拉边境",
+      "officialTitle": "香格里拉・開拓異境～糞作獵手挑戰神作～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000125604.JPG",
+      "japaneseTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
+      "originalTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/390980",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/390980",
+      "date": "2023/10",
+      "episodes": 26,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113380"
     },
     {
       "id": 113387,
@@ -10838,23 +10838,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113371"
     },
     {
-      "id": 113366,
-      "title": "葬送的芙莉莲",
-      "officialTitle": "葬送的芙莉蓮",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000127137.JPG",
-      "japaneseTitle": "葬送のフリーレン",
-      "originalTitle": "葬送のフリーレン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/400602",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/400602",
-      "date": "2023/09",
-      "episodes": 28,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113366"
-    },
-    {
       "id": 113386,
       "title": "大小姐和看门犬",
       "officialTitle": "大小姐和看門犬",
@@ -10870,6 +10853,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113386"
+    },
+    {
+      "id": 113366,
+      "title": "葬送的芙莉莲",
+      "officialTitle": "葬送的芙莉蓮",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000127137.JPG",
+      "japaneseTitle": "葬送のフリーレン",
+      "originalTitle": "葬送のフリーレン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/400602",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/400602",
+      "date": "2023/09",
+      "episodes": 28,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113366"
     },
     {
       "id": 113365,
@@ -12759,6 +12759,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113185"
     },
     {
+      "id": 113183,
+      "title": "久保同学不放过我",
+      "officialTitle": "久保同學不放過我",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000124429.JPG",
+      "japaneseTitle": "久保さんは僕を許さない",
+      "originalTitle": "久保さんは僕を許さない",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/381793",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/381793",
+      "date": "2023/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113183"
+    },
+    {
       "id": 113182,
       "title": "妖幻三重奏",
       "officialTitle": "妖幻三重奏",
@@ -12791,23 +12808,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113212"
-    },
-    {
-      "id": 113183,
-      "title": "久保同学不放过我",
-      "officialTitle": "久保同學不放過我",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000124429.JPG",
-      "japaneseTitle": "久保さんは僕を許さない",
-      "originalTitle": "久保さんは僕を許さない",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/381793",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/381793",
-      "date": "2023/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113183"
     },
     {
       "id": 113181,
@@ -13286,23 +13286,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113227"
     },
     {
-      "id": 113077,
-      "title": "在地下城寻求邂逅是否搞错了什么 第四季",
-      "officialTitle": "在地下城尋求邂逅是否搞錯了什麼 第四季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000115681.JPG",
-      "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
-      "originalTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115681",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113077",
-      "date": "2023/01",
-      "episodes": 23,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113077"
-    },
-    {
       "id": 113190,
       "title": "别当欧尼酱了！",
       "officialTitle": "不當哥哥了！",
@@ -13318,6 +13301,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113190"
+    },
+    {
+      "id": 113077,
+      "title": "在地下城寻求邂逅是否搞错了什么 第四季",
+      "officialTitle": "在地下城尋求邂逅是否搞錯了什麼 第四季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000115681.JPG",
+      "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
+      "originalTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115681",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113077",
+      "date": "2023/01",
+      "episodes": 23,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113077"
     },
     {
       "id": 113189,
@@ -14425,23 +14425,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113123"
     },
     {
-      "id": 113099,
-      "title": "幕末替身传说",
-      "officialTitle": "幕末替身傳說",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/46/0000123546.JPG",
-      "japaneseTitle": "ブッチギレ！",
-      "originalTitle": "ブッチギレ！",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/375571",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/375571",
-      "date": "2022/07",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113099"
-    },
-    {
       "id": 113430,
       "title": "电影版残念生物事典",
       "officialTitle": "電影版殘念生物事典",
@@ -14457,6 +14440,23 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113430"
+    },
+    {
+      "id": 113099,
+      "title": "幕末替身传说",
+      "officialTitle": "幕末替身傳說",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/46/0000123546.JPG",
+      "japaneseTitle": "ブッチギレ！",
+      "originalTitle": "ブッチギレ！",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/375571",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/375571",
+      "date": "2022/07",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113099"
     },
     {
       "id": 113076,
@@ -15292,23 +15292,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113009"
     },
     {
-      "id": 113028,
-      "title": "魔法使黎明期",
-      "officialTitle": "魔法使黎明期",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000122766.JPG",
-      "japaneseTitle": "魔法使い黎明期",
-      "originalTitle": "魔法使い黎明期",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/334319",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/334319",
-      "date": "2022/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113028"
-    },
-    {
       "id": 113731,
       "title": "海豚男孩",
       "officialTitle": "海豚男孩",
@@ -15324,6 +15307,23 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113731"
+    },
+    {
+      "id": 113028,
+      "title": "魔法使黎明期",
+      "officialTitle": "魔法使黎明期",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000122766.JPG",
+      "japaneseTitle": "魔法使い黎明期",
+      "originalTitle": "魔法使い黎明期",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/334319",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/334319",
+      "date": "2022/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113028"
     },
     {
       "id": 113008,
@@ -15887,23 +15887,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112976"
     },
     {
-      "id": 112963,
-      "title": "食锈末世录",
-      "officialTitle": "食鏽末世錄",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000116264.JPG",
-      "japaneseTitle": "錆喰いビスコ",
-      "originalTitle": "錆喰いビスコ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/328447",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/328447",
-      "date": "2022/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112963"
-    },
-    {
       "id": 112968,
       "title": "佐佐木与宫野",
       "officialTitle": "佐佐木與宮野",
@@ -15919,6 +15902,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112968"
+    },
+    {
+      "id": 112963,
+      "title": "食锈末世录",
+      "officialTitle": "食鏽末世錄",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000116264.JPG",
+      "japaneseTitle": "錆喰いビスコ",
+      "originalTitle": "錆喰いビスコ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/328447",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/328447",
+      "date": "2022/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112963"
     },
     {
       "id": 112951,
@@ -16125,6 +16125,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113741"
     },
     {
+      "id": 112959,
+      "title": "东京 24 区",
+      "officialTitle": "東京 24 區",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000120351.JPG",
+      "japaneseTitle": "東京 24 区",
+      "originalTitle": "東京 24 区",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=120351",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112959",
+      "date": "2022/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112959"
+    },
+    {
       "id": 112958,
       "title": "最游记 RELOAD -ZEROIN-",
       "officialTitle": "最遊記 RELOAD -ZEROIN-",
@@ -16157,23 +16174,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112975"
-    },
-    {
-      "id": 112959,
-      "title": "东京 24 区",
-      "officialTitle": "東京 24 區",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000120351.JPG",
-      "japaneseTitle": "東京 24 区",
-      "originalTitle": "東京 24 区",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=120351",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112959",
-      "date": "2022/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112959"
     },
     {
       "id": 112960,
@@ -17281,23 +17281,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112747"
     },
     {
-      "id": 112756,
-      "title": "死神少爷与黑女仆",
-      "officialTitle": "死神少爺與黑女僕",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000115721.JPG",
-      "japaneseTitle": "死神坊ちゃんと黒メイド",
-      "originalTitle": "死神坊ちゃんと黒メイド",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/327055",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/327055",
-      "date": "2021/07",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112756"
-    },
-    {
       "id": 113870,
       "title": "勇者动画系列",
       "officialTitle": "勇者動畫系列",
@@ -17313,6 +17296,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113870"
+    },
+    {
+      "id": 112756,
+      "title": "死神少爷与黑女仆",
+      "officialTitle": "死神少爺與黑女僕",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000115721.JPG",
+      "japaneseTitle": "死神坊ちゃんと黒メイド",
+      "originalTitle": "死神坊ちゃんと黒メイド",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/327055",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/327055",
+      "date": "2021/07",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112756"
     },
     {
       "id": 112745,
@@ -19219,23 +19219,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112449"
     },
     {
-      "id": 113872,
-      "title": "蜡笔小新：激战！涂鸦王国与差不多四勇者",
-      "officialTitle": "蠟筆小新：激戰！塗鴉王國與差不多四勇者",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000107645.JPG",
-      "japaneseTitle": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
-      "originalTitle": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/291038",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113872",
-      "date": "2020/09",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113872"
-    },
-    {
       "id": 113409,
       "title": "海边的异邦人",
       "officialTitle": "海邊的異邦人",
@@ -19251,6 +19234,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113409"
+    },
+    {
+      "id": 113872,
+      "title": "蜡笔小新：激战！涂鸦王国与差不多四勇者",
+      "officialTitle": "蠟筆小新：激戰！塗鴉王國與差不多四勇者",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/45/0000107645.JPG",
+      "japaneseTitle": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
+      "originalTitle": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/291038",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113872",
+      "date": "2020/09",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113872"
     },
     {
       "id": 112724,
@@ -19899,23 +19899,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112691"
     },
     {
-      "id": 113420,
-      "title": "游戏王! SEVENS",
-      "officialTitle": "遊戲王! SEVENS",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000109339.JPG",
-      "japaneseTitle": "遊☆戯☆王 SEVENS",
-      "originalTitle": "遊☆戯☆王 SEVENS",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=109339",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113420",
-      "date": "2020/04",
-      "episodes": 92,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113420"
-    },
-    {
       "id": 109037,
       "title": "小书痴的下克上：为了成为图书管理员不择手段！第二季",
       "officialTitle": "小書痴的下剋上：為了成為圖書管理員不擇手段！第二季",
@@ -19931,6 +19914,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=109037"
+    },
+    {
+      "id": 113420,
+      "title": "游戏王! SEVENS",
+      "officialTitle": "遊戲王! SEVENS",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000109339.JPG",
+      "japaneseTitle": "遊☆戯☆王 SEVENS",
+      "originalTitle": "遊☆戯☆王 SEVENS",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=109339",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113420",
+      "date": "2020/04",
+      "episodes": 92,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113420"
     },
     {
       "id": 106728,
@@ -20239,23 +20239,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=104523"
     },
     {
-      "id": 113554,
-      "title": "奇幻怪盗 Hatena☆Illusion",
-      "officialTitle": "奇幻怪盜 Hatena☆Illusion",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000108429.JPG",
-      "japaneseTitle": "はてな☆イリュージョン",
-      "originalTitle": "はてな☆イリュージョン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=108429",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113554",
-      "date": "2020/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113554"
-    },
-    {
       "id": 108087,
       "title": "宝石商人理查德的谜鉴定",
       "officialTitle": "寶石商人理察的謎鑑定",
@@ -20271,6 +20254,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=108087"
+    },
+    {
+      "id": 113554,
+      "title": "奇幻怪盗 Hatena☆Illusion",
+      "officialTitle": "奇幻怪盜 Hatena☆Illusion",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000108429.JPG",
+      "japaneseTitle": "はてな☆イリュージョン",
+      "originalTitle": "はてな☆イリュージョン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=108429",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113554",
+      "date": "2020/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113554"
     },
     {
       "id": 102845,
@@ -20885,6 +20885,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=105309"
     },
     {
+      "id": 113066,
+      "title": "炎炎消防队",
+      "officialTitle": "炎炎消防隊",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
+      "japaneseTitle": "炎炎ノ消防隊",
+      "originalTitle": "炎炎ノ消防隊",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/266372",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/266372",
+      "date": "2019/07",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
+    },
+    {
       "id": 102289,
       "title": "女高中生的无所事事",
       "officialTitle": "女高中生的虛度日常",
@@ -20917,23 +20934,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=102494"
-    },
-    {
-      "id": 113066,
-      "title": "炎炎消防队",
-      "officialTitle": "炎炎消防隊",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
-      "japaneseTitle": "炎炎ノ消防隊",
-      "originalTitle": "炎炎ノ消防隊",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/266372",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/266372",
-      "date": "2019/07",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
     },
     {
       "id": 104065,
@@ -24897,23 +24897,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=78704"
     },
     {
-      "id": 74297,
-      "title": "甲铁城的卡巴内里",
-      "officialTitle": "甲鐵城的卡巴內里",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
-      "japaneseTitle": "甲鉄城のカバネリ",
-      "originalTitle": "甲鉄城のカバネリ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=74297",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=74297",
-      "date": "2016/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=74297"
-    },
-    {
       "id": 78883,
       "title": "线上游戏的老婆不可能是女生？",
       "officialTitle": "線上遊戲的老婆不可能是女生？",
@@ -24929,6 +24912,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=78883"
+    },
+    {
+      "id": 74297,
+      "title": "甲铁城的卡巴内里",
+      "officialTitle": "甲鐵城的卡巴內里",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
+      "japaneseTitle": "甲鉄城のカバネリ",
+      "originalTitle": "甲鉄城のカバネリ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=74297",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=74297",
+      "date": "2016/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=74297"
     },
     {
       "id": 79112,
@@ -25254,23 +25254,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=77921"
     },
     {
-      "id": 76842,
-      "title": "暗杀教室 第二季",
-      "officialTitle": "暗殺教室 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000076842.JPG",
-      "japaneseTitle": "あんさつきょうしつ 第二期",
-      "originalTitle": "あんさつきょうしつ 第二期",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76842",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/131891",
-      "date": "2016/01",
-      "episodes": 25,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=76842"
-    },
-    {
       "id": 78333,
       "title": "梦幻之星 Online 2",
       "officialTitle": "夢幻之星 Online 2",
@@ -25286,6 +25269,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=78333"
+    },
+    {
+      "id": 76842,
+      "title": "暗杀教室 第二季",
+      "officialTitle": "暗殺教室 第二季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000076842.JPG",
+      "japaneseTitle": "あんさつきょうしつ 第二期",
+      "originalTitle": "あんさつきょうしつ 第二期",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76842",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/131891",
+      "date": "2016/01",
+      "episodes": 25,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=76842"
     },
     {
       "id": 80201,
@@ -25543,23 +25543,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112609"
     },
     {
-      "id": 79364,
-      "title": "剧场版 假面骑士 Drive SURPRISE FUTURE",
-      "officialTitle": "劇場版 假面騎士 Drive SURPRISE FUTURE",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000079364.JPG",
-      "japaneseTitle": "劇場版 仮面ライダードライブ サプライズ・フューチャー",
-      "originalTitle": "劇場版 仮面ライダードライブ サプライズ・フューチャー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=79364",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=79364",
-      "date": "2015/08",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=79364"
-    },
-    {
       "id": 102036,
       "title": "手里剑战队忍忍者 THE MOVIE 恐龙殿下的惊天忍法帖！",
       "officialTitle": "手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！",
@@ -25575,6 +25558,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=102036"
+    },
+    {
+      "id": 79364,
+      "title": "剧场版 假面骑士 Drive SURPRISE FUTURE",
+      "officialTitle": "劇場版 假面騎士 Drive SURPRISE FUTURE",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000079364.JPG",
+      "japaneseTitle": "劇場版 仮面ライダードライブ サプライズ・フューチャー",
+      "originalTitle": "劇場版 仮面ライダードライブ サプライズ・フューチャー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=79364",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=79364",
+      "date": "2015/08",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=79364"
     },
     {
       "id": 112816,
@@ -26580,23 +26580,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=40982"
     },
     {
-      "id": 67071,
-      "title": "黑执事 马戏团篇",
-      "officialTitle": "黑執事 馬戲團篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/71/0000067071.JPG",
-      "japaneseTitle": "黒執事 Book of Circus",
-      "originalTitle": "黒執事 Book of Circus",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/100526",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/100526",
-      "date": "2014/07",
-      "episodes": 10,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=67071"
-    },
-    {
       "id": 112713,
       "title": "女神异闻录4 黄金版",
       "officialTitle": "女神異聞錄 4 黃金版",
@@ -26612,6 +26595,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112713"
+    },
+    {
+      "id": 67071,
+      "title": "黑执事 马戏团篇",
+      "officialTitle": "黑執事 馬戲團篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/71/0000067071.JPG",
+      "japaneseTitle": "黒執事 Book of Circus",
+      "originalTitle": "黒執事 Book of Circus",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/100526",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/100526",
+      "date": "2014/07",
+      "episodes": 10,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=67071"
     },
     {
       "id": 113232,
@@ -26631,23 +26631,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113232"
     },
     {
-      "id": 67203,
-      "title": "斩·赤红之瞳！",
-      "officialTitle": "斬！赤紅之瞳",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/03/0000067203.JPG",
-      "japaneseTitle": "アカメが斬る!",
-      "originalTitle": "アカメが斬る!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/94244",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/94244",
-      "date": "2014/07",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=67203"
-    },
-    {
       "id": 68499,
       "title": "月刊少女野崎君",
       "officialTitle": "月刊少女野崎同學",
@@ -26663,6 +26646,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=68499"
+    },
+    {
+      "id": 67203,
+      "title": "斩·赤红之瞳！",
+      "officialTitle": "斬！赤紅之瞳",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/03/0000067203.JPG",
+      "japaneseTitle": "アカメが斬る!",
+      "originalTitle": "アカメが斬る!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/94244",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/94244",
+      "date": "2014/07",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=67203"
     },
     {
       "id": 68520,
@@ -29895,6 +29895,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113144"
     },
     {
+      "id": 112577,
+      "title": "地狱少女 二笼",
+      "officialTitle": "地獄少女 二籠",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000000653.JPG",
+      "japaneseTitle": "地獄少女 二籠",
+      "originalTitle": "地獄少女 二籠",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=653",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/1261",
+      "date": "2006/10",
+      "episodes": 26,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112577"
+    },
+    {
       "id": 739,
       "title": "史上最强弟子兼一",
       "officialTitle": "史上最強弟子兼一",
@@ -29927,23 +29944,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=16040"
-    },
-    {
-      "id": 112577,
-      "title": "地狱少女 二笼",
-      "officialTitle": "地獄少女 二籠",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000000653.JPG",
-      "japaneseTitle": "地獄少女 二籠",
-      "originalTitle": "地獄少女 二籠",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=653",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/1261",
-      "date": "2006/10",
-      "episodes": 26,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112577"
     },
     {
       "id": 112770,

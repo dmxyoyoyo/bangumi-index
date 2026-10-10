@@ -5469,6 +5469,59 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "27249": {
+    "season_id": 27249,
+    "title": "但是还有书籍",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/f6114ae6a0f519883b99a4194d2a0b676aabd0a1.png",
+    "evaluate": "纪录片《但是还有书籍》由哔哩哔哩和北京小河文化传媒有限公司联合出品，该系列共有五集，每集25-30分钟。《但是还有书籍》以书为题材，力图在阅读多样化、碎片化的当下，记录这个时代形形色色的爱书之人，捕捉和书有关的那些精彩故事。希望以新鲜有趣的视角和故事，点燃观众对于书的热爱，为人们提供一份在快时代里的阅读指南。",
+    "jpTitle": "",
+    "seasonTitle": "但是还有书籍",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-12-11 19:00:00",
+      "pub_time_show": "2019年12月11日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 299985,
+    "episodeCount": 5,
+    "episodeTitles": [
+      "书海编舟记",
+      "二手书的奇幻漂流",
+      "绘本中的奇妙世界"
+    ],
+    "total": 5,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
   "27779": {
     "season_id": 27779,
     "title": "悉尼嘉年华",
@@ -7601,6 +7654,59 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "34043": {
+    "season_id": 34043,
+    "title": "书迷",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/68ac4347df74468c11cad5bbf14beffdda2574fd.png",
+    "evaluate": "讲述爱书之人的故事。从做书、开书店、淘书、贩书人等角度呈现四集内容：《一本书的诞生》，追踪一本书的诞生过程，讲述书籍设计师、作者、编辑如何合作做出一本本精彩的书；《书店风景》，寻找并记录处于快餐文化的当下仍致力于推广阅读的书店故事；《淘书迷的地图》，追随淘书人的足迹，绘制出书迷们的秘密寻宝图；《贩书记》，记录那些贩书人如何为书迷找到好的旧书，为好的旧书找到好的归宿。",
+    "jpTitle": "",
+    "seasonTitle": "书迷",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2020-07-17 12:00:00",
+      "pub_time_show": "2020年07月17日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 332337,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "一本书的诞生",
+      "书店风景",
+      "淘书迷的地图"
+    ],
+    "total": 4,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
   "34327": {
     "season_id": 34327,
     "title": "灵动：鬼影实录",
@@ -8462,6 +8568,59 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "38597": {
+    "season_id": 38597,
+    "title": "但是还有书籍 第2季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/85eaa09eee26bff57d7c1426e9bdd6aaf738ac8e.png",
+    "evaluate": "由哔哩哔哩出品，北京小河文化传媒有限公司联合出品的《但是还有书籍 第2季》，将在延续第一季内容和风格的基础上进行拓展和升级。第二季仍致力于记录那些可爱可敬、对书籍怀抱热忱的编舟者、创作者、爱书人，展现他们丰饶有趣的精神世界，定格这个时代烂漫动人的阅读风景，希望让第一季那枚点燃人们读书兴趣的小火花，继续燃烧下去。",
+    "jpTitle": "",
+    "seasonTitle": "但是还有书籍 第2季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2022-01-20 19:00:00",
+      "pub_time_show": "2022年01月20日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 451875,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "我们的图书馆",
+      "成为漫画家",
+      "词语摆渡人"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "39080": {
     "season_id": 39080,
@@ -9895,6 +10054,59 @@
     "checkedAt": "2026-10-09",
     "richCheckedAt": "2026-10-09"
   },
+  "45192": {
+    "season_id": 45192,
+    "title": "但是还有书籍3",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5d90554f29533502a7c5b9c8b9a8bfaf3bafed25.jpg",
+    "evaluate": "《但是还有书籍》第三季将以更开阔和锐利的视角，描绘这个时代书籍与人的共生图景，捕捉流量时代的阅读微光：走出书斋，和学者一起走向田野；深入生活，叩问写作者书写的理由，述说盲人群体的“但是还有书籍”；直面图书行业的困境，呈现文字工作者在流量时代的生存博弈，描绘那些即将化为纸浆的书籍的命运，讲述那些写书人、做书人、爱书人如何在信息湍流中奋力编织起一座座纸页方舟。",
+    "jpTitle": "",
+    "seasonTitle": "但是还有书籍3",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-06-23 20:00:00",
+      "pub_time_show": "2025年06月23日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1810200,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "书海逐光",
+      "写作的理由",
+      "词语摆渡人"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
   "45509": {
     "season_id": 45509,
     "title": "你好生活 第4季",
@@ -10090,8 +10302,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "45973": {
     "season_id": 45973,
@@ -10261,6 +10473,47 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "48514": {
+    "season_id": 48514,
+    "title": "2024KPL王者梦之队：时差五小时",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f68866711b7ea76e7dc5eb794632bc4553780982.jpg",
+    "evaluate": "通过综艺的拍摄形式，记录少年们认真训练赛的热血画面，走位走出国门为国争光的代表，为观众展现独有的中国电竞少年的精神风貌，除此之外在赛场外，少年们集体的群像鲜有露出，借此在团综中向大众和粉丝展现电竞少年们另一面。",
+    "jpTitle": "",
+    "seasonTitle": "2024KPL王者梦之队：时差五小时",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-08-26 21:00:00",
+      "pub_time_show": "2024年08月26日21:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 833581,
+    "episodeCount": 14,
+    "episodeTitles": [
+      "",
+      "KPL王者梦之队团综袭来！",
+      "超强一诺甩丢众人！爱思竟成“内鬼”？"
+    ],
+    "total": 14,
+    "seasons": [
+      {
+        "id": 48514,
+        "title": "第1季"
+      },
+      {
+        "id": 107920,
+        "title": "第2季"
+      },
+      {
+        "id": 289370,
+        "title": "第3季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "48578": {
     "season_id": 48578,
@@ -10591,6 +10844,47 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "107920": {
+    "season_id": 107920,
+    "title": "KPL系列团综：时差五小时2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/03a0a35d22f96a0416cbcc95857fd3fd96789059.jpg",
+    "evaluate": "《时差五小时2》聚焦15位KPL顶尖选手追寻电竞初心的故事。国内篇于舟山展开三天两夜合宿，少年们在相处中深化友谊，收获挚友后收到海外邀约。海外篇转战芭提雅，展开为期三天脑力挑战，在异国风景中探索竞技本质，展现赛场外真实面貌。节目融合音乐、友谊与竞技，打造极致电竞真人秀。",
+    "jpTitle": "",
+    "seasonTitle": "KPL系列团综：时差五小时2",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-08-18 12:00:00",
+      "pub_time_show": "2025年08月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2058985,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "KPL梦之队团综！我们回来啦！",
+      "游戏上王者，生活上青铜！23333",
+      "时差营危？爆料拍卖会来袭 瓜太猛时差党慎听！"
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 48514,
+        "title": "第1季"
+      },
+      {
+        "id": 107920,
+        "title": "第2季"
+      },
+      {
+        "id": 289370,
+        "title": "第3季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "108229": {
     "season_id": 108229,
@@ -11199,8 +11493,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "119021": {
     "season_id": 119021,
@@ -11244,8 +11538,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "124647": {
     "season_id": 124647,
@@ -21737,7 +22031,7 @@
     "title": "One Piece",
     "evaluate": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n",
     "userTitle": "海贼王",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "One Piece",
@@ -21749,13 +22043,9 @@
       "unknow_pub_date": 0,
       "weekday": 0
     },
-    "firstEpisode": 5420201,
-    "episodeCount": 1204,
-    "episodeTitles": [
-      "I'm Luffy! The Man Who Will Become the Pirate King!",
-      "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
-      "Morgan VS Luffy! Who`s This Beautiful Young Girl?"
-    ],
+    "firstEpisode": null,
+    "episodeCount": 0,
+    "episodeTitles": [],
     "total": 1204,
     "seasons": [
       {
@@ -21867,7 +22157,7 @@
         "title": "SP11"
       }
     ],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png",
     "available": true
   },
@@ -51805,7 +52095,7 @@
     "title": "Redo of Healer",
     "evaluate": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. ",
     "userTitle": "回复术士的重启人生",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Redo of Healer",
@@ -51826,7 +52116,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png",
     "available": true
   },
@@ -60835,7 +61125,7 @@
     "title": "Combatants Will Be Dispatched!",
     "evaluate": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations!\n",
     "userTitle": "战斗员派遣中",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Combatants Will Be Dispatched!",
@@ -60856,7 +61146,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png",
     "available": true
   },
@@ -62647,7 +62937,7 @@
     "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
     "evaluate": "Keiki Kiryu, an ordinary high school student who didn't have a girlfriend during his lifetime, suddenly receives a love letter, and a romantic comedy begins. The letter does not contain the sender's name, but the letter does contain white panties. In addition to finding the pervert peculiar, Keiki was desperate to have him participate in the perverted behavior of these several girls who surround him...",
     "userTitle": "只要可爱即使是变态你也会喜欢我吧？",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
@@ -62668,7 +62958,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png",
     "available": true
   },
@@ -67584,7 +67874,7 @@
     "title": "Strike the Blood",
     "evaluate": "The Fourth Primogenitor, who is the world's strongest vampire that only exists in legends. Accompanied by twelve Kenjuu and spreading calamity, rumor says that this phantom vampire appeared in Japan finally. For the purpose of observation and obliteration, the government and Lion King organization decided to dispatch an attack mage known as a Sword Shaman. However, for some reason, the one chosen for the observation was an apprentice Sword Shaman girl, Himegari Yukina. Wielding the strongest anti-primogenitor spirit spear, Yukina arrived at Demon District, Itogami City. So what is the true identity of Akatsuki Kojou, the 4th Progenitor she meets!?",
     "userTitle": "噬血狂袭",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Strike the Blood",
@@ -67605,7 +67895,7 @@
     ],
     "total": 24,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg",
     "available": true
   },
@@ -76060,7 +76350,7 @@
     "title": "Chainsaw Man",
     "evaluate": "To spend quality time with the girl he likes and lead a contented life is Denji's simple and ordinary dream. This, however, is far from the truth because Denji's fate is to be made to kill demons by the gang in order to settle his enormous debt. Turning his pet demon Pochita into a weapon, Denji will use any means necessary to make money.\n\nUnfortunately, the demon who had a deal with the gang killed him because he was no longer needed. Pochita, in a shocking turn of events, fuses with Denji's corpse and grants him the abilities of a chainsaw demon. The revived Denji uses his newfound abilities to swiftly and mercilessly eliminate his enemies. Denji gains the ability to transform certain parts of his body into a chainsaw. When the official witcher arrived on the scene, this attracted his attention, and the witcher hired Denji to work as one of them in the Public Security Bureau. Denji now has a strategy for defeating any foe, no matter how formidable, and he will go to any lengths to fulfill his simple teenage dream.",
     "userTitle": "电锯人",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Chainsaw Man",
@@ -76081,7 +76371,7 @@
     ],
     "total": 13,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png",
     "available": true
   },
@@ -77828,7 +78118,7 @@
     "title": "Onimai: I'm Now Your Sister!",
     "evaluate": "Mahiro Oyama was just a normal erotic-game-loving dude...until he woke up one morning as a girl! Turns out his mad-scientist little sister, Mihari, tried out one of her new experiments on him. But Mihari is as determined to study him as he wanted to go back to his shut-in and game-playing life... Life is going to get a whole lot weirder from here on out!",
     "userTitle": "别当欧尼酱了",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Onimai: I'm Now Your Sister!",
@@ -77849,7 +78139,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg",
     "available": true
   },
@@ -79310,7 +79600,7 @@
     "season_id": 278118,
     "title": "【Oshi No Ko】",
     "evaluate": "In the entertainment industry, lying is the weapon.\nEvery day, Goro, an obstetrician and gynecologist who works in a small city, leads a life unrelated to the entertainment business.\nYet, the idol Hoshino Ai that he \"followed\" started to move up the list of stars.\nSuch two realized their worst-case scenario, and from that point on, the wheels of fate started to turn.",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "userTitle": "我推的孩子",
     "jpTitle": "",
@@ -79341,7 +79631,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png",
     "available": true
   },
@@ -82798,7 +83088,7 @@
     "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "evaluate": "Aijou Rentarou has an excellent reputation among females but has never been able to find a girlfriend because every lady he had a crush on has categorically rejected him. Since junior high, he has gone through 100 heartbreaks. The other day, the Love God appears while Aijou prays in a shrine and predicts that she will meet 100 soulmates in high school. All the girls would pass away due to various bad circumstances if their connection with him fails. Aijou must now make the choice between love and death.",
     "userTitle": "超超超喜欢你的100个女朋友",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
@@ -82828,7 +83118,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png",
     "available": true
   },
@@ -88768,7 +89058,7 @@
     "season_id": 278723,
     "title": "Into the Mortal World",
     "evaluate": "The anime tells the tale of a god who is in charge of \"herding stars\" and his mischievous sister. This anime creatively connects weaving with the celestial bodies above, retaining the mythological aspects of traditional Chinese culture while also introducing some new ideas.",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "jpTitle": "",
     "seasonTitle": "Into the Mortal World",
     "publish": {
@@ -88784,8 +89074,9 @@
     "episodeTitles": [],
     "total": 0,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/e62c9d5614cb2f3cb99fdea7b2c5f310.png"
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/e62c9d5614cb2f3cb99fdea7b2c5f310.png",
+    "available": true
   },
   "278724": {
     "season_id": 278724,
@@ -96130,7 +96421,7 @@
     "title": "MARRIAGETOXIN",
     "evaluate": "For centuries, the \"Users\" have honed the art of killing. Among them, the most powerful and influential are the Five Great Families—most notably, the \"Poison Users.\" Hikaru Gero, a young man born into this lineage, lives as a professional assassin, having spent his life avoiding any ties to women. To him, marriage has always been a distant concept.\nBut when the head of the Gero family declares that his sister will be forced to bear an heir to preserve their bloodline, everything changes.\nAmidst this crisis, Hikaru encounters Mei Kinosaki, a brilliant marriage swindler—and his latest target.\n\nDetermined to protect his sister and resolve the succession issue, Hikaru comes up with an unexpected solution: he will marry himself. On the spot, he asks Mei to help him find a wife.\n\"That’s the first time I’ve ever heard a proposal like that.\"\nThus begins an unlikely partnership: an elite assassin and a master con artist. With Mei as his advisor, Hikaru embarks on the most difficult mission of his life—finding a bride.\n\nHis goal: the perfect marriage. A high-stakes “marriage-hunting” battle action unfolds, as this deadly duo takes on the toughest mission in the world!",
     "userTitle": "婚姻剧毒",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "MARRIAGETOXIN",
@@ -96151,7 +96442,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png",
     "available": true
   },
@@ -96738,7 +97029,7 @@
     "title": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
     "evaluate": "A concept proposed by Shimahara (40hara) of the doujin circle “Animal Machine,” later developed into a series of situational illustrations.\n\nThe works center on various character archetypes—such as maids, gyaru, office ladies, nurses, and shrine maidens—often portraying a contrast between aloof or disdainful expressions and provocative, teasing presentation. By blending these seemingly opposing elements, the series establishes a highly niche style that delivers a strong, distinctive appeal.\n\nFirst published as doujin works in 2015, the series will celebrate its 10th anniversary in 2025.\nAn anime adaptation debuted in 2018, with this title marking the fourth installment in the animated series.",
     "userTitle": "一脸嫌弃表情的妹子给你看胖次",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
@@ -96759,7 +97050,7 @@
     ],
     "total": 6,
     "seasons": [],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png",
     "available": true
   },
@@ -97884,7 +98175,7 @@
     "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "evaluate": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n\nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.",
     "userTitle": "无职转生第三季",
-    "checkedAt": "2026-10-10",
+    "checkedAt": "2026-10-11",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -97934,7 +98225,7 @@
         "title": "S3 (Thai ver.)"
       }
     ],
-    "richCheckedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
     "available": true
   },
@@ -101477,8 +101768,9 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "available": true
   },
   "286405": {
     "season_id": 286405,
@@ -102361,8 +102653,9 @@
         "title": "2026年"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "available": true
   },
   "287467": {
     "season_id": 287467,
@@ -102419,8 +102712,9 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "available": true
   },
   "287666": {
     "season_id": 287666,
@@ -102925,6 +103219,279 @@
     "available": true,
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
+  },
+  "289193": {
+    "season_id": 289193,
+    "title": "但是还有书籍（粤语版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f6114ae6a0f519883b99a4194d2a0b676aabd0a1.png",
+    "evaluate": "纪录片《但是还有书籍》由哔哩哔哩和北京小河文化传媒有限公司联合出品，该系列共有五集，每集25-30分钟。《但是还有书籍》以书为题材，力图在阅读多样化、碎片化的当下，记录这个时代形形色色的爱书之人，捕捉和书有关的那些精彩故事。希望以新鲜有趣的视角和故事，点燃观众对于书的热爱，为人们提供一份在快时代里的阅读指南。",
+    "jpTitle": "",
+    "seasonTitle": "但是还有书籍（粤语版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-25 11:00:00",
+      "pub_time_show": "08月25日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5649912,
+    "episodeCount": 5,
+    "episodeTitles": [
+      "书海编舟记",
+      "二手书的奇幻漂流",
+      "绘本中的奇妙世界"
+    ],
+    "total": 5,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289200": {
+    "season_id": 289200,
+    "title": "但是还有书籍 第2季（粤语版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/85eaa09eee26bff57d7c1426e9bdd6aaf738ac8e.png",
+    "evaluate": "由哔哩哔哩出品，北京小河文化传媒有限公司联合出品的《但是还有书籍 第2季》，将在延续第一季内容和风格的基础上进行拓展和升级。第二季仍致力于记录那些可爱可敬、对书籍怀抱热忱的编舟者、创作者、爱书人，展现他们丰饶有趣的精神世界，定格这个时代烂漫动人的阅读风景，希望让第一季那枚点燃人们读书兴趣的小火花，继续燃烧下去。",
+    "jpTitle": "",
+    "seasonTitle": "但是还有书籍 第2季（粤语版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-30 11:00:00",
+      "pub_time_show": "08月30日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5649934,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "我们的图书馆",
+      "成为漫画家",
+      "词语摆渡人"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 34043,
+        "title": "书迷"
+      },
+      {
+        "id": 27249,
+        "title": "第一季"
+      },
+      {
+        "id": 289193,
+        "title": "第一季粤语版"
+      },
+      {
+        "id": 38597,
+        "title": "第二季"
+      },
+      {
+        "id": 289200,
+        "title": "第二季粤语版"
+      },
+      {
+        "id": 45192,
+        "title": "第三季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289343": {
+    "season_id": 289343,
+    "title": "飞哥和小佛 第一季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/beed4d564c77c9b5f73e2ac1c4a048d016455f16.png",
+    "evaluate": "故事围绕一对充满想象力的兄弟飞哥和小佛展开，讲述了他们在暑假期间的奇妙冒险。精力充沛的飞哥总是有着奇思妙想，不怕困难勇于尝试，在他眼里没有什么是办不到的；行动派的小佛则是他的最佳搭档，总能完美实践飞哥的大计划。他们每天都有层出不穷的新奇点子，比如在拉山上建造姐姐的雕像；把妈妈的汽车改装成遥控赛车；发明分身机器人变形阿飞与机器佛等等……只有想不到，没有他们做不到！姐姐凯蒂丝总想着向妈妈告状，拆穿兄弟俩的冒险计划，却总是以失败收场。更出人意料的是，家里的宠物鸭嘴兽泰瑞还有另一重身份，进行着秘密行动，试图打击疯狂科学家杜芬舒斯博士的邪恶计划。兄弟俩天马行空的创造冒险，凯蒂丝屡屡失败的告密行动，再加上泰瑞与杜芬舒斯博士之间的斗智斗勇，共同上演了一系列妙趣横生的搞笑故事！\n",
+    "jpTitle": "",
+    "seasonTitle": "飞哥和小佛 第一季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-25 11:00:00",
+      "pub_time_show": "08月25日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5637822,
+    "episodeCount": 26,
+    "episodeTitles": [
+      "过山车 / 凯蒂丝的石雕头像不见了",
+      "飞哥甩尾 / 花园小矮人海滩狂欢惊魂记",
+      "江湖小子 / 夏冬天"
+    ],
+    "total": 26,
+    "seasons": [
+      {
+        "id": 289343,
+        "title": "第一季"
+      },
+      {
+        "id": 289345,
+        "title": "第一季 中文配音"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289345": {
+    "season_id": 289345,
+    "title": "飞哥和小佛 第一季 中文配音",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f361f78cd135758c8d630eada1d7d8c576b4028c.png",
+    "evaluate": "故事围绕一对充满想象力的兄弟飞哥和小佛展开，讲述了他们在暑假期间的奇妙冒险。精力充沛的飞哥总是有着奇思妙想，不怕困难勇于尝试，在他眼里没有什么是办不到的；行动派的小佛则是他的最佳搭档，总能完美实践飞哥的大计划。他们每天都有层出不穷的新奇点子，比如在拉山上建造姐姐的雕像；把妈妈的汽车改装成遥控赛车；发明分身机器人变形阿飞与机器佛等等……只有想不到，没有他们做不到！姐姐凯蒂丝总想着向妈妈告状，拆穿兄弟俩的冒险计划，却总是以失败收场。更出人意料的是，家里的宠物鸭嘴兽泰瑞还有另一重身份，进行着秘密行动，试图打击疯狂科学家杜芬舒斯博士的邪恶计划。兄弟俩天马行空的创造冒险，凯蒂丝屡屡失败的告密行动，再加上泰瑞与杜芬舒斯博士之间的斗智斗勇，共同上演了一系列妙趣横生的搞笑故事！\n",
+    "jpTitle": "",
+    "seasonTitle": "飞哥和小佛 第一季 中文配音",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-25 11:00:00",
+      "pub_time_show": "08月25日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5637943,
+    "episodeCount": 26,
+    "episodeTitles": [
+      "过山车 / 凯蒂丝的石雕头像不见了",
+      "飞哥甩尾 / 花园小矮人海滩狂欢惊魂记",
+      "江湖小子 / 夏冬天"
+    ],
+    "total": 26,
+    "seasons": [
+      {
+        "id": 289343,
+        "title": "第一季"
+      },
+      {
+        "id": 289345,
+        "title": "第一季 中文配音"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289370": {
+    "season_id": 289370,
+    "title": "KPL系列团综：时差五小时3",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/effe2bd7c3c38d9aa895a208e8c7db0a1b2aa419.jpg",
+    "evaluate": "《时差五小时3》讲述17位电竞少年暂别喧嚣赛场，在两段旅程中结伴同行的故事，他们从冰天雪地的长白山到盛夏巴黎的漫游，一起旅行撒欢，也在朝夕相处中彼此了解，共同书写属于这群电竞少年的青春成长篇章。由「冬季版」与「夏季版」两大篇章组成，一冬一夏、一内一外，构成一场跨越四季、横贯山海的少年旅行。",
+    "jpTitle": "",
+    "seasonTitle": "KPL系列团综：时差五小时3",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-30 18:00:00",
+      "pub_time_show": "08月30日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5728250,
+    "episodeCount": 13,
+    "episodeTitles": [
+      "时差3的旅途即将开始！一起出发吧~",
+      "败走华容道 关羽义释曹操",
+      "败走华容道 关羽义释曹操"
+    ],
+    "total": 9,
+    "seasons": [
+      {
+        "id": 48514,
+        "title": "第1季"
+      },
+      {
+        "id": 107920,
+        "title": "第2季"
+      },
+      {
+        "id": 289370,
+        "title": "第3季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289395": {
+    "season_id": 289395,
+    "title": "我看见两朵一样的云",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/515ade6b9189407872162603d8e3e710484e305d.png",
+    "evaluate": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？\n阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
+    "jpTitle": "",
+    "seasonTitle": "我看见两朵一样的云",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-30 10:00:00",
+      "pub_time_show": "08月30日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5603628,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
+  "289497": {
+    "season_id": 289497,
+    "title": "千门八将之群龙夺宝",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/843f4d3a02302cf025f5bb83eb4bf92c549b73da.png",
+    "evaluate": "影片以“民俗惊悚+高智商骗局”为核心，讲述了1920年代，军阀割据、列强环伺的背景下，江湖“千门”传人程阳率领“八将”，设计复杂的计谋，与各方势力围绕乾隆御制“九龙宝剑”展开争夺的故事 。影片融合了港片的快节奏叙事与内地的宏大叙事，展现民国风土与复杂人性 。",
+    "jpTitle": "",
+    "seasonTitle": "千门八将之群龙夺宝",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-25 10:00:00",
+      "pub_time_show": "08月25日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5603625,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "291150": {
     "season_id": 291150,
@@ -103882,9 +104449,10 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/7cbd6f657d8696500140f023a5f3056f.jpg"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/7cbd6f657d8696500140f023a5f3056f.jpg",
+    "available": true
   },
   "292411": {
     "season_id": 292411,
@@ -104111,9 +104679,10 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3ae035fa0e7f6b4f3269fe6aa69f2d92ebd13d4.png"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3ae035fa0e7f6b4f3269fe6aa69f2d92ebd13d4.png",
+    "available": true
   },
   "292924": {
     "season_id": 292924,
@@ -105337,8 +105906,8 @@
     "total": 25,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "326551": {
     "season_id": 326551,
@@ -105363,7 +105932,7 @@
     "total": 13,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   }
 }
