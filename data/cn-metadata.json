@@ -1,4 +1,102 @@
 {
+  "3863": {
+    "season_id": 3863,
+    "title": "镇魂街 第一季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/9f3c32186c0779c17808c6a70648563943655af8.jpg",
+    "evaluate": "普通的应届大学毕业生夏铃在求职之际，收到了一条奇怪的面试通知，因此误入罗刹街并遭到了危险，幸而被镇魂将曹焱兵搭救。然而接触中，曹焱兵却发现夏铃并非看起来那样普通，因为她的身体里也存在着灵力，并且寄宿着一位神秘的守护灵。与此同时，夏铃开始遭到不明身份刺客的追杀，曹焱兵亦被卷入其中，二人的命运从此开始了交集，而在这一切的背后，似乎还隐藏着某些更加危险的秘密……",
+    "jpTitle": "",
+    "seasonTitle": "镇魂街 第一季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2016-04-29 00:00:01",
+      "pub_time_show": "2016年4月29日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 86866,
+    "episodeCount": 24,
+    "episodeTitles": [
+      "镇魂街",
+      "兄弟",
+      "寄灵人"
+    ],
+    "total": 24,
+    "seasons": [
+      {
+        "id": 3863,
+        "title": "第一季"
+      },
+      {
+        "id": 5626,
+        "title": "第二季"
+      },
+      {
+        "id": 43547,
+        "title": "第三季"
+      },
+      {
+        "id": 48578,
+        "title": "第四季"
+      },
+      {
+        "id": 119021,
+        "title": "第五季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "5626": {
+    "season_id": 5626,
+    "title": "镇魂街 第二季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/6a762ae614e567fc5c322c8cb240bcd4d1e06969.jpg",
+    "evaluate": "罗刹街镇魂将曹焱兵和寄灵人夏铃踏上修复灵槐之路，羽林街镇魂将南御夫却受命缉拿曹焱兵，恰有菩提街镇魂将北落师门出面平息事态。但南御夫心怀鬼胎，北落师门与女孩水儿也暗藏秘密，曹焱兵和夏铃又将如何应对。菩提树下，三方命运交结，最终会涌至何处。 ",
+    "jpTitle": "",
+    "seasonTitle": "镇魂街 第二季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-12-28 20:00:00",
+      "pub_time_show": "2019年12月28日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 291268,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "故人归来",
+      "慷慨悲歌",
+      "鱼游釜中"
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 3863,
+        "title": "第一季"
+      },
+      {
+        "id": 5626,
+        "title": "第二季"
+      },
+      {
+        "id": 43547,
+        "title": "第三季"
+      },
+      {
+        "id": 48578,
+        "title": "第四季"
+      },
+      {
+        "id": 119021,
+        "title": "第五季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "23780": {
     "season_id": 23780,
     "title": "Top Gear 第25季",
@@ -7216,6 +7314,43 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "28579": {
+    "season_id": 28579,
+    "title": "宇宙的奥秘",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ef43b6f32a51487dfff245877eca7ec4a71be41d.png",
+    "evaluate": "探索不为人知的宇宙奥秘",
+    "jpTitle": "",
+    "seasonTitle": "宇宙的奥秘",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-09-18 00:00:00",
+      "pub_time_show": "2019年09月18日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 284385,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "黑洞 无穷的另一边",
+      "动态地球",
+      "超级火山"
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 28579,
+        "title": "英文原版"
+      },
+      {
+        "id": 288858,
+        "title": "中文配音版"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "30759": {
     "season_id": 30759,
     "title": "你好生活 第1季",
@@ -8458,6 +8593,76 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "39659": {
+    "season_id": 39659,
+    "title": "第一序列",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5188f5b8a775b2d72581a6f83d1228db79d2d63e.png",
+    "evaluate": "因经历过核冬天，在这里人类不再是世界的主宰，物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，但也有很多人没有进入壁垒生活，在荒野打猎为生。主人公任小粟和弟弟颜六元就是其中之一。并无血缘关系但却相依为命的兄弟二人凭借着他们顽强的意志力不断成长，并在偶然的机会下觉醒了超能力。任小粟为生计和保护家人，离开自己生活的集镇前往境山，一路遭遇狼群、人面虫、变异生物的袭击，觉醒超能力，任小粟能否在危机中逃生...",
+    "jpTitle": "",
+    "seasonTitle": "第一序列",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-07-19 12:00:00",
+      "pub_time_show": "2023年07月19日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 756189,
+    "episodeCount": 31,
+    "episodeTitles": [
+      "脑子有病",
+      "骗术",
+      "专业大夫"
+    ],
+    "total": 16,
+    "seasons": [
+      {
+        "id": 39659,
+        "title": "第一季"
+      },
+      {
+        "id": 118958,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "39668": {
+    "season_id": 39668,
+    "title": "命运拳台",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/cecd0b4a983cffb0b60758edf65afab9f3b593e9.png",
+    "evaluate": "少女阿肝为了找回失去的记忆，毅然参加了神秘的“命运拳台”，但由于在阴差阳错下使用了禁忌的机甲，因此引发出一系列风暴……",
+    "jpTitle": "",
+    "seasonTitle": "命运拳台",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-12-22 10:00:00",
+      "pub_time_show": "2023年12月22日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 789332,
+    "episodeCount": 23,
+    "episodeTitles": [
+      "我这是在哪儿？",
+      "作为搭档我很不满意！",
+      "大熊师父的秘密"
+    ],
+    "total": 12,
+    "seasons": [
+      {
+        "id": 39668,
+        "title": "第一季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "39773": {
     "season_id": 39773,
     "title": "Top Gear 第31季",
@@ -8899,6 +9104,43 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "42906": {
+    "season_id": 42906,
+    "title": "曹雪芹与红楼梦",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/5b13b1a5cec51ac87ac9d05b4870fd60f4079356.png",
+    "evaluate": "本片通过讲述曹雪芹跌宕起伏的一生和他创作《红楼梦》的艰辛过程，且从文学、史学和社会学等方面剖析《红楼梦》的内容，努力回答好“曹雪芹是什么人”“为什么《红楼梦》是中华传统文化集大成的作品”“怎样欣赏《红楼梦》”这三个主要问题。通过讲述香菱、晴雯、探春、黛玉、凤姐、宝玉这六个红楼人物的命运故事，关联曹雪芹及其家族的经历，试图全面、立体地向观众介绍《红楼梦》及其作者曹雪芹。",
+    "jpTitle": "",
+    "seasonTitle": "曹雪芹与红楼梦",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2022-08-29 18:30:00",
+      "pub_time_show": "2022年08月29日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 672947,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "一局输赢料不真",
+      "斜阳寒草带重门",
+      "生于末世运偏消"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 42906,
+        "title": "红楼梦"
+      },
+      {
+        "id": 288867,
+        "title": "西游记"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "42966": {
     "season_id": 42966,
     "title": "恶海捕蟹记 血脉篇",
@@ -9204,6 +9446,88 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "43370": {
+    "season_id": 43370,
+    "title": "今天的晚餐就是你",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5a353250c8cde0920b56238ebfa543e62ec6d91e.jpg",
+    "evaluate": "墨白身为修仙门派天机门的大弟子，天赋异禀却不好好修仙，一心只想吃遍天下美食。因缘际会中，墨白与妖怪厨师小黑、师妹星红，三人一起组成美食小队，遍历天下寻找异兽美食，却在这旅途中，无意间发现了当年人妖动乱的秘密……",
+    "jpTitle": "",
+    "seasonTitle": "今天的晚餐就是你",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-06-05 11:00:00",
+      "pub_time_show": "2024年06月05日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 817500,
+    "episodeCount": 71,
+    "episodeTitles": [
+      "美食修仙赛神仙",
+      "路遇恶兽拔刀助",
+      "怪越厉害越好吃"
+    ],
+    "total": 36,
+    "seasons": [
+      {
+        "id": 43370,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "43547": {
+    "season_id": 43547,
+    "title": "镇魂街 第三季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/dbf13f1b3a55d9adc9fe5dcfc095b9835aabdef2.jpg",
+    "evaluate": "该季讲述了，拥有“武神躯”的少年镇魂将——曹焱兵为寻父母下落，与少女夏铃、北落师门等队友，闯入灵域禁地芦花古楼，并与守卫者“风花雪月”四王展开激烈交锋的冒险故事。",
+    "jpTitle": "",
+    "seasonTitle": "镇魂街 第三季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-07-29 20:00:00",
+      "pub_time_show": "2023年07月29日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 756173,
+    "episodeCount": 31,
+    "episodeTitles": [
+      "禁林破晓",
+      "草木皆兵",
+      "幻楼烽火"
+    ],
+    "total": 16,
+    "seasons": [
+      {
+        "id": 3863,
+        "title": "第一季"
+      },
+      {
+        "id": 5626,
+        "title": "第二季"
+      },
+      {
+        "id": 43547,
+        "title": "第三季"
+      },
+      {
+        "id": 48578,
+        "title": "第四季"
+      },
+      {
+        "id": 119021,
+        "title": "第五季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
   },
   "44155": {
     "season_id": 44155,
@@ -9703,6 +10027,105 @@
     "checkedAt": "2026-10-07",
     "richCheckedAt": "2026-10-07"
   },
+  "45957": {
+    "season_id": 45957,
+    "title": "从姑获鸟开始之龙城风云",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/40b6f41baa1bb7b9ca77f6e928c082d53b3cf05d.png",
+    "evaluate": "天赋超群的习武者李阎由于身患绝症，只剩下几个月的生命。他在身陷绝境时意外遇到了一个自称“貘”的男人，被送入“阎浮果树”的一颗果实中。李阎必须在时限内完成系统发布的三个任务，并通过拳赛赚钱换取阎浮点数以购买能够治愈绝症的药剂。随着深入了解自己所在的龙渊城寨，李阎被逐渐卷入城寨内的争端，还察觉到有其他阎浮行走在暗中与自己竞争。突破重重困难后，李阎终于成功完成任务，也获得了新生。",
+    "jpTitle": "",
+    "seasonTitle": "从姑获鸟开始之龙城风云",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-06-08 12:00:00",
+      "pub_time_show": "2024年06月08日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 820899,
+    "episodeCount": 31,
+    "episodeTitles": [
+      "河间瘦虎",
+      "初入龙城",
+      "擂台扬名"
+    ],
+    "total": 16,
+    "seasons": [
+      {
+        "id": 45957,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "45964": {
+    "season_id": 45964,
+    "title": "开局地摊卖大力",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/066ac656e59acc544b63756a34e748c65fcd0cd2.jpg",
+    "evaluate": "这是一个灵气复苏，人类觉醒异能的时代。市井少年江南虽拥有罕见的“空间系”异能，却天赋垫底，靠摆地摊度日。一次意外冲突，江南从那块伴随自己三年的破地摊布上解锁了“最强地摊系统”，各种带有奇效的神奇道具随之而来，令江南的人生发生翻天覆地的变化。\n紧接着，暗夜军团、雪原刺客、灵武协会等神秘组织接连出现，一场场阴谋、冲突接踵而至。唯有江南人间清醒，在地摊系统的助力下，这个名不见经传的摆摊少年游走在各方势力之间，一路披荆斩棘，开启了一场既“癫”又“疯”、自带BUFF的英雄之旅！",
+    "jpTitle": "",
+    "seasonTitle": "开局地摊卖大力",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-07-29 00:00:01",
+      "pub_time_show": "2025年7月29日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1949616,
+    "episodeCount": 47,
+    "episodeTitles": [
+      "灵州第二空间系",
+      "百抽必中！",
+      "“我先说”"
+    ],
+    "total": 24,
+    "seasons": [
+      {
+        "id": 45964,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "45973": {
+    "season_id": 45973,
+    "title": "神之一脚",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/0b6071253692397d744bd6f39705be6c9e18fbb5.jpg",
+    "evaluate": "以拯救蓝星为目的被制造出来“最强胚胎”品翔，被寄以厚望，将在被设定好的时间设定好的地点设定好的足球比赛中，一脚拯救世界！可他点错天赋，熟练的掌握了各种无关紧要的技能，除了足球......",
+    "jpTitle": "",
+    "seasonTitle": "神之一脚",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-04-08 11:00:00",
+      "pub_time_show": "2024年04月08日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 817352,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "最强胚胎养成计划一波三折",
+      "拯救世界首先从加入足球社做起",
+      "总之先来一场篮球赛吧"
+    ],
+    "total": 12,
+    "seasons": [
+      {
+        "id": 45973,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "48024": {
     "season_id": 48024,
     "title": "地球",
@@ -9838,6 +10261,55 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "48578": {
+    "season_id": 48578,
+    "title": "镇魂街 第四季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/22c53b77405270b079b95ad6400d6d6bfd1de377.jpg",
+    "evaluate": "曹焱兵一行因芦花古楼的覆灭被皇甫龙斗领导的天罡龙棋将栽赃嫁祸，全员受到灵域的通缉，在经过“天武街”和“风雷街”时，他们分别遭遇了王国组织的第三骑士红莲与第十骑士凯米拉。其后，曹焱兵为探寻母亲下落，故意被缉拿至由群英殿镇守的死牢“千机黑刹”。而其伙伴们为救曹焱兵，在多方驰援下，各方势力齐聚群英殿，展开了一场精彩绝伦的群英荟萃之战。",
+    "jpTitle": "",
+    "seasonTitle": "镇魂街 第四季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-11-22 20:00:00",
+      "pub_time_show": "2024年11月22日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1114870,
+    "episodeCount": 51,
+    "episodeTitles": [
+      "不归路",
+      "南无地",
+      "敌与友"
+    ],
+    "total": 26,
+    "seasons": [
+      {
+        "id": 3863,
+        "title": "第一季"
+      },
+      {
+        "id": 5626,
+        "title": "第二季"
+      },
+      {
+        "id": 43547,
+        "title": "第三季"
+      },
+      {
+        "id": 48578,
+        "title": "第四季"
+      },
+      {
+        "id": 119021,
+        "title": "第五季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
   },
   "74497": {
     "season_id": 74497,
@@ -10696,6 +11168,84 @@
     ],
     "checkedAt": "2026-10-08",
     "richCheckedAt": "2026-10-08"
+  },
+  "118958": {
+    "season_id": 118958,
+    "title": "第一序列 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fe0d93b9b9bc94182dd7fffdd98c16f89db13dec.jpg",
+    "evaluate": "核冬天降临，文明崩塌，人类不再是世界的主宰。物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，而壁垒之外，只能靠血与火活下去。主人公任小粟和弟弟颜六元就是其中之一。他们本是荒野上最普通的少年，没有庇护，没有退路，他们唯一能依靠的，只有彼此。可命运却在绝境中赐予他们觉醒的力量。\n\n境山大地震，113号壁垒轰然坍塌，末世乱局彻底揭开。逃亡途中，任小粟带着家人救下军方首脑罗岚，从此踏入109号壁垒，新的生活即将开启，然而真正的考验才刚刚开始…… ",
+    "jpTitle": "",
+    "seasonTitle": "第一序列 第二季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-12-17 11:00:00",
+      "pub_time_show": "12月17日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 39659,
+        "title": "第一季"
+      },
+      {
+        "id": 118958,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "119021": {
+    "season_id": 119021,
+    "title": "镇魂街 第五季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fdebaf94f010f6a5ecb1ac80bcd0b2cca9f258a6.png",
+    "evaluate": "镇魂街世界纷争四起，各方势力蠢蠢欲动，曹、孙、刘三方精诚合作势不可挡，群英殿遭遇重创，灵域统治岌岌可危，无数英雄崭露头角，而新的危机在王国组织的野心之下即将爆发。在镇魂街的世界，谁都敢说“不！”曹焱兵的成王之路就此正式开启！ ",
+    "jpTitle": "",
+    "seasonTitle": "镇魂街 第五季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-12-11 11:00:00",
+      "pub_time_show": "12月11日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 30,
+    "seasons": [
+      {
+        "id": 3863,
+        "title": "第一季"
+      },
+      {
+        "id": 5626,
+        "title": "第二季"
+      },
+      {
+        "id": 43547,
+        "title": "第三季"
+      },
+      {
+        "id": 48578,
+        "title": "第四季"
+      },
+      {
+        "id": 119021,
+        "title": "第五季"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
   },
   "124647": {
     "season_id": 124647,
@@ -21187,7 +21737,7 @@
     "title": "One Piece",
     "evaluate": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n",
     "userTitle": "海贼王",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "One Piece",
@@ -21317,8 +21867,9 @@
         "title": "SP11"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png",
+    "available": true
   },
   "272784": {
     "season_id": 272784,
@@ -51254,7 +51805,7 @@
     "title": "Redo of Healer",
     "evaluate": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. ",
     "userTitle": "回复术士的重启人生",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Redo of Healer",
@@ -51275,8 +51826,9 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png",
+    "available": true
   },
   "275320": {
     "season_id": 275320,
@@ -60283,7 +60835,7 @@
     "title": "Combatants Will Be Dispatched!",
     "evaluate": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations!\n",
     "userTitle": "战斗员派遣中",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Combatants Will Be Dispatched!",
@@ -60304,8 +60856,9 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png",
+    "available": true
   },
   "276954": {
     "season_id": 276954,
@@ -62094,7 +62647,7 @@
     "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
     "evaluate": "Keiki Kiryu, an ordinary high school student who didn't have a girlfriend during his lifetime, suddenly receives a love letter, and a romantic comedy begins. The letter does not contain the sender's name, but the letter does contain white panties. In addition to finding the pervert peculiar, Keiki was desperate to have him participate in the perverted behavior of these several girls who surround him...",
     "userTitle": "只要可爱即使是变态你也会喜欢我吧？",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
@@ -62115,8 +62668,9 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png",
+    "available": true
   },
   "277066": {
     "season_id": 277066,
@@ -67030,7 +67584,7 @@
     "title": "Strike the Blood",
     "evaluate": "The Fourth Primogenitor, who is the world's strongest vampire that only exists in legends. Accompanied by twelve Kenjuu and spreading calamity, rumor says that this phantom vampire appeared in Japan finally. For the purpose of observation and obliteration, the government and Lion King organization decided to dispatch an attack mage known as a Sword Shaman. However, for some reason, the one chosen for the observation was an apprentice Sword Shaman girl, Himegari Yukina. Wielding the strongest anti-primogenitor spirit spear, Yukina arrived at Demon District, Itogami City. So what is the true identity of Akatsuki Kojou, the 4th Progenitor she meets!?",
     "userTitle": "噬血狂袭",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Strike the Blood",
@@ -67051,8 +67605,9 @@
     ],
     "total": 24,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg",
+    "available": true
   },
   "277523": {
     "season_id": 277523,
@@ -75505,7 +76060,7 @@
     "title": "Chainsaw Man",
     "evaluate": "To spend quality time with the girl he likes and lead a contented life is Denji's simple and ordinary dream. This, however, is far from the truth because Denji's fate is to be made to kill demons by the gang in order to settle his enormous debt. Turning his pet demon Pochita into a weapon, Denji will use any means necessary to make money.\n\nUnfortunately, the demon who had a deal with the gang killed him because he was no longer needed. Pochita, in a shocking turn of events, fuses with Denji's corpse and grants him the abilities of a chainsaw demon. The revived Denji uses his newfound abilities to swiftly and mercilessly eliminate his enemies. Denji gains the ability to transform certain parts of his body into a chainsaw. When the official witcher arrived on the scene, this attracted his attention, and the witcher hired Denji to work as one of them in the Public Security Bureau. Denji now has a strategy for defeating any foe, no matter how formidable, and he will go to any lengths to fulfill his simple teenage dream.",
     "userTitle": "电锯人",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Chainsaw Man",
@@ -75526,8 +76081,9 @@
     ],
     "total": 13,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png",
+    "available": true
   },
   "278014": {
     "season_id": 278014,
@@ -77272,7 +77828,7 @@
     "title": "Onimai: I'm Now Your Sister!",
     "evaluate": "Mahiro Oyama was just a normal erotic-game-loving dude...until he woke up one morning as a girl! Turns out his mad-scientist little sister, Mihari, tried out one of her new experiments on him. But Mihari is as determined to study him as he wanted to go back to his shut-in and game-playing life... Life is going to get a whole lot weirder from here on out!",
     "userTitle": "别当欧尼酱了",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Onimai: I'm Now Your Sister!",
@@ -77293,8 +77849,9 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg",
+    "available": true
   },
   "278076": {
     "season_id": 278076,
@@ -78753,7 +79310,7 @@
     "season_id": 278118,
     "title": "【Oshi No Ko】",
     "evaluate": "In the entertainment industry, lying is the weapon.\nEvery day, Goro, an obstetrician and gynecologist who works in a small city, leads a life unrelated to the entertainment business.\nYet, the idol Hoshino Ai that he \"followed\" started to move up the list of stars.\nSuch two realized their worst-case scenario, and from that point on, the wheels of fate started to turn.",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "userTitle": "我推的孩子",
     "jpTitle": "",
@@ -78784,8 +79341,9 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png",
+    "available": true
   },
   "278119": {
     "season_id": 278119,
@@ -82240,7 +82798,7 @@
     "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "evaluate": "Aijou Rentarou has an excellent reputation among females but has never been able to find a girlfriend because every lady he had a crush on has categorically rejected him. Since junior high, he has gone through 100 heartbreaks. The other day, the Love God appears while Aijou prays in a shrine and predicts that she will meet 100 soulmates in high school. All the girls would pass away due to various bad circumstances if their connection with him fails. Aijou must now make the choice between love and death.",
     "userTitle": "超超超喜欢你的100个女朋友",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
@@ -82270,8 +82828,9 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png",
+    "available": true
   },
   "278352": {
     "season_id": 278352,
@@ -95571,7 +96130,7 @@
     "title": "MARRIAGETOXIN",
     "evaluate": "For centuries, the \"Users\" have honed the art of killing. Among them, the most powerful and influential are the Five Great Families—most notably, the \"Poison Users.\" Hikaru Gero, a young man born into this lineage, lives as a professional assassin, having spent his life avoiding any ties to women. To him, marriage has always been a distant concept.\nBut when the head of the Gero family declares that his sister will be forced to bear an heir to preserve their bloodline, everything changes.\nAmidst this crisis, Hikaru encounters Mei Kinosaki, a brilliant marriage swindler—and his latest target.\n\nDetermined to protect his sister and resolve the succession issue, Hikaru comes up with an unexpected solution: he will marry himself. On the spot, he asks Mei to help him find a wife.\n\"That’s the first time I’ve ever heard a proposal like that.\"\nThus begins an unlikely partnership: an elite assassin and a master con artist. With Mei as his advisor, Hikaru embarks on the most difficult mission of his life—finding a bride.\n\nHis goal: the perfect marriage. A high-stakes “marriage-hunting” battle action unfolds, as this deadly duo takes on the toughest mission in the world!",
     "userTitle": "婚姻剧毒",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "MARRIAGETOXIN",
@@ -95592,8 +96151,9 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png",
+    "available": true
   },
   "281544": {
     "season_id": 281544,
@@ -96178,7 +96738,7 @@
     "title": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
     "evaluate": "A concept proposed by Shimahara (40hara) of the doujin circle “Animal Machine,” later developed into a series of situational illustrations.\n\nThe works center on various character archetypes—such as maids, gyaru, office ladies, nurses, and shrine maidens—often portraying a contrast between aloof or disdainful expressions and provocative, teasing presentation. By blending these seemingly opposing elements, the series establishes a highly niche style that delivers a strong, distinctive appeal.\n\nFirst published as doujin works in 2015, the series will celebrate its 10th anniversary in 2025.\nAn anime adaptation debuted in 2018, with this title marking the fourth installment in the animated series.",
     "userTitle": "一脸嫌弃表情的妹子给你看胖次",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
@@ -96199,8 +96759,9 @@
     ],
     "total": 6,
     "seasons": [],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png",
+    "available": true
   },
   "281622": {
     "season_id": 281622,
@@ -97323,7 +97884,7 @@
     "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "evaluate": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n\nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.",
     "userTitle": "无职转生第三季",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-10",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -97373,8 +97934,9 @@
         "title": "S3 (Thai ver.)"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png"
+    "richCheckedAt": "2026-10-10",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
+    "available": true
   },
   "282343": {
     "season_id": 282343,
@@ -102290,6 +102852,80 @@
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
   },
+  "288858": {
+    "season_id": 288858,
+    "title": "宇宙的奥秘（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fac3c4e83d8c00dba9345a9ad5e3be03406ce11e.png",
+    "evaluate": "人类作为宇宙中一个独特的存在，总是会询问宇宙是什么，也在不断寻找答案。为什么宇宙会孕育出我们这个美丽独特的星球？宇宙中那些美丽而又危险的领域到底隐藏了什么秘密？人类最终是否会有一天可以探索黑洞，探索宇宙的边缘，去揭开这个未知世界的神秘面纱？本纪录片从不同方面介绍了宇宙的相关知识。想要揭开了面纱的一角窥视宇宙的奇妙之处，尽在《宇宙的奥秘》。",
+    "jpTitle": "",
+    "seasonTitle": "宇宙的奥秘（中配版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-24 21:00:00",
+      "pub_time_show": "08月24日21:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5642716,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "黑洞 无穷的另一边",
+      "动态地球",
+      "超级火山"
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 28579,
+        "title": "英文原版"
+      },
+      {
+        "id": 288858,
+        "title": "中文配音版"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "288867": {
+    "season_id": 288867,
+    "title": "吴承恩与西游记",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/67d4c2389730681db0e183c897e9786d65ca390d.png",
+    "evaluate": "漫漫取经路，一部不朽书。本片深入历史和传奇，探寻作者吴承恩如何凭个人才华，将坎坷人生与时代风貌，倾注为笔下的神魔世界。本片不仅解读了唐僧师徒鲜明的角色密码与深厚的文化根源，更展现了“三界”神话体系背后的惊人想象力，映射明代社会百态的宏大寓言和深刻批判。从“世德堂”书稿到风靡全球的超级文化符号，这部经典如何跨越时空，成为戏剧、影视乃至生活的灵感源泉？本片将为您揭晓一部杰作从诞生到永生的传奇旅程。",
+    "jpTitle": "",
+    "seasonTitle": "吴承恩与西游记",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-28 12:00:00",
+      "pub_time_show": "08月28日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5695078,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "世间岂谓无英雄",
+      "人生是一场历练",
+      "神仙妖魔众生相"
+    ],
+    "total": 4,
+    "seasons": [
+      {
+        "id": 42906,
+        "title": "红楼梦"
+      },
+      {
+        "id": 288867,
+        "title": "西游记"
+      }
+    ],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
   "291150": {
     "season_id": 291150,
     "title": "天网：无所遁形",
@@ -104675,6 +105311,58 @@
     ],
     "total": 13,
     "seasons": [],
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "324859": {
+    "season_id": 324859,
+    "title": "Nia Liston: The Merciless Maiden",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/ade6bcd2a905c6d3c6c44157e7cfcc3f.jpg",
+    "evaluate": "“If I had to die anyway, I would have rather died fighting.”\n\nOnce a great hero who even accomplished the slaying of a god, he dreams of meeting an opponent powerful enough to kill him at the moment of his death. But what awaits him is reincarnation as a frail noblewoman.\n\nReborn as the beautiful yet sickly noble lady, she seeks out the strong and throws herself joyfully into battle in her second life!",
+    "jpTitle": "",
+    "seasonTitle": "Nia Liston: The Merciless Maiden",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-06 20:55:00",
+      "pub_time_show": "10月06日20:55",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6552369,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "Emerge From the Darkness"
+    ],
+    "total": 25,
+    "seasons": [],
+    "available": true,
+    "checkedAt": "2026-10-10",
+    "richCheckedAt": "2026-10-10"
+  },
+  "326551": {
+    "season_id": 326551,
+    "title": "Even the Student Council Has Its Holes!",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/2298518b5109f5712c8ebb60945945de.jpg",
+    "evaluate": "On the outskirts of town stands a prestigious private school, Fujinari Academy.\n\nFirst-year high school student Ume Mizunoe excels in literature, having won numerous literary awards and the like. However, his grades in science and mathematics are so abysmal that they could actually prevent him from advancing to the next year. In order to avoid repeating a year and improve his school record, he decides to join the student council.\n\nHowever, the student council he joins is filled with some rather unusual characters. With such a wonderfully odd assortment of personalities all gathered in one place, what kind of story will unfold...?",
+    "jpTitle": "",
+    "seasonTitle": "Even the Student Council Has Its Holes!",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-05 22:00:00",
+      "pub_time_show": "10月05日22:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6590159,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "Even a Cocky Little Brat Has a Hole"
+    ],
+    "total": 13,
+    "seasons": [],
+    "available": true,
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
   }
