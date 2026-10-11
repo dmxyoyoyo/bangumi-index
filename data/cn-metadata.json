@@ -10303,7 +10303,9 @@
     ],
     "available": true,
     "checkedAt": "2026-10-11",
-    "richCheckedAt": "2026-10-11"
+    "richCheckedAt": "2026-10-11",
+    "firstEpisodePublishedAt": 1753754401000,
+    "type": 4
   },
   "45973": {
     "season_id": 45973,
@@ -11539,7 +11541,9 @@
     ],
     "available": true,
     "checkedAt": "2026-10-11",
-    "richCheckedAt": "2026-10-11"
+    "richCheckedAt": "2026-10-11",
+    "firstEpisodePublishedAt": null,
+    "type": 4
   },
   "124647": {
     "season_id": 124647,
@@ -66238,7 +66242,7 @@
     "season_id": 277249,
     "title": "The Heike Story",
     "evaluate": "\"The sound of the Gion Shōja bells echoes the impermanence of all things; the color of the sāla flowers reveals the truth that prosperity must decline\".\nAt the end of the Heian period, the Heike clan was on the verge of peak prosperity in terms of power, military power, and financial strength.\nTaira Shigemori, a man who can see the spirits, meets Biwa, a magical girl who can see the future and predict the fall of the Heike family.\nA historical shift of Japan from aristocratic society to samurai society, indicating the start of 15 years turbulent period.",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
     "jpTitle": "",
     "seasonTitle": "The Heike Story",
     "publish": {
@@ -66258,7 +66262,11 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-06"
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/491a92455497c8e080e4e5fab4e34922.jpg",
+    "firstEpisodePublishedAt": 1631718000000,
+    "type": 1,
+    "available": true
   },
   "277251": {
     "season_id": 277251,
@@ -66470,7 +66478,7 @@
     "season_id": 277260,
     "title": "The Heike Story",
     "evaluate": "\"The sound of the Gion Shōja bells echoes the impermanence of all things; the color of the sāla flowers reveals the truth that prosperity must decline\".\nAt the end of the Heian period, the Heike clan was on the verge of peak prosperity in terms of power, military power, and financial strength.\nTaira Shigemori, a man who can see the spirits, meets Biwa, a magical girl who can see the future and predict the fall of the Heike family.\nA historical shift of Japan from aristocratic society to samurai society, indicating the start of 15 years turbulent period.",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
     "jpTitle": "",
     "seasonTitle": "The Heike Story",
     "publish": {
@@ -66490,7 +66498,11 @@
     ],
     "total": 11,
     "seasons": [],
-    "richCheckedAt": "2026-10-06"
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/491a92455497c8e080e4e5fab4e34922.jpg",
+    "firstEpisodePublishedAt": 1631718000000,
+    "type": 1,
+    "available": true
   },
   "277263": {
     "season_id": 277263,
@@ -77468,7 +77480,7 @@
     "season_id": 278052,
     "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "evaluate": "Second season of BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.\n\nAfter an enthusiastic invitation from her friend, Kaede Honjou reluctantly agrees to try New World Online: a very popular VRMMO played by thousands of people across Japan. Naming her in-game character Maple, she sets out on her journey. As a complete novice to such games, she allocates all of her stat points into vitality, desiring to not get hurt. With not a single point in any other stat, Maple has extraordinarily high defense, but she can't move quickly or hit hard.\n\nDespite her overpowered character, Kaede has much to learn. As she progresses through the game, she meets new friends and acquaintances, helping her complete new levels and events. Through all of her adventures, she may even pick up some other crazy skills that exceed all expectations.",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
     "jpTitle": "",
     "seasonTitle": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "publish": {
@@ -77513,8 +77525,11 @@
         "title": "S2 Dub Indo"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/8640eef8c452869a6cc753383033cc4a.png"
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/8640eef8c452869a6cc753383033cc4a.png",
+    "firstEpisodePublishedAt": 1673451000000,
+    "type": 1,
+    "available": true
   },
   "278053": {
     "season_id": 278053,
@@ -98227,7 +98242,9 @@
     ],
     "richCheckedAt": "2026-10-11",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
-    "available": true
+    "available": true,
+    "firstEpisodePublishedAt": 1783162800000,
+    "type": 1
   },
   "282343": {
     "season_id": 282343,
@@ -98260,7 +98277,7 @@
     "season_id": 282344,
     "title": "The World’s Strongest Rearguard",
     "evaluate": "After dying in a bizarre bus accident, overworked salaryman Arihito Atobe is reincarnated into a fantasy world as a Seeker. There, he discovers a rare class known as the Rearguard, a support specialist capable of boosting his party's offense, defense, and healing abilities.\n\nAs if that weren't enough, his unique position at the back of the formation naturally increases his companions' affection for him. Free from the grind of corporate life, Arihito sets out on a brand-new adventure with an all-female party and a second chance at happiness.",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-11",
     "jpTitle": "",
     "seasonTitle": "The World’s Strongest Rearguard",
     "publish": {
@@ -98289,7 +98306,11 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-06"
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/cf5827d9044ec63171ef2eb1fc283790.png",
+    "firstEpisodePublishedAt": 1783256400000,
+    "type": 1,
+    "available": true
   },
   "282345": {
     "season_id": 282345,
@@ -99862,9 +99883,12 @@
         "title": "OVA2"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/f912813d800ffaa4477008f4cb7ac70e.png"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/f912813d800ffaa4477008f4cb7ac70e.png",
+    "firstEpisodePublishedAt": 1657252800000,
+    "type": 1,
+    "available": true
   },
   "283616": {
     "season_id": 283616,
@@ -99888,8 +99912,11 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11",
+    "firstEpisodePublishedAt": 1608873169000,
+    "type": 1,
+    "available": true
   },
   "283627": {
     "season_id": 283627,
@@ -104992,6 +105019,36 @@
     "checkedAt": "2026-10-07",
     "richCheckedAt": "2026-10-07"
   },
+  "306788": {
+    "season_id": 306788,
+    "title": "The World’s Strongest Rearguard",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/cf5827d9044ec63171ef2eb1fc283790.png",
+    "evaluate": "After dying in a bizarre bus accident, overworked salaryman Arihito Atobe is reincarnated into a fantasy world as a Seeker. There, he discovers a rare class known as the Rearguard, a support specialist capable of boosting his party's offense, defense, and healing abilities.\n\nAs if that weren't enough, his unique position at the back of the formation naturally increases his companions' affection for him. Free from the grind of corporate life, Arihito sets out on a brand-new adventure with an all-female party and a second chance at happiness.",
+    "jpTitle": "",
+    "seasonTitle": "The World’s Strongest Rearguard",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-06 21:00:00",
+      "pub_time_show": "09月06日21:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6058786,
+    "firstEpisodePublishedAt": 1788699600000,
+    "type": 1,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 12,
+    "seasons": [],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
+  },
   "309659": {
     "season_id": 309659,
     "title": "进化（中配版）",
@@ -105394,6 +105451,36 @@
     ],
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
+  },
+  "319971": {
+    "season_id": 319971,
+    "title": "Kaiju No. 8 Original Short Anime \"Narumi's Week at Work\"",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/487d28d39bd58e639406e8af4e85ac16.png",
+    "evaluate": "Kafka has been chasing his dream to join the Defense Force. The captain of the Defense Force, Gen Narumi, has a very different kind of daily battle. Between skipping meetings, dodging paperwork, and getting caught up in unexpected trouble, even the strongest warrior can't escape the chaos of everyday life. Get ready to see a whole new side of Narumi in this hilarious new chapter of Kaiju No.8!",
+    "jpTitle": "",
+    "seasonTitle": "Kaiju No. 8 Original Short Anime \"Narumi's Week at Work\"",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-26 19:00:00",
+      "pub_time_show": "09月26日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6429113,
+    "firstEpisodePublishedAt": 1790420400000,
+    "type": 1,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "The Platoon Leader's Real Feelings",
+      "The Vice-Captain's Troubles",
+      "That Person From the West"
+    ],
+    "total": 4,
+    "seasons": [],
+    "available": true,
+    "checkedAt": "2026-10-11",
+    "richCheckedAt": "2026-10-11"
   },
   "320235": {
     "season_id": 320235,

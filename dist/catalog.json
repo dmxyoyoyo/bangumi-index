@@ -41,12 +41,10 @@
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2205,
-      "not-found": 11,
-      "ambiguous": 3,
-      "upcoming": 1
+      "confirmed": 2213,
+      "not-found": 7
     },
-    "lastSuccessfulRefresh": "2026-10-11T01:54:32.971Z"
+    "lastSuccessfulRefresh": "2026-10-11T15:36:35.016Z"
   },
   "items": [
     {
@@ -8019,15 +8017,15 @@
       "japaneseTitle": "ファンタジスタドール",
       "originalName": "ファンタジスタドール",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 46826,
-      "nameSourceUrl": "https://bgm.tv/subject/46826",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34801&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2013-07-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/46826",
+        "date": "2013-07-05",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34801&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -8038,7 +8036,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/b87cad66f654dde86ce4948ae06b553b15986b7e.png"
     },
     {
@@ -10554,15 +10552,15 @@
       "japaneseTitle": "中間管理録トネガワ",
       "originalName": "中間管理録トネガワ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 237834,
-      "nameSourceUrl": "https://bgm.tv/subject/237834",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34876&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2018-07-03",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/237834",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34876&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -10573,12 +10571,12 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/befceca71b55a33d1c43c57298e31d15.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/7a047ef27a23e5150d855b7b75595898c1373f7f.png"
     },
     {
       "intlId": 34877,
-      "title": "只要贝尔哲布布大小姐喜欢就好。",
+      "title": "只要别西卜大小姐喜欢就好",
       "regions": [],
       "regionSource": "official",
       "cnId": 273393,
@@ -10607,15 +10605,15 @@
       "japaneseTitle": "ベルゼブブ嬢のお気に召すまま。",
       "originalName": "ベルゼブブ嬢のお気に召すまま。",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 242633,
-      "nameSourceUrl": "https://bgm.tv/subject/242633",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34877&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2018-10-10",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/242633",
+        "date": "2018-10-09",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34877&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -10626,8 +10624,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/99ebe3fc829de80ef457a132d9c122b2.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/5e1fd69cbc032a2f3b91f77f3d83e345d90b01a3.png"
     },
     {
       "intlId": 34878,
@@ -17518,15 +17516,15 @@
       "japaneseTitle": "未確認で進行形",
       "originalName": "未確認で進行形",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 83869,
-      "nameSourceUrl": "https://bgm.tv/subject/83869",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35087&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2014-01-08",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/83869",
+        "date": "2014-01-07",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35087&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -17537,8 +17535,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/4a6b25662b64e32600afff8dbc931440.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/5e65660286607dbb80ab045e576a7d3e5faf4740.png"
     },
     {
       "intlId": 35088,
@@ -27288,15 +27286,15 @@
       "japaneseTitle": "結城友奈は勇者である",
       "originalName": "結城友奈は勇者である",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 109328,
-      "nameSourceUrl": "https://bgm.tv/subject/109328",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35482&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2014-10-16",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/109328",
+        "date": "2014-10-15",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35482&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -27307,8 +27305,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/b733001619be41d8f6b242a34319f634.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/173434ad8e882d0e24eb2479dec12ce8ae115ed5.jpg"
     },
     {
       "intlId": 35483,
@@ -36759,10 +36757,10 @@
     },
     {
       "intlId": 35943,
-      "title": "灵能百分百 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～",
+      "title": "路人超能100 第一回灵能相谈所犒劳旅行～心满意足的治愈之旅～",
       "regions": [],
       "regionSource": "official",
-      "cnId": null,
+      "cnId": 283615,
       "officialTitle": "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart ",
       "aliases": [
         "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
@@ -36778,9 +36776,9 @@
       "japaneseTitle": "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
       "originalName": "モブサイコ100 第一回霊とか相談所慰安旅行～ココロ満たす癒やしの旅～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 279700,
-      "nameSourceUrl": "https://bgm.tv/subject/279700",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35943&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -36791,8 +36789,8 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已找到同名中国版候选，但简介不一致或资料不足，暂不自动确认对应关系。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
         "candidateIds": [
           283615
@@ -36800,7 +36798,14 @@
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/d6cc966f021f3fff5c6f39bc816de2f9b9ce1065.png"
+      "cover": "https://pic.bstarstatic.com/ogv/d6cc966f021f3fff5c6f39bc816de2f9b9ce1065.png",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=283615",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35943"
+      }
     },
     {
       "intlId": 35957,
@@ -37826,9 +37831,9 @@
       "japaneseTitle": "時をかける少女",
       "originalName": "時をかける少女",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 242,
-      "nameSourceUrl": "https://bgm.tv/subject/242",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36148&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -38075,9 +38080,9 @@
       "japaneseTitle": "這いよれ! ニャル子さん",
       "originalName": "這いよれ! ニャル子さん",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 24508,
-      "nameSourceUrl": "https://bgm.tv/subject/24508",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36184&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -47205,10 +47210,10 @@
     },
     {
       "intlId": 36728,
-      "title": "剧场版宝可梦 超级愿望: 神速的盖诺赛克特 超梦觉醒",
+      "title": "剧场版 精灵宝可梦超级愿望—最终章—：神速的盖诺赛克特 超梦觉醒",
       "regions": [],
       "regionSource": "official",
-      "cnId": null,
+      "cnId": 283616,
       "officialTitle": "Theatrical version of Pokémon Super Wish-The Final Chapter -: The awakening of the super dream of Genosect",
       "aliases": [
         "劇場版ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
@@ -47229,9 +47234,9 @@
       "japaneseTitle": "劇場版ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
       "originalName": "劇場版ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 56842,
-      "nameSourceUrl": "https://bgm.tv/subject/56842",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36728&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -47242,8 +47247,8 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已找到同名中国版候选，但简介不一致或资料不足，暂不自动确认对应关系。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
         "candidateIds": [
           283616
@@ -47251,7 +47256,14 @@
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/98710cac736beb61aee10aa8d57dd5eb1f591ab6.png"
+      "cover": "https://pic.bstarstatic.com/ogv/98710cac736beb61aee10aa8d57dd5eb1f591ab6.png",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=283616",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36728"
+      }
     },
     {
       "intlId": 36729,
@@ -51061,15 +51073,15 @@
       "japaneseTitle": "たまこラブストーリー",
       "originalName": "たまこラブストーリー",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 90880,
-      "nameSourceUrl": "https://bgm.tv/subject/90880",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37014&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2014-04-26",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/90880",
+        "date": "2014-04-25",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37014&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -51080,8 +51092,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/39420d5da0450c63c2e2da46d87e943e.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/5f9d244a4486ad53a7076a488774942c9cf6584b.jpg"
     },
     {
       "intlId": 37015,
@@ -52702,15 +52714,15 @@
       "japaneseTitle": "ゼロの使い魔 双月の騎士",
       "originalName": "ゼロの使い魔 双月の騎士",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 1103,
-      "nameSourceUrl": "https://bgm.tv/subject/1103",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37182&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2007-07-08",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/1103",
+        "date": "2007-07-07",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37182&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -52721,8 +52733,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/9c363576e35ac08d0fec10c82120b5ea.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/e42de098484b282c69141c4abeaa6d91dbff028b.png"
     },
     {
       "intlId": 37183,
@@ -52949,15 +52961,15 @@
       "japaneseTitle": "STEINS;GATE",
       "originalName": "STEINS;GATE",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 10380,
-      "nameSourceUrl": "https://bgm.tv/subject/10380",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37207&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2011-04-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/10380",
+        "date": "2011-04-05",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37207&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -52968,8 +52980,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/afed0fb580b98c3137e70828fc4fdf6e.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/009ccbf85f8ebcef9a9faa970e43b218ff757a27.png"
     },
     {
       "intlId": 37208,
@@ -55572,7 +55584,7 @@
     },
     {
       "intlId": 37485,
-      "title": "蜡笔小新：爆发！温泉激烈大决战",
+      "title": "蜡笔小新 爆发！温泉火热大决战",
       "regions": [],
       "regionSource": "official",
       "cnId": 276355,
@@ -55599,15 +55611,15 @@
       "japaneseTitle": "クレヨンしんちゃん 爆発!温泉わくわく大決戦",
       "originalName": "クレヨンしんちゃん 爆発!温泉わくわく大決戦",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 8973,
-      "nameSourceUrl": "https://bgm.tv/subject/8973",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37485&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "1999-04-17",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/8973",
+        "date": "1999-04-16",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37485&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -55618,8 +55630,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/726c13e60795a414dbb4b1fd94b8a1a7.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/192fb79438fa85626aa1fae5c0756f755d0df499.png"
     },
     {
       "intlId": 37490,
@@ -56192,7 +56204,7 @@
     },
     {
       "intlId": 37507,
-      "title": "蜡笔小新：我的超时空新娘",
+      "title": "蜡笔小新 超时空！呼风唤雨的我的新娘",
       "regions": [
         "TH",
         "PH",
@@ -56226,15 +56238,15 @@
       "japaneseTitle": "クレヨンしんちゃん 超時空!嵐を呼ぶオラの花嫁",
       "originalName": "クレヨンしんちゃん 超時空!嵐を呼ぶオラの花嫁",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 8999,
-      "nameSourceUrl": "https://bgm.tv/subject/8999",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37507&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2010-04-17",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/8999",
+        "date": "2010-04-16",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37507&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -56245,8 +56257,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/19b1770a554d970801aeff71ffe281b8.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/52e2adaac370141156773a1a74a5d5377ca2a58f.png"
     },
     {
       "intlId": 37549,
@@ -61892,15 +61904,15 @@
       "japaneseTitle": "美少年探偵団",
       "originalName": "美少年探偵団",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 295048,
-      "nameSourceUrl": "https://bgm.tv/subject/295048",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1001534&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2021-04-10",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/295048",
+        "date": "2021-04-09",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1001534&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -61911,7 +61923,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/6cb471acf5d95415e0965931d32e7f8808c89d28.png"
     },
     {
@@ -67013,15 +67025,15 @@
       "japaneseTitle": "ゴールデンカムイ 第2期",
       "originalName": "ゴールデンカムイ 第2期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 251547,
-      "nameSourceUrl": "https://bgm.tv/subject/251547",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1007824&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2018-10-08",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/251547",
+        "date": "2018-10-07",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1007824&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -67032,8 +67044,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/03de5eb72607deb8c8b8d2fee9161769.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/ed0790e6e44f4afc5aa7e51044d46a95172cbae6.jpg"
     },
     {
       "intlId": 1007961,
@@ -68270,15 +68282,15 @@
       "japaneseTitle": "ピーチボーイリバーサイド",
       "originalName": "ピーチボーイリバーサイド",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 312223,
-      "nameSourceUrl": "https://bgm.tv/subject/312223",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1010375&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-07-01",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/312223",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1010375&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -68289,8 +68301,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/6b4759fefce5219187186a6a1830397d.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/8073dce83dca21891b94b13500387d1abe94a4e7.png"
     },
     {
       "intlId": 1010520,
@@ -68787,7 +68799,7 @@
     },
     {
       "intlId": 1011658,
-      "title": "开挂药师的异世界悠闲生活～在异世界开药店吧～",
+      "title": "开挂药师的休闲生活～异世界里开药店～",
       "regions": [
         "ID",
         "TH",
@@ -68816,9 +68828,9 @@
       "japaneseTitle": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
       "originalName": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 297361,
-      "nameSourceUrl": "https://bgm.tv/subject/297361",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1011658&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -68946,7 +68958,7 @@
     },
     {
       "intlId": 1012276,
-      "title": "迦希女王不会放弃",
+      "title": "迦希女王不会放弃！",
       "regions": [
         "ID",
         "MY",
@@ -68986,15 +68998,15 @@
       "japaneseTitle": "ジャヒー様はくじけない！",
       "originalName": "ジャヒー様はくじけない！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 333349,
-      "nameSourceUrl": "https://bgm.tv/subject/333349",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1012276&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-07-31",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/333349",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1012276&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -69005,7 +69017,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/31ea411a88d95fc7928c77a55ad6c994b43d1016.png"
     },
     {
@@ -73323,7 +73335,7 @@
     },
     {
       "intlId": 1017171,
-      "title": "航海王：黄金之心",
+      "title": "海贼王 特别篇 黄金之心",
       "regions": [
         "TH",
         "ID",
@@ -73356,15 +73368,15 @@
       "japaneseTitle": "ONE PIECE 〜HEART of GOLD〜",
       "originalName": "ONE PIECE 〜HEART of GOLD〜",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 183591,
-      "nameSourceUrl": "https://bgm.tv/subject/183591",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1017171&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2016-07-16",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/183591",
+        "date": "2016-07-22",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1017171&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -73375,8 +73387,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/05788e6fe7b9c79af060ecdc48b7ab63.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/c39ea1bd938f0996ad3297839ebad75e1b61200a.jpg"
     },
     {
       "intlId": 1017354,
@@ -73559,7 +73571,7 @@
       "title": "平家物语",
       "regions": [],
       "regionSource": "official",
-      "cnId": null,
+      "cnId": 277249,
       "officialTitle": "The Heike Story",
       "aliases": [
         "平家物語",
@@ -73575,9 +73587,9 @@
       "japaneseTitle": "平家物語",
       "originalName": "平家物語",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 348335,
-      "nameSourceUrl": "https://bgm.tv/subject/348335",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018114&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -73588,8 +73600,8 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "ambiguous",
-        "reason": "存在多个季度、地区或配音版本候选，现有元数据不足以确定唯一对应 ID。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
         "candidateIds": [
           277249,
@@ -73598,7 +73610,14 @@
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/460dd481db7b73c00e21bfb48284893908770453.jpg"
+      "cover": "https://pic.bstarstatic.com/ogv/460dd481db7b73c00e21bfb48284893908770453.jpg",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=277249",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018114"
+      }
     },
     {
       "intlId": 1018181,
@@ -73739,15 +73758,15 @@
       "japaneseTitle": "転生したらスライムだった件",
       "originalName": "転生したらスライムだった件",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 239816,
-      "nameSourceUrl": "https://bgm.tv/subject/239816",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018282&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2021-09-13",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=277252",
+        "date": "2018-09-30",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018282&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -73758,8 +73777,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/02c7969d77d958ca4b286d0fcdac1f81.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/1ac9301fad83d1c0085b6715b0e302473ea7959b.jpg"
     },
     {
       "intlId": 1018493,
@@ -73868,7 +73887,7 @@
       "title": "平家物语",
       "regions": [],
       "regionSource": "official",
-      "cnId": null,
+      "cnId": 277260,
       "officialTitle": "The Heike Story",
       "aliases": [
         "平家物語",
@@ -73884,9 +73903,9 @@
       "japaneseTitle": "平家物語",
       "originalName": "平家物語",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 348335,
-      "nameSourceUrl": "https://bgm.tv/subject/348335",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018757&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -73897,8 +73916,8 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "ambiguous",
-        "reason": "存在多个季度、地区或配音版本候选，现有元数据不足以确定唯一对应 ID。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
         "candidateIds": [
           277249,
@@ -73907,7 +73926,14 @@
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/460dd481db7b73c00e21bfb48284893908770453.jpg"
+      "cover": "https://pic.bstarstatic.com/ogv/460dd481db7b73c00e21bfb48284893908770453.jpg",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=277260",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1018757"
+      }
     },
     {
       "intlId": 1018903,
@@ -74295,15 +74321,15 @@
       "japaneseTitle": "最果てのパラディン",
       "originalName": "最果てのパラディン",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 333442,
-      "nameSourceUrl": "https://bgm.tv/subject/333442",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019299&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-10-09",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/333442",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019299&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -74314,8 +74340,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/8b7274c7a63efa3f2f5a6f43090b84c8.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/9a1d1b6100cf6f9dc59312f1a16b5ecc5189a9d3.jpg"
     },
     {
       "intlId": 1019369,
@@ -74417,7 +74443,7 @@
     },
     {
       "intlId": 1019433,
-      "title": "宿命回响：命运节拍",
+      "title": "宿命回响",
       "regions": [],
       "regionSource": "official",
       "cnId": 277275,
@@ -74443,15 +74469,15 @@
       "japaneseTitle": "takt op.Destiny",
       "originalName": "takt op.Destiny",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 331535,
-      "nameSourceUrl": "https://bgm.tv/subject/331535",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019433&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-10-05",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/331535",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019433&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -74462,8 +74488,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/b4c804e2241dae1f9ba105c0c0e47a67.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/7d9dc71a7f55aacd28d73979cfabbcf9f3222dac.png"
     },
     {
       "intlId": 1019493,
@@ -74649,15 +74675,15 @@
       "japaneseTitle": "シキザクラ",
       "originalName": "シキザクラ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 262547,
-      "nameSourceUrl": "https://bgm.tv/subject/262547",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019824&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-10-09",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/262547",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1019824&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -74668,8 +74694,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/29dda59962b0ef90e51ba74f2b6a7043.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/d242894af238d6430314911b64c61847ef15f4d3.jpg"
     },
     {
       "intlId": 1019965,
@@ -74976,8 +75002,8 @@
         "status": "aired",
         "confirmed": true,
         "date": "2021-10-01",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/321190",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1021008&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -74988,8 +75014,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/d5b56cd0566946092a0c9ccc85d14e5d.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/82d46d37f901efa914c55db7be685a1ec6fe1b61.jpg"
     },
     {
       "intlId": 1021540,
@@ -78727,15 +78753,15 @@
       "japaneseTitle": "鬼滅の刃 遊郭編",
       "originalName": "鬼滅の刃 遊郭編",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 328195,
-      "nameSourceUrl": "https://bgm.tv/subject/328195",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1033760&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-12-05",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/328195",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1033760&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -78746,8 +78772,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/fca34f597e5f4d69db08b3423fe69ac6.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/2943a594f4b3ae6ebd6c6f9f346230c9344f2948.png"
     },
     {
       "intlId": 1033856,
@@ -79493,15 +79519,15 @@
       "japaneseTitle": "最遊記RELOAD -ZEROIN-",
       "originalName": "最遊記RELOAD -ZEROIN-",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 325097,
-      "nameSourceUrl": "https://bgm.tv/subject/325097",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1035521&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-01-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/325097",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1035521&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -79512,8 +79538,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/1bc809a7e497adef4718d1c255fa2f28.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/2b659f981fb6d8fea80755daa333c0b37421aa4c.png"
     },
     {
       "intlId": 1035614,
@@ -80535,15 +80561,15 @@
       "japaneseTitle": "トニカクカワイイ",
       "originalName": "トニカクカワイイ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 301541,
-      "nameSourceUrl": "https://bgm.tv/subject/301541",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1038400&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2021-12-24",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=277656",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1038400&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -80554,8 +80580,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/864ff7ed95467a42dc07a71ebb2c2c23.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/097febdcfdadcd44e3dab236518f976ea7d67dba.png"
     },
     {
       "intlId": 1041326,
@@ -82626,15 +82652,15 @@
       "japaneseTitle": "錆喰いビスコ",
       "originalName": "錆喰いビスコ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 328447,
-      "nameSourceUrl": "https://bgm.tv/subject/328447",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1044072&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-01-10",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=277731",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1044072&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -82645,8 +82671,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/5d898f47510ead7c309bb4a226fbcbef.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/0f9d77487280c56014cff18ab5faf85bd8f88cdd.jpg"
     },
     {
       "intlId": 1044178,
@@ -83920,7 +83946,7 @@
     },
     {
       "intlId": 1046726,
-      "title": "重塑人生的伟大逃脱",
+      "title": "围城人生",
       "regions": [
         "SG",
         "TH",
@@ -83960,15 +83986,15 @@
       "japaneseTitle": "エスタブライフ グレイトエスケープ",
       "originalName": "エスタブライフ グレイトエスケープ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 366253,
-      "nameSourceUrl": "https://bgm.tv/subject/366253",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1046726&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-04-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/366253",
+        "date": "2022-04-05",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1046726&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -83979,7 +84005,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/64d822a1a5f5e7a3893a7b0757343834d7024cdf.jpg"
     },
     {
@@ -85528,15 +85554,15 @@
       "japaneseTitle": "であいもん",
       "originalName": "であいもん",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 333664,
-      "nameSourceUrl": "https://bgm.tv/subject/333664",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1049994&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-04-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/333664",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1049994&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -85547,8 +85573,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/f3796ec90ccf1be3c7e13cdafb0a8ba1.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/0f55bd28d6d42338582aae0d65a2a13d35be8b79.png"
     },
     {
       "intlId": 1050107,
@@ -88928,15 +88954,15 @@
       "japaneseTitle": "Extreme Hearts",
       "originalName": "Extreme Hearts",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 368816,
-      "nameSourceUrl": "https://bgm.tv/subject/368816",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060007&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-07-09",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/368816",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060007&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -88947,7 +88973,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "Bangumi 国家标签",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/9b42e8cfb528257eca6ef691aedc27bf4b4ce950.png"
     },
     {
@@ -89183,15 +89209,15 @@
       "japaneseTitle": "ようこそ実力至上主義の教室へ 2nd Season",
       "originalName": "ようこそ実力至上主義の教室へ 2nd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 371546,
-      "nameSourceUrl": "https://bgm.tv/subject/371546",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060488&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-07-04",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/371546",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060488&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -89202,8 +89228,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/96c974860c94d5914e4c879dbf77fd83.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/f75c13ea5947f8135c55b0db9ec72dae83dcd862.png"
     },
     {
       "intlId": 1060564,
@@ -94300,15 +94326,15 @@
       "japaneseTitle": "ようこそ実力至上主義の教室へ 2nd Season",
       "originalName": "ようこそ実力至上主義の教室へ 2nd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 371546,
-      "nameSourceUrl": "https://bgm.tv/subject/371546",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1065687&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2022-08-08",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=277975",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1065687&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -94319,8 +94345,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/35c80881b18ad0e0b04a51622a131026.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/e18a9c1aa4ab8b17cfd492842d918988f46d17bd.png"
     },
     {
       "intlId": 1065742,
@@ -100261,7 +100287,7 @@
     },
     {
       "intlId": 2071979,
-      "title": "被解雇的暗黑士兵（30岁）慢生活的第二人生",
+      "title": "被解雇的暗黑士兵(30多岁）开始了慢生活的第二人生",
       "regions": [
         "ID",
         "MY",
@@ -100300,15 +100326,15 @@
       "japaneseTitle": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
       "originalName": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 392349,
-      "nameSourceUrl": "https://bgm.tv/subject/392349",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2071979&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-01-07",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/392349",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2071979&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -100319,8 +100345,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/bb348e65c84f1bead42a6cbfea6b786e.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/e4de9689dd3b02c989ba5b402a526b1609725044.png"
     },
     {
       "intlId": 2072093,
@@ -103019,15 +103045,15 @@
       "japaneseTitle": null,
       "originalName": "食草老龙被冠以恶龙之名",
       "originalNameStatus": "unknown",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 358724,
-      "nameSourceUrl": "https://bgm.tv/subject/358724",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2077205&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-02-10",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278090",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2077205&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -103039,7 +103065,7 @@
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/f7860342bd817559dbf9a04634f84c2d.png"
+      "cover": "https://pic.bstarstatic.com/ogv/c755595a3e0541379b7fcc8a4019c3a17ff68baa.png"
     },
     {
       "intlId": 2077305,
@@ -103102,7 +103128,7 @@
     },
     {
       "intlId": 2077396,
-      "title": "因为太怕痛就全点防御力了。2（印尼语配音版）",
+      "title": "因为太怕痛就全点防御力了。第二季（印尼语配音版）",
       "regions": [
         "ID"
       ],
@@ -103130,9 +103156,9 @@
       "japaneseTitle": "痛いのは嫌なので防御力に極振りしたいと思います。2",
       "originalName": "痛いのは嫌なので防御力に極振りしたいと思います。2",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 302766,
-      "nameSourceUrl": "https://bgm.tv/subject/302766",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2077396&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -103571,15 +103597,15 @@
       "japaneseTitle": "異世界召喚は二度目です",
       "originalName": "異世界召喚は二度目です",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 354421,
-      "nameSourceUrl": "https://bgm.tv/subject/354421",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078245&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-04-08",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/354421",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078245&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -103590,8 +103616,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/0ae0c5484126de86c6637e8751419de3.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/f2ab9a187a9ec22f03fe8efa44e9a7572e50925d.png"
     },
     {
       "intlId": 2078321,
@@ -103741,15 +103767,15 @@
       "japaneseTitle": "異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～",
       "originalName": "異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 397025,
-      "nameSourceUrl": "https://bgm.tv/subject/397025",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078533&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2023-04-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/397025",
+        "date": "2023-04-03",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078533&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -103760,8 +103786,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/27d3027e7ac87de26d10af785215fc9f.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/71e8cc96a14fb035ad8c4022758692739bc63f18.png"
     },
     {
       "intlId": 2078586,
@@ -103790,9 +103816,9 @@
       "japaneseTitle": "勇者が死んだ！",
       "originalName": "勇者が死んだ！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 379639,
-      "nameSourceUrl": "https://bgm.tv/subject/379639",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078586&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -104276,15 +104302,15 @@
       "japaneseTitle": "かぐや様は告らせたい-ファーストキッスは終わらない-",
       "originalName": "かぐや様は告らせたい-ファーストキッスは終わらない-",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 425211,
-      "nameSourceUrl": "https://bgm.tv/subject/425211",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2079394&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-03-31",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/425211",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2079394&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -104295,8 +104321,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/c4ce657dd632a094d814bdfc42d071ab.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/b81a66dfd6a727ec4f6e27330c8fa3c77562099f.png"
     },
     {
       "intlId": 2079519,
@@ -104845,7 +104871,7 @@
     },
     {
       "intlId": 2080367,
-      "title": "江户前精灵",
+      "title": "江户前的废柴精灵",
       "regions": [],
       "regionSource": "official",
       "cnId": 278122,
@@ -104874,15 +104900,15 @@
       "japaneseTitle": "江戸前エルフ",
       "originalName": "江戸前エルフ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 387803,
-      "nameSourceUrl": "https://bgm.tv/subject/387803",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2080367&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-04-07",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/387803",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2080367&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -104893,8 +104919,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/5d59c6c8978ccff399a0eaa581da8a6f.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/eec36002d0298e0a88f6198d8bfd9a938c8a81d7.jpg"
     },
     {
       "intlId": 2080459,
@@ -105035,9 +105061,9 @@
       "japaneseTitle": "勇者が死んだ！",
       "originalName": "勇者が死んだ！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 379639,
-      "nameSourceUrl": "https://bgm.tv/subject/379639",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2080734&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -105404,7 +105430,7 @@
     },
     {
       "intlId": 2081531,
-      "title": "鬼灭之刃 游郭篇 特别编集版",
+      "title": "鬼灭之刃 游郭决战篇 特别编集版",
       "regions": [
         "ID",
         "TH",
@@ -105420,7 +105446,8 @@
         "Demon Slayer: Kimetsu no Yaiba Entertainment District Decisive Battle Arc",
         "鬼灭之刃 游郭篇 特別编集版",
         "鬼滅の刃 遊郭潜入編/遊郭決戦編",
-        "鬼灭之刃 游郭篇 特别编集版"
+        "鬼灭之刃 游郭篇 特别编集版",
+        "鬼灭之刃 游郭决战篇 特别编集版"
       ],
       "catalogCheckedAt": "2026-10-06",
       "regionCheckedAt": "2026-10-06",
@@ -105436,15 +105463,15 @@
       "japaneseTitle": "鬼滅の刃 遊郭編 特別編集版",
       "originalName": "鬼滅の刃 遊郭編 特別編集版",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 422759,
-      "nameSourceUrl": "https://bgm.tv/subject/422759",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2081531&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2023-04-01",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/422759",
+        "date": "2023-04-08",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2081531&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -105455,8 +105482,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/11c2ecbfc2f143a3cf1874ecaa21ea2c.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/e29f9ce9ae866a5515ffcbf2f75eba09ee73b88d.png"
     },
     {
       "intlId": 2081589,
@@ -108906,7 +108933,7 @@
     },
     {
       "intlId": 2087595,
-      "title": "莱莎的炼金工房 ～常暗女王与秘密藏身处～",
+      "title": "莱莎的炼金工房～常暗女王与秘密藏身处～",
       "regions": [],
       "regionSource": "official",
       "cnId": 278277,
@@ -108932,15 +108959,15 @@
       "japaneseTitle": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
       "originalName": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 425236,
-      "nameSourceUrl": "https://bgm.tv/subject/425236",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2087595&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-07-01",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/425236",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2087595&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -108951,8 +108978,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/e1f2212c719b9c75cb9064c16b1b121c.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/d411e1e534fdcedadf1d5a0cac0c8d9cf2785b32.png"
     },
     {
       "intlId": 2087725,
@@ -109449,15 +109476,15 @@
       "japaneseTitle": null,
       "originalName": "天官赐福 第二季",
       "originalNameStatus": "non-japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 289102,
-      "nameSourceUrl": "https://bgm.tv/subject/289102",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2089090&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-10-18",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278299",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2089090&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -109468,8 +109495,8 @@
         "candidateIds": []
       },
       "originCategory": "china",
-      "originCategorySource": "官方国创分类",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/fd125a12fc0b471b3a53c717a3864ba6.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/36264b787d39d927e15e5a9402edd8f16fae8ec7.png"
     },
     {
       "intlId": 2089176,
@@ -109761,9 +109788,9 @@
       "japaneseTitle": "コードギアス 復活のルルーシュ",
       "originalName": "コードギアス 復活のルルーシュ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 199228,
-      "nameSourceUrl": "https://bgm.tv/subject/199228",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2089635&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -113433,15 +113460,15 @@
       "japaneseTitle": "鬼滅の刃 特別編集版 兄妹の絆",
       "originalName": "鬼滅の刃 特別編集版 兄妹の絆",
       "originalNameStatus": "japanese",
-      "nameSource": "历史中文目录",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": null,
       "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2093782&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-11-10",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278425",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2093782&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -113452,8 +113479,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/83c2a9a2d51db32d60bc1e823cea8d27.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/264bea9dbc26839e3fa08c4cf3f2e6167d248bea.jpg"
     },
     {
       "intlId": 2093890,
@@ -113625,15 +113652,15 @@
       "japaneseTitle": "鬼滅の刃 特別編集版 柱合会議・蝶屋敷編",
       "originalName": "鬼滅の刃 特別編集版 柱合会議・蝶屋敷編",
       "originalNameStatus": "japanese",
-      "nameSource": "历史中文目录",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": null,
       "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2094085&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2023-11-10",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278431",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2094085&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -113644,8 +113671,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/53f4bb9abb8adfa4837354c7bec13a10.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/955dfb2b7933f2cc01432f299b4299e1e464bc28.jpg"
     },
     {
       "intlId": 2094139,
@@ -116169,7 +116196,7 @@
     },
     {
       "intlId": 2098275,
-      "title": "最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～",
+      "title": "最强坦克的迷宫攻略",
       "regions": [
         "ID",
         "TH",
@@ -116195,9 +116222,9 @@
       "japaneseTitle": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
       "originalName": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 458047,
-      "nameSourceUrl": "https://bgm.tv/subject/458047",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2098275&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -117507,15 +117534,15 @@
       "japaneseTitle": "ようこそ実力至上主義の教室へ 3rd Season",
       "originalName": "ようこそ実力至上主義の教室へ 3rd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 373266,
-      "nameSourceUrl": "https://bgm.tv/subject/373266",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2101397&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2024-02-21",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278569",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2101397&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -117526,8 +117553,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/ea4b026a7ecaf23750928a4aadc413b2.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/7cba83b36c8c2295d80c73f0df9ed15bceed93ad.png"
     },
     {
       "intlId": 2101487,
@@ -119960,7 +119987,7 @@
     },
     {
       "intlId": 2106884,
-      "title": "魔法科高校的劣等生 第三季",
+      "title": "魔法科高校劣等生 第三季",
       "regions": [
         "ID",
         "TH",
@@ -119993,15 +120020,15 @@
       "japaneseTitle": "魔法科高校の劣等生 第3シーズン",
       "originalName": "魔法科高校の劣等生 第3シーズン",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 364522,
-      "nameSourceUrl": "https://bgm.tv/subject/364522",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2106884&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2024-04-05",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/364522",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2106884&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -120012,8 +120039,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/8d712ce30cb5307906ae884249c0bd39.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/55e1da002c5490dcebe933943f2083ed0aefccff.png"
     },
     {
       "intlId": 2106937,
@@ -122051,15 +122078,15 @@
       "japaneseTitle": "鬼滅の刃 柱稽古編",
       "originalName": "鬼滅の刃 柱稽古編",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 441939,
-      "nameSourceUrl": "https://bgm.tv/subject/441939",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2110761&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2024-05-12",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/441939",
+        "date": "2024-06-23",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2110761&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -122070,8 +122097,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/32c24d61ed04a9ceed23530296cf8f54.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/be0fd5fa4774dfc5ad954a6ae70d68ed1ab5137a.png"
     },
     {
       "intlId": 2110991,
@@ -124464,15 +124491,15 @@
       "japaneseTitle": "ネガポジアングラー",
       "originalName": "ネガポジアングラー",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 505895,
-      "nameSourceUrl": "https://bgm.tv/subject/505895",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2115522&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2024-10-03",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/505895",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2115522&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -124483,7 +124510,7 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
+      "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/ead09bbef7bbaa1e404e7617cc7228f5c4288c35.png"
     },
     {
@@ -125105,15 +125132,15 @@
       "japaneseTitle": "さようなら竜生、こんにちは人生",
       "originalName": "さようなら竜生、こんにちは人生",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 484981,
-      "nameSourceUrl": "https://bgm.tv/subject/484981",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116570&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2024-10-10",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/484981",
+        "date": "2024-10-03",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116570&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -125124,8 +125151,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/9e15ac68d718fad86741e049c5896cdd.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/86d1b5349807f4927f6188513e2314fbfdacd05a.png"
     },
     {
       "intlId": 2116670,
@@ -125185,7 +125212,7 @@
     },
     {
       "intlId": 2116759,
-      "title": "在地下城寻求邂逅是否搞错了什幺 第五季 丰饶的女神篇",
+      "title": "在地下城寻求邂逅是否搞错了什幺 第五季",
       "regions": [
         "ID",
         "TH",
@@ -125204,7 +125231,8 @@
         "期待在地下城邂逅有错吗 第五季 丰饶的女神篇",
         "地错 第五季 丰饶的女神篇",
         "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-        "在地下城寻求邂逅是否搞错了什幺 第五季 丰饶的女神篇"
+        "在地下城寻求邂逅是否搞错了什幺 第五季 丰饶的女神篇",
+        "在地下城寻求邂逅是否搞错了什幺 第五季"
       ],
       "catalogCheckedAt": "2026-10-06",
       "regionCheckedAt": "2026-10-06",
@@ -125220,15 +125248,15 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 463778,
-      "nameSourceUrl": "https://bgm.tv/subject/463778",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116759&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2024-10-04",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/463778",
+        "date": "2024-10-03",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116759&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -125239,8 +125267,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/ed5cf8bb93621f7a1d2d18a0ccc10cfa.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/542924cd82b22d6611a219a3413b64f06315ac2f.png"
     },
     {
       "intlId": 2116889,
@@ -127948,15 +127976,15 @@
       "japaneseTitle": "青の祓魔師 雪ノ果篇",
       "originalName": "青の祓魔師 雪ノ果篇",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 486345,
-      "nameSourceUrl": "https://bgm.tv/subject/486345",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2121697&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2024-11-24",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278827",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2121697&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -127967,8 +127995,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/44a90f827e848fd9ac9828404ed8ec9f.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/c73b12c2c226d1a63e1cae617c5a093efd9609b0.png"
     },
     {
       "intlId": 2121835,
@@ -129347,7 +129375,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": null,
+      "cnId": 119021,
       "regionSource": "official",
       "officialTitle": "RAKSHASA STREET 5",
       "aliases": [
@@ -129377,16 +129405,21 @@
         "note": "预计排期；提前配信及平台上线状态待核实"
       },
       "mappingStatus": {
-        "code": "upcoming",
-        "reason": "公开计划播出日期在未来，平台当前开播状态仍待核实；当前未找到唯一中国版对应项。未开播不代表不会提前分配 ss ID，将继续检查。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
-        "candidateIds": [
-          119021
-        ]
+        "candidateIds": []
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/438e547d9ee4dea8cc616ee4278ad034.png"
+      "cover": "https://pic.bstarstatic.com/ogv/438e547d9ee4dea8cc616ee4278ad034.png",
+      "mappingEvidence": {
+        "method": "人工核对官方原名及第五季标签；两端简介均指曹焱兵、曹孙刘联合、群英殿与王国组织。中国版尚未开播，未来平台日期可不同。",
+        "checkedAt": "2026-10-11",
+        "verifiedAt": "2026-10-11",
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=119021",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433174"
+      }
     },
     {
       "intlId": 2129061,
@@ -130615,7 +130648,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": null,
+      "cnId": 45964,
       "regionSource": "official",
       "officialTitle": "The Most Powerful Vendor",
       "aliases": [
@@ -130646,16 +130679,21 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已找到同名中国版候选，但简介不一致或资料不足，暂不自动确认对应关系。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
-        "candidateIds": [
-          45964
-        ]
+        "candidateIds": []
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/c8331e66781e5a0029e3b2c27db046700e26f478.jpg"
+      "cover": "https://pic.bstarstatic.com/ogv/c8331e66781e5a0029e3b2c27db046700e26f478.jpg",
+      "mappingEvidence": {
+        "method": "人工核对官方中文作品名、制作地区与24集动画版本；两端简介均描述江南、灵州江城、空间系灵武者，介绍段落不同。",
+        "checkedAt": "2026-10-11",
+        "verifiedAt": "2026-10-11",
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=45964",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2129353"
+      }
     },
     {
       "intlId": 2126777,
@@ -133470,9 +133508,9 @@
       "japaneseTitle": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
       "originalName": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 504054,
-      "nameSourceUrl": "https://bgm.tv/subject/504054",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2126598&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -133757,15 +133795,15 @@
       "japaneseTitle": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
       "originalName": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 520672,
-      "nameSourceUrl": "https://bgm.tv/subject/520672",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2127764&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2025-04-09",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/520672",
+        "date": "2025-04-02",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2127764&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -133776,8 +133814,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/7949854cf65a1a2c9c814ce846e5793f.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/5688335cb0b63a534d72dabafb8ae1ef0f741702.png"
     },
     {
       "intlId": 2128863,
@@ -133816,15 +133854,15 @@
       "japaneseTitle": "最強の王様、二度目の人生は何をする？",
       "originalName": "最強の王様、二度目の人生は何をする？",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 520559,
-      "nameSourceUrl": "https://bgm.tv/subject/520559",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2128863&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-06-07",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278903",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2128863&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -133835,8 +133873,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/6b52be53db4939bf6ca0fab21a7d6bc6.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/83ece3747bc0675b65c7bb19c41a1c87cbdc0413.png"
     },
     {
       "intlId": 2128377,
@@ -134262,15 +134300,15 @@
       "japaneseTitle": "帝乃三姉妹は案外、チョロい。",
       "originalName": "帝乃三姉妹は案外、チョロい。",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 502272,
-      "nameSourceUrl": "https://bgm.tv/subject/502272",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2142430&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-07-09",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/502272",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2142430&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -134281,8 +134319,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/2884924dd6af8ec6cd7cb51bce6498e4.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/7f612d68b69f37ebb3af6ed0808d8cd1eeb986ef.png"
     },
     {
       "intlId": 2202010,
@@ -134481,9 +134519,9 @@
       "japaneseTitle": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
       "originalName": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 524195,
-      "nameSourceUrl": "https://bgm.tv/subject/524195",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2246246&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -136637,9 +136675,9 @@
       "japaneseTitle": "君のことが大大大大大好きな100人の彼女",
       "originalName": "君のことが大大大大大好きな100人の彼女",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 424379,
-      "nameSourceUrl": "https://bgm.tv/subject/424379",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2416010&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": false,
@@ -136672,7 +136710,7 @@
       "regions": [
         "ID"
       ],
-      "cnId": null,
+      "cnId": 306788,
       "regionSource": "official",
       "officialTitle": "The World’s Strongest Rearguard",
       "aliases": [
@@ -136689,12 +136727,12 @@
       "japaneseTitle": "世界最強の後衛 ～迷宮国の新人探索者～",
       "originalName": "世界最強の後衛 ～迷宮国の新人探索者～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 583862,
-      "nameSourceUrl": "https://bgm.tv/subject/583862",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418319&s_locale=zh_CN",
       "release": {
         "status": "aired",
-        "confirmed": false,
+        "confirmed": true,
         "date": "2026-09-06",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418319&s_locale=zh_CN",
@@ -136702,20 +136740,28 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "ambiguous",
-        "reason": "存在多个季度、地区或配音版本候选，现有元数据不足以确定唯一对应 ID。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
         "candidateIds": [
-          282344
+          282344,
+          306788
         ]
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/cf5827d9044ec63171ef2eb1fc283790.png"
+      "cover": "https://pic.bstarstatic.com/ogv/cf5827d9044ec63171ef2eb1fc283790.png",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=306788",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418319"
+      }
     },
     {
       "intlId": 2431959,
-      "title": "转生后的大圣女，极力隐瞒圣女的身分",
+      "title": "转生了的大圣女，拼死隐瞒自己身为圣女",
       "regions": [
         "ID",
         "TH",
@@ -136741,9 +136787,9 @@
       "japaneseTitle": "転生した大聖女は、聖女であることをひた隠す",
       "originalName": "転生した大聖女は、聖女であることをひた隠す",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 542007,
-      "nameSourceUrl": "https://bgm.tv/subject/542007",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2431959&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -136796,9 +136842,9 @@
       "japaneseTitle": "ホタルの嫁入り",
       "originalName": "ホタルの嫁入り",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 621108,
-      "nameSourceUrl": "https://bgm.tv/subject/621108",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432745&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -136884,7 +136930,7 @@
     },
     {
       "intlId": 2433441,
-      "title": "转生哥布林有问题吗？",
+      "title": "转生成哥布林但有疑问吗？",
       "regions": [
         "ID",
         "TH",
@@ -136909,9 +136955,9 @@
       "japaneseTitle": "転生ゴブリンだけど質問ある？",
       "originalName": "転生ゴブリンだけど質問ある？",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 634587,
-      "nameSourceUrl": "https://bgm.tv/subject/634587",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433441&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -138322,9 +138368,9 @@
       "japaneseTitle": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
       "originalName": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 499656,
-      "nameSourceUrl": "https://bgm.tv/subject/499656",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2187357&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -138601,9 +138647,9 @@
       "japaneseTitle": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
       "originalName": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 524195,
-      "nameSourceUrl": "https://bgm.tv/subject/524195",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2282010&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -138632,7 +138678,7 @@
     },
     {
       "intlId": 2288405,
-      "title": "相反的你和我",
+      "title": "正相反的你与我",
       "regions": [
         "ID",
         "TH",
@@ -138664,15 +138710,15 @@
       "japaneseTitle": "正反対な君と僕",
       "originalName": "正反対な君と僕",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 525565,
-      "nameSourceUrl": "https://bgm.tv/subject/525565",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2288405&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2026-01-11",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/525565",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2288405&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -138683,12 +138729,12 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/8979b8c0b7490d44bf0cc071db396e7d.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/8979b8c0b7490d44bf0cc071db396e7d.png"
     },
     {
       "intlId": 2288556,
-      "title": "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～",
+      "title": "安逸领主的愉快领地防卫",
       "regions": [
         "ID",
         "TH",
@@ -138704,7 +138750,8 @@
         "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～",
         "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～",
         "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
-        "Easygoing Territory Defense by the Optimistic Lord"
+        "Easygoing Territory Defense by the Optimistic Lord",
+        "安逸领主的愉快领地防卫"
       ],
       "catalogCheckedAt": "2026-10-07",
       "regionCheckedAt": "2026-10-07",
@@ -138713,9 +138760,9 @@
       "japaneseTitle": "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～",
       "originalName": "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 554013,
-      "nameSourceUrl": "https://bgm.tv/subject/554013",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2288556&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -138774,15 +138821,15 @@
       "japaneseTitle": "デッドアカウント",
       "originalName": "デッドアカウント",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 543772,
-      "nameSourceUrl": "https://bgm.tv/subject/543772",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2288703&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2026-01-10",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/543772",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2288703&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -138793,8 +138840,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/03bd2c16938befae44a3aa0fa8197b00.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/1135454dc7e11aefb507d1490fc6ce8a558424da.png"
     },
     {
       "intlId": 2290065,
@@ -139486,9 +139533,9 @@
       "japaneseTitle": "転生したらスライムだった件 第4期",
       "originalName": "転生したらスライムだった件 第4期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 515594,
-      "nameSourceUrl": "https://bgm.tv/subject/515594",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2407935&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -139649,9 +139696,9 @@
       "japaneseTitle": "世界最強の後衛 ～迷宮国の新人探索者～",
       "originalName": "世界最強の後衛 ～迷宮国の新人探索者～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 583862,
-      "nameSourceUrl": "https://bgm.tv/subject/583862",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2411817&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -139879,15 +139926,15 @@
       "japaneseTitle": "ぐらんぶる Season 3",
       "originalName": "ぐらんぶる Season 3",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 569116,
-      "nameSourceUrl": "https://bgm.tv/subject/569116",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2414407&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2026-07-06",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/569116",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2414407&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -139898,8 +139945,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/b57139eacef92fadfc282ddf2aad635a.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/b57139eacef92fadfc282ddf2aad635a.png"
     },
     {
       "intlId": 2432099,
@@ -139960,7 +140007,7 @@
     },
     {
       "intlId": 2432178,
-      "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+      "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
       "regions": [
         "ID",
         "TH",
@@ -139986,9 +140033,9 @@
       "japaneseTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
       "originalName": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 625799,
-      "nameSourceUrl": "https://bgm.tv/subject/625799",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432178&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -140017,7 +140064,7 @@
     },
     {
       "intlId": 2432495,
-      "title": "归还者的魔法要特别 第二季",
+      "title": "重生者的魔法一定要特别 第二季",
       "regions": [
         "ID",
         "TH",
@@ -140033,7 +140080,8 @@
         "归还者的魔法要特别 第二季",
         "重生者的魔法一定要特別 第二季",
         "Kikansha no Mahou wa Tokubetsu Desu Season 2",
-        "A Returner`s Magic Should Be Special Season 2"
+        "A Returner`s Magic Should Be Special Season 2",
+        "重生者的魔法一定要特别 第二季"
       ],
       "catalogCheckedAt": "2026-10-08",
       "regionCheckedAt": "2026-10-08",
@@ -140042,9 +140090,9 @@
       "japaneseTitle": "帰還者の魔法は特別です 第2期",
       "originalName": "帰還者の魔法は特別です 第2期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 471844,
-      "nameSourceUrl": "https://bgm.tv/subject/471844",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432495&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -140073,7 +140121,7 @@
     },
     {
       "intlId": 2432615,
-      "title": "用【循环利息】强制收回借出的魔力",
+      "title": "借出去的魔力要用【分期还款】强制收回",
       "regions": [
         "ID",
         "TH",
@@ -140096,9 +140144,9 @@
       "japaneseTitle": "貸した魔力は【リボ払い】で強制徴収",
       "originalName": "貸した魔力は【リボ払い】で強制徴収",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 606716,
-      "nameSourceUrl": "https://bgm.tv/subject/606716",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432615&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -140127,7 +140175,7 @@
     },
     {
       "intlId": 2432827,
-      "title": "世界最强的魔女，就此开始",
+      "title": "世界最强魔女，始动",
       "regions": [
         "ID",
         "TH",
@@ -140151,9 +140199,9 @@
       "japaneseTitle": "世界最強の魔女、始めました",
       "originalName": "世界最強の魔女、始めました",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 646154,
-      "nameSourceUrl": "https://bgm.tv/subject/646154",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432827&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -140182,14 +140230,14 @@
     },
     {
       "intlId": 2433316,
-      "title": "怪兽8号 鸣海的平日",
+      "title": "怪兽8号 鸣海的日常",
       "regions": [
         "ID",
         "TH",
         "PH",
         "MY"
       ],
-      "cnId": null,
+      "cnId": 319971,
       "regionSource": "official",
       "officialTitle": "Kaiju No. 8 Original Short Anime \"Narumi's Week at Work\"",
       "aliases": [
@@ -140208,9 +140256,9 @@
       "japaneseTitle": "怪獣8号 鳴海の平日",
       "originalName": "怪獣8号 鳴海の平日",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 616694,
-      "nameSourceUrl": "https://bgm.tv/subject/616694",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433316&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -140221,14 +140269,23 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
-        "candidateIds": []
+        "candidateIds": [
+          319971
+        ]
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/487d28d39bd58e639406e8af4e85ac16.png"
+      "cover": "https://pic.bstarstatic.com/ogv/487d28d39bd58e639406e8af4e85ac16.png",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-11",
+        "checkedCandidateCount": 2599,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=319971",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433316"
+      }
     },
     {
       "intlId": 2121892,
@@ -140490,15 +140547,15 @@
       "japaneseTitle": "不遇職【鑑定士】が実は最強だった",
       "originalName": "不遇職【鑑定士】が実は最強だった",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 500840,
-      "nameSourceUrl": "https://bgm.tv/subject/500840",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2124709&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-03-13",
-        "source": "B站中国版",
-        "evidenceUrl": "https://api.bilibili.com/pgc/view/web/season?season_id=278857",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2124709&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -140509,8 +140566,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/a3d9c9f116eaac33488dc27e220b75b4.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/606cd45403c3474c2920782c6110c2e76f01e752.png"
     },
     {
       "intlId": 2124801,
@@ -140567,7 +140624,7 @@
     },
     {
       "intlId": 2125152,
-      "title": "瞬间治疗却被视为无用而被流放的天才治疗师，以暗黑治疗师的身份幸福地生活着",
+      "title": "治疗师退队作为无照治疗师快乐过活",
       "regions": [
         "ID",
         "TH",
@@ -140584,7 +140641,8 @@
         "瞬间治疗却被视为无用而被流放的天才治疗师，以暗黑治疗师的身份幸福地生活着",
         "天才治疗师退队作为无照治疗师快乐生活",
         "瞬間治癒卻被當成廢物踢出隊伍的天才治療師，改當無照治療師快樂過活",
-        "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru"
+        "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+        "治疗师退队作为无照治疗师快乐过活"
       ],
       "catalogCheckedAt": "2026-10-06",
       "regionCheckedAt": "2026-10-06",
@@ -140600,15 +140658,15 @@
       "japaneseTitle": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
       "originalName": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 484402,
-      "nameSourceUrl": "https://bgm.tv/subject/484402",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2125152&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-04-03",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/484402",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2125152&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -140619,8 +140677,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/e585ce45407dea06a314fa9342208848.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/e96fffa6bc5e38cbfa99a63ef8705c8313041ddb.png"
     },
     {
       "intlId": 2125525,
@@ -140887,15 +140945,15 @@
       "japaneseTitle": "ある魔女が死ぬまで",
       "originalName": "ある魔女が死ぬまで",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 501702,
-      "nameSourceUrl": "https://bgm.tv/subject/501702",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2127666&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-04-01",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/501702",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2127666&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -140906,8 +140964,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/849293beea2ea221e1589c3139d4cae3.jpg"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/5ef4d3957bf514def5ad35fd1e8acb5b7c3549a4.jpg"
     },
     {
       "intlId": 2128308,
@@ -141245,7 +141303,7 @@
     },
     {
       "intlId": 2141222,
-      "title": "衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱",
+      "title": "破烂千金被姐姐的原婚约者溺爱着",
       "regions": [
         "ID",
         "TH",
@@ -141263,7 +141321,8 @@
         "Betrothed to My Sister`s Ex",
         "破爛千金被姊姊的原婚約者溺愛著",
         "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
-        "Loved by Her Sister's Former Fiancée"
+        "Loved by Her Sister's Former Fiancée",
+        "破烂千金被姐姐的原婚约者溺爱着"
       ],
       "catalogCheckedAt": "2026-10-06",
       "regionCheckedAt": "2026-10-06",
@@ -141279,15 +141338,15 @@
       "japaneseTitle": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
       "originalName": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 505782,
-      "nameSourceUrl": "https://bgm.tv/subject/505782",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2141222&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
         "date": "2025-07-04",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/505782",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2141222&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -141298,8 +141357,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/d83086a04059a03eb22bf785274aab01.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/736e39739755fa43d8e488a0de5f8c6bcb68130d.png"
     },
     {
       "intlId": 2141683,
@@ -141615,9 +141674,9 @@
       "japaneseTitle": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
       "originalName": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 499656,
-      "nameSourceUrl": "https://bgm.tv/subject/499656",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2187279&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -143384,9 +143443,9 @@
       "japaneseTitle": "転生したらスライムだった件 第4期",
       "originalName": "転生したらスライムだった件 第4期",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 515594,
-      "nameSourceUrl": "https://bgm.tv/subject/515594",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2407257&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -143751,7 +143810,7 @@
     },
     {
       "intlId": 2412684,
-      "title": "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再袭",
+      "title": "剧场版「鬼灭之刃」无限城篇」",
       "regions": [
         "ID",
         "TH",
@@ -143769,7 +143828,8 @@
         "Demon Slayer: Infinity Castle",
         "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen",
         "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "剧场版「鬼灭之刃」无限城篇」"
       ],
       "catalogCheckedAt": "2026-10-06",
       "regionCheckedAt": "2026-10-06",
@@ -143785,15 +143845,15 @@
       "japaneseTitle": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
       "originalName": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 501958,
-      "nameSourceUrl": "https://bgm.tv/subject/501958",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2412684&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2025-07-18",
-        "source": "Bangumi",
-        "evidenceUrl": "https://bgm.tv/subject/501958",
+        "date": "2026-07-28",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2412684&s_locale=zh_CN",
         "checkedAt": "2026-10-11",
         "note": null
       },
@@ -143804,8 +143864,8 @@
         "candidateIds": []
       },
       "originCategory": "japan",
-      "originCategorySource": "日文原名推断",
-      "cover": "https://i0.hdslb.com/bfs/bangumi/283347906c20fe06ba916ef2499b0245.png"
+      "originCategorySource": "官方制作地区",
+      "cover": "https://pic.bstarstatic.com/ogv/283347906c20fe06ba916ef2499b0245.png"
     },
     {
       "intlId": 2413250,
@@ -144302,7 +144362,7 @@
     },
     {
       "intlId": 2418071,
-      "title": "无职转生 第三季 ～到了异世界就拿出真本事～（印尼语配音版）",
+      "title": "无职转生 Ⅲ ～到了异世界就拿出真本事～（印尼语配音版）",
       "regions": [
         "ID"
       ],
@@ -144316,7 +144376,8 @@
         "Mushoku Tensei: Jobless Reincarnation Season 3",
         "Mushoku Tensei III: Isekai Ittara Honki Dasu",
         "无职转生 第三季 ～在异世界认真地活下去～",
-        "无职转生 第三季 ～到了异世界就拿出真本事～（印尼语配音版）"
+        "无职转生 第三季 ～到了异世界就拿出真本事～（印尼语配音版）",
+        "无职转生 Ⅲ ～到了异世界就拿出真本事～（印尼语配音版）"
       ],
       "catalogCheckedAt": "2026-10-11",
       "regionCheckedAt": "2026-10-11",
@@ -144325,9 +144386,9 @@
       "japaneseTitle": "無職転生Ⅲ ～異世界行ったら本気だす～",
       "originalName": "無職転生Ⅲ ～異世界行ったら本気だす～",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 501963,
-      "nameSourceUrl": "https://bgm.tv/subject/501963",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418071&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": false,
@@ -144373,9 +144434,9 @@
       "japaneseTitle": "冰剣の魔術師が世界を統べるⅡ",
       "originalName": "冰剣の魔術師が世界を統べるⅡ",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 654294,
-      "nameSourceUrl": "https://bgm.tv/subject/654294",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432333&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": false,
@@ -144477,9 +144538,9 @@
       "japaneseTitle": "生徒会にも穴はある！",
       "originalName": "生徒会にも穴はある！",
       "originalNameStatus": "japanese",
-      "nameSource": "Bangumi 番组计划",
+      "nameSource": "B站国际版官方简体中文",
       "bangumiId": 554779,
-      "nameSourceUrl": "https://bgm.tv/subject/554779",
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433041&s_locale=zh_CN",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -144668,9 +144729,7 @@
         "code": "confirmed",
         "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-11",
-        "candidateIds": [
-          323905
-        ]
+        "candidateIds": []
       }
     }
   ]
