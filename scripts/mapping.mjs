@@ -5,6 +5,7 @@ function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';i
 function label(item){return item.seasons?.find(s=>s.id===item.season_id)?.title||'';}
 function season(text){const m=String(text||'').match(/第([一二三四五六七八九十0-9]+)[季期]|season\s*([0-9]+)|([0-9]+)(?:st|nd|rd|th)\s*season|(?:^|\s)S([0-9]+)(?:$|\s)/i);return m?(Number(m[2]||m[3]||m[4]||m[1])||({一:1,二:2,三:3,四:4,五:5,六:6,七:7,八:8,九:9,十:10}[m[1]]||null)):null;}
 export function candidatesFor(item,metadata,localized,chinese){
+ if(metadata?.available===false)return [];
  const direct=[metadata?.title,localized?.title,item.seaTitle].map(nameKey).filter(Boolean),other=[item.title,...(item.aliases||[])].map(nameKey).filter(Boolean);
  const descriptions=[metadata?.description,localized?.description].map(synopsisKey).filter(x=>x.length>=25),expectedDub=dub(item.seaTitle||metadata?.title||item.title),expectedSeason=season(item.seaTitle||metadata?.title);
  const editions=chinese.filter(x=>{const edition=label(x),candidateDub=dub(x.title+' '+edition);
@@ -14,6 +15,8 @@ export function candidatesFor(item,metadata,localized,chinese){
  const aliased=valid.filter(x=>other.includes(nameKey(x.title))&&(!expectedSeason||expectedSeason===1||season(x.title+' '+label(x))===expectedSeason));if(aliased.length)return aliased;
  // Some official localized descriptions add an introduction before the entire Chinese synopsis.
  // Require an exact official title and a long, largely shared Chinese synopsis; short generic text is insufficient.
+ const episodeMatches=editions.filter(x=>direct.some(n=>n.length>=20&&n===nameKey(x.title))&&synopsisKey(x.evaluate)==='noinfoavailable'&&descriptions.length===0&&matchesEpisodes(x.episodeEvidence,metadata?.episodeEvidence));
+ if(episodeMatches.length)return episodeMatches;
  const localSynopsis=synopsisKey(localized?.description);
  return editions.filter(x=>{
   if(!direct.includes(nameKey(x.title)))return false;
@@ -28,8 +31,15 @@ export function matchesReleaseDate(candidate,release){
  // The same platform date can differ by one day between local and GitHub request regions.
  return Number.isFinite(first)&&Number.isFinite(second)&&new Date(first).toISOString().slice(0,10)===a&&new Date(second).toISOString().slice(0,10)===b&&Math.abs(first-second)<=86400000;
 }
-export function selectMapping(candidates,release,version=null){
+export function matchesEpisodes(chinese,international){
+ return chinese?.available===true&&international?.available===true&&chinese.mainCount>0&&chinese.mainCount===international.mainCount&&chinese.extraCount===international.extraCount&&chinese.firstPublishedAt>0&&chinese.firstPublishedAt===international.firstPublishedAt;
+}
+export function verifiedOriginalMapping(item,metadata,chinese,verification){
+ return Boolean(verification?.originalName&&verification?.cnTitle)&&item.originCategory==='china'&&Number(metadata?.type)===4&&metadata.available!==false&&chinese?.type===4&&chinese.available!==false&&chinese.season_id===verification?.cnId&&nameKey(metadata.originName)===nameKey(verification?.originalName)&&nameKey(chinese.title)===nameKey(verification?.cnTitle);
+}
+export function selectMapping(candidates,release,version=null,episodes=null){
  if(candidates.length===1)return candidates[0];
+ if(candidates.length>1){const sameEpisodes=candidates.filter(x=>matchesEpisodes(x.episodeEvidence,episodes));if(sameEpisodes.length===1)return sameEpisodes[0];}
  if(candidates.length>1){const sameDate=candidates.filter(x=>matchesReleaseDate(x,release));if(sameDate.length===1)return sameDate[0];}
  if(candidates.length>1&&version){const matched=candidates.filter(x=>version.special?/^(?:SP|Special)$/i.test(label(x)):version.season?/^S[0-9]+$/i.test(label(x))&&Number(label(x).slice(1))===version.season:false);if(matched.length===1)return matched[0];}return null;
 }

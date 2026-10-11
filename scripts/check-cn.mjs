@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {collectChinese,collectIndexSeeds} from './refresh-cn.mjs';
-import {normalizeOfficialDate} from './release.mjs';
-import {selectMapping,matchesReleaseDate,candidatesFor} from './mapping.mjs';
+import {normalizeOfficialDate,classifyRelease} from './release.mjs';
+import {collectEpisodeEvidence} from './episode-evidence.mjs';
+import {selectMapping,matchesReleaseDate,candidatesFor,matchesEpisodes,verifiedOriginalMapping} from './mapping.mjs';
 const indexItems=[{title:'命运拳台',seaTitle:'Ringing Fate',aliases:[],originCategory:'china'}],indexRequests=[];
 const directory=await collectIndexSeeds({items:indexItems,pause:async()=>{},request:async url=>{
  indexRequests.push(url);return new URL(url).searchParams.get('page')==='1'?{code:0,data:{list:[{season_id:39668,title:'命运拳台'}],has_next:1}}:{code:0,data:{list:[{season_id:123,title:'Unrelated anime'}],has_next:0}};
@@ -48,12 +49,37 @@ const intro='故事发生在一座漂浮于云海之上的城市。这里的居�
 assert.equal(candidatesFor({seaTitle:'Example',title:'示例动画'},null,{title:'示例动画',description:intro+longSynopsis},[{season_id:43370,title:'示例动画',evaluate:longSynopsis}]).length,1);
 assert.equal(candidatesFor({seaTitle:'Different title',title:'其他',aliases:['示例动画']},null,{title:'Different title',description:intro+longSynopsis},[{season_id:43370,title:'示例动画',evaluate:longSynopsis}]).length,0,'Shared synopsis alone must not match an alias from a different official title');
 assert.equal(candidatesFor({seaTitle:'Example',title:'例子'},null,{title:'例子',description:'少年展开冒险之旅，这是一个关于梦想与成长的故事。'},[{season_id:1,title:'例子',evaluate:'少年展开冒险之旅'}]).length,0,'Short generic synopsis fragments must not produce a mapping');
+const storedRelated=await collectChinese({cache:{323926:{season_id:323926,checkedAt:day,richCheckedAt:day,seasons:[{id:39669,title:'S2'}]}},discovery:{backfillNext:288511},catalog:{items:[]},day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:Number(new URL(url).searchParams.get('season_id'))===39669?{code:0,result:{season_id:39669,title:'Related missing season',episodes:[],seasons:[]}}:{code:-404}});
+assert.equal(storedRelated.cache[39669].title,'Related missing season','Cached official relations must be inspected even when their parent is already fresh');
+const pendingFresh=await collectChinese({cache:{39668:{season_id:39668,title:'命运拳台',checkedAt:day,richCheckedAt:day}},discovery:{backfillNext:288511},catalog:{items:indexItems},day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:Number(new URL(url).searchParams.get('season_id'))===39668?{code:0,result:{season_id:39668,title:'命运拳台',type:4,episodes:[{id:10,pub_time:1697504400}],seasons:[]}}:{code:-404}});
+assert.equal(pendingFresh.cache[39668].firstEpisodePublishedAt,1697504400000,'Pending entries need the exact official episode time even when the prior metadata is fresh');assert.equal(pendingFresh.cache[39668].type,4);
+const unavailable=await collectChinese({cache:{39668:{season_id:39668,title:'命运拳台',checkedAt:day,richCheckedAt:day}},discovery:{backfillNext:288511},catalog:{items:indexItems},day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:{code:-404}});
+assert.equal(unavailable.cache[39668].available,false,'A missing source response must not leave an old candidate available for a new mapping');
+const episodeTitle='Example Animation: A Separate Official Special',published=Date.parse('2026-09-15T23:00:00+08:00');
+const episodeCatalog={items:[{intlId:1,cnId:null,title:episodeTitle,seaTitle:episodeTitle}]},episodeChinese={2:{season_id:2,title:episodeTitle,firstEpisodePublishedAt:published,publish:{is_started:1},episodeCount:2}},episodeCache={intl:{},cn:{}},episodeCacheBefore=structuredClone(episodeCache);
+const episodeResult=await collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,cache:episodeCache,day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[{ep_list_title:'1-2',episodes:[{episode_id:'10',publish_time:'2026-09-15T23:00:00+08:00'},{episode_id:'11',publish_time:'2026-09-22T23:00:00+08:00'}]},{ep_list_title:'PV&More',episodes:[{episode_id:'12',publish_time:'2026-09-01T00:00:00+08:00'}]}]}}:{code:0,result:{main_section:{episodes:[{},{}]},section:[{episodes:[{}]}]}}});
+assert.deepEqual(episodeCache,episodeCacheBefore,'Optional evidence collection must not mutate the stored snapshot');
+assert.deepEqual(episodeResult.intl[1],{available:true,mainCount:2,extraCount:1,firstPublishedAt:published,checkedAt:day});assert(matchesEpisodes(episodeResult.cn[2],episodeResult.intl[1]));
+assert.equal(matchesEpisodes({...episodeResult.cn[2],extraCount:0},episodeResult.intl[1]),false);assert.equal(matchesEpisodes({...episodeResult.cn[2],firstPublishedAt:published+1000},episodeResult.intl[1]),false);
+const infoCandidate={season_id:2,title:episodeTitle,evaluate:'No info available',episodeEvidence:episodeResult.cn[2]},infoMetadata={title:episodeTitle,description:'No info available',episodeEvidence:episodeResult.intl[1]};
+assert.deepEqual(candidatesFor({seaTitle:episodeTitle},infoMetadata,null,[infoCandidate]).map(x=>x.season_id),[2],'A long exact official title and matching episode structure/publication time can identify missing-synopsis entries');
+assert.equal(candidatesFor({seaTitle:episodeTitle},{...infoMetadata,episodeEvidence:{...infoMetadata.episodeEvidence,firstPublishedAt:published+1000}},null,[infoCandidate]).length,0);
+assert.equal(candidatesFor({seaTitle:episodeTitle},{...infoMetadata,available:false},null,[infoCandidate]).length,0,'Unavailable international metadata must not create a new mapping');
+assert.equal(candidatesFor({seaTitle:'OVA'},{...infoMetadata,title:'OVA'},null,[{...infoCandidate,title:'OVA'}]).length,0,'Generic labels must not identify an episode version');
+const episodeEditions=[{season_id:1,episodeEvidence:{...episodeResult.cn[2],extraCount:1}},{season_id:2,episodeEvidence:{...episodeResult.cn[2],extraCount:0}}];
+assert.equal(selectMapping(episodeEditions,null,null,episodeResult.intl[1]).season_id,1);assert.equal(selectMapping(episodeEditions,null,null,{...episodeResult.intl[1],extraCount:0}).season_id,2);assert.equal(selectMapping([episodeEditions[0],{...episodeEditions[0],season_id:3}],null,null,episodeResult.intl[1]),null);
+const previewResult=await collectEpisodeEvidence({catalog:episodeCatalog,chinese:{2:{...episodeChinese[2],publish:{is_started:0},episodeCount:0,firstEpisodePublishedAt:null}},day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[{ep_list_title:'PV&More',episodes:[{publish_time:'2026-09-15T23:00:00+08:00'}]}]}}:{code:0,result:{section:[{episodes:[{},{}]}]}}});
+assert.equal(previewResult.intl[1].mainCount,0);assert.equal(previewResult.cn[2].mainCount,0);assert.equal(previewResult.cn[2].extraCount,2);assert.equal(matchesEpisodes(previewResult.cn[2],previewResult.intl[1]),false,'Previews must not confirm an aired episode');
+await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,cache:episodeCache,day,pause:async()=>{},request:async()=>{throw new Error('Source HTTP 412');}}),/412/);
+await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,day,pause:async()=>{},request:async()=>({code:0,data:{sections:[{episodes:null}]}})}),/invalid data/);
+await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[]}}:{code:0,result:{section:[]}}}),/invalid data/);
+assert.deepEqual(episodeCache,episodeCacheBefore);
+const originalVerification={cnId:2,cnTitle:'示例动画 第二季',originalName:'示例动画 第二季'},originalMeta={type:4,originName:originalVerification.originalName},originalChinese={type:4,season_id:2,title:originalVerification.cnTitle,available:true};
+assert(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChinese,originalVerification));
+assert.equal(verifiedOriginalMapping({originCategory:'china'},{...originalMeta,available:false},originalChinese,originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChinese,{...originalVerification,originalName:''}),false);
+assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,{...originalChinese,type:2},originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},{...originalMeta,originName:'示例动画 第一季'},originalChinese,originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,{...originalChinese,available:false},originalVerification),false);
+assert.equal(classifyRelease({day:'2026-10-11',date:'2026-12-17',started:false,officialUpcoming:true}).status,'upcoming','An allocated ID or preview must not imply the season has aired');
 const root=new URL('../',import.meta.url),catalog=JSON.parse(await readFile(new URL('dist/catalog.json',root),'utf8'));
-for(const [intlId,cnId] of [[2433041,326551],[2433665,324859],[2078586,278104],[2080734,278126],[2407257,282288],[2407935,282299],[2411817,282344],[2096264,39668],[2105385,45957],[2105746,45973],[2433235,118958],[2105814,43370]]){
+for(const [intlId,cnId] of [[2433041,326551],[2433665,324859],[2078586,278104],[2080734,278126],[2407257,282288],[2407935,282299],[2411817,282344],[2096264,39668],[2105385,45957],[2105746,45973],[2433235,118958],[2105814,43370],[35943,283615],[36728,283616],[1018114,277249],[1018757,277260],[2129353,45964],[2433174,119021],[2418319,306788],[2433316,319971]]){
  assert.equal(catalog.items.find(x=>x.intlId===intlId)?.cnId,cnId,'A verified missing platform mapping must survive refresh');
 }
-assert.equal(catalog.items.find(x=>x.intlId===2418319)?.cnId,null,'A different regional release must not share the same Chinese ID');
-
-assert.equal(catalog.items.find(x=>x.intlId===2129353)?.cnId,null,'Different full descriptions must not be matched solely by title');
-assert(catalog.items.find(x=>x.intlId===2129353)?.mappingStatus.candidateIds.includes(45964));
-assert.equal(catalog.items.find(x=>x.intlId===2433235)?.release.status,'upcoming','Allocated IDs must not turn an unstarted season into an aired one');
