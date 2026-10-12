@@ -36,7 +36,7 @@
    <div class="filter-row"><div><h2 id="region-title">全部东南亚地区</h2><span id="result-count" role="status" aria-live="polite">正在读取目录…</span></div><label class="status-filter">状态<select id="status"><option value="all">全部状态</option><option value="unmapped">中国版 ID 未核实</option><option value="upcoming">未开播 / 计划开播</option><option value="aired">已开播 / 首播日期已过</option><option value="unknown">开播时间待核实</option></select></label><label class="check"><input id="mapped-only" type="checkbox">仅显示中国版 ID 已核实</label></div>
    <div class="table-wrap"><table><thead><tr><th>番剧名称</th><th>国际版 ID</th><th>授权地区 / 来源</th><th>中国版 ss ID</th></tr></thead><tbody id="rows"></tbody></table></div>
    <div id="empty" class="empty" hidden><h3>没有找到匹配记录</h3><p>尝试缩短番剧名，或取消国家、地区及 ID 筛选。</p><button id="reset">清除筛选</button></div>
-   <div class="pagination"><span id="page-info"></span><div><button id="previous" aria-label="上一页">上一页</button><span id="page-number"></span><button id="next" aria-label="下一页">下一页</button></div></div>
+   <div class="pagination"><span id="page-info"></span><div><button id="previous" aria-label="上一页">上一页</button><span id="page-number"></span><button id="next" aria-label="下一页">下一页</button><form id="page-jump" class="page-jump" aria-label="页码跳转"><label for="page-input">跳至</label><input id="page-input" type="number" inputmode="numeric" min="1" step="1" value="1" required aria-label="跳转页码"><span>页</span><button id="jump-button" type="submit">跳转</button></form></div></div>
   </section>
   <details class="coverage" open><summary>数据来源与覆盖说明</summary><div class="coverage-body">
    <p><strong>这是可查询的收录目录，目前尚不能保证覆盖所有地区的全部现行番剧。</strong></p>

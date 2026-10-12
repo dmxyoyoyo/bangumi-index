@@ -3,7 +3,7 @@ import {readFile} from 'node:fs/promises';
 import {collectChinese,collectIndexSeeds} from './refresh-cn.mjs';
 import {normalizeOfficialDate,classifyRelease} from './release.mjs';
 import {collectEpisodeEvidence} from './episode-evidence.mjs';
-import {selectMapping,matchesReleaseDate,candidatesFor,matchesEpisodes,verifiedOriginalMapping} from './mapping.mjs';
+import {selectMapping,matchesReleaseDate,candidatesFor,matchesEpisodes,verifiedOriginalMapping,unavailableAssociatedCandidate} from './mapping.mjs';
 const indexItems=[{title:'命运拳台',seaTitle:'Ringing Fate',aliases:[],originCategory:'china'}],indexRequests=[];
 const directory=await collectIndexSeeds({items:indexItems,pause:async()=>{},request:async url=>{
  indexRequests.push(url);return new URL(url).searchParams.get('page')==='1'?{code:0,data:{list:[{season_id:39668,title:'命运拳台'}],has_next:1}}:{code:0,data:{list:[{season_id:123,title:'Unrelated anime'}],has_next:0}};
@@ -79,7 +79,18 @@ assert(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChi
 assert.equal(verifiedOriginalMapping({originCategory:'china'},{...originalMeta,available:false},originalChinese,originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChinese,{...originalVerification,originalName:''}),false);
 assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,{...originalChinese,type:2},originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},{...originalMeta,originName:'示例动画 第一季'},originalChinese,originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,{...originalChinese,available:false},originalVerification),false);
 assert.equal(classifyRelease({day:'2026-10-11',date:'2026-12-17',started:false,officialUpcoming:true}).status,'upcoming','An allocated ID or preview must not imply the season has aired');
+assert.equal(first.discovery.backfillRange[1]-first.discovery.backfillRange[0]+1,2000,'A normal refresh must expand the historical range to 2000 IDs');assert(second.discovery.backfillNext>first.discovery.backfillNext,'Historical scanning must resume after the previous completed range');
+const linked={cnId:274247,sourceCnId:274249,seasonLabel:'S1'},linkedParent={season_id:274249,available:true,seasons:[{id:274247,title:'S1'}]},linkedMissing={season_id:274247,available:false,code:-404,checkedAt:day};
+assert.equal(unavailableAssociatedCandidate(linked,[linkedParent,linkedMissing]).season_id,274247);
+assert.equal(unavailableAssociatedCandidate({...linked,seasonLabel:'S3'},[linkedParent,linkedMissing]),null);assert.equal(unavailableAssociatedCandidate(linked,[{...linkedParent,available:false},linkedMissing]),null);assert.equal(unavailableAssociatedCandidate(linked,[linkedParent,{...linkedMissing,available:true}]),null);
+const recovered=await collectChinese({cache:{274247:{...linkedMissing,richCheckedAt:day,firstEpisodePublishedAt:123},274249:{...linkedParent,checkedAt:day,richCheckedAt:day}},discovery:{backfillNext:288511},catalog:{items:[{intlId:36184,cnId:null,title:'Nyaruko'}]},links:{36184:linked},day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:Number(new URL(url).searchParams.get('season_id'))===274247?{code:0,result:{season_id:274247,title:'Nyaruko',episodes:[],seasons:[]}}:{code:-404}});
+assert.equal(recovered.cache[274247].available,true,'A failed associated candidate must be checked again even on the same day');assert.equal(recovered.cache[274247].code,0);assert.equal(unavailableAssociatedCandidate(linked,[linkedParent,recovered.cache[274247]]),null);
+const staleCache=Object.fromEntries(Array.from({length:4000},(_,i)=>[300000+i,{season_id:300000+i,title:'Old candidate',checkedAt:'2025-01-01'}])),budgetRequests=[];
+const limited=await collectChinese({cache:staleCache,discovery:{backfillNext:283000},catalog:{items:[]},day,pause:async()=>{},request:async url=>{budgetRequests.push(Number(new URL(url).searchParams.get('season_id')));return {code:-404};}});
+assert(budgetRequests.length<=4000,'Candidate checks must remain bounded when old metadata needs refreshing');assert.equal(new Set(budgetRequests).size,budgetRequests.length);assert(limited.discovery.recheckQueued<4000);assert(limited.discovery.backfillNext>283000,'A large recheck queue must still leave room for historical progress');assert(staleCache[300000].available===undefined,'Budgeted collection must not mutate the input snapshot');
 const root=new URL('../',import.meta.url),catalog=JSON.parse(await readFile(new URL('dist/catalog.json',root),'utf8'));
 for(const [intlId,cnId] of [[2433041,326551],[2433665,324859],[2078586,278104],[2080734,278126],[2407257,282288],[2407935,282299],[2411817,282344],[2096264,39668],[2105385,45957],[2105746,45973],[2433235,118958],[2105814,43370],[35943,283615],[36728,283616],[1018114,277249],[1018757,277260],[2129353,45964],[2433174,119021],[2418319,306788],[2433316,319971]]){
  assert.equal(catalog.items.find(x=>x.intlId===intlId)?.cnId,cnId,'A verified missing platform mapping must survive refresh');
 }
+
+for(const [intlId,cnId] of [[36184,274247],[2077396,278092]]){const item=catalog.items.find(x=>x.intlId===intlId);assert.equal(item.cnId,null);assert.equal(item.mappingStatus.code,'candidate-unavailable');assert.deepEqual(item.mappingStatus.candidateIds,[cnId]);}

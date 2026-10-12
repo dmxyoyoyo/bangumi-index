@@ -31,6 +31,11 @@ export function matchesReleaseDate(candidate,release){
  // The same platform date can differ by one day between local and GitHub request regions.
  return Number.isFinite(first)&&Number.isFinite(second)&&new Date(first).toISOString().slice(0,10)===a&&new Date(second).toISOString().slice(0,10)===b&&Math.abs(first-second)<=86400000;
 }
+export function unavailableAssociatedCandidate(link,chinese){
+ if(!link)return null;
+ const parent=chinese.find(x=>x.season_id===link.sourceCnId&&x.available!==false),candidate=chinese.find(x=>x.season_id===link.cnId);
+ return parent?.seasons?.some(x=>x.id===link.cnId&&x.title===link.seasonLabel)&&candidate?.available===false&&[-404,-1].includes(candidate.code)?candidate:null;
+}
 export function matchesEpisodes(chinese,international){
  return chinese?.available===true&&international?.available===true&&chinese.mainCount>0&&chinese.mainCount===international.mainCount&&chinese.extraCount===international.extraCount&&chinese.firstPublishedAt>0&&chinese.firstPublishedAt===international.firstPublishedAt;
 }

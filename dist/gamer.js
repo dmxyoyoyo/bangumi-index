@@ -23,6 +23,7 @@ function gamerRender(){
  }
  gamer$('result-count').textContent=results.length.toLocaleString('zh-CN')+' 条记录';gamer$('empty').hidden=results.length>0;
  gamer$('page-info').textContent=results.length?'显示 '+(start+1)+'–'+Math.min(start+gamerPageSize,results.length)+' / '+results.length+' 条':'0 条记录';
+ gamer$('page-input').max=String(pages);gamer$('page-input').value=String(gamerState.page);gamer$('page-input').disabled=!results.length;gamer$('jump-button').disabled=!results.length;
  gamer$('page-number').textContent=gamerState.page+' / '+pages;gamer$('previous').disabled=gamerState.page<=1;gamer$('next').disabled=gamerState.page>=pages;
 }
 function gamerUpdate(values){Object.assign(gamerState,values,{page:1});gamerRender();}
@@ -32,5 +33,6 @@ try{
  gamer$('sync-date').title=new Date(gamerCatalog.meta.lastSuccessfulRefresh).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'});
  gamer$('search').addEventListener('input',event=>gamerUpdate({query:event.target.value}));gamer$('sort').addEventListener('change',event=>gamerUpdate({sort:event.target.value}));
  for(const [id,step] of [['previous',-1],['next',1]])gamer$(id).addEventListener('click',()=>{gamerState.page+=step;gamerRender();gamer$('catalog').scrollIntoView({block:'start'});});
+ gamer$('page-jump').addEventListener('submit',event=>{event.preventDefault();const page=Number(gamer$('page-input').value),max=Number(gamer$('page-input').max);if(!Number.isSafeInteger(page)||page<1||page>max)return;gamerState.page=page;gamerRender();gamer$('catalog').scrollIntoView({block:'start'});});
  gamer$('reset').addEventListener('click',()=>{gamer$('search').value='';gamerUpdate({query:''});});gamerRender();
 }catch{gamer$('result-count').textContent='目录未能读取，请刷新页面重试。';}
