@@ -106962,6 +106962,62 @@
     "available": true,
     "code": 0
   },
+  "296065": {
+    "season_id": 296065,
+    "title": "乌女山怪谈",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5210ffc7e9f977366a418528957f26bfc09f5623.png",
+    "evaluate": "乌女山禁地致幻神菇引多方人马入局，尘封十年的血案随萨满复仇揭开，爱恨纠葛中上演人性与救赎的殊死较量。",
+    "jpTitle": "",
+    "seasonTitle": "乌女山怪谈",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-01 10:00:00",
+      "pub_time_show": "09月01日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5810517,
+    "firstEpisodePublishedAt": 1788228000000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "296299": {
+    "season_id": 296299,
+    "title": "极限逃生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5939598115eee9c3074172409d6d2f1c7aa03f40.png",
+    "evaluate": "一事无成的loser吴成（吴昱翰 饰）在公司年会上偶遇自己的白月光林盛楠（徐璐 饰），前脚刚想与她再续前缘，后脚富二代舔狗付鑫（张海宇 饰）就出面搅局，抓马关系还没扯清，便被卷入了一场突如其来的毒气泄漏危机，三人临时拼凑成“跑毒小队”，开启了一场从“三角恋”到“三角生死恋”的爆笑逃生之旅……",
+    "jpTitle": "",
+    "seasonTitle": "极限逃生",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-20 16:00:00",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 1,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "300282": {
     "season_id": 300282,
     "title": "世界战史 二战往事",

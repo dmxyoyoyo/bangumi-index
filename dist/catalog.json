@@ -45,7 +45,7 @@
       "not-found": 4,
       "candidate-unavailable": 2
     },
-    "lastSuccessfulRefresh": "2026-10-12T12:53:39.715Z"
+    "lastSuccessfulRefresh": "2026-10-12T15:36:51.340Z"
   },
   "items": [
     {
@@ -144440,9 +144440,7 @@
         "code": "confirmed",
         "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-12",
-        "candidateIds": [
-          324723
-        ]
+        "candidateIds": []
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
