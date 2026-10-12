@@ -6,9 +6,9 @@ export function normalizeOfficialDate(value){
  const date=m[3]+'-'+String(month).padStart(2,'0')+'-'+m[2].padStart(2,'0'),time=Date.parse(date+'T00:00:00Z');
  return Number.isFinite(time)&&new Date(time).toISOString().slice(0,10)===date?date:text;
 }
-export function classifyRelease({date='',day,started=false,finished=false,officialUpcoming=false}){
+export function classifyRelease({date='',day,started=false,finished=false,officialUpcoming=false,episodeEvidence=null,now=Date.now()}){
  date=normalizeOfficialDate(date);
- if(started||finished)return {status:'aired',confirmed:true};
+ if(started||finished||episodeEvidence?.available===true&&episodeEvidence.mainCount>0&&episodeEvidence.firstPublishedAt>0&&episodeEvidence.firstPublishedAt<=now)return {status:'aired',confirmed:true};
  if(!/^\d{4}(?:-\d{2}){0,2}$/.test(date))return {status:'unknown',confirmed:false};
  const first=date.length===4?date+'-01-01':date.length===7?date+'-01':date;
  const last=date.length===4?date+'-12-31':date.length===7?date+'-31':date;
