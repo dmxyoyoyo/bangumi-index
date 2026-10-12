@@ -42,9 +42,10 @@
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
       "confirmed": 2213,
-      "not-found": 7
+      "not-found": 5,
+      "candidate-unavailable": 2
     },
-    "lastSuccessfulRefresh": "2026-10-12T02:24:00.976Z"
+    "lastSuccessfulRefresh": "2026-10-12T09:27:39.486Z"
   },
   "items": [
     {
@@ -38091,10 +38092,12 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "candidate-unavailable",
+        "reason": "已从官方季度关系定位 ss274247，但中国版条目接口当前返回 -404，暂无法读取完整条目。国际版官方条目仍可读取，这不能判定国际版已下架，也不代表该中国版链接当前可播放。",
         "checkedAt": "2026-10-12",
-        "candidateIds": []
+        "candidateIds": [
+          274247
+        ]
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
@@ -103159,10 +103162,12 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "candidate-unavailable",
+        "reason": "已从官方季度关系定位 ss278092，但中国版条目接口当前返回 -404，暂无法读取完整条目。国际版官方条目仍可读取，这不能判定国际版已下架，也不代表该中国版链接当前可播放。",
         "checkedAt": "2026-10-12",
-        "candidateIds": []
+        "candidateIds": [
+          278092
+        ]
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",

@@ -7568,6 +7568,80 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "28515": {
+    "season_id": 28515,
+    "title": "蜘蛛侠：英雄远征",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/37ecc29ada354bc61b9e237203fff3f4f358f731.jpg",
+    "evaluate": "在复仇者联盟众英雄的努力下，于灭霸无限手套事件中化作为灰烬的人们，重新回到了人世间，曾经消失的蜘蛛侠 彼得帕克 也回归到了普通的生活之中，数月后，蜘蛛侠彼得帕克所在的学校举行了欧洲旅游，帕克也在其中， 在欧州威尼斯旅行时，一个巨大无比的水怪袭击了威尼斯，不敌敌人的蜘蛛侠幸得一位自称神秘客的男子搭救才击退敌人，之后 神盾局局长找上正在旅游的彼得帕克并要求其加入神盾局，并安排神秘客协助帕克，神秘客自称来自其他宇宙，并告知一群名为元素众的邪恶势力已经入侵这个宇宙了，为了守护来之不易的和平，蜘蛛侠决定与神秘客联手，然而在神秘客那头罩之中，似乎隐藏着什么不为人知的真相……",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠：英雄远征",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-01-21 10:00:00",
+      "pub_time_show": "2023年01月21日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 283947,
+    "firstEpisodePublishedAt": 1674266400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "28579": {
     "season_id": 28579,
     "title": "宇宙的奥秘",
@@ -8705,6 +8779,80 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "38539": {
+    "season_id": 38539,
+    "title": "蜘蛛侠：英雄归来",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/9475e4844555567a7eae8c3f5e1570daf5a98031.png",
+    "evaluate": "彼得帕克（汤姆·赫兰德饰）在内战后受到了钢铁侠托尼斯塔克（小罗伯特·唐尼饰）的赏识，表面上，彼得进入托尼的公司成为了一名实习生，实际上，他和复仇者联盟的成员们一起接受了各种各样的训练。托尼虽然欣赏彼得的勇敢和正直，却并不认为他目前已经拥有加入复联的实力，他派出了特工哈皮（乔恩·费儒饰）暗中观察，这让十分想证明自己的彼得感到万分焦躁。在对付两个银行劫匪的过程中，彼得发现劫匪们使用的是一种前所未见的新型武器…",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠：英雄归来",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-05-01 18:00:00",
+      "pub_time_show": "2021年05月01日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 401571,
+    "firstEpisodePublishedAt": 1619863200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "38562": {
     "season_id": 38562,
     "title": "Top Gear 第30季",
@@ -9451,6 +9599,302 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "40100": {
+    "season_id": 40100,
+    "title": "蜘蛛侠",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/6ffbb45d895427ee443e23c3881771bcb7a93bde.png",
+    "evaluate": "彼得帕克只是美国一个平凡的高中生，当一次他被蜘蛛博物馆偷跑出来的变种蜘蛛咬了一口之后，彼得的生活彻底改变了。他变得和蜘蛛一样，拥有各种蜘蛛特有的超能力：从手指喷出粘力极强的蜘蛛丝、飞檐走壁等等。",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-12-18 11:00:00",
+      "pub_time_show": "2021年12月18日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 446573,
+    "firstEpisodePublishedAt": 1639796400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "40102": {
+    "season_id": 40102,
+    "title": "蜘蛛侠2",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/66add320301f8e9ea41f0b57f097e040fccbc58c.png",
+    "evaluate": "大战绿妖之后，蜘蛛侠帕克忍痛拒绝了他唯一的挚爱玛丽，因为蜘蛛侠的身份会为自己和亲人带来巨大危险，帕克决定独立承担起蜘蛛侠的责任。帕克一直在忙于应付各种挑战：学习超能力的灵活运用；在超级英雄与平凡大学生的双重身份下隐藏自我、小心翼翼地生活等等。",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠2",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-12-18 11:00:00",
+      "pub_time_show": "2021年12月18日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 446619,
+    "firstEpisodePublishedAt": 1639796401000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": -1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "40106": {
+    "season_id": 40106,
+    "title": "蜘蛛侠3",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/2d345f289ddacd691d8923ef5437fd0e7081afd0.png",
+    "evaluate": "蜘蛛侠在经历了重重考验之后，成为了人人敬仰的正义英雄，抱得美人归。但是，光环下蜘蛛侠，也有自己的心病：他在第一集时放走了小偷导致最亲爱的叔叔被小偷杀死，帕克一直耿耿于怀。",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠3",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-12-18 11:00:00",
+      "pub_time_show": "2021年12月18日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 446672,
+    "firstEpisodePublishedAt": 1639796400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "40107": {
+    "season_id": 40107,
+    "title": "超凡蜘蛛侠",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/aa1a9a8b0496dc186d77bdbdda6d2ebff1d9d5f6.png",
+    "evaluate": "彼得·帕克意外被蜘蛛咬了一口，回程途中他的身体发生奇异的变化。在康纳斯博士德引导下，他不断了解并发掘体内着超乎寻常的能力，喜怒哀乐，各种意想不到的事情迅速向他袭来。直到某日，他便成了影响深远的超级战士蜘蛛侠。而城市内也出现了凶恶的蜥蜴人，彼得不平凡的人生就此展开……",
+    "jpTitle": "",
+    "seasonTitle": "超凡蜘蛛侠",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-12-18 11:00:00",
+      "pub_time_show": "2021年12月18日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 446673,
+    "firstEpisodePublishedAt": 1639796400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": -1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "40509": {
     "season_id": 40509,
     "title": "守护解放西3",
@@ -10090,6 +10534,80 @@
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
   },
+  "44140": {
+    "season_id": 44140,
+    "title": "蜘蛛侠：平行宇宙",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/69a954a5035321abf7bb19873225e8cf4abd62b9.png",
+    "evaluate": "正就读中学的少年迈尔斯（沙梅克·摩尔 Shameik Moore 配音）意外被一只遭受放射性污染的蜘蛛咬伤，随后身体发生奇特的变化。偶然机缘，他目睹了蜘蛛侠（克里斯·派恩 Chris Pine 配音）和犯罪头目金并（列维·施瑞博尔 Liev Schreiber 配音）的战斗。为了阻止金并利用时空对撞机扰乱宇宙，蜘蛛侠最终壮烈牺牲。可未过多久，来自平行宇宙的颓废的彼德·帕克（杰克·约翰逊 Jake M. Johnson 配音）出现在迈尔斯面前。为了阻止金并的阴谋，并帮助这个帕克返回自己的宇宙，他们闯入金并的老巢。在这一过程中，二人遭到章鱼博士和徘徊者的狙击。与此同时，来自其他宇宙的女蜘蛛侠、暗影蜘蛛侠、蜘猪侠、二次元蜘蛛妹相继出现。\n                                    \n                                　　他们合力与恶势力展开斗争……",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠：平行宇宙",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-01-21 10:00:00",
+      "pub_time_show": "2023年01月21日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 731907,
+    "firstEpisodePublishedAt": 1674266400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "44155": {
     "season_id": 44155,
     "title": "恶海捕蟹记 血脉篇 第二季",
@@ -10508,6 +11026,81 @@
     "available": true,
     "checkedAt": "2026-10-11",
     "richCheckedAt": "2026-10-11"
+  },
+  "45426": {
+    "season_id": 45426,
+    "title": "蜘蛛侠：纵横宇宙",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f7ae0ce4ff8f8b03463e714dcb606b10165c5d20.png",
+    "evaluate": "影片讲述“小黑蛛”迈尔斯经历成长迷茫，即将走进“更大的世界”，这次他将携手蜘蛛格温，跨越多重平行宇宙，展开一场冒险。蜘蛛侠2099、“蜘蛛女侠”等来自其他平行宇宙的蜘蛛侠将逐一亮相。",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠：纵横宇宙",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-08-11 16:00:00",
+      "pub_time_show": "2023年08月11日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 767230,
+    "firstEpisodePublishedAt": 1691740800000,
+    "type": 2,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "",
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
   },
   "45509": {
     "season_id": 45509,
@@ -13395,6 +13988,78 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "218526": {
+    "season_id": 218526,
+    "title": "蜘蛛侠：崭新之日",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/9954badce3067b8a4e54f941e5bcb0a91bed0072.png",
+    "evaluate": "彼得·帕克（汤姆·霍兰德 饰）自愿让全世界遗忘自己，转眼已是四年。失去挚友、挚爱与亲人的陪伴，他独自重返街头，以全职蜘蛛侠的身份坚守使命，守护整座城市。然而，日益沉重的责任与无尽压力，意外引发了一场骇人的身体异变，直接威胁到蜘蛛侠的生命，迫使他向“绿巨人”班纳博士寻求帮助。与此同时，多方邪恶势力趁虚而入，纽约再度陷入危机。面对前所未有的强敌，蜘蛛侠能否绝境破局，完成破茧重生？",
+    "jpTitle": "",
+    "seasonTitle": "蜘蛛侠：崭新之日",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-12-24 00:00:01",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 1,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
   },
   "218544": {
     "season_id": 218544,
@@ -19348,6 +20013,82 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "261497": {
+    "season_id": 261497,
+    "title": "暗影蜘蛛侠（彩色版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b9cb8325ab4e8bbc7a2aa5b4d04021e6be163293.png",
+    "evaluate": "私家侦探本·莱利接下了几个看似简单的案子…结果却被黑帮、怪物和一个神秘的蛇蝎美人卷入一张阴谋之网，使他不得不再度面对自己曾经的身份：纽约唯一的超级英雄\"蜘蛛\"。",
+    "jpTitle": "",
+    "seasonTitle": "暗影蜘蛛侠（彩色版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-29 12:00:00",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5756501,
+    "firstEpisodePublishedAt": 1787976006000,
+    "type": 5,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "261878": {
     "season_id": 261878,
     "title": "小魔万物大百科—植物篇",
@@ -23605,6 +24346,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/2703eeac62ee0b8524e3674a4afeaf84.jpg"
   },
+  "273029": {
+    "season_id": 273029,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "273030": {
     "season_id": 273030,
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
@@ -23694,6 +24441,12 @@
     ],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/8bee19ceddb5df67d8c8dec16847bf02.jpg"
+  },
+  "273032": {
+    "season_id": 273032,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "273033": {
     "season_id": 273033,
@@ -26955,6 +27708,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/1e0572a375d61e08f259158f8ba18c22.jpg"
   },
+  "273190": {
+    "season_id": 273190,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "273192": {
     "season_id": 273192,
     "title": "Demon Lord, Retry!",
@@ -29237,6 +29996,12 @@
     "seasons": [],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/70e4a108b58797e5ea97a657e9f95ec9.jpg"
+  },
+  "273362": {
+    "season_id": 273362,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "273364": {
     "season_id": 273364,
@@ -33774,6 +34539,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/acfc066458048c44e227a100f72869b1.jpg"
   },
+  "273613": {
+    "season_id": 273613,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "273615": {
     "season_id": 273615,
     "title": "Fate/kaleid liner Prisma☆Illya",
@@ -35167,6 +35938,24 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/27a991568ac732653f9a8697c8aa1ebf.png"
   },
+  "273674": {
+    "season_id": 273674,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "273675": {
+    "season_id": 273675,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "273677": {
+    "season_id": 273677,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "273678": {
     "season_id": 273678,
     "title": "Supernatural girl",
@@ -35194,6 +35983,18 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/deba63aacafc2d712fe624258021feb0.jpg"
   },
+  "273680": {
+    "season_id": 273680,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "273681": {
+    "season_id": 273681,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "273682": {
     "season_id": 273682,
     "title": "Radio Girl and Young Man",
@@ -35220,6 +36021,18 @@
     "seasons": [],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7245c57b3b077e382e29289bfbcb93e0.jpg"
+  },
+  "273683": {
+    "season_id": 273683,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "273684": {
+    "season_id": 273684,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "273685": {
     "season_id": 273685,
@@ -37543,6 +38356,12 @@
     "seasons": [],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/86a7b9a992b8a81d0b8b8a108b657026.png"
+  },
+  "273776": {
+    "season_id": 273776,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "273784": {
     "season_id": 273784,
@@ -45658,11 +46477,17 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9909f1fe198c341af6394c6d1779e483.png"
   },
+  "274247": {
+    "season_id": 274247,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "274249": {
     "season_id": 274249,
     "title": "Nyaruko: Crawling With Love! Second Season",
     "evaluate": "No info available",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-12",
     "jpTitle": "",
     "seasonTitle": "Nyaruko: Crawling With Love! Second Season",
     "publish": {
@@ -45691,8 +46516,12 @@
         "title": "S2"
       }
     ],
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/f2b748e3b9ca7614b5b449718db704c3.png"
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/f2b748e3b9ca7614b5b449718db704c3.png",
+    "firstEpisodePublishedAt": 1608830220000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "274253": {
     "season_id": 274253,
@@ -59468,6 +60297,12 @@
     ],
     "richCheckedAt": "2026-10-06"
   },
+  "276538": {
+    "season_id": 276538,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "276567": {
     "season_id": 276567,
     "title": "Silver Spoon 2nd Season",
@@ -61795,6 +62630,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/47907177cd4656a5fc0f8de62e68e02b.png"
   },
+  "276968": {
+    "season_id": 276968,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "276970": {
     "season_id": 276970,
     "title": "My Hero Academia S5 ",
@@ -63291,6 +64132,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/4f189cff522caf16e1d671efa045ce65.png"
   },
+  "277053": {
+    "season_id": 277053,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "277054": {
     "season_id": 277054,
     "title": "DIABOLIK LOVERS MORE,BLOOD",
@@ -64138,6 +64985,12 @@
     "total": 14,
     "seasons": [],
     "richCheckedAt": "2026-10-06"
+  },
+  "277087": {
+    "season_id": 277087,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "277091": {
     "season_id": 277091,
@@ -65519,6 +66372,18 @@
     ],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/aef046ba2a500190845e7bcf3f1263d5.jpg"
+  },
+  "277198": {
+    "season_id": 277198,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277199": {
+    "season_id": 277199,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "277200": {
     "season_id": 277200,
@@ -71439,6 +72304,12 @@
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9fdb40c9137e33b54d732f38f474da63.jpg"
   },
+  "277744": {
+    "season_id": 277744,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "277745": {
     "season_id": 277745,
     "title": "Attack on Titan: No Regret (Thai Dub)",
@@ -73155,6 +74026,12 @@
     "seasons": [],
     "richCheckedAt": "2026-10-06"
   },
+  "277853": {
+    "season_id": 277853,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
   "277854": {
     "season_id": 277854,
     "title": "The Last Summoner",
@@ -73215,6 +74092,12 @@
     "total": 16,
     "seasons": [],
     "richCheckedAt": "2026-10-06"
+  },
+  "277881": {
+    "season_id": 277881,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "277882": {
     "season_id": 277882,
@@ -73285,6 +74168,54 @@
     ],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/fc15bf317325d258fe2f3cd8fae27a7a.jpg"
+  },
+  "277883": {
+    "season_id": 277883,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277884": {
+    "season_id": 277884,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277885": {
+    "season_id": 277885,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277886": {
+    "season_id": 277886,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277887": {
+    "season_id": 277887,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277888": {
+    "season_id": 277888,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277889": {
+    "season_id": 277889,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
+  },
+  "277890": {
+    "season_id": 277890,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "277894": {
     "season_id": 277894,
@@ -75613,6 +76544,12 @@
     ],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/344426c683916a42da7f44ac5c864bbf.png"
+  },
+  "277972": {
+    "season_id": 277972,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "277973": {
     "season_id": 277973,
@@ -79229,6 +80166,12 @@
     ],
     "richCheckedAt": "2026-10-06",
     "cover": "https://i0.hdslb.com/bfs/bangumi/747c0869f65fa2ea8f792fbea6ec53b0.png"
+  },
+  "278092": {
+    "season_id": 278092,
+    "available": false,
+    "code": -404,
+    "checkedAt": "2026-10-12"
   },
   "278093": {
     "season_id": 278093,
@@ -105077,6 +106020,82 @@
     "type": 3,
     "available": true
   },
+  "291690": {
+    "season_id": 291690,
+    "title": "暗影蜘蛛侠（黑白版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b9cb8325ab4e8bbc7a2aa5b4d04021e6be163293.png",
+    "evaluate": "私家侦探本·莱利接下了几个看似简单的案子…结果却被黑帮、怪物和一个神秘的蛇蝎美人卷入一张阴谋之网，使他不得不再度面对自己曾经的身份：纽约唯一的超级英雄\"蜘蛛\"。",
+    "jpTitle": "",
+    "seasonTitle": "暗影蜘蛛侠（黑白版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-29 12:00:00",
+      "pub_time_show": "08月29日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5756420,
+    "firstEpisodePublishedAt": 1787976000000,
+    "type": 5,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 40100,
+        "title": "蜘蛛侠"
+      },
+      {
+        "id": 40102,
+        "title": "蜘蛛侠2"
+      },
+      {
+        "id": 40106,
+        "title": "蜘蛛侠3"
+      },
+      {
+        "id": 40107,
+        "title": "超凡蜘蛛侠"
+      },
+      {
+        "id": 38539,
+        "title": "蜘蛛侠：英雄归来"
+      },
+      {
+        "id": 28515,
+        "title": "蜘蛛侠：英雄远征"
+      },
+      {
+        "id": 44140,
+        "title": "蜘蛛侠：平行宇宙"
+      },
+      {
+        "id": 45426,
+        "title": "蜘蛛侠：纵横宇宙"
+      },
+      {
+        "id": 218526,
+        "title": "蜘蛛侠：崭新之日"
+      },
+      {
+        "id": 261497,
+        "title": "暗影蜘蛛侠（彩色版）"
+      },
+      {
+        "id": 291690,
+        "title": "暗影蜘蛛侠（黑白版）"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "292359": {
     "season_id": 292359,
     "title": "Skeleton Knight in Another World Season 2（Thai Dub）",
@@ -105117,9 +106136,13 @@
         "title": "S2 Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/764a7c3554e914b1033fcc56ad8db0a5.png"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/764a7c3554e914b1033fcc56ad8db0a5.png",
+    "firstEpisodePublishedAt": 1786971600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292360": {
     "season_id": 292360,
@@ -105136,7 +106159,7 @@
       "weekday": 0
     },
     "firstEpisode": 5687638,
-    "episodeCount": 8,
+    "episodeCount": 9,
     "episodeTitles": [
       "",
       "",
@@ -105153,9 +106176,13 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/cf5827d9044ec63171ef2eb1fc283790.png"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/cf5827d9044ec63171ef2eb1fc283790.png",
+    "firstEpisodePublishedAt": 1786885200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292384": {
     "season_id": 292384,
@@ -105172,7 +106199,7 @@
       "weekday": 0
     },
     "firstEpisode": 5686315,
-    "episodeCount": 7,
+    "episodeCount": 8,
     "episodeTitles": [
       "",
       "",
@@ -105189,9 +106216,13 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/b071dce8449895f47e6cdcc6824527c5.png"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/b071dce8449895f47e6cdcc6824527c5.png",
+    "firstEpisodePublishedAt": 1787317200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292387": {
     "season_id": 292387,
@@ -105268,8 +106299,13 @@
         "title": "第三季"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/892c1eccef4186820b68cbf3fbc17721cd6e7b52.jpg",
+    "firstEpisodePublishedAt": 1788253200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292414": {
     "season_id": 292414,
@@ -105307,8 +106343,13 @@
         "title": "第三季"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2c2aff2668fc3b1f9bafd852addab592e2cccbe2.jpg",
+    "firstEpisodePublishedAt": 1788253200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292416": {
     "season_id": 292416,
@@ -105346,8 +106387,13 @@
         "title": "第三季"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/caa9912cd23ab011b2888412ebe81f04b12afbf6.jpg",
+    "firstEpisodePublishedAt": 1788253200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292531": {
     "season_id": 292531,
@@ -105364,7 +106410,7 @@
       "weekday": 0
     },
     "firstEpisode": 5895071,
-    "episodeCount": 6,
+    "episodeCount": 7,
     "episodeTitles": [
       "",
       "",
@@ -105372,9 +106418,13 @@
     ],
     "total": 26,
     "seasons": [],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/1edaa9e68a47acf121f75c90d19380ea.png"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/1edaa9e68a47acf121f75c90d19380ea.png",
+    "firstEpisodePublishedAt": 1787922000000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292532": {
     "season_id": 292532,
@@ -105391,7 +106441,7 @@
       "weekday": 0
     },
     "firstEpisode": 5896118,
-    "episodeCount": 6,
+    "episodeCount": 7,
     "episodeTitles": [
       "",
       "",
@@ -105399,9 +106449,13 @@
     ],
     "total": 26,
     "seasons": [],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/1edaa9e68a47acf121f75c90d19380ea.png"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/1edaa9e68a47acf121f75c90d19380ea.png",
+    "firstEpisodePublishedAt": 1787922000000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "292618": {
     "season_id": 292618,
@@ -105435,8 +106489,13 @@
         "title": "中文配音版"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6281f716bbc962b0d354a14ea935a5e8c3c8a96f.png",
+    "firstEpisodePublishedAt": 1788253200000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "292804": {
     "season_id": 292804,
@@ -105485,8 +106544,13 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/50ee1130e6092e07a9eb80123530f838818a6844.png",
+    "firstEpisodePublishedAt": 1788663600000,
+    "type": 2,
+    "available": true,
+    "code": 0
   },
   "292925": {
     "season_id": 292925,
@@ -105509,8 +106573,13 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/8186a50feaaeed4263842da1675d6ccfd4f3d064.png",
+    "firstEpisodePublishedAt": 1788768000000,
+    "type": 2,
+    "available": true,
+    "code": 0
   },
   "292926": {
     "season_id": 292926,
@@ -105562,8 +106631,10 @@
         "title": "鬼影实录：血亲"
       }
     ],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-06",
+    "available": false,
+    "code": -404
   },
   "292927": {
     "season_id": 292927,
@@ -105586,8 +106657,159 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-06",
-    "richCheckedAt": "2026-10-06"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b4bd18d26699abdf9b1e447b774d7a611e320027.png",
+    "firstEpisodePublishedAt": 1788922800000,
+    "type": 2,
+    "available": true,
+    "code": 0
+  },
+  "293343": {
+    "season_id": 293343,
+    "title": "双重危机",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b4a1b5806cf13d1d239b793582f758752b8b15d9.png",
+    "evaluate": "莉比（艾什莉·贾德 Ashley Judd 饰）和丈夫尼克（布鲁斯·格林伍德 Bruce Greenwood 饰）之间的感情十分要好，两人共同养育乖巧可爱的儿子马蒂（本杰明·韦弗 Benjamin Weaver 饰），幸福生活堪称典范。可是，在忽然之间，尼克神秘失踪留下大量血迹，莉比则沦为嫌犯最终锒铛入狱。莉比将马蒂托付给了好友安吉（安娜贝丝·吉什 Annabeth Gish 饰），自己则在狱友玛格丽特（罗马·玛菲娅 Roma Maffia 饰）和伊芙琳（达文尼亚·麦克法登 Davenia McFadden 饰）的帮助下为了洗清罪名而做着不断的努力。一晃眼六年过去，塔维斯警官（汤米·李·琼斯 Tommy Lee Jones 饰）成为了获得了假释的莉比的监护人，而此时的莉比发现，尼克不仅没有死亡，甚至改头换面带着儿子和安吉过着隐姓埋名的生活。经历了双重背叛的莉比决定反击，而尼克也绝不会坐以待毙，一场充满了阴谋与危险的恶战即将拉开帷幕。",
+    "jpTitle": "",
+    "seasonTitle": "双重危机",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-27 11:00:00",
+      "pub_time_show": "09月27日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6180297,
+    "firstEpisodePublishedAt": 1790478000000,
+    "type": 2,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "",
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "293347": {
+    "season_id": 293347,
+    "title": "仿生人妻子",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6da90931bc554d91bfafaaca76ff709bdc30c885.png",
+    "evaluate": "威廉丧妻后，从AI公司得到一位与亡妻样貌相同的仿生人，在人工智能开发的斗争中，一个神秘组织试图通过破坏仿生人的程序来让仿生人获得自由...",
+    "jpTitle": "",
+    "seasonTitle": "仿生人妻子",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-29 11:00:00",
+      "pub_time_show": "09月29日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6181292,
+    "firstEpisodePublishedAt": 1790650800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "293349": {
+    "season_id": 293349,
+    "title": "冷血悍将",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/be09223103098eb9733659feb3fdcd6137d3563f.png",
+    "evaluate": "本片由斯特法诺·索利马执导，泰勒·谢里丹担任编剧，根据汤姆·克兰西创作同名小说改编，讲述前特种兵约翰·克拉克(乔丹饰)女友被贩毒组织杀害，可就在他决定复仇时，华盛顿高管要求他完成解救高级军官的秘密任务。杰米·贝尔仍在就加盟本片进行最后谈判。",
+    "jpTitle": "",
+    "seasonTitle": "冷血悍将",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-13 11:00:00",
+      "pub_time_show": "09月13日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6104863,
+    "firstEpisodePublishedAt": 1789268400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "293350": {
+    "season_id": 293350,
+    "title": "王牌播音员2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c2d061f7cc4c607389a7ace992f13c0cc7409c57.png",
+    "evaluate": "七零年代圣地牙哥最出名的王牌主播朗伯甘地(威尔法洛 饰演)又回来了! 另外当然还有朗美丽的主播搭档兼贤内助妻子薇洛妮卡(克莉丝汀娜亚柏盖特 饰演)、气象专家布瑞克(史提夫卡尔 饰演)、街头热血主播布莱恩(保罗路德 饰演)以及体育播报员钱普等……当他们接下纽约第一个24小时新闻频道挑战时，所有人皮都绷紧严阵以待……",
+    "jpTitle": "",
+    "seasonTitle": "王牌播音员2",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-30 11:00:00",
+      "pub_time_show": "09月30日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6181372,
+    "firstEpisodePublishedAt": 1790737200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "293352": {
+    "season_id": 293352,
+    "title": "考古奇兵：翡翠石碑的诅咒",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2a7955f2719b235814733a1b147dc3b9d9fda17f.png",
+    "evaluate": "业余考古学家泰德最大的梦想就是希望能够得到大家的认可和尊重，但是却一再错失良机。当他的朋友木乃伊，杰夫和贝尔佐尼的生命受到诅咒威胁时，泰德不惜破坏了奥尔梅克金字塔只为拯救朋友。然而他这一行为受到了考古界的严厉谴责。在他唯一的好友萨拉的帮助与支持下，泰德再一次踏上了一段充满危险的冒险旅程。这一次，他将穿过墨西哥、芝加哥、巴黎和埃及，寻找结束翡翠石碑诅咒的方法。",
+    "jpTitle": "",
+    "seasonTitle": "考古奇兵：翡翠石碑的诅咒",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-28 11:00:00",
+      "pub_time_show": "09月28日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6180839,
+    "firstEpisodePublishedAt": 1790564400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
   },
   "294491": {
     "season_id": 294491,
