@@ -41,11 +41,11 @@
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2213,
-      "not-found": 5,
+      "confirmed": 2214,
+      "not-found": 4,
       "candidate-unavailable": 2
     },
-    "lastSuccessfulRefresh": "2026-10-12T09:27:39.486Z"
+    "lastSuccessfulRefresh": "2026-10-12T12:53:39.715Z"
   },
   "items": [
     {
@@ -144381,7 +144381,7 @@
       "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418071&s_locale=zh_CN",
       "release": {
         "status": "aired",
-        "confirmed": false,
+        "confirmed": true,
         "date": "2026-09-07",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2418071&s_locale=zh_CN",
@@ -144407,7 +144407,7 @@
         "PH",
         "MY"
       ],
-      "cnId": null,
+      "cnId": 324723,
       "regionSource": "official",
       "officialTitle": "The Iceblade Sorcerer Shall Rule the World II",
       "aliases": [
@@ -144429,22 +144429,31 @@
       "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432333&s_locale=zh_CN",
       "release": {
         "status": "aired",
-        "confirmed": false,
+        "confirmed": true,
         "date": "2026-10-08",
         "source": "作品官网",
         "evidenceUrl": "https://hyouken-anime.com/",
         "checkedAt": "2026-10-12",
-        "note": "原作电视及网络排期；东南亚平台上线状态另行确认"
+        "note": "原作电视及网络排期；国际版官方正片首集已于 2026-10-09 上线"
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-12",
-        "candidateIds": []
+        "candidateIds": [
+          324723
+        ]
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
-      "cover": "https://pic.bstarstatic.com/ogv/b7332d8d0911be4841f7f113c6b1d568.png"
+      "cover": "https://pic.bstarstatic.com/ogv/b7332d8d0911be4841f7f113c6b1d568.png",
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-12",
+        "checkedCandidateCount": 2667,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=324723",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2432333"
+      }
     },
     {
       "intlId": 2432940,

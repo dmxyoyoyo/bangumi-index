@@ -5603,6 +5603,45 @@
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
   },
+  "26604": {
+    "season_id": 26604,
+    "title": "大小很重要",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/170bb3cf7aab9fe15a36a2ca1b4b5376fe600938.jpg",
+    "evaluate": "世间万物各有大小。仰望浩瀚星空，地球不过是沧海一粟；对于虫蚁，人类又如同巨人，遮天蔽日。宇宙是如何决定一切事物的大小的？万物的大小是否重要？本片带着这些问题，大开脑洞，进行了一系列无法实际操作的思维实验：在木星那么大的地球上生活会是什么样？我们如果变成巨人，或者是蚂蚁一样大又会有什么变化？还有我们习以为常的太阳，把它放大或缩小一些对我们将产生什么影响？在两期节目中，我们将把这些天马行空的幻想用科学手法进行模拟，用科学的分析解释万物大小的重要之处，极具趣味性。",
+    "jpTitle": "",
+    "seasonTitle": "大小很重要",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-02-05 00:00:01",
+      "pub_time_show": "2019年2月5日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 262560,
+    "firstEpisodePublishedAt": 1550042400000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "更大是否更好",
+      "更小是否更美"
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 26604,
+        "title": "英文原版"
+      },
+      {
+        "id": 294327,
+        "title": "中文配音版"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "27249": {
     "season_id": 27249,
     "title": "但是还有书籍",
@@ -106811,6 +106850,74 @@
     "checkedAt": "2026-10-12",
     "richCheckedAt": "2026-10-12"
   },
+  "294327": {
+    "season_id": 294327,
+    "title": "大小很重要（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/170bb3cf7aab9fe15a36a2ca1b4b5376fe600938.jpg",
+    "evaluate": "世间万物各有大小。仰望浩瀚星空，地球不过是沧海一粟；对于虫蚁，人类又如同巨人，遮天蔽日。宇宙是如何决定一切事物的大小的？万物的大小是否重要？本片带着这些问题，大开脑洞，进行了一系列无法实际操作的思维实验：在木星那么大的地球上生活会是什么样？我们如果变成巨人，或者是蚂蚁一样大又会有什么变化？还有我们习以为常的太阳，把它放大或缩小一些对我们将产生什么影响？在两期节目中，我们将把这些天马行空的幻想用科学手法进行模拟，用科学的分析解释万物大小的重要之处，极具趣味性。",
+    "jpTitle": "",
+    "seasonTitle": "大小很重要（中配版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-29 18:00:00",
+      "pub_time_show": "08月29日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5824344,
+    "firstEpisodePublishedAt": 1788256800000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "更大是否更好",
+      "更小是否更美"
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 26604,
+        "title": "英文原版"
+      },
+      {
+        "id": 294327,
+        "title": "中文配音版"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "294467": {
+    "season_id": 294467,
+    "title": "后悔没有好好爱过你",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1e405a31315bb83a20e3da97a8e917bd91cd7b03.png",
+    "evaluate": "诗人牛四喜（王旭东 饰），入职某县城诗刊编辑部，被老爹（邵峰 饰）强逼娶了农村骟驴的姑娘王桂霞（开心麻花艺人金春花 饰）。不久，牛四喜遇见知性美丽的女诗人樱桃花（多妮 饰），一边是相处多年真心待他的结发妻子，一边是他心中期盼已久的真爱，他陷入了两难抉择，一系列让人啼笑皆非的故事就此展开……",
+    "jpTitle": "",
+    "seasonTitle": "后悔没有好好爱过你",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-31 16:00:00",
+      "pub_time_show": "08月31日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5752151,
+    "firstEpisodePublishedAt": 1788163200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "294491": {
     "season_id": 294491,
     "title": "【2014LPL夏季赛】2014英雄联盟职业联赛夏季赛",
@@ -106842,10 +106949,18 @@
       {
         "id": 294491,
         "title": "2014夏季赛"
+      },
+      {
+        "id": 311291,
+        "title": ""
       }
     ],
-    "checkedAt": "2026-10-08",
-    "richCheckedAt": "2026-10-08"
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12",
+    "firstEpisodePublishedAt": 1789740704000,
+    "type": 9,
+    "available": true,
+    "code": 0
   },
   "300282": {
     "season_id": 300282,
@@ -107165,6 +107280,90 @@
     ],
     "checkedAt": "2026-10-06",
     "richCheckedAt": "2026-10-06"
+  },
+  "311291": {
+    "season_id": 311291,
+    "title": "【2015LPL春季赛】2015英雄联盟职业联赛春季赛",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/33a7ad33e7933b9f27694935dfe5c6de1e5af6ad.jpg",
+    "evaluate": "2015英雄联盟职业联赛夏季赛是由腾讯主办的中国《英雄联盟》职业赛事，于2015年5月22日至8月23日举行，总决赛首次落户杭州黄龙体育中心 。本届赛事分为常规赛和季后赛两个阶段，共有职业战队参与。\n常规赛采用BO2双循环积分赛制，胜方积3分，平局各积1分，积分前8名晋级季后赛。季后赛分为冒泡淘汰赛、冒泡定位赛和半决赛三个阶段，常规赛第7、8名通过冒泡淘汰赛争夺晋级资格，胜者与第6名进行定位赛，最终决出四强队伍。所有季后赛阶段均采用BO5单败淘汰制 。\n8月23日总决赛中，LGD战队以3:2击败QG战队夺得冠军，并以头号种子身份晋级S5全球总决赛。QG、IG战队分获亚军、季军 。赛事期间创下LPL历史最大规模场馆纪录。",
+    "jpTitle": "",
+    "seasonTitle": "【2015LPL春季赛】2015英雄联盟职业联赛春季赛",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-10 12:00:00",
+      "pub_time_show": "10月10日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6722541,
+    "firstEpisodePublishedAt": 1791627567000,
+    "type": 9,
+    "episodeCount": 88,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 286559,
+        "title": "2014春季赛"
+      },
+      {
+        "id": 294491,
+        "title": "2014夏季赛"
+      },
+      {
+        "id": 311291,
+        "title": ""
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "313964": {
+    "season_id": 313964,
+    "title": "先发五虎 第一季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c223c8861e01eb33f7c64cb9f19f0d14030dc7e6.png",
+    "evaluate": "Netflix NBA纪录片《先发五虎》（Starting 5）第一季聚焦勒布朗·詹姆斯、吉米·巴特勒、安东尼·爱德华兹、杰森·塔图姆和多曼塔斯·萨博尼斯五位NBA球星，记录他们在2023—2024赛季中的赛场竞争与场下生活。节目深入展现球员面对伤病、训练、家庭责任和职业压力时的真实状态，以及他们为争夺总冠军所付出的努力。",
+    "jpTitle": "",
+    "seasonTitle": "先发五虎 第一季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-25 17:00:00",
+      "pub_time_show": "09月25日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6427484,
+    "firstEpisodePublishedAt": 1790326800000,
+    "type": 3,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "詹姆斯21季",
+      "华子横空出世",
+      "伤病绞肉机"
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 313964,
+        "title": "第一季"
+      },
+      {
+        "id": 330052,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
   },
   "315473": {
     "season_id": 315473,
@@ -107945,6 +108144,35 @@
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
   },
+  "324723": {
+    "season_id": 324723,
+    "title": "The Iceblade Sorcerer Shall Rule the World II",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/b7332d8d0911be4841f7f113c6b1d568.png",
+    "evaluate": "Ray White is the Iceblade Sorcerer who is one of the Seven Grand Sorcerers. He vanished from the battlefield after struggling with his overwhelming power and deep emotional scars. Three years later, he enrolls at Arnold Academy of Magical Arts and wants to live an ordinary life. Initially looked down upon by nobles, Ray gradually proves his abilities and earns the trust of his classmates while confronting a mysterious organization targeting elite mages. Having found true friends and a place to belong, Ray now faces a new challenge…",
+    "jpTitle": "",
+    "seasonTitle": "The Iceblade Sorcerer Shall Rule the World II",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-09 00:58:00",
+      "pub_time_show": "10月09日00:58",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6549450,
+    "firstEpisodePublishedAt": 1791478680000,
+    "type": 1,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "The World's Strongest Sorcerer Boy Joins a Large-Scale Magic Battle"
+    ],
+    "total": 13,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
   "324859": {
     "season_id": 324859,
     "title": "Nia Liston: The Merciless Maiden",
@@ -108038,6 +108266,42 @@
       }
     ],
     "available": true,
+    "checkedAt": "2026-10-12",
+    "richCheckedAt": "2026-10-12"
+  },
+  "330052": {
+    "season_id": 330052,
+    "title": "先发五虎 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/971a25c920a099eed13297fee26e62971995374b.png",
+    "evaluate": "《先发五虎》回归，第2季迎来激动人心的全新NBA明星阵容：波士顿凯尔特人队的杰伦·布朗、菲尼克斯太阳队的凯文·杜兰特、俄克拉荷马城雷霆队的谢伊·吉尔杰斯-亚历山大、印第安纳步行者队伍的泰瑞斯·哈利伯顿和洛杉矶快船队的詹姆斯·哈登。",
+    "jpTitle": "",
+    "seasonTitle": "先发五虎 第二季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-30 17:00:00",
+      "pub_time_show": "10月30日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 3,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 313964,
+        "title": "第一季"
+      },
+      {
+        "id": 330052,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "code": 0,
     "checkedAt": "2026-10-12",
     "richCheckedAt": "2026-10-12"
   }
