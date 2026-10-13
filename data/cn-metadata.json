@@ -9669,8 +9669,12 @@
         "title": "中文配音版"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1626269401000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "39213": {
     "season_id": 39213,
@@ -12001,8 +12005,12 @@
         "title": "雪王来了！"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1692928802000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "45833": {
     "season_id": 45833,
@@ -13181,8 +13189,12 @@
         "title": "雪王来了！"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1734746400000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "86181": {
     "season_id": 86181,
@@ -13773,8 +13785,12 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1755826200000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "108234": {
     "season_id": 108234,
@@ -13821,8 +13837,12 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1755309600000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "109661": {
     "season_id": 109661,
@@ -14224,8 +14244,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0
@@ -14272,8 +14292,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0
@@ -15077,8 +15097,12 @@
         "title": "中文配音版"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1771038000000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "162111": {
     "season_id": 162111,
@@ -15733,8 +15757,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "218544": {
     "season_id": 218544,
@@ -25572,7 +25596,7 @@
     "title": "One Piece",
     "evaluate": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n",
     "userTitle": "海贼王",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "One Piece",
@@ -25584,13 +25608,9 @@
       "unknow_pub_date": 0,
       "weekday": 0
     },
-    "firstEpisode": 5420201,
-    "episodeCount": 1204,
-    "episodeTitles": [
-      "I'm Luffy! The Man Who Will Become the Pirate King!",
-      "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
-      "Morgan VS Luffy! Who`s This Beautiful Young Girl?"
-    ],
+    "firstEpisode": null,
+    "episodeCount": 0,
+    "episodeTitles": [],
     "total": 1204,
     "seasons": [
       {
@@ -25702,10 +25722,10 @@
         "title": "SP11"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png",
     "available": true,
-    "firstEpisodePublishedAt": 1630429200000,
+    "firstEpisodePublishedAt": null,
     "type": 1,
     "code": 0
   },
@@ -51569,13 +51589,13 @@
     "season_id": 274247,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-10-13"
+    "checkedAt": "2026-10-14"
   },
   "274249": {
     "season_id": 274249,
     "title": "Nyaruko: Crawling With Love! Second Season",
     "evaluate": "No info available",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "jpTitle": "",
     "seasonTitle": "Nyaruko: Crawling With Love! Second Season",
     "publish": {
@@ -51604,7 +51624,7 @@
         "title": "S2"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/f2b748e3b9ca7614b5b449718db704c3.png",
     "firstEpisodePublishedAt": 1608830220000,
     "type": 1,
@@ -59530,7 +59550,7 @@
     "title": "Redo of Healer",
     "evaluate": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. ",
     "userTitle": "回复术士的重启人生",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Redo of Healer",
@@ -59551,7 +59571,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png",
     "available": true,
     "firstEpisodePublishedAt": 1613121192000,
@@ -69488,7 +69508,7 @@
     "title": "Combatants Will Be Dispatched!",
     "evaluate": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations!\n",
     "userTitle": "战斗员派遣中",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Combatants Will Be Dispatched!",
@@ -69509,7 +69529,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png",
     "available": true,
     "firstEpisodePublishedAt": 1617543000000,
@@ -71514,7 +71534,7 @@
     "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
     "evaluate": "Keiki Kiryu, an ordinary high school student who didn't have a girlfriend during his lifetime, suddenly receives a love letter, and a romantic comedy begins. The letter does not contain the sender's name, but the letter does contain white panties. In addition to finding the pervert peculiar, Keiki was desperate to have him participate in the perverted behavior of these several girls who surround him...",
     "userTitle": "只要可爱即使是变态你也会喜欢我吧？",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
@@ -71535,7 +71555,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png",
     "available": true,
     "firstEpisodePublishedAt": 1623168000000,
@@ -77011,7 +77031,7 @@
     "title": "Strike the Blood",
     "evaluate": "The Fourth Primogenitor, who is the world's strongest vampire that only exists in legends. Accompanied by twelve Kenjuu and spreading calamity, rumor says that this phantom vampire appeared in Japan finally. For the purpose of observation and obliteration, the government and Lion King organization decided to dispatch an attack mage known as a Sword Shaman. However, for some reason, the one chosen for the observation was an apprentice Sword Shaman girl, Himegari Yukina. Wielding the strongest anti-primogenitor spirit spear, Yukina arrived at Demon District, Itogami City. So what is the true identity of Akatsuki Kojou, the 4th Progenitor she meets!?",
     "userTitle": "噬血狂袭",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Strike the Blood",
@@ -77032,7 +77052,7 @@
     ],
     "total": 24,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1640358000000,
@@ -86651,7 +86671,7 @@
     "title": "Chainsaw Man",
     "evaluate": "To spend quality time with the girl he likes and lead a contented life is Denji's simple and ordinary dream. This, however, is far from the truth because Denji's fate is to be made to kill demons by the gang in order to settle his enormous debt. Turning his pet demon Pochita into a weapon, Denji will use any means necessary to make money.\n\nUnfortunately, the demon who had a deal with the gang killed him because he was no longer needed. Pochita, in a shocking turn of events, fuses with Denji's corpse and grants him the abilities of a chainsaw demon. The revived Denji uses his newfound abilities to swiftly and mercilessly eliminate his enemies. Denji gains the ability to transform certain parts of his body into a chainsaw. When the official witcher arrived on the scene, this attracted his attention, and the witcher hired Denji to work as one of them in the Public Security Bureau. Denji now has a strategy for defeating any foe, no matter how formidable, and he will go to any lengths to fulfill his simple teenage dream.",
     "userTitle": "电锯人",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Chainsaw Man",
@@ -86672,7 +86692,7 @@
     ],
     "total": 13,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png",
     "available": true,
     "firstEpisodePublishedAt": 1665504000000,
@@ -87916,7 +87936,7 @@
     "season_id": 278052,
     "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "evaluate": "Second season of BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.\n\nAfter an enthusiastic invitation from her friend, Kaede Honjou reluctantly agrees to try New World Online: a very popular VRMMO played by thousands of people across Japan. Naming her in-game character Maple, she sets out on her journey. As a complete novice to such games, she allocates all of her stat points into vitality, desiring to not get hurt. With not a single point in any other stat, Maple has extraordinarily high defense, but she can't move quickly or hit hard.\n\nDespite her overpowered character, Kaede has much to learn. As she progresses through the game, she meets new friends and acquaintances, helping her complete new levels and events. Through all of her adventures, she may even pick up some other crazy skills that exceed all expectations.",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "jpTitle": "",
     "seasonTitle": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "publish": {
@@ -87961,7 +87981,7 @@
         "title": "S2 Dub Indo"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/8640eef8c452869a6cc753383033cc4a.png",
     "firstEpisodePublishedAt": 1673451000000,
     "type": 1,
@@ -88655,7 +88675,7 @@
     "title": "Onimai: I'm Now Your Sister!",
     "evaluate": "Mahiro Oyama was just a normal erotic-game-loving dude...until he woke up one morning as a girl! Turns out his mad-scientist little sister, Mihari, tried out one of her new experiments on him. But Mihari is as determined to study him as he wanted to go back to his shut-in and game-playing life... Life is going to get a whole lot weirder from here on out!",
     "userTitle": "别当欧尼酱了",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Onimai: I'm Now Your Sister!",
@@ -88676,7 +88696,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1672932600000,
@@ -89217,7 +89237,7 @@
     "season_id": 278092,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-10-13"
+    "checkedAt": "2026-10-14"
   },
   "278093": {
     "season_id": 278093,
@@ -90300,7 +90320,7 @@
     "season_id": 278118,
     "title": "【Oshi No Ko】",
     "evaluate": "In the entertainment industry, lying is the weapon.\nEvery day, Goro, an obstetrician and gynecologist who works in a small city, leads a life unrelated to the entertainment business.\nYet, the idol Hoshino Ai that he \"followed\" started to move up the list of stars.\nSuch two realized their worst-case scenario, and from that point on, the wheels of fate started to turn.",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "userTitle": "我推的孩子",
     "jpTitle": "",
@@ -90331,7 +90351,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png",
     "available": true,
     "firstEpisodePublishedAt": 1681311600000,
@@ -94226,7 +94246,7 @@
     "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "evaluate": "Aijou Rentarou has an excellent reputation among females but has never been able to find a girlfriend because every lady he had a crush on has categorically rejected him. Since junior high, he has gone through 100 heartbreaks. The other day, the Love God appears while Aijou prays in a shrine and predicts that she will meet 100 soulmates in high school. All the girls would pass away due to various bad circumstances if their connection with him fails. Aijou must now make the choice between love and death.",
     "userTitle": "超超超喜欢你的100个女朋友",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
@@ -94256,7 +94276,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png",
     "available": true,
     "firstEpisodePublishedAt": 1696773600000,
@@ -100980,7 +101000,7 @@
     "season_id": 278723,
     "title": "Into the Mortal World",
     "evaluate": "The anime tells the tale of a god who is in charge of \"herding stars\" and his mischievous sister. This anime creatively connects weaving with the celestial bodies above, retaining the mythological aspects of traditional Chinese culture while also introducing some new ideas.",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "jpTitle": "",
     "seasonTitle": "Into the Mortal World",
     "publish": {
@@ -100996,7 +101016,7 @@
     "episodeTitles": [],
     "total": 0,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/e62c9d5614cb2f3cb99fdea7b2c5f310.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -109298,7 +109318,7 @@
     "title": "MARRIAGETOXIN",
     "evaluate": "For centuries, the \"Users\" have honed the art of killing. Among them, the most powerful and influential are the Five Great Families—most notably, the \"Poison Users.\" Hikaru Gero, a young man born into this lineage, lives as a professional assassin, having spent his life avoiding any ties to women. To him, marriage has always been a distant concept.\nBut when the head of the Gero family declares that his sister will be forced to bear an heir to preserve their bloodline, everything changes.\nAmidst this crisis, Hikaru encounters Mei Kinosaki, a brilliant marriage swindler—and his latest target.\n\nDetermined to protect his sister and resolve the succession issue, Hikaru comes up with an unexpected solution: he will marry himself. On the spot, he asks Mei to help him find a wife.\n\"That’s the first time I’ve ever heard a proposal like that.\"\nThus begins an unlikely partnership: an elite assassin and a master con artist. With Mei as his advisor, Hikaru embarks on the most difficult mission of his life—finding a bride.\n\nHis goal: the perfect marriage. A high-stakes “marriage-hunting” battle action unfolds, as this deadly duo takes on the toughest mission in the world!",
     "userTitle": "婚姻剧毒",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "MARRIAGETOXIN",
@@ -109319,7 +109339,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png",
     "available": true,
     "firstEpisodePublishedAt": 1775572200000,
@@ -109980,7 +110000,7 @@
     "title": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
     "evaluate": "A concept proposed by Shimahara (40hara) of the doujin circle “Animal Machine,” later developed into a series of situational illustrations.\n\nThe works center on various character archetypes—such as maids, gyaru, office ladies, nurses, and shrine maidens—often portraying a contrast between aloof or disdainful expressions and provocative, teasing presentation. By blending these seemingly opposing elements, the series establishes a highly niche style that delivers a strong, distinctive appeal.\n\nFirst published as doujin works in 2015, the series will celebrate its 10th anniversary in 2025.\nAn anime adaptation debuted in 2018, with this title marking the fourth installment in the animated series.",
     "userTitle": "一脸嫌弃表情的妹子给你看胖次",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
@@ -110001,7 +110021,7 @@
     ],
     "total": 6,
     "seasons": [],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png",
     "available": true,
     "firstEpisodePublishedAt": 1777554000000,
@@ -111256,7 +111276,7 @@
     "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "evaluate": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n\nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.",
     "userTitle": "无职转生第三季",
-    "checkedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -111306,7 +111326,7 @@
         "title": "S3 (Thai ver.)"
       }
     ],
-    "richCheckedAt": "2026-10-13",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
     "available": true,
     "firstEpisodePublishedAt": 1783162800000,
@@ -112843,8 +112863,12 @@
     ],
     "total": 6,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1790654400000,
+    "type": 5,
+    "available": true,
+    "code": 0
   },
   "283565": {
     "season_id": 283565,
@@ -112887,8 +112911,12 @@
         "title": "第二季 中文配音"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1787216400000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283567": {
     "season_id": 283567,
@@ -112931,8 +112959,12 @@
         "title": "第二季 中文配音"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1787216400000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283583": {
     "season_id": 283583,
@@ -112950,7 +112982,7 @@
       "weekday": 0
     },
     "firstEpisode": 5441272,
-    "episodeCount": 12,
+    "episodeCount": 13,
     "episodeTitles": [
       "",
       "",
@@ -112963,8 +112995,12 @@
         "title": "动画"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786672800000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "283588": {
     "season_id": 283588,
@@ -112982,7 +113018,7 @@
       "weekday": 0
     },
     "firstEpisode": 5422185,
-    "episodeCount": 3,
+    "episodeCount": 4,
     "episodeTitles": [
       "gggggg",
       "",
@@ -112990,8 +113026,12 @@
     ],
     "total": 24,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786532050000,
+    "type": 12,
+    "available": true,
+    "code": 0
   },
   "283596": {
     "season_id": 283596,
@@ -113028,9 +113068,13 @@
         "title": "䎴嶏漬䎴003"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4032d9441c2bae40e7f6d6075bdb93cd0219b7c2.png"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4032d9441c2bae40e7f6d6075bdb93cd0219b7c2.png",
+    "firstEpisodePublishedAt": 1789896110000,
+    "type": 12,
+    "available": true,
+    "code": 0
   },
   "283615": {
     "season_id": 283615,
@@ -113141,9 +113185,13 @@
         "title": "S2"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/73cd4ec210d019a30e5703d38c1fd83a.png"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/73cd4ec210d019a30e5703d38c1fd83a.png",
+    "firstEpisodePublishedAt": 1673110800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283628": {
     "season_id": 283628,
@@ -113169,8 +113217,12 @@
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1704562200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283629": {
     "season_id": 283629,
@@ -113208,9 +113260,13 @@
         "title": "Dub Indo"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/77398fffbcd6a215473a4de08ce7b251.png"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/77398fffbcd6a215473a4de08ce7b251.png",
+    "firstEpisodePublishedAt": 1722949200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283631": {
     "season_id": 283631,
@@ -113248,9 +113304,13 @@
         "title": "Dub Indo"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/77398fffbcd6a215473a4de08ce7b251.png"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/77398fffbcd6a215473a4de08ce7b251.png",
+    "firstEpisodePublishedAt": 1722949200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283632": {
     "season_id": 283632,
@@ -113276,8 +113336,12 @@
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1745148600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283638": {
     "season_id": 283638,
@@ -113315,9 +113379,13 @@
         "title": "䎴嶏漬䎴003"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/43cee7e938a61f2de189bd62a47ed16e7452f97c.png"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/43cee7e938a61f2de189bd62a47ed16e7452f97c.png",
+    "firstEpisodePublishedAt": 1786611479000,
+    "type": 11,
+    "available": true,
+    "code": 0
   },
   "283648": {
     "season_id": 283648,
@@ -113343,8 +113411,12 @@
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1754571600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283649": {
     "season_id": 283649,
@@ -113370,8 +113442,12 @@
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1756990800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283753": {
     "season_id": 283753,
@@ -113406,8 +113482,12 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1759503600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283754": {
     "season_id": 283754,
@@ -113442,8 +113522,12 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1762174800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283756": {
     "season_id": 283756,
@@ -113469,8 +113553,12 @@
     ],
     "total": 13,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1767790800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "283870": {
     "season_id": 283870,
@@ -113488,7 +113576,7 @@
       "weekday": 0
     },
     "firstEpisode": 5450363,
-    "episodeCount": 20,
+    "episodeCount": 22,
     "episodeTitles": [
       "都市煎饼摊(上)",
       "都市煎饼摊(下)",
@@ -113509,8 +113597,12 @@
         "title": "雪王来了！"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1787281200000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "283892": {
     "season_id": 283892,
@@ -113528,7 +113620,7 @@
       "weekday": 0
     },
     "firstEpisode": 5464602,
-    "episodeCount": 50,
+    "episodeCount": 52,
     "episodeTitles": [
       "爱思考的柯小瓶第1季 01 荒岛奇妙夜",
       "爱思考的柯小瓶第1季 02 乌龟谜案",
@@ -113541,8 +113633,12 @@
         "title": "第1季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786932000000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "283894": {
     "season_id": 283894,
@@ -113552,7 +113648,7 @@
     "jpTitle": "",
     "seasonTitle": "哈小浪上学记第5季",
     "publish": {
-      "is_finish": 0,
+      "is_finish": 1,
       "is_started": 1,
       "pub_time": "2026-08-14 10:00:00",
       "pub_time_show": "08月14日10:00",
@@ -113589,8 +113685,12 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786676400000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "283903": {
     "season_id": 283903,
@@ -113608,7 +113708,7 @@
       "weekday": 0
     },
     "firstEpisode": 5434572,
-    "episodeCount": 26,
+    "episodeCount": 28,
     "episodeTitles": [
       "哈小浪上学记第7季 01 谁是变异人和道具大作战",
       "哈小浪上学记第7季 02 脑筋急转弯大赛和星狗小医馆",
@@ -113637,8 +113737,12 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786591956000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "284193": {
     "season_id": 284193,
@@ -113664,8 +113768,12 @@
     ],
     "total": 3,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786701600000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "284198": {
     "season_id": 284198,
@@ -113699,8 +113807,12 @@
         "title": "中文配音版"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786928400000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "284272": {
     "season_id": 284272,
@@ -113718,7 +113830,7 @@
       "weekday": 0
     },
     "firstEpisode": 5472196,
-    "episodeCount": 12,
+    "episodeCount": 13,
     "episodeTitles": [
       "",
       "",
@@ -113731,8 +113843,12 @@
         "title": "动画"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786978800000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "284278": {
     "season_id": 284278,
@@ -113767,8 +113883,12 @@
         "title": "中文配音版"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1787052652000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "284320": {
     "season_id": 284320,
@@ -113794,8 +113914,12 @@
     ],
     "total": 30,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1786721400000,
+    "type": 5,
+    "available": true,
+    "code": 0
   },
   "284397": {
     "season_id": 284397,
@@ -113819,8 +113943,12 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1789783200000,
+    "type": 2,
+    "available": true,
+    "code": 0
   },
   "284458": {
     "season_id": 284458,
@@ -113851,8 +113979,12 @@
         "title": "第一季"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1787716800000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "284628": {
     "season_id": 284628,
@@ -114986,8 +115118,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 2,
@@ -115874,8 +116006,8 @@
         "title": "2026年"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 7,
@@ -115936,8 +116068,8 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "available": true,
     "firstEpisodePublishedAt": 1787313660000,
     "type": 3,
@@ -117902,8 +118034,8 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7cbd6f657d8696500140f023a5f3056f.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1787493600000,
@@ -118163,8 +118295,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3ae035fa0e7f6b4f3269fe6aa69f2d92ebd13d4.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -119397,6 +119529,189 @@
     "checkedAt": "2026-10-13",
     "richCheckedAt": "2026-10-13"
   },
+  "302280": {
+    "season_id": 302280,
+    "title": "谁说陈卓不能斩神",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f80ce51795bdc910b8c763edc3090e65ce84b270.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "谁说陈卓不能斩神",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-09-01 15:16:31",
+      "pub_time_show": "2025年09月01日15:16",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5950975,
+    "firstEpisodePublishedAt": 1788760566000,
+    "type": 12,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "《谁说陈卓不能斩神》第一集",
+      "《谁说陈卓不能斩神》第二集",
+      "《谁说陈卓不能斩神》第三集"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "302281": {
+    "season_id": 302281,
+    "title": "开局清算八个前妻，我成圣你们哭什么？",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/550529ae3c1b845f8c9617c179605e3e969e5dc2.png",
+    "evaluate": "主角陆野上一世倾尽资源，亲手培养出八位女帝前妻，却在成圣渡劫时遭她们联手背叛、下毒暗算，最终自爆同归于尽。带着滔天恨意重生，他心冷如铁，开局便与八位前妻彻底清算，收回所有馈赠，斩断过往情分。他不再心软，一心苦修证道，凭借前世记忆与系统助力，破解剧毒、夺回神丹、步步逆袭。曾经受他恩惠却背刺他的女帝们，在失去庇护后接连碰壁、悔不当初。当陆野逆天证道、登临圣位时，八位前妻痛哭求饶，他却冷眼相对，以绝对实力宣告：我成圣之日，便是你们悔恨之时。",
+    "jpTitle": "",
+    "seasonTitle": "开局清算八个前妻，我成圣你们哭什么？",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-11-15 13:29:20",
+      "pub_time_show": "2025年11月15日13:29",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5952388,
+    "firstEpisodePublishedAt": 1788762121000,
+    "type": 12,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "【爆款小说改漫】前世我宠你一辈子你却废我修为，这一世我重生不报此仇誓不为人！《开局清算八个前妻，我成圣你们哭什么？》",
+      "【最新更新】《开局清算八个前妻，我成圣你们哭什么》第二集",
+      "《开局清算八个前妻，我成圣你们哭什么？》第三集"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "302283": {
+    "season_id": 302283,
+    "title": "网游之我有十倍攻速",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a69eda92378e99d885c032567f39547df68bda74.png",
+    "evaluate": "《神域》公测，各国玩家争夺资源。主角秦风开局觉醒超神天赋十倍攻速，攻速碾压所有玩家，刷怪、屠 BOSS 效率远超他人。他一路飞速升级，抢占顶级资源，带领国区玩家领跑全服，垄断全球游戏货币，惊艳美女会长，遭外国玩家质疑开挂，最终登顶游戏巅峰。                              ",
+    "jpTitle": "",
+    "seasonTitle": "网游之我有十倍攻速",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-04-24 10:00:52",
+      "pub_time_show": "04月24日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5951904,
+    "firstEpisodePublishedAt": 1788761402000,
+    "type": 12,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "【独家限免】《网游之我有十倍攻速》：网游之我有十倍攻速！开局神级天赋，刷怪杀 BOSS 全服无敌！",
+      "【一口气看完】《网游之我有十倍攻速》：网游最强被动！十倍攻速无解输出，从新手一路杀到世界第一！"
+    ],
+    "total": 28,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "302285": {
+    "season_id": 302285,
+    "title": "意外捡到豪门萌娃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9f9e8651d7f787d35614ec74ff78542113a6d4a6.jpg",
+    "evaluate": "只因好心帮前任去幼儿园接孩子，一场无心之举竟掀起惊天乌龙。隔天女主电话被疯狂打爆，回头才震惊发现，自己家中多了个满身名牌的可爱萌娃。小家伙正抱着枕头熟睡，嘴角流满口水，还不停软糯喊着老婆。突如其来的天降萌娃赖上自己，让女主瞬间陷入两难境地，不知该如何向众人解释这场荒唐又甜蜜的意外，一段啼笑皆非的暖心故事就此开启。",
+    "jpTitle": "",
+    "seasonTitle": "意外捡到豪门萌娃",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-04-29 12:10:23",
+      "pub_time_show": "04月29日12:10",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5951181,
+    "firstEpisodePublishedAt": 1788760925000,
+    "type": 12,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "意外捡到豪门萌娃-全集"
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "302286": {
+    "season_id": 302286,
+    "title": "时停起手：暂停世界一分钟",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/6444b915e71385abb41ff73c2c0daa631741dc18.png",
+    "evaluate": "大灾变两百年后的废土世界，文明崩塌、异化兽横行，禁忌之物与超凡能力并存。主角白野意外穿越至此，觉醒 “每日可静止时间一分钟” 的特殊能力。\n故事开篇，白野在灰土镇的生死赌局中靠时停能力逆转局面，完美收容禁忌物【骸骨之息】，一跃成为东区副统领。他与觉醒 “无形魔术手” 的超凡者李右结伴，在异化鬣狗、变异灰雀的兽潮中死里逃生，也引来地方势力的忌惮与算计。\n传闻藏有终极科技遗产 “盘古 U 盘” 的黑山 189 避难所现世，天启军队、赏金猎人、十王暴君杨桀等多方势力齐聚。杨桀以控金属之力强行破开避难所大门，众人深入地下，却遭遇能操控尸体的变异猩红病毒，整座地下城化为绝境。\n突围中白野不慎感染病毒，他用时停能力绝境自救，反而意外获得病毒 “同类豁免权”。为追查真相，白野孤身深入核心实验塔，目睹骑士少女安晓瞳先行入局。幕后掌控命运线的 “画家” 视白野为变数，暗中布下死局。第一季终，白野推开塔门，猩红光芒将其吞没，终极博弈正式拉开序幕。",
+    "jpTitle": "",
+    "seasonTitle": "时停起手：暂停世界一分钟",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-08 12:20:33",
+      "pub_time_show": "08月08日12:20",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5951607,
+    "firstEpisodePublishedAt": 1788761281000,
+    "type": 12,
+    "episodeCount": 30,
+    "episodeTitles": [
+      "第1集：死亡轮盘",
+      "第2集：六弹定生死",
+      "第3集：魔术手落幕？"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "302287": {
+    "season_id": 302287,
+    "title": "逆天萌兽：绝世妖女世无双",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ccb5a7eadd087d31203f285743933082141268d4.jpg",
+    "evaluate": "万兽国少女殷念身负千年凤元，十八岁觉醒之日遭帝后与苏琳嬿暗算，被生生剜去凤骨、夺走伴生凤凰兽蛋，含恨坠入深渊魔涧。绝境中她被魔族大能殷女所救，以极致怨气凝结魔化兽元，三月苦修修成九重灵魔之体，携本命萌兽百变涅槃归来。\n她以白露身份潜伏皇城，智斗白家与皇室势力；白头山禁地解封千年阵法师元辛碎，两人从偏执占有到双向奔赴，携手摧毁白家死阵、救回被囚禁的凤凰兽蛋辣辣，一步步瓦解帝后权力网络。\n一路逆袭中，殷念收服百草山庄势力，拜入巨人族门下，以身试险达成灵魔融合，报剜骨灭母之仇。第一季末尾，为解经脉反噬之困，殷念与元辛碎、双萌兽一同启程前往五洲第一大宗盛山宗，开启全新的成长与征程。",
+    "jpTitle": "",
+    "seasonTitle": "逆天萌兽：绝世妖女世无双",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-09 10:06:53",
+      "pub_time_show": "08月09日10:06",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5950902,
+    "firstEpisodePublishedAt": 1788760442000,
+    "type": 12,
+    "episodeCount": 34,
+    "episodeTitles": [
+      "《逆天萌兽：绝世妖女世无双》第1集",
+      "《逆天萌兽：绝世妖女世无双》第2集",
+      "《逆天萌兽：绝世妖女世无双》第3集"
+    ],
+    "total": 40,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "302991": {
     "season_id": 302991,
     "title": "小公主戴安娜 第二季",
@@ -119438,8 +119753,12 @@
         "title": "第二季 中文配音"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1789030800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "303002": {
     "season_id": 303002,
@@ -119482,8 +119801,12 @@
         "title": "第二季 中文配音"
       }
     ],
-    "checkedAt": "2026-10-07",
-    "richCheckedAt": "2026-10-07"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
+    "firstEpisodePublishedAt": 1789030800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "306788": {
     "season_id": 306788,
@@ -119512,8 +119835,8 @@
     "total": 12,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "code": 0
   },
   "309659": {
@@ -120055,8 +120378,8 @@
     "total": 4,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "code": 0
   },
   "320235": {
@@ -120588,8 +120911,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "324859": {
     "season_id": 324859,
@@ -120607,15 +120930,16 @@
       "weekday": 0
     },
     "firstEpisode": 6552369,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "Emerge From the Darkness"
+      "Emerge From the Darkness",
+      "A Job at the Capital City"
     ],
     "total": 25,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "firstEpisodePublishedAt": 1791291300000,
     "type": 1,
     "code": 0
@@ -120644,8 +120968,8 @@
     "total": 13,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14",
     "firstEpisodePublishedAt": 1791208800000,
     "type": 1,
     "code": 0
@@ -120722,8 +121046,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "331542": {
     "season_id": 331542,
@@ -120749,7 +121073,7 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13"
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   }
 }

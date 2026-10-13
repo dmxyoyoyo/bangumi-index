@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-10-13",
+  "checkedAt": "2026-10-14",
   "range": [
-    331461,
-    331961
+    331962,
+    332462
   ],
   "backfillRange": [
-    298582,
-    300581
+    300582,
+    302581
   ],
-  "backfillNext": 300582,
-  "validCandidates": 2664,
-  "added": 26,
-  "missing": 2491,
-  "forwardNext": 331962,
+  "backfillNext": 302582,
+  "validCandidates": 2670,
+  "added": 6,
+  "missing": 2497,
+  "forwardNext": 332463,
   "indexCandidates": 0,
   "requestBudget": 4000,
   "backfillLimit": 2000,
-  "recheckQueued": 0
+  "recheckQueued": 47
 }
