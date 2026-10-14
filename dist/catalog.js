@@ -2,6 +2,7 @@
 'use strict';
 const countries={BN:'文莱',KH:'柬埔寨',ID:'印度尼西亚',LA:'老挝',MY:'马来西亚',MM:'缅甸',PH:'菲律宾',SG:'新加坡',TH:'泰国',TL:'东帝汶',VN:'越南'};
 const origins={all:'全部',japan:'日本',china:'中国',other:'其他'};
+const Filters=typeof module!=='undefined'&&module.exports?require('./sea-filters.js'):root.SeaFilters;
 function clean(text){return String(text||'').normalize('NFKC').toLocaleLowerCase().replace(/\s+/g,' ').trim();}
 function chineseLink(item){return Number.isSafeInteger(item.cnId)&&item.cnId>0?'https://www.bilibili.com/bangumi/play/ss'+item.cnId:null;}
 function filter(items,options={}){
@@ -9,12 +10,13 @@ function filter(items,options={}){
  const result=items.filter(item=>{
   if(options.origin&&options.origin!=='all'&&item.originCategory!==options.origin)return false;
   if(options.region&&!(item.regions||[]).includes(options.region))return false;
+  if(!Filters.matches(item,options))return false;
   if(options.mappedOnly&&!chineseLink(item))return false;
   if(options.status==='unmapped'&&chineseLink(item))return false;
   if(['upcoming','aired','unknown'].includes(options.status)&&item.release?.status!==options.status)return false;
   if(ss)return item.cnId===Number(ss[1])||item.mappingStatus?.code==='candidate-unavailable'&&item.mappingStatus.candidateIds?.includes(Number(ss[1]));
   if(sea)return item.intlId===Number(sea[1]);
-  return !q||clean([item.title,item.seaTitle,item.japaneseTitle,item.originalName,item.officialTitle,...item.aliases||[],item.intlId,item.cnId,...(item.mappingStatus?.code==='candidate-unavailable'?item.mappingStatus.candidateIds||[]:[])].filter(Boolean).join(' ')).includes(q);
+  return !q||clean([item.title,item.seaTitle,item.japaneseTitle,item.originalName,item.officialTitle,Filters.searchText(item),...item.aliases||[],item.intlId,item.cnId,...(item.mappingStatus?.code==='candidate-unavailable'?item.mappingStatus.candidateIds||[]:[])].filter(Boolean).join(' ')).includes(q);
  });
  const sort=options.sort||'mapped';
  return result.sort((a,b)=>sort==='title'?a.title.localeCompare(b.title,'zh-CN'):sort==='id-asc'?(a.intlId??Number.MAX_SAFE_INTEGER)-(b.intlId??Number.MAX_SAFE_INTEGER):sort==='id-desc'?(b.intlId??-1)-(a.intlId??-1):Number(Boolean(chineseLink(b)))-Number(Boolean(chineseLink(a)))||a.title.localeCompare(b.title,'zh-CN'));

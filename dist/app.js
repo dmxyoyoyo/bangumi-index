@@ -1,7 +1,7 @@
 'use strict';
 const catalog=window.SEA_CATALOG;
 const $=id=>document.getElementById(id);
-const state={query:'',region:'',origin:'all',mappedOnly:false,sort:'mapped',status:'all',page:1},pageSize=30;
+const state={query:'',region:'',...SeaFilters.defaults,mappedOnly:false,sort:'mapped',status:'all',page:1},pageSize=30;
 const countryEntries=Object.entries(Catalog.countries);
 function element(tag,className,text){const node=document.createElement(tag);if(className)node.className=className;if(text!==undefined)node.textContent=text;return node;}
 function external(text,url,className){const node=element('a',className,text);node.href=url;node.target='_blank';node.rel='noopener noreferrer';return node;}
@@ -16,7 +16,8 @@ function render(){
   const row=document.createElement('tr');
   const name=element('td');name.append(element('div','anime-title',item.title));
   name.append(element('div','alternate',(item.seaTitle||item.officialTitle||item.title)+(item.seaTitleSource==='历史目录'?'（历史记录）':'')));
-  name.append(element('div','original-title',item.japaneseTitle?item.japaneseTitle:item.originalNameStatus==='non-japanese'?(item.originalName||'来源未提供')+'（非日本动画）':item.originalName?item.originalName+'（原名语言待确认）':'来源未提供'));
+  name.append(element('div','original-title',item.japaneseTitle?item.japaneseTitle:item.originalNameStatus==='non-japanese'?(item.originalName||'来源未提供'):item.originalName?item.originalName+'（原名语言待确认）':'来源未提供'));
+  if(item.contentType==='non-animation')name.querySelector('.original-title').append('（非动画）');
   const release=element('div','release-line');release.append(element('span','release-tag '+item.release.status,({upcoming:item.release.confirmed?'未开播（官方排期）':'计划开播',aired:item.release.confirmed?'已开播 / 上映':'首播日期已过',unknown:'开播时间待核实'})[item.release.status]),element('span','',item.release.date?(item.release.status==='upcoming'?'预计 ':'')+item.release.date:''));
   if(item.release.note)release.append(element('span','',item.release.note));
   name.append(release);
@@ -38,13 +39,13 @@ function render(){
  $('page-input').max=String(pages);$('page-input').value=String(state.page);$('page-input').disabled=!matches.length;$('jump-button').disabled=!matches.length;
  $('previous').disabled=state.page<=1;$('next').disabled=state.page>=pages;$('empty').hidden=matches.length>0;
  for(const button of $('regions').children)button.setAttribute('aria-pressed',String(button.dataset.region===state.region));
- for(const button of $('origins').children)button.setAttribute('aria-pressed',String(button.dataset.origin===state.origin));
+ for(const button of document.querySelectorAll('.category-button'))button.setAttribute('aria-pressed',String(button.dataset.value===state[button.dataset.filter]));
 }
 function update(values){Object.assign(state,values,{page:1});render();}
 function setup(){
  Catalog.validate(catalog.items);
  for(const [code,label] of [['','全部地区'],...countryEntries]){const button=action('',()=>update({region:code}),'region-button');button.dataset.region=code;const regionLabel=element('span','region-label');if(code){const flag=element('img','region-flag');flag.src='./assets/flags/'+code.toLowerCase()+'.svg';flag.alt='';flag.width=22;flag.height=16;regionLabel.append(flag);}regionLabel.append(element('span','',label));button.append(regionLabel,element('span','region-count',String(catalog.items.filter(item=>!code||item.regions.includes(code)).length)));$('regions').append(button);}
- for(const [code,label] of Object.entries(Catalog.origins)){const button=action(label,()=>update({origin:code}),'origin-button');button.dataset.origin=code;$('origins').append(button);}
+ for(const group of SeaFilters.groups(catalog.items)){const row=element('div','category-row'),label=element('div','category-label',group.label),choices=element('div','category-choices');choices.setAttribute('role','group');choices.setAttribute('aria-label',group.label);if(group.key==='origin')choices.id='origins';for(const [value,title] of group.options){const button=action(title,()=>update({[group.key]:value}),'category-button');button.dataset.filter=group.key;button.dataset.value=value;choices.append(button);}row.append(label,choices);$('category-options').append(row);}
  $('total-count').textContent=catalog.items.length.toLocaleString('zh-CN');
  $('mapped-count').textContent=catalog.items.filter(Catalog.chineseLink).length.toLocaleString('zh-CN');
  $('update-note').textContent=catalog.meta.lastSuccessfulRefresh?'上次完整更新：'+new Date(catalog.meta.lastSuccessfulRefresh).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'}):'完整刷新仍待数据源恢复。';
@@ -57,7 +58,7 @@ function setup(){
  $('previous').addEventListener('click',()=>{state.page--;render();$('catalog').scrollIntoView({block:'start'});});
  $('next').addEventListener('click',()=>{state.page++;render();$('catalog').scrollIntoView({block:'start'});});
  $('page-jump').addEventListener('submit',event=>{event.preventDefault();const page=Number($('page-input').value),max=Number($('page-input').max);if(!Number.isSafeInteger(page)||page<1||page>max)return;state.page=page;render();$('catalog').scrollIntoView({block:'start'});});
- $('reset').addEventListener('click',()=>{$('search').value='';$('sort').value='mapped';$('mapped-only').checked=false;$('status').value='all';update({query:'',region:'',origin:'all',mappedOnly:false,sort:'mapped',status:'all'});});
+ $('reset').addEventListener('click',()=>{$('search').value='';$('sort').value='mapped';$('mapped-only').checked=false;$('status').value='all';update({query:'',region:'',...SeaFilters.defaults,mappedOnly:false,sort:'mapped',status:'all'});});
  render();
  if(document.modelContext?.registerTool){try{Promise.resolve(document.modelContext.registerTool({name:'search_sea_anime',title:'查询东南亚番剧 ID',description:'搜索番剧与已核实的中国版 ID，同时更新页面筛选。未核实的记录不返回中国版链接。',inputSchema:{type:'object',properties:{query:{type:'string'},region:{type:'string',enum:['',...Object.keys(Catalog.countries)]},mappedOnly:{type:'boolean'},origin:{type:'string',enum:Object.keys(Catalog.origins)}},additionalProperties:false},annotations:{readOnlyHint:false,untrustedContentHint:true},execute(input){if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(key=>!['query','region','mappedOnly','origin'].includes(key))||('query' in input&&typeof input.query!=='string')||('region'in input&&input.region!==''&&!Object.hasOwn(Catalog.countries,input.region))||('origin'in input&&(typeof input.origin!=='string'||!Object.hasOwn(Catalog.origins,input.origin)))||('mappedOnly'in input&&typeof input.mappedOnly!=='boolean'))throw new Error('Invalid search input');const values={query:input.query||'',region:input.region||'',mappedOnly:input.mappedOnly||false,origin:input.origin||'all'};$('search').value=values.query;$('mapped-only').checked=values.mappedOnly;update(values);const found=Catalog.filter(catalog.items,state);return {total:found.length,items:found.slice(0,30).map(x=>({title:x.title,intlId:x.intlId,cnId:x.cnId||null,chineseLink:Catalog.chineseLink(x),regions:x.regions,origin:x.originCategory}))};}})).catch(()=>{});}catch{}}
 }

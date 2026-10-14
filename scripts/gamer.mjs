@@ -1,4 +1,5 @@
 import OpenCC from 'opencc-js';
+import {enrichGamerClassifications} from './gamer-classifications.mjs';
 import {enrichGamerOriginals} from './gamer-originals.mjs';
 import {writeFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
@@ -65,12 +66,13 @@ export async function collectGamer(pageReader=readPage,wait=delay){
 
 async function build(raw){
  const originals=await enrichGamerOriginals(raw,{offline:process.argv.includes('--offline')});
+ const classifications=await enrichGamerClassifications(raw,{offline:process.argv.includes('--offline')});
  const subjects=Object.values(await readJson('data/bangumi-subjects.json',{})),names=new Map();
  for(const s of subjects)for(const name of [s.name_cn,s.name,...s.aliases||[]]){const k=key(name);if(!k)continue;const matches=names.get(k)||new Map();matches.set(s.id,s);names.set(k,matches);}
  const items=raw.items.map(item=>{
   const matches=names.get(key(item.title)),subject=matches?.size===1?[...matches.values()][0]:null;
   const original=originals[item.animeSn];
-  return {id:Number(item.animeSn),title:simplify(subject?.name_cn||item.title),officialTitle:item.title,cover:item.cover||'',japaneseTitle:original?.japaneseTitle||'',originalTitle:original?.originalTitle||subject?.name||'',originalStatus:original?.originalStatus||'missing',originalSourceUrl:original?.sourceUrl||'',nameSource:subject?'Bangumi':'动画疯官方译名（简体转换）',nameSourceUrl:subject?'https://bgm.tv/subject/'+subject.id:'https://ani.gamer.com.tw/animeRef.php?sn='+item.animeSn,date:item.dateInfo?.match(/\d{4}\/\d{2}/)?.[0]||'',episodes:Number(item.totalEpisode)||0,bilingual:!!item.highlightTag?.bilingual,edition:simplify(item.highlightTag?.edition||''),url:'https://ani.gamer.com.tw/animeRef.php?sn='+item.animeSn};
+  return {classification:classifications.items[item.animeSn],contentType:classifications.items[item.animeSn].types.includes('真人演出')?'non-animation':'animation',id:Number(item.animeSn),title:simplify(subject?.name_cn||item.title),officialTitle:item.title,cover:item.cover||'',japaneseTitle:original?.japaneseTitle||'',originalTitle:original?.originalTitle||subject?.name||'',originalStatus:original?.originalStatus||'missing',originalSourceUrl:original?.sourceUrl||'',nameSource:subject?'Bangumi':'动画疯官方译名（简体转换）',nameSourceUrl:subject?'https://bgm.tv/subject/'+subject.id:'https://ani.gamer.com.tw/animeRef.php?sn='+item.animeSn,date:item.dateInfo?.match(/\d{4}\/\d{2}/)?.[0]||'',episodes:Number(item.totalEpisode)||0,bilingual:!!item.highlightTag?.bilingual,edition:simplify(item.highlightTag?.edition||''),url:'https://ani.gamer.com.tw/animeRef.php?sn='+item.animeSn};
  });
  const catalog={meta:{...raw.meta,titleNote:'主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。'},items};
  await writeJson('dist/gamer-catalog.json',catalog);

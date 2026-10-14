@@ -6,7 +6,7 @@
 <title>B站东南亚 · 番剧索引</title>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23122740'/%3E%3Cpath d='M9 11h14M9 16h14M9 21h8' stroke='%2355dded' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="./style.css">
-<script defer src="./data.js"></script><script defer src="./catalog.js"></script><script defer src="./covers.js"></script><script defer src="./app.js"></script>
+<script defer src="./data.js"></script><script defer src="./sea-filters.js"></script><script defer src="./catalog.js"></script><script defer src="./covers.js"></script><script defer src="./app.js"></script>
 </head>
 <body class="sea-page">
 <a class="skip" href="#catalog">跳到番剧目录</a>
@@ -22,17 +22,12 @@
  <header class="topbar"><h1>Bilibili东南亚</h1><nav class="header-links" aria-label="作者链接"><span class="topbar-platform">B-Global</span><a class="project-link github-link" href="https://github.com/dmxyoyoyo/bangumi-index" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="./assets/github-mark.svg" alt="" width="18" height="18">GitHub 项目 <span aria-hidden="true">↗</span></a><a class="project-link bilibili-link" href="https://space.bilibili.com/360769939" target="_blank" rel="noopener noreferrer"><img class="link-icon" src="./assets/bilibili-mark.svg" alt="" width="18" height="18">B站空间 <span aria-hidden="true">↗</span></a></nav></header>
  <div class="content">
 
-  <section class="stats" aria-label="目录概况">
-   <div><span>已收录记录</span><strong id="total-count">—</strong><small>含不同季度与配音版本</small></div>
-   <div><span>中国版 ID 已核实</span><strong id="mapped-count">—</strong><small>已核对中国版条目；播放权限另行确认</small></div>
-
-  </section>
   <section class="catalog" id="catalog" aria-label="番剧查询">
    <div class="controls">
     <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索中文名、东南亚名、日文原名、ID 或链接" aria-label="搜索番剧"></label>
     <label class="sort">排序<select id="sort"><option value="mapped">已核实 ID 优先</option><option value="title">标题 A–Z</option><option value="id-desc">国际版 ID 从大到小</option><option value="id-asc">国际版 ID 从小到大</option></select></label>
    </div>
-   <nav id="origins" class="origin-filters" aria-label="筛选作品制作国家"></nav>
+   <details id="classifications" class="classification-filters"><summary><span class="category-toggle"><span class="expand-label">展开分类</span><span class="collapse-label">收起分类</span></span><span class="inline-counts"><span>已收录记录 <b id="total-count">—</b></span><span>/</span><span>中国版 ID 已核实 <b id="mapped-count">—</b></span></span></summary><div id="category-options" class="category-options"></div></details>
    <div class="filter-row"><div><h2 id="region-title">全部东南亚地区</h2><span id="result-count" role="status" aria-live="polite">正在读取目录…</span></div><label class="status-filter">状态<select id="status"><option value="all">全部状态</option><option value="unmapped">中国版 ID 未核实</option><option value="upcoming">未开播 / 计划开播</option><option value="aired">已开播 / 首播日期已过</option><option value="unknown">开播时间待核实</option></select></label><label class="check"><input id="mapped-only" type="checkbox">仅显示中国版 ID 已核实</label></div>
    <div class="table-wrap"><table><thead><tr><th>番剧名称</th><th>国际版 ID</th><th>授权地区 / 来源</th><th>中国版 ss ID</th></tr></thead><tbody id="rows"></tbody></table></div>
    <div id="empty" class="empty" hidden><h3>没有找到匹配记录</h3><p>尝试缩短番剧名，或取消国家、地区及 ID 筛选。</p><button id="reset">清除筛选</button></div>

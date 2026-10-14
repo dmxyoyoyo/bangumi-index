@@ -1,4 +1,5 @@
 import OpenCC from 'opencc-js';
+import SeaFilters from '../dist/sea-filters.js';
 import {classifyOrigin} from './origin.mjs';
 import {classifyRelease,normalizeOfficialDate} from './release.mjs';
 import {readJson,writeJson,saveCatalog,today,getJson} from './shared.mjs';
@@ -19,6 +20,7 @@ const subjects=dump?.items||Object.values(saved);const index=new Map();
 for(const s of dump?.items||[]){s.aliases=s.aliases||aliases(s);for(const name of [s.name,s.name_cn,...s.aliases]){for(const k of [key(name),key(simplify(name||''))]){if(!k)continue;const list=index.get(k)||[];if(!list.some(x=>x.id===s.id))list.push(s);index.set(k,list);}}}
 function strict(text){return String(text||'').normalize('NFKC').toLowerCase().replace(/\s+/g,'').replace(/[’‘]/g,"'");}
 function findSubject(item,meta,local){const expected=season(item.officialTitle)||season(item.title);for(const title of [base(item.title),base(item.officialTitle),meta?.originName,local?.originName,...(item.aliases||[])]){const found=(index.get(key(title))||index.get(key(simplify(title||'')))||[]).filter(s=>!expected||expected===1||season(s.name_cn+' '+s.name)===expected);const precise=found.filter(s=>[s.name,s.name_cn,...(s.aliases||[])].some(n=>strict(n)===strict(title)));if(precise.length===1)return precise[0];if(found.length===1)return found[0];}return null;}
+const contentOverrides=await readJson('data/content-overrides.json',{});
 const releaseOverrides=await readJson('data/release-overrides.json',{}),episodeEvidence=await readJson('data/mapping-episodes.json',{intl:{},cn:{}});
 const countries=await readJson('data/bangumi-countries.json',{}),originOverrides=await readJson('data/origin-overrides.json',{});
 const forced=await readJson('data/bangumi-matches.json',{});const selected={};let bgmCount=0,apiLookups=0;
@@ -54,6 +56,8 @@ for(const item of c.items){const meta=intl[item.intlId],local=zh[item.intlId];le
  const evidence=override?.url||(source==='Bangumi'?'https://bgm.tv/subject/'+subject.id:source==='B站中国版'?'https://api.bilibili.com/pgc/view/web/season?season_id='+item.cnId:'https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id='+item.intlId+'&s_locale=zh_CN');
  const result=classifyRelease({date,day,episodeEvidence:episodeEvidence.intl[item.intlId],started:chinese?.publish?.is_started===1,finished:local?.isFinished===true||meta?.isFinished===true,officialUpcoming:override?.verifiedSchedule===true||chinese?.publish?.is_started===0&&source==='B站中国版'});
  item.release={...result,date:date||null,source,evidenceUrl:source?evidence:null,checkedAt:day,note:[override?.note,extra&&source==='Bangumi'?'日期为原作开播日期，本配音版日期待核实':result.status==='upcoming'&&!result.confirmed?'预计排期；提前配信及平台上线状态待核实':null].filter(Boolean).join('；')||null};
+ item.contentType=contentOverrides[item.intlId]?.type||([1,4].includes(Number(meta?.type))?'animation':meta?.type!=null?'non-animation':null);
+ item.classification=SeaFilters.classify(meta,normalizeOfficialDate(meta?.officialStart||meta?.airDate||local?.airDate||item.release.date||''));
 }
 await writeJson('data/bangumi-countries.json',countries);await writeJson('data/bangumi-subjects.json',selected);await writeJson('data/intl-metadata.json',intl);await writeJson('data/localized-metadata.json',zh);await writeJson('data/cn-metadata.json',cn);c.meta.titleNote='中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。';
 c.meta.updatedAt=day;await saveCatalog(c);

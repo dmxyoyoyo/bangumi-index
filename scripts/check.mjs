@@ -63,6 +63,8 @@ assert.equal(classifyOrigin({area:'Japan',type:4}).category,'japan');
 assert.equal(classifyOrigin({tags:['中国','日本']}).category,'other');
 assert.equal(classifyOrigin({tags:['国产']}).category,'china');
 assert.equal(classifyOrigin({}).category,'other');
+await import('./check-sea-filters.mjs');
+await import('./check-gamer-filters.mjs');
 await import('./check-cn.mjs');
 await import('./check-update-failure.mjs');
 await import('./check-gamer.mjs');
