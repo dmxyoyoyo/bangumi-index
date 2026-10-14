@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1902,
-    "lastSuccessfulRefresh": "2026-10-13T18:44:29.678Z",
+    "lastSuccessfulRefresh": "2026-10-14T02:25:20.480Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -19865,23 +19865,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113455"
     },
     {
-      "id": 73148,
-      "title": "重装武器",
-      "officialTitle": "重裝武器",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000073148.JPG",
-      "japaneseTitle": "ヘヴィーオブジェクト",
-      "originalTitle": "ヘヴィーオブジェクト",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/115008",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/115008",
-      "date": "2015/10",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=73148"
-    },
-    {
       "id": 112633,
       "title": "萤火之森",
       "officialTitle": "螢火之森",
@@ -19897,6 +19880,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112633"
+    },
+    {
+      "id": 73148,
+      "title": "重装武器",
+      "officialTitle": "重裝武器",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/48/0000073148.JPG",
+      "japaneseTitle": "ヘヴィーオブジェクト",
+      "originalTitle": "ヘヴィーオブジェクト",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/115008",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/115008",
+      "date": "2015/10",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=73148"
     },
     {
       "id": 113544,
@@ -26189,23 +26189,6 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112594"
     },
     {
-      "id": 107629,
-      "title": "香蕉喵 不可思议的伙伴们",
-      "officialTitle": "香蕉喵 不可思議的夥伴們",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000107629.JPG",
-      "japaneseTitle": "ばなにゃ ふしぎななかまたち",
-      "originalTitle": "ばなにゃ ふしぎななかまたち",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/288311",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/288311",
-      "date": "2019/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=107629"
-    },
-    {
       "id": 113725,
       "title": "卡片战斗!! 先导者 Divinez 第三季「DELUXE篇」",
       "officialTitle": "卡片戰鬥!! 先導者 Divinez 第三季「DELUXE篇」",
@@ -26221,6 +26204,23 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113725"
+    },
+    {
+      "id": 107629,
+      "title": "香蕉喵 不可思议的伙伴们",
+      "officialTitle": "香蕉喵 不可思議的夥伴們",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000107629.JPG",
+      "japaneseTitle": "ばなにゃ ふしぎななかまたち",
+      "originalTitle": "ばなにゃ ふしぎななかまたち",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/288311",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/288311",
+      "date": "2019/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=107629"
     },
     {
       "id": 113423,
@@ -30269,6 +30269,23 @@
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=79364"
     },
     {
+      "id": 113522,
+      "title": "RINKAI！女子竞轮",
+      "officialTitle": "RINKAI！女子競輪",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000131277.JPG",
+      "japaneseTitle": "リンカイ！",
+      "originalTitle": "リンカイ！",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131277",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113522",
+      "date": "2024/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113522"
+    },
+    {
       "id": 113264,
       "title": "魔术士欧菲 流浪之旅 圣域篇",
       "officialTitle": "魔術士歐菲 流浪之旅 聖域篇",
@@ -30301,23 +30318,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112550"
-    },
-    {
-      "id": 113522,
-      "title": "RINKAI！女子竞轮",
-      "officialTitle": "RINKAI！女子競輪",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000131277.JPG",
-      "japaneseTitle": "リンカイ！",
-      "originalTitle": "リンカイ！",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131277",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113522",
-      "date": "2024/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113522"
     },
     {
       "id": 113312,
