@@ -16272,6 +16272,70 @@
     "available": true,
     "code": 0
   },
+  "228542": {
+    "season_id": 228542,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 荷兰站 ",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5a1fe8635bcf45c11e172df99155601ed5a54aa0.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 荷兰站 ",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-04-17 15:20:00",
+      "pub_time_show": "04月17日15:20",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 3620569,
+    "firstEpisodePublishedAt": 1776835052000,
+    "type": 9,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "229532": {
     "season_id": 229532,
     "title": "天网：血色花季",
@@ -17528,6 +17592,70 @@
     "available": true,
     "code": 0
   },
+  "232706": {
+    "season_id": 232706,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 匈牙利站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6f42eb2f0690f2adddcaec4c24ed705f74416388.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 匈牙利站",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-05-01 16:20:00",
+      "pub_time_show": "05月01日16:20",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 3736312,
+    "firstEpisodePublishedAt": 1777886253000,
+    "type": 9,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "233542": {
     "season_id": 233542,
     "title": "天网：假面情人",
@@ -18260,6 +18388,70 @@
     "checkedAt": "2026-10-13",
     "richCheckedAt": "2026-10-13"
   },
+  "237671": {
+    "season_id": 237671,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 捷克站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/54e10e4f974549d7dd7587536b9d2f560da65c3f.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 捷克站",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-05-15 17:35:00",
+      "pub_time_show": "05月15日17:35",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 3893119,
+    "firstEpisodePublishedAt": 1779147990000,
+    "type": 9,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "240292": {
     "season_id": 240292,
     "title": "天网：法网纵横",
@@ -18787,6 +18979,70 @@
     "type": 9,
     "available": true,
     "code": 0
+  },
+  "244143": {
+    "season_id": 244143,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 阿拉贡站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2ffc51791b89ffd064fc2654be5070e29497f0ae.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 阿拉贡站",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-03 12:00:00",
+      "pub_time_show": "06月03日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 4121016,
+    "firstEpisodePublishedAt": 1780457570000,
+    "type": 9,
+    "episodeCount": 13,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "246756": {
     "season_id": 246756,
@@ -19571,6 +19827,70 @@
     "type": 9,
     "available": true,
     "code": 0
+  },
+  "251326": {
+    "season_id": 251326,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 意大利站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/750302a65116673b24ae23e8374ead32ca141d8d.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 意大利站",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-18 12:00:00",
+      "pub_time_show": "06月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 4390335,
+    "firstEpisodePublishedAt": 1781830753000,
+    "type": 9,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "251944": {
     "season_id": 251944,
@@ -22019,6 +22339,70 @@
     "type": 9,
     "available": true,
     "code": 0
+  },
+  "261459": {
+    "season_id": 261459,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 英国站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a26c0ff5fd000cba85b920339807018f7713f738.jpg",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 英国站",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-07-10 18:00:00",
+      "pub_time_show": "07月10日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 4778665,
+    "firstEpisodePublishedAt": 1784020249000,
+    "type": 9,
+    "episodeCount": 15,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "261497": {
     "season_id": 261497,
@@ -124098,6 +124482,164 @@
     "checkedAt": "2026-10-14",
     "richCheckedAt": "2026-10-14"
   },
+  "305004": {
+    "season_id": 305004,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 法国站",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a2a3dd65b92daab4da3c4867bb559a8fea8b6bed.png",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 法国站",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-09 13:00:00",
+      "pub_time_show": "09月09日13:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6014233,
+    "firstEpisodePublishedAt": 1788926450000,
+    "type": 9,
+    "episodeCount": 9,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "305586": {
+    "season_id": 305586,
+    "title": "1001",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/78f4cf725a7072e418768bc38d8e632ef8873d53.png",
+    "evaluate": "AIGC 科幻短剧《1001》融合代码与《一千零一夜》内核，社畜石昔生被觉醒机器人 Airon 带入多元宇宙，历经自由觉醒、刺杀忧郁、孤星探秘、词印救赎、飞船危机五段旅程，打破 “社会时钟” 束缚，在星际漫游中重新编译自我，探寻人性、爱与自由的终极答案。",
+    "jpTitle": "",
+    "seasonTitle": "1001",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-12 18:00:00",
+      "pub_time_show": "09月12日18:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6078501,
+    "firstEpisodePublishedAt": 1789207201000,
+    "type": 12,
+    "episodeCount": 25,
+    "episodeTitles": [
+      "《1001》孤星日记篇  第一集  你召唤，我就会穿越禁区来见你！【总第1集】",
+      "《1001》孤星日记篇  第二集  说好一起看L77，你却先迷了路！【总第2集】",
+      "《1001》孤星日记篇  第三集  这里荒凉得像月球，可你像太阳！【总第3集】"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "305752": {
+    "season_id": 305752,
+    "title": "世界战史 二战风云",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6a2f53b8caecaa38c59aa5f1c41edfd6a22a61fe.jpg",
+    "evaluate": "本片全景呈现二战烽火：从纳粹闪击波兰、不列颠空战僵持，到北非、缅甸丛林与太平洋岛屿的殊死搏杀；从诺曼底登陆的恢弘反攻，到特种部队奇袭重水工厂、营救墨索里尼的秘密行动。盟军以血与火扭转颓势，希特勒的千年帝国在东西夹击中崩塌。史诗战役、绝境智谋与人性挣扎，交织成一部惊心动魄的全球战争画卷。\n",
+    "jpTitle": "",
+    "seasonTitle": "世界战史 二战风云",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-17 17:30:00",
+      "pub_time_show": "09月17日17:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6124854,
+    "firstEpisodePublishedAt": 1789637400000,
+    "type": 3,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "铁蹄下的欧洲",
+      "不列颠之战",
+      "战胜U艇"
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "306531": {
+    "season_id": 306531,
+    "title": "闽都侠仙传之靖姑",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7ce4878dc9764b16133091fb3fba2b296e916f12.png",
+    "evaluate": "古代闽地妖邪横行，百姓饱受疾苦。女侠陈靖姑师从正一道许真君，收灵虎江峦儿为义妹，破解蜘蛛精的“缠丝登仙阵”；助石夹二妖摆脱雷击之苦，通过“捉迷藏”游戏化解角山霸的执念。陈靖姑“持大道济苍生”，为追求正道奉献了自己的一生。",
+    "jpTitle": "",
+    "seasonTitle": "闽都侠仙传之靖姑",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-12-30 11:00:00",
+      "pub_time_show": "12月30日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 4,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 15,
+    "seasons": [
+      {
+        "id": 306531,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "306788": {
     "season_id": 306788,
     "title": "The World’s Strongest Rearguard",
@@ -124715,6 +125257,70 @@
     "type": 1,
     "available": true,
     "code": 0
+  },
+  "322466": {
+    "season_id": 322466,
+    "title": "【WSBK】2026世界超级摩托车锦标赛 意大利站(9月)",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/09bec8fefd72add6cf7d25fba3133f45d1093b0f.png",
+    "evaluate": "WSBK 即世界超级摩托车锦标赛，1988 年由国际摩联创办，和 MotoGP 并称全球两大顶级摩托赛事，以市售量产摩托有限改装参赛，被誉为赛道上的车展。",
+    "jpTitle": "",
+    "seasonTitle": "【WSBK】2026世界超级摩托车锦标赛 意大利站(9月)",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-29 16:00:00",
+      "pub_time_show": "09月29日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6553168,
+    "firstEpisodePublishedAt": 1790779535000,
+    "type": 9,
+    "episodeCount": 9,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 232706,
+        "title": "匈牙利站"
+      },
+      {
+        "id": 251326,
+        "title": "意大利站"
+      },
+      {
+        "id": 237671,
+        "title": "捷克站"
+      },
+      {
+        "id": 228542,
+        "title": "荷兰站"
+      },
+      {
+        "id": 244143,
+        "title": "阿拉贡站"
+      },
+      {
+        "id": 261459,
+        "title": "英国站"
+      },
+      {
+        "id": 305004,
+        "title": "法国站"
+      },
+      {
+        "id": 322466,
+        "title": "意大利站(9月)"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "322690": {
     "season_id": 322690,
