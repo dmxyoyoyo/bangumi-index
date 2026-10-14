@@ -30688,11 +30688,13 @@
     "regions": [],
     "type": 1,
     "firstEpisode": "382209",
-    "checkedAt": "2026-10-06",
+    "checkedAt": "2026-10-14",
     "payPolicy": null,
     "payPolicyEnum": null,
     "classificationErrorCode": 10015404,
-    "classificationCheckedAt": "2026-10-14"
+    "classificationCheckedAt": "2026-10-14",
+    "available": false,
+    "errorCode": 10015404
   },
   "37013": {
     "id": 37013,
@@ -363415,6 +363417,14 @@
     "title": "Falling in Love with You a Second Time",
     "description": "This drama tells the story of Su Weilan, who traveled through time and only has three days left to live. Due to a misunderstanding, her husband Lu Beiting detests her. After their divorce, she struggles painfully and is eventually erased from the world due to a failed攻略 (strategy/mission). With her life counting down, Su Weilan tries to clear up the misunderstanding but is never trusted. After her disappearance, Lu Beiting gradually discovers the truth. The plot revolves around conflicts such as 'CEO,' 'misunderstanding,' and 'deep regret,' with their emotional journey running through the enti...",
     "originName": "第二次与你恋爱",
+    "cover": "https://pic.bstarstatic.com/ogv/7767e590fb36f6c7e615f0f046f69526.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 19 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -363658,7 +363668,11 @@
     ],
     "type": 5,
     "firstEpisode": "26722733",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 19 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2320681": {
     "id": 2320681,
@@ -364996,6 +365010,19 @@
     "title": "The Wind Speaks My Love",
     "description": "This drama tells the story of a female protagonist who is diagnosed with esophageal cancer and has only three months left to live. While enduring the pain of her illness, she re-evaluates her unfinished emotional ties with her ex-husband. She was diagnosed with esophageal cancer, with only 3 months left of her life. She married her ex-husband because of her pregnancy, but he suspected that the child was not his own, leading to their divorce.",
     "originName": "风替我说爱你",
+    "cover": "https://pic.bstarstatic.com/ogv/997047914b5ece6e1b3dfa7ce9d1edda.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Urban",
+      "Toxic Relationship",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 22 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -365239,13 +365266,30 @@
     ],
     "type": 5,
     "firstEpisode": "26743072",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 22 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2321322": {
     "id": 2321322,
     "title": "Mr. Fu's Pampered Wife",
     "description": "The Young Deputy’s Sweet Wife",
     "originName": "傅少的暖婚娇妻",
+    "cover": "https://pic.bstarstatic.com/ogv/27fa501cabee55ce3e23583a83228a6e.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "CEO",
+      "Soulmate",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -365489,7 +365533,11 @@
     ],
     "type": 5,
     "firstEpisode": "26747233",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2321384": {
     "id": 2321384,
@@ -366028,6 +366076,19 @@
     "title": "Regarding Love, Do You Have Any Regrets?",
     "description": "The series focuses on Jian Ning'an and Jiang Jinxiu's marital crisis. Jian Ning'an discovers her husband's cold infidelity but still tries to save their marriage. However, after being diagnosed with a terminal illness, she faces her husband's heartless treatment and eventually dies in her mother's arms. After Jian Ning'an's death, a mysterious woman identical to her appears, causing Jiang Jinxiu to suspect and re-evaluate past emotional traumas. Through the triple conflicts of marital betrayal, life-and-death separation, and identity mystery, the story portrays the protagonist's struggle and r...",
     "originName": "关于爱情，你遗憾吗？",
+    "cover": "https://pic.bstarstatic.com/ogv/7bdd82c7e5de14acc3442673997ec742.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Misunderstanding",
+      "True Love",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -366271,7 +366332,11 @@
     ],
     "type": 5,
     "firstEpisode": "26762141",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2321800": {
     "id": 2321800,
@@ -367339,6 +367404,19 @@
     "title": "The Peerless Master in the City",
     "description": "“The Supreme Expert in the City” tells the story of how an ordinary security guard, Ye Lingtian, rises to power in the urban jungle. Once a nobody, Ye Lingtian is unexpectedly drawn into a life‑and‑death conspiracy. Deep within him lies sealed a formidable cultivation realm, and his fate becomes inextricably bound with that of a mysterious woman named Shen Jiangyue. Shen Jiangyue possesses the “Supreme Yin Body,” while Ye Lingtian bears the “Supreme Yang Body”; by destiny, they are each other’s saviors. Yet Ye Lingtian’s arrival upends the plans of Wang Meng, the overbearing young master of the mighty Wang Clan, who, determined to claim Shen Jiangyue for himself, sets countless traps in her path.\n\nAs the plot unfolds, Ye Lingtian must not only withstand the Wang Clan’s relentless pressure but also unravel the mysteries of his own origins and the secrets of the seal within him. Relying on his extraordinary wit and unwavering resolve, he climbs step by step through a city fraught with danger, ultimately uncovering a shocking truth hidden beneath the surface. The tale blends elements of fantasy, urban life, and romance, offering both pulse‑pounding action and deeply moving emotional entanglements that keep readers spellbound.",
     "originName": "绝品高手在都市",
+    "cover": "https://pic.bstarstatic.com/ogv/1933834958daa40a8bd694df5c54b035.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Boys Channel",
+      "Toxic Relationship",
+      "Bitter Love",
+      "Steamy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -367582,13 +367660,30 @@
     ],
     "type": 5,
     "firstEpisode": "26796244",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2322221": {
     "id": 2322221,
     "title": "Unparalleled Pampering: The Black Emperor's Adorable Wife",
     "description": "\"Unparalleled Pampering: The Black Emperor's Adorable Wife\" tells the story of the Black Emperor and his adorable wife, from their first meeting to falling in love. The Black Emperor dotes on his wife boundlessly, and after enduring twists, turns, and challenges, they finally walk towards happiness together, showcasing a sweet and genuine love story.",
     "originName": "绝世盛宠，黑帝的呆萌妻",
+    "cover": "https://pic.bstarstatic.com/ogv/6b44c33d6b8ab4b2fd104baba6f48381.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Comedy",
+      "Romance",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 19 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -367832,13 +367927,31 @@
     ],
     "type": 5,
     "firstEpisode": "26807501",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 19 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2322304": {
     "id": 2322304,
     "title": "Peerless God of War",
     "description": "Gu Ming, the Underworld Marshal who has been living in seclusion for five years, is about to make his official comeback. Before that, he joyfully decides to marry his fiancée, Wang Jiayin. However, on the wedding day, instigated by her cousin Wang Xi, Wang Jiayin and her mother-in-law feel that Gu Ming's 300,000 dowry is insufficient. They unilaterally demand an additional 30 million dowry to proceed with the marriage. The bridesmaid, Bai Wei, pleads for Gu Ming but is beaten by Wang Jiayin. Enraged, Gu Ming decides to change the bride and marry Bai Wei instead. At the same time, he uses his r...",
     "originName": "绝世战神",
+    "cover": "https://pic.bstarstatic.com/ogv/bb0591f0911e288abe216cf8d8e534bc.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Fantasy",
+      "Misunderstanding",
+      "Family",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 23 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -368082,7 +368195,11 @@
     ],
     "type": 5,
     "firstEpisode": "26817287",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 23 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2322364": {
     "id": 2322364,
@@ -368885,6 +369002,19 @@
     "title": "It's Not Love Anyway",
     "description": "This drama tells the story of Li Qian and Wen Yao's emotional entanglement spanning five years, depicting their journey from intimate lovers to a broken relationship. Wen Yao always harbored a deep longing to 'return to how things were after today,' but was gradually sobered by the harsh realities. She eventually realized that their past relationship might have been her own wishful thinking. The huge disparity between the illusion of past love and the cold reality causes her to struggle repeatedly in an emotional vortex.",
     "originName": "没关系那不是爱情",
+    "cover": "https://pic.bstarstatic.com/ogv/f5003420c653feba220efb182a98be23.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Urban",
+      "True Love",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -369128,7 +369258,11 @@
     ],
     "type": 5,
     "firstEpisode": "27032003",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2322781": {
     "id": 2322781,
@@ -369666,6 +369800,20 @@
     "title": "Those Years, The Love We Missed",
     "description": "This short drama centers on the marriage of university professor Qi Mochen and kindergarten teacher Song Ruannuan. Childhood sweethearts who married, their relationship gradually strains due to events like Qi Mochen's parents' divorce and his bone cancer diagnosis. Song Ruannuan makes one-sided efforts throughout their eight-year marriage, while Qi Mochen deliberately distances himself and plans a divorce because of his illness. The story uses a special setting where both are reborn after their deaths, allowing them to resolve misunderstandings. It explores emotional mismatches in marriage and...",
     "originName": "那些年，错过的爱情",
+    "cover": "https://pic.bstarstatic.com/ogv/6ab3949187c8051f08b8b39199d0b8da.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Romance",
+      "Fantasy",
+      "Rebirth",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 21 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -369909,7 +370057,11 @@
     ],
     "type": 5,
     "firstEpisode": "26860315",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 21 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2323056": {
     "id": 2323056,
@@ -370181,6 +370333,20 @@
     "title": "You Are My Whole World",
     "description": "Five years ago, Lu Yiqian's girlfriend, Cheng Cheng, broke off their engagement and married a rich businessman. The vibrant and energetic Tong Xingchen entered his world, bringing him warmth and comfort. They lived together and worked on the same e-sports team, but their relationship was kept secret. Lu Yiqian was very good to Tong Xingchen, but refused to acknowledge their relationship publicly and wouldn't let Tong Xingchen mention it to outsiders. Tong Xingchen loved Lu Yiqian silently, but unexpectedly, she was diagnosed with brain cancer. Just as she wanted to spend her last days with Lu ...",
     "originName": "你是我的全世界",
+    "cover": "https://pic.bstarstatic.com/ogv/f5717da3bc8d063c979db61e9c757c43.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Sweet Love",
+      "Urban",
+      "True Love",
+      "Bitter Love",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 17 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -370424,7 +370590,11 @@
     ],
     "type": 5,
     "firstEpisode": "26866353",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 17 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2323242": {
     "id": 2323242,
@@ -373084,6 +373254,19 @@
     "title": "Love Across a Thousand Years",
     "description": "This drama tells the story of Lu Siyu, a high priest, and Chu Nianran, an ordinary girl, who fell in love in the ancient Yelang Kingdom but met a tragic end. Carrying the emotional ties from their past lives, they face numerous obstacles in this life, including family interests and mysterious dealings, yet they persistently pursue their love. The series showcases an emotional entanglement that transcends time and space.",
     "originName": "千年之恋",
+    "cover": "https://pic.bstarstatic.com/ogv/de7aa3330547297e82aafd06971a24d3.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Urban",
+      "Family",
+      "Bitter Love",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -373327,7 +373510,11 @@
     ],
     "type": 5,
     "firstEpisode": "26911747",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2324278": {
     "id": 2324278,
@@ -375193,6 +375380,19 @@
     "title": "He Is Like Stars in My Dream",
     "description": "This drama focuses on An Zhu's 18-year unrequited love for Shi Nian since childhood. An Zhu always keeps her feelings hidden. In college, witnessing Shi Nian fall in love with senior Cen Ling, she chooses to study abroad. She reunites with Shi Nian as a translator. After An Zhu leaves, Shi Nian gradually realizes that his habit has turned into love. Eventually, they face life's challenges together and confirm their feelings for each other. The plot revolves around the core question: \"How long was the longest unrequited love you've experienced?\" incorporating elements of unrequited love narrati...",
     "originName": "他似繁星入我梦",
+    "cover": "https://pic.bstarstatic.com/ogv/02772eba70d74309f1dac4aec3216664.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Romance",
+      "Urban",
+      "Misunderstanding"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -375436,13 +375636,31 @@
     ],
     "type": 5,
     "firstEpisode": "26940300",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2325024": {
     "id": 2325024,
     "title": "He's Like a Star in the Sky",
     "description": "During college, Yu Qing had a crush on her senior, Fu Yunting. But with so many girls around him, Yu Qing could only send him a love letter that went unanswered, and then watched as their paths diverged. Five years later, Yu Qing became a makeup artist. One day, right after breaking up with her boyfriend Tang Yi, whom she'd met through a blind date, she unexpectedly runs into Fu Yunting, who was escaping reporters and jumped into her car. At this point, Fu Yunting has become a celebrity. Though they were once worlds apart, their destinies intertwine again due to this chance encounter.",
     "originName": "他似天上星",
+    "cover": "https://pic.bstarstatic.com/ogv/9125f965f9b0f207faab404ff88e9794.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Romance",
+      "Humor",
+      "True Love",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 17 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -375686,7 +375904,11 @@
     ],
     "type": 5,
     "firstEpisode": "26943384",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 17 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2325145": {
     "id": 2325145,
@@ -377289,6 +377511,19 @@
     "title": "My Love, Never Returns",
     "description": "Han Jia Ai has been Lu Yun Zhou's co-pilot for five years and his wife for five years. However, Lu Yun Zhou always believed she was indirectly responsible for his parents' deaths, leading him to treat her coldly. Their marriage remained a secret, never disclosed to the public. Han Jia Ai was informed that Mu Yi Yi was Lu Yun Zhou's fiancée, and she also discovered Lu Yun Zhou was willing to violate his principles to help Mu Yi Yi.",
     "originName": "我的爱情，从不返航",
+    "cover": "https://pic.bstarstatic.com/ogv/19ee30a7d6ab7bd143ec2dec12449823.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "Betrayal",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -377532,7 +377767,11 @@
     ],
     "type": 5,
     "firstEpisode": "26966836",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2325918": {
     "id": 2325918,
@@ -378865,6 +379104,19 @@
     "title": "The Tenth Year of Liking You",
     "description": "Ye Ruishu has secretly loved Mo Ziqian since college, a secret crush lasting ten years. Ye's father accrues gambling debts, and the creditors find Ye Ruishu at her company. Mo Ziqian lends her money to pay off the debt, asking her to pretend to be his girlfriend to deceive his mother. Mo Ziqian has been entangled with his ex-girlfriend, Xu Tong. Xu Tong is arranged to marry Lu Sian, the young master of the Lu Group. On their wedding day, Lu Sian flees. Mo Ziqian takes Xu Tong away, helping her out of a difficult situation. The media reports that Xu Tong and Mo Ziqian are together. Ye Ruishu go...",
     "originName": "喜欢你的第十年",
+    "cover": "https://pic.bstarstatic.com/ogv/2f4576a1dba7a68117e0d207080b6881.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Urban",
+      "Wealthy",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 17 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -379108,7 +379360,11 @@
     ],
     "type": 5,
     "firstEpisode": "26990506",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 17 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2326539": {
     "id": 2326539,
@@ -379647,6 +379903,20 @@
     "title": "Love is a Thing of the Past",
     "description": "This drama tells the story of Su Man and Huo Jinyu, who have been married for three years. Although they are respectful to each other as husband and wife, they have no children. Su Man longs for a complete family. She hopes that the arrival of a new life will make this home warmer, and she is full of beautiful dreams for future family life, working hard to manage this marriage.",
     "originName": "相爱已成往事",
+    "cover": "https://pic.bstarstatic.com/ogv/d324304d2d48bf31d8951a15832cb6c2.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Urban",
+      "Misunderstanding",
+      "True Love",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -379890,7 +380160,11 @@
     ],
     "type": 5,
     "firstEpisode": "27001562",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2326827": {
     "id": 2326827,
@@ -380961,6 +381235,19 @@
     "title": "My Life Can't Be Without You",
     "description": "This drama tells the story of Bai Qianci, the daughter of the Bai family, who is forced to marry Jiang Chenying, the head of the Jiang family, in place of her runaway sister Bai Shuangshuang, due to the scheming of her stepmother and stepsister. On her wedding night, she is uneasy in front of her cold husband. However, in her married life, she shows her kind and resilient nature, gradually touching Jiang Chenying's heart. Although Jiang Chenying appears distant, he secretly protects his wife. As the conspiracy is uncovered, the two, after experiencing twists and turns, finally confirm their fe...",
     "originName": "余生不能没有你",
+    "cover": "https://pic.bstarstatic.com/ogv/aeb015efa969a183f93b71cfae860229.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Sweet Love",
+      "Urban",
+      "Misunderstanding"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 19, 2026",
+    "officialEpisodeCount": "Total 28 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -381204,7 +381491,11 @@
     ],
     "type": 5,
     "firstEpisode": "27019100",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 19, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 28 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2327398": {
     "id": 2327398,
@@ -419248,12 +419539,29 @@
     "title": "At this point, even the flying birds no longer meet (Thailand)",
     "description": "To honor her promise to her deceased friend, Ye Shiyan devoted herself for years to caring for the friend’s husband and daughter, all the while neglecting the needs of her own husband, Gu Sijue, and their biological daughter, Gu Xiyue. Unable to endure such a life, Gu Sijue ultimately filed for a compulsory divorce and left with their daughter, later building a new family with his admirer, Liang Xingyue. Upon learning the truth, Ye Shiyan was devastated, consumed by regret.",
     "originName": "至此飞鸟不相逢",
+    "cover": "https://pic.bstarstatic.com/ogv/b1b1ba4068fa353f36ad2265a5464e10.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Urban",
+      "Misunderstanding",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 25, 2026",
+    "officialEpisodeCount": "Total 70 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "TH"
     ],
     "type": 5,
     "firstEpisode": "27350649",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 25, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 70 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2344754": {
     "id": 2344754,
@@ -419314,12 +419622,29 @@
     "title": "In the end, we follow the wild geese, each heading west or east. (Thailand)",
     "description": "Ni An and Cheng Xi have relied on each other since their youthful days. To fund Cheng Xi’s education, Ni An gave up her own dream of attending university, taking on multiple jobs and devoting everything she had; meanwhile, Cheng Xi skipped grades all the way, becoming the youngest professor at Tsinghua or Peking University.",
     "originName": "终随雁影各西东",
+    "cover": "https://pic.bstarstatic.com/ogv/918fc7b78aaeca99da78821ee4bf0dd4.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Marriage",
+      "Romance",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 25, 2026",
+    "officialEpisodeCount": "Total 86 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "TH"
     ],
     "type": 5,
     "firstEpisode": "27173657",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 25, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 86 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2344982": {
     "id": 2344982,
@@ -419408,12 +419733,29 @@
     "title": "After Reincarnation, Mom’s Little Piggy Bank Can’t Hold On Anymore (Thai Dubbed Version)",
     "description": "In his previous life, the male lead, Fang Hao, as the richest man in Jinghai, was deceived by his biological father, Fang Yiming, and wrongly turned against Lin Ruoxue, the mother who had raised him with great hardship, severing their bond. On his deathbed, Fang Hao was reborn and transported back to the very day his parents divorced when he was a child. Seizing the chance, he promptly had Lin Ruoxue sign the divorce papers and vowed to give both her and his daughter a wealthier, happier life. Soon after, he made a splash on Antique Street and even took Jinghai’s young master, Lu Xiao, under his wing!",
     "originName": "重生后，老妈的小金库绷不住了",
+    "cover": "https://pic.bstarstatic.com/ogv/193dd3837c9508f7e8a95178dfa95386.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cute Baby",
+      "Uplifting Series",
+      "Fantasy",
+      "Rebirth"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Mar 25, 2026",
+    "officialEpisodeCount": "Total 61 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "TH"
     ],
     "type": 5,
     "firstEpisode": "27207179",
-    "checkedAt": "2026-10-06"
+    "airDate": "Mar 25, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 61 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2345575": {
     "id": 2345575,
@@ -420493,6 +420835,20 @@
     "title": "The Cleaning Lady is a Hidden Billionaire",
     "description": "Lu Beichen and Jiang Wanning have been married for twenty years. To protect Lu's pride, Jiang hid her identity as a wealthy heiress and worked as a cleaner while secretly supporting his company. Contemptuous of her 'lowly' job, Lu demands a divorce. After catching him with a new lover, a heartbroken Jiang agrees and returns to her wealthy roots. Following a successful surgery to remove a brain tumor, she reveals her true identity as the heiress of the Jiang Group at a grand banquet to fight for custody of their son. Lu deeply regrets his actions and tries to win her back, but Jiang refuses him and chooses to travel the world with her son instead.",
     "originName": "保洁阿姨竟是豪门",
+    "cover": "https://pic.bstarstatic.com/ogv/9e6762076146968a0f91bf0fb026efe7.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Uplifting Series",
+      "Romance",
+      "Wealthy",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 49 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -420736,7 +421092,11 @@
     ],
     "type": 5,
     "firstEpisode": "28932935",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 49 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2362248": {
     "id": 2362248,
@@ -423935,6 +424295,19 @@
     "title": "Urban Supreme War God",
     "description": "This series follows the protagonist's dual identity in urban society, showcasing their heroic image using extraordinary abilities to fight crime and protect the weak, while also deeply portraying their emotional journey to uncover hidden family secrets. The plot features multiple visual conflict scenes and logical twists, creating a fast-paced narrative style.",
     "originName": "都市至尊战神",
+    "cover": "https://pic.bstarstatic.com/ogv/f728946481cda0c5ff3e719cc570f845.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Paranormal",
+      "Uplifting Series",
+      "Fantasy",
+      "Humor"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 110 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -424178,7 +424551,11 @@
     ],
     "type": 5,
     "firstEpisode": "28253789",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 110 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2363627": {
     "id": 2363627,
@@ -424983,6 +425360,19 @@
     "title": "CEO Feng's 100 Ways to Dote on His Wife",
     "description": "Shi Ying, the CEO of a fashion group, seeks an arranged marriage to save her company from a financial crisis. After a heated argument with Fu Nian, she accidentally injures Feng Yan, the CEO of Shengshi Group, who is disguised as a delivery man for a blind date. The two end up in a flash marriage. When her original investment plans fail, Shi Ying visits Shengshi Group to seek help, only to stumble into a meeting and discover her new husband's true identity.",
     "originName": "封少宠妻一百式",
+    "cover": "https://pic.bstarstatic.com/ogv/785ac46f453125c126dc69cbdfe93866.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Second-chance Love",
+      "Marriage",
+      "Contract Marriage"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -425226,13 +425616,31 @@
     ],
     "type": 5,
     "firstEpisode": "28273199",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2364077": {
     "id": 2364077,
     "title": "Revenge of the Mad Heiress",
     "description": "Su Yunmiao was once drugged and humiliated at her engagement party. Reborn one month before the incident, she refuses to be a victim again. She is determined to tear off the masks of her enemies and make them pay for their crimes.",
     "originName": "疯批大小姐虐渣指南",
+    "cover": "https://pic.bstarstatic.com/ogv/d959fc869880a40eccdf235ff7a7eec5.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Avenge",
+      "Revenge",
+      "Uplifting Series",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 50 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -425476,7 +425884,11 @@
     ],
     "type": 5,
     "firstEpisode": "28274760",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 50 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2364180": {
     "id": 2364180,
@@ -429457,6 +429869,19 @@
     "title": "My Darling Wife, Don't Even Think of Escaping",
     "description": "Song Yanran was sold into the Shen family by her own father, forced to marry Shen Yichen, the eldest young master of the Shen family who was paralyzed in both legs. After marriage, Song Yanran suffered humiliation from the Shen family, but gradually fell in love with Shen Yichen during their time together. Shen Yichen, too, developed feelings for her through his repeated manipulations. When Shen Yichen's secret activities were exposed, Song Yanran stepped forward to take the blame for him. She was then kicked out of the Shen family by Mrs. Li Mei, who also demanded she repay 500,000. Shen Yichen, needing to proceed with his plans, had to endure and chose to divorce Song Yanran to sever ties. Song Yanran was left to work various jobs to pay off her debt. One night, Song Yanran was returning home late and was in an alley...",
     "originName": "娇妻别想逃：沈少的漫漫追妻路",
+    "cover": "https://pic.bstarstatic.com/ogv/8153529457536c59c424f6cec5003760.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Marriage",
+      "Uplifting Series",
+      "Romance"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 62 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -429700,7 +430125,11 @@
     ],
     "type": 5,
     "firstEpisode": "28662386",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 62 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2365805": {
     "id": 2365805,
@@ -429972,6 +430401,19 @@
     "title": "The Jinyiwei's Substitute Bride",
     "description": "Mu Yan's sachet was stolen by her sister Mu Xi, leading Commander Shen Tinglan to believe Mu Xi was his savior. He requested an imperial decree to marry her, but Mu Xi fled before the wedding, fearing rumors that Shen was ugly. Mu Yan was forced to take her sister's place. Believing Mu Yan is a scheming woman who stole her sister's marriage, Shen treats her with cruelty and coldness, eventually causing Mu Yan to fall gravely ill and cough up blood.",
     "originName": "锦衣卫大人的替嫁新娘",
+    "cover": "https://pic.bstarstatic.com/ogv/7c77d6833a821e8905653db7f1049b98.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Marriage",
+      "Toxic Relationship",
+      "Contract Marriage"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 38 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -430215,7 +430657,11 @@
     ],
     "type": 5,
     "firstEpisode": "28668411",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 38 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2366075": {
     "id": 2366075,
@@ -435269,6 +435715,20 @@
     "title": "Don't Mess with the Fierce Mom",
     "description": "Famous actress Su Li accidentally travels back in time and becomes an abandoned wife in a Marquis's manor. Armed with modern thinking and martial arts, she starts her revenge. Faced with her husband's neglect and a concubine's schemes, she punishes villains while raising her child. She runs ancient shops using livestreaming strategies and shocks the nobility with her hardcore parenting. When the Marquis finally realizes her value, she throws a divorce paper at him: 'You can't afford what I want!'",
     "originName": "美飒娘亲不好惹",
+    "cover": "https://pic.bstarstatic.com/ogv/f60d04784ad15455527e31b50e680baf.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Romance",
+      "Sweet Love",
+      "Toxic Relationship",
+      "Time Travel"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -435512,7 +435972,11 @@
     ],
     "type": 5,
     "firstEpisode": "28779772",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2367879": {
     "id": 2367879,
@@ -436314,6 +436778,20 @@
     "title": "Bright Moon Shines on Her Return",
     "description": "Su Jin, the secret heiress of the Hill Group, hid her identity to marry Shen Su for love. For three years, she endured mistreatment from her mother-in-law while secretly using her family's power to boost Shen Su's career. However, she was eventually divorced and discarded for a famous star. After being cyberbullied by the star's fans, Su Jin finally reclaimed her status as the powerful heiress. When Shen Su desperately tries to meet the mysterious new head of the Hill Group, he is shocked to discover she is the ex-wife he once threw away.",
     "originName": "明月照归人",
+    "cover": "https://pic.bstarstatic.com/ogv/1116b46e122842e178b149d571629fc6.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Secret Identity",
+      "Misunderstanding",
+      "True Love",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -436557,13 +437035,30 @@
     ],
     "type": 5,
     "firstEpisode": "28331782",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2368285": {
     "id": 2368285,
     "title": "Homecoming by the River",
     "description": "Chen Gui returns to his quiet riverside hometown and discovers a water pollution crisis. He leads the villagers in a fight to protect the river and meets Xiao Ya, a young environmental volunteer. Together, they solve the pollution problem and rediscover their love for their home. However, a sudden rainstorm triggers a flood that threatens the river once more. Facing the danger, Chen Gui, Xiao Ya, and the villagers work together to fight the flood and finally save their village.",
     "originName": "陌上故人归",
+    "cover": "https://pic.bstarstatic.com/ogv/d9703374e8504dc0c686a73fd5f2e6d0.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Uplifting Series",
+      "Family",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 69 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -436807,13 +437302,30 @@
     ],
     "type": 5,
     "firstEpisode": "28797249",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 69 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2368376": {
     "id": 2368376,
     "title": "Target: Winning My Flash-Marriage Boss",
     "description": "Qiao Xinger is betrayed by her boyfriend and best friend, losing her home and falling into a coma after a brutal beating. After waking up, she happens to save the kidnapped Mrs. Lu. Impressed by her kindness, Mrs. Lu introduces her to her son, Lu Chengyu, who falls in love at first sight and proposes. After marriage, Qiao Xinger joins Lu’s Group as an intern while hiding her identity. When her ex and former friend bully her at work, Lu Chengyu steps in to protect his wife and invites the entire company to their wedding, leaving everyone shocked to discover that the mysterious bride is Qiao Xinger.",
     "originName": "目标是攻略闪婚大佬",
+    "cover": "https://pic.bstarstatic.com/ogv/c51c3c100678b4b704dfaef0d68a6d36.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "Enemies to Lovers",
+      "Misunderstanding"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 34 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -437057,7 +437569,11 @@
     ],
     "type": 5,
     "firstEpisode": "28803777",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 34 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2368481": {
     "id": 2368481,
@@ -437859,6 +438375,19 @@
     "title": "The Jinyiwei Commander Falls for the Girl in Disguise",
     "description": "To save her mother, Chu Wanqing disguises herself as a man to enter an academy, where she ends up as roommates with Fu Jingxiu, a high-ranking Jinyiwei commander. As they spend every day together, Fu Jingxiu starts to develop feelings, unaware of her true gender. When her identity is on the verge of being exposed, how will she protect herself? How will Fu Jingxiu choose once he learns the truth? Amidst power struggles and true love, can Chu Wanqing save herself and keep her hard-won romance?",
     "originName": "女扮男装后，锦衣卫大人爱上我",
+    "cover": "https://pic.bstarstatic.com/ogv/28b33ffb03b2c3d0bf041c4ebbf0279b.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Secret Identity",
+      "Romance",
+      "Enemies to Lovers"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 33 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -438102,7 +438631,11 @@
     ],
     "type": 5,
     "firstEpisode": "28830812",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 33 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2368770": {
     "id": 2368770,
@@ -439173,6 +439706,19 @@
     "title": "The Ex-Wife's Trap",
     "description": "Jiang Yao's happy life is shattered on her wedding anniversary when her husband, Qin Zimo, and her best friend, Lin Mengqi, betray her. They cause her to lose her unborn child, disfigure her, and attempt to imprison her to steal her family's fortune. Saved by the mysterious Xu Huaian, Jiang Yao returns with a new identity to seek revenge. Her goal is to find the hidden ledgers and expose Qin Zimo’s crimes. However, as Qin Zimo grows suspicious and Xu Huaian’s true identity remains a mystery, Jiang Yao must navigate a web of revenge and hidden truths.",
     "originName": "前妻的陷阱",
+    "cover": "https://pic.bstarstatic.com/ogv/bd1fd3fad6dbff2faa886be466a48385.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Betrayal",
+      "Urban",
+      "Hatred"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 19 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -439416,13 +439962,30 @@
     ],
     "type": 5,
     "firstEpisode": "28337164",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 19 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2369355": {
     "id": 2369355,
     "title": "Ex-Wife Returns: Mr. Lu's 99 Proposals",
     "description": "A story of love and hate between Shen Qixia, a wealthy heiress, and Lu Sizhou, a powerful CEO. Shen had loved Lu for ten years. When his family faced bankruptcy, she sacrificed her own family business to save him and insisted on marrying him. However, Lu resented being forced into the marriage. He skipped their wedding and neglected her, leading a heartbroken Shen to flee abroad. Now, she is back.",
     "originName": "前妻归来，陆总逼婚99次",
+    "cover": "https://pic.bstarstatic.com/ogv/2fbd56e01463d7f9278879dd98f15f68.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Romance",
+      "Wealthy",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 50 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -439666,7 +440229,11 @@
     ],
     "type": 5,
     "firstEpisode": "28854389",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 50 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2369419": {
     "id": 2369419,
@@ -441006,6 +441573,19 @@
     "title": "The Regent's Hidden Love",
     "description": "Su Wanwan was offered to the powerful Regent Fu Xiao by her father. To avoid scandal, Fu Xiao adopted her instead. He tried to win her heart, but his overbearing nature and the Crown Prince's schemes led her to hate him. Even after discovering the Prince was using her, Su Wanwan still chose to sacrifice everything for the Prince.",
     "originName": "摄政王心头朱砂痣",
+    "cover": "https://pic.bstarstatic.com/ogv/5ec2549dfd161681d9564c2b3e2a0939.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Wealthy",
+      "Misunderstanding",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 48 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -441249,13 +441829,30 @@
     ],
     "type": 5,
     "firstEpisode": "28869138",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 48 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2370100": {
     "id": 2370100,
     "title": "Betrayed and Targeted: The Scholar's Secret Wife",
     "description": "In the late Qing Dynasty, Princess Yun Jing was abandoned by her husband, Shen Yifu, on their wedding night and died of grief six months later. She is reborn ten years later as a young woman named Lin Yunzhi. Determined to control her own fate, she moves to Shanghai for school, only to cross paths with Shen Yifu again, who is now a university supervisor. Suspicious of her familiar behavior, Shen begins to test her identity. Meanwhile, Yunzhi is drawn into the Lin family's dark secrets: her brother’s oil research is being hunted by rivals, and her sister’s mysterious death hides a shocking truth.",
     "originName": "身为国士家属的我却被疯狂针对",
+    "cover": "https://pic.bstarstatic.com/ogv/e145ced4cf7fd57ade7bc70043769681.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Paranormal",
+      "Uplifting Series",
+      "Mystery",
+      "Rebirth"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 32 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -441499,7 +442096,11 @@
     ],
     "type": 5,
     "firstEpisode": "28873693",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 32 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2370247": {
     "id": 2370247,
@@ -443097,6 +443698,19 @@
     "title": "President Song, She’s the Real Miss Yan!",
     "description": "Twin sisters Yan Chu and Yan Xiao were abandoned as children and struggled to survive. The elder sister, Yan Chu, went to prison after saving a wealthy heir named Song Xun, while her younger sister, Yan Xiao, stole her identity to live a life of luxury. Years later, Yan Xiao falls mysteriously ill, and Song Xun finds Yan Chu to save her. Misled by Yan Xiao’s lies, Song Xun treats Yan Chu cruelly, only to realize the truth when it’s too late. Ultimately, Yan Chu leaves for good, and a vengeful Song Xun is imprisoned for five years after attempting to kill Yan Xiao.",
     "originName": "宋总，她才是你要找的颜小姐！",
+    "cover": "https://pic.bstarstatic.com/ogv/ea70197ee0678808fa486d9e81e1f439.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Uplifting Series",
+      "Misunderstanding",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -443340,7 +443954,11 @@
     ],
     "type": 5,
     "firstEpisode": "28352307",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2371001": {
     "id": 2371001,
@@ -444408,6 +445026,19 @@
     "title": "The War God's Wrath",
     "description": "The story follows Xiao Tian Ce, the God of War from the Northern Realm, who rushes back to Jiangcheng to save his critically ill mother. However, he discovers that his uncle, Qin De, is constantly making things difficult for and bullying his sister, Xiao Qing, even going so far as to try and sell her off to pay debts. Enraged, the God of War retaliates with his immense power and prestige to protect his family.",
     "originName": "天策战神",
+    "cover": "https://pic.bstarstatic.com/ogv/a99e15e9af520f96a02fdae5b4d2d289.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Paranormal",
+      "Uplifting Series",
+      "Fantasy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 110 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -444651,7 +445282,11 @@
     ],
     "type": 5,
     "firstEpisode": "28378653",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 110 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2371446": {
     "id": 2371446,
@@ -447046,6 +447681,20 @@
     "title": "Marriage First, Love Later, Mr. Gu, Don't Be Tsundere",
     "description": "Xia Nuan's father is critically ill, and her stepmother controls the company. Xia Nuan desperately needs to secure an investment opportunity for her boyfriend and reclaim the Xia Group. Gu Jingze, CEO of the Gu Group, has had three girlfriends, two of whom died and one was injured, leading to him being labeled a 'wife-killer'. He now needs a woman for a marriage of convenience to appease his uncles. Thus, Xia Nuan and Gu Jingze sign an agreement to be nominal husband and wife for one year. Heartbroken after signing, Xia Nuan plans to seek comfort from her boyfriend, only to catch him cheating with his lover, Su Niannian. Devastated, Xia Nuan breaks up with him. However, the agreement is signed and cannot be revoked. For the sake of the Xia Group, Xia Nuan decides to proceed with the marriage contract. Due to Gu Jingze's 'wife-killer' reputation, Xia Nuan's married life begins with 'perilous challenges'. Initially, Gu Jingze has a poor impression of Xia Nuan, believing her to be promiscuous. But through their interactions, Xia Nuan and Gu Jingze gradually fall in love.",
     "originName": "先婚后爱，顾总别傲娇",
+    "cover": "https://pic.bstarstatic.com/ogv/18c226fbb97c7f8e2a7c8eacd827ddbf.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage Before Love",
+      "Misunderstanding",
+      "True Love",
+      "Contract Marriage",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 119 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -447289,13 +447938,31 @@
     ],
     "type": 5,
     "firstEpisode": "28441844",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 119 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2372468": {
     "id": 2372468,
     "title": "The Unfettered Divine Healer in the City",
     "description": "Three years ago, Ling Han was forced into a divorce by the arrogant Ye Chuchu. At his mother's plea, the Ye family agreed to a duel: if Ling Han wins, the engagement stands; if he loses, he becomes their slave. After training under the Jiuxiao Sect for three years, Ling Han returns to fulfill his promise. He meets his fated love and begins his legendary journey in the modern city.",
     "originName": "逍遥圣手混花都",
+    "cover": "https://pic.bstarstatic.com/ogv/1692156f7d1359342b1638728e9faea8.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Avenge",
+      "Uplifting Series",
+      "Strong Female Lead",
+      "Romance"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 119 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -447539,7 +448206,11 @@
     ],
     "type": 5,
     "firstEpisode": "28453478",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 119 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2372617": {
     "id": 2372617,
@@ -448078,6 +448749,19 @@
     "title": "Asura Mad God",
     "description": "“The Frenzied God of Asura” is a fiery fantasy drama brimming with political intrigue and vengeance. The story centers on the protagonist, Xiao Xiu, who was born with extraordinary talent but was forced to wander among the common folk after his family was brutally wiped out. Five years earlier, his mother, in order to protect her family’s secrets, was driven to the brink by an evil force and died in agony, leaving behind only a wisp of wolf‑sign smoke as her sole clue. Determined to avenge his mother and his clan, Xiao Xiu vows to reclaim the glory that is rightfully his.\n\nFive years later, biding his time in the shadows, Xiao Xiu finally seizes his chance for retribution. By then, the Dragon‑God Clan, which rules the capital, is beset by troubles both within and without: internally, factions scheme against one another, while externally, old enemies have returned, intent on annihilating the clan once and for all. Taking advantage of the chaos, Xiao Xiu rises with a cool head and formidable strength, stirring up storms as he gradually uncovers the truth behind the massacre and engages those who betrayed his family in a heart‑pounding showdown.\n\nThe series’ highlights lie in how Xiao Xiu transforms from an obscure youth into the awe‑inspiring “Frenzied God of Asura,” and in the wisdom and courage he displays throughout his quest for revenge. At the same time, the intricate web of familial grudges, power struggles, and emotional entanglements lends the narrative a rich dramatic tension. As layer upon layer of mysteries are unveiled, audiences will bear witness to an epic clash of love and hatred, life and death, and choices that define destiny.",
     "originName": "修罗狂神",
+    "cover": "https://pic.bstarstatic.com/ogv/ce2bf89945418643d2a1a43f02ccc4a8.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Fantasy",
+      "Urban",
+      "Cross-dressing",
+      "Badboy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 102 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -448321,7 +449005,11 @@
     ],
     "type": 5,
     "firstEpisode": "28478930",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 102 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2372888": {
     "id": 2372888,
@@ -449123,6 +449811,19 @@
     "title": "The Medical Consort's Rise",
     "description": "The eldest daughter of the General's Mansion was born with a divine destiny, but her life was ruined by a cruel stepmother after her mother died and her father went to war. Drugged into idiocy and abused to death, she is reborn with her medical skills and sharp wit. Abandoning her former love for her fiancé Jiang Chengan, she seeks revenge, finds true love with the male lead, and uncovers the dark conspiracy behind her mother's mysterious death.",
     "originName": "医妃倾天下",
+    "cover": "https://pic.bstarstatic.com/ogv/57df254c98d92b3d32e962e24eab123f.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Mystery",
+      "Rebirth",
+      "Misunderstanding"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 114 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -449366,13 +450067,30 @@
     ],
     "type": 5,
     "firstEpisode": "28918980",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 114 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2373234": {
     "id": 2373234,
     "title": "Love Threads: The Emperor's Secret Heart",
     "description": "Su Zhiqing accidentally transmigrates into a novel as a minor character, Lu Yuanyuan. After spending a night with the lead, Chu Shiyuan, she loses her memory and mistakenly believes he is a eunuch. Amused by the misunderstanding, Chu Shiyuan protects her and helps her defeat her enemies. When she is framed and faces execution, Chu Shiyuan reveals his true identity as the Emperor. He punishes the villains and spoils Su Zhiqing, transforming her from a side character into his most precious treasure.",
     "originName": "悠悠情丝绣良缘",
+    "cover": "https://pic.bstarstatic.com/ogv/fc97ecc0cdeef697024048af248695d3.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "Enemies to Lovers",
+      "Time Travel"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 37 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -449616,7 +450334,11 @@
     ],
     "type": 5,
     "firstEpisode": "28512140",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 37 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2373346": {
     "id": 2373346,
@@ -453077,6 +453799,19 @@
     "title": "The Unreachable End of Love",
     "description": "This drama tells the story of Xia Wange, whose younger brother is critically ill, and she scrambles to raise money for his surgery. Su Jinchen, after misunderstanding Xia Wange, went abroad. Now, he reunites with her in a nightclub while looking for a girl, leading to further misunderstandings. Xia Wange is in financial distress, and Su Jinchen surprisingly offers to marry her for thirty million. The two are entangled in numerous misunderstandings and a complex relationship, colliding between love and reality.",
     "originName": "爱的终点难以抵达",
+    "cover": "https://pic.bstarstatic.com/ogv/fcbab1ea5353daf2d74b656cb0a21b25.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Romance",
+      "Urban",
+      "Misunderstanding"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 2, 2026",
+    "officialEpisodeCount": "Total 71 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -453320,7 +454055,11 @@
     ],
     "type": 5,
     "firstEpisode": "28569803",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 2, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 71 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2374659": {
     "id": 2374659,
@@ -454425,6 +455164,19 @@
     "title": "Loving the Right Wife",
     "description": "To pay for her children's medical bills, Li Xiuying borrowed money from her entire village. Her selfish daughter, Ye Sangsang, pushed her own brother off a cliff just to steal his chance for treatment. Despite the hardship, Li Xiuying raised Sangsang and sent her to college, only for her ungrateful daughter to be ashamed of her and ban her from attending her wedding.",
     "originName": "找错夫人爱对妻",
+    "cover": "https://pic.bstarstatic.com/ogv/e9b84e6c23da74985c930e18b39c6e77.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Urban",
+      "Hatred",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -454668,13 +455420,30 @@
     ],
     "type": 5,
     "firstEpisode": "29071440",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2375422": {
     "id": 2375422,
     "title": "Only Her Light Remains",
     "description": "Lin Ke, a single mother, was mistreated by her son, Lin Chengfeng, after she tried to stop him from marrying a manipulative pregnant woman. Reborn and back at the beginning, Lin Ke chooses to cut ties with him. Lin Chengfeng gets his wish to be with the woman, only to end up losing everything and living on the streets.",
     "originName": "只她长明",
+    "cover": "https://pic.bstarstatic.com/ogv/0c4af25a9e663195a5c581e593ff5e14.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Hatred",
+      "Rebirth",
+      "Family",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -454918,7 +455687,11 @@
     ],
     "type": 5,
     "firstEpisode": "29075078",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2375494": {
     "id": 2375494,
@@ -455192,6 +455965,20 @@
     "title": "Restarting Life: A Mother's Strength",
     "description": "During a devastating earthquake, Sheng Hualan loses her memory while saving her daughter. She is rescued by an orphan named Xiao Xiao, and the two live together as mother and daughter for fifteen years. Later, Xiao Xiao joins the Sheng Group through her own merit but faces mistreatment from the Sheng family, who are unaware of her true identity. Inspired by her mother’s resilience, Xiao Xiao proves her worth at work. As she uncovers clues about her past, a complicated reunion between the amnesiac Hualan and her biological family begins to unfold.",
     "originName": "重启人生之为母则刚",
+    "cover": "https://pic.bstarstatic.com/ogv/5f91cc2f7ddf83ea2b76bf22a86a3665.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cinderella",
+      "Secret Identity",
+      "Uplifting Series",
+      "Strong Female Lead",
+      "Hatred"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 37 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -455435,13 +456222,30 @@
     ],
     "type": 5,
     "firstEpisode": "29082148",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 37 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2375658": {
     "id": 2375658,
     "title": "Reborn in the 90s: When the Flowers Bloom and the Moon is Full",
     "description": "In her past life, Song Tang's obsession with marrying Gu Zhongye led to her family's ruin and her own tragic death on the streets, all orchestrated by Sun Xiaocheng. Reborn into a rainy night in 1990—the same night she lost her child—Song Tang looks at her dying son, Gu Yuan, and vows not to repeat her mistakes. She finds Gu Zhongye and asks for a divorce, thinking she is setting him free. To her surprise, the cold man she could never win over suddenly changes and refuses to let her go.",
     "originName": "重生九零：那年花开月正圆",
+    "cover": "https://pic.bstarstatic.com/ogv/e19e336bab2ff131a665265e63cf76e8.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Sweet Love",
+      "Rebirth",
+      "Wealthy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -455685,7 +456489,11 @@
     ],
     "type": 5,
     "firstEpisode": "29085691",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2375732": {
     "id": 2375732,
@@ -456756,6 +457564,19 @@
     "title": "Sea of Sorrow",
     "description": "After saving his sister Lu Xingyue, Lu Mingfei is framed as the arsonist and forced to break ties with his family. As the patriarch Lu Shenting uncovers the conspiracy and the truth behind the fire, he tries to make amends, only to find a note left by Mingfei on the rooftop: 'Dad, in these eighteen years, have you ever been proud of me for even a second?'",
     "originName": "悲伤逆流成海",
+    "cover": "https://pic.bstarstatic.com/ogv/afe73d5c0f4b8af3f9dcc7bcd6f1b928.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Urban",
+      "Misunderstanding",
+      "Family",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -456999,7 +457820,11 @@
     ],
     "type": 5,
     "firstEpisode": "29111484",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2376204": {
     "id": 2376204,
@@ -458597,6 +459422,19 @@
     "title": "The Swallow's Gratitude: Return of the Emperor",
     "description": "During a royal rebellion, Empress Yun sends her infant son away for safety. He is found and raised by a kind-hearted woman who names him Chen An. However, her biological son, Chen Ping, constantly bullies him. At age twenty, Chen An is taken back to the palace. Years later, the mother travels to the capital to seek help from Chen Ping, who has become a top scholar, but he cruelly disowns her. Meanwhile, Chen An, now the Emperor, begins an urgent search for his foster mother to repay her kindness.",
     "originName": "雏燕知恩报春来",
+    "cover": "https://pic.bstarstatic.com/ogv/6897117611016c26e9f0283728188921.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Uplifting Series",
+      "Mystery",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -458840,13 +459678,31 @@
     ],
     "type": 5,
     "firstEpisode": "29153187",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2376946": {
     "id": 2376946,
     "title": "Flowers Bloom in Time",
     "description": "Lu Jiacheng and Jiang Fenglin have been married for twenty years. To protect her husband's pride, Fenglin hid her status as a wealthy heiress and worked as a cleaner while secretly supporting his company. However, Jiacheng looks down on her, thinking she is just a useless housewife, and demands a divorce. After discovering he has a new lover, a heartbroken Fenglin agrees to the divorce and returns to her true identity as the powerful heiress of the Lingyun Group.",
     "originName": "次第花开",
+    "cover": "https://pic.bstarstatic.com/ogv/ad5a04b5624d739e3d5e1a2e275568ef.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Marriage",
+      "Wealthy",
+      "Misunderstanding",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 50 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -459090,7 +459946,11 @@
     ],
     "type": 5,
     "firstEpisode": "29156855",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 50 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2377086": {
     "id": 2377086,
@@ -459893,6 +460753,19 @@
     "title": "Only Children are Kin",
     "description": "A controlling mother forces her daughter, Wen Jiahui, to marry Xu Jie, an abusive man. Jiahui suffers and loses everything, yet her mother still sides with Xu Jie. After her mother’s abuse leads to Jiahui's death, she is reborn. Jiahui decides to break free from her mother’s control and reclaim her life.",
     "originName": "儿女才是自家人",
+    "cover": "https://pic.bstarstatic.com/ogv/d60fb2c389baa6f6d6e5da0c3b7a104e.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Strong Female Lead",
+      "Hatred",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -460136,7 +461009,11 @@
     ],
     "type": 5,
     "firstEpisode": "29175924",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2377528": {
     "id": 2377528,
@@ -461470,6 +462347,19 @@
     "title": "The Years Between Us",
     "description": "Lin Xiaoxiao and top student Song Hansheng met in a high school study group. After navigating growth misunderstandings and academic setbacks, they finally reunite in university.",
     "originName": "今夏有风",
+    "cover": "https://pic.bstarstatic.com/ogv/3c86a0982c8fbf5067a3bdf8e169081a.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cinderella",
+      "Second-chance Love",
+      "Romance",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -461713,7 +462603,11 @@
     ],
     "type": 5,
     "firstEpisode": "29198313",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2378104": {
     "id": 2378104,
@@ -462517,6 +463411,19 @@
     "title": "Amazing Mother",
     "description": "Wang Liyun collects trash to support her daughter Tang Youyou's education. Her gambling husband, Tang Zijian, tries to force Youyou into a marriage for a dowry to pay his debts. Liyun gives Youyou all her money and tells her to flee. Five years later, Youyou has married into a wealthy family, while Liyun still suffers from Zijian's abuse. When Liyun is beaten for secretly calling Youyou, her adopted daughter Jiang Yue intervenes, saves her, and kicks the gambler out of the city.",
     "originName": "了不起的妈妈",
+    "cover": "https://pic.bstarstatic.com/ogv/129be3dba63a1029ecbff17f02accc19.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Avenge",
+      "Cinderella",
+      "Uplifting Series"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -462760,7 +463667,11 @@
     ],
     "type": 5,
     "firstEpisode": "29215905",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2378490": {
     "id": 2378490,
@@ -463035,6 +463946,19 @@
     "title": "Trapped in Starlight",
     "description": "Xu Manxing, a rising star and fiancée of Movie King Zhou Hongguang, finds herself trapped in a fictional drama as a brainless supporting character destined for tragedy. Just as her life begins to spiral, she gains fragments of future memories, foreseeing her own downfall. Awakened by this revelation, Xu Manxing vows to break the curse of the script and take control of her own destiny.",
     "originName": "沦陷星光",
+    "cover": "https://pic.bstarstatic.com/ogv/5535d677c2afbd61f90b88bb6412c066.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Romance",
+      "CEO",
+      "Fantasy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -463278,13 +464202,30 @@
     ],
     "type": 5,
     "firstEpisode": "29228820",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2378691": {
     "id": 2378691,
     "title": "Fallen Leaves, No Roots",
     "description": "He Yuchuan was forced to leave home after his father wrongly accused him of harming his half-brother, He Xingchuan. During his internship, his brother's schemes worsened the rift with his father. However, a car accident eventually brings the truth from three years ago and hidden family secrets to light.",
     "originName": "落叶无根生",
+    "cover": "https://pic.bstarstatic.com/ogv/6dd9153077433a05e278ca4afd560804.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Urban",
+      "Mystery",
+      "Hatred"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 45 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -463528,7 +464469,11 @@
     ],
     "type": 5,
     "firstEpisode": "29234830",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 45 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2378780": {
     "id": 2378780,
@@ -464065,6 +465010,19 @@
     "title": "The Cute Mrs. Gu is a Secret Metaphysics Master",
     "description": "The story of Mu Wanqing and Gu Tingxiu begins in their childhood. In the mysterious world of metaphysics, their elders arranged a marriage for them. As time passed, Mu Wanqing became the heir to the mysterious sect, bearing the mission of its revival. Meanwhile, Gu Tingxiu grew into a brilliant business leader. Their childhood bond blossoms as their two worlds collide.",
     "originName": "萌妻顾太太，竟是玄学真大佬",
+    "cover": "https://pic.bstarstatic.com/ogv/6dd9836e76d5ff8b50a431b91d37defb.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Romance",
+      "Urban",
+      "Wealthy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -464308,7 +465266,11 @@
     ],
     "type": 5,
     "firstEpisode": "29247798",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2379111": {
     "id": 2379111,
@@ -465111,6 +466073,20 @@
     "title": "You Are My Unforgettable Time",
     "description": "To inherit her family fortune, Su Jinge seeks a fake marriage. She accidentally mistakes her rival, Fu Sinian, for the partner her friend recommended and marries him. Believing he is gay, she causes a series of hilarious mishaps on their wedding night. Their true identities are only revealed when they meet at a real estate bidding gala. It turns out Fu Sinian fell in love with her seven years ago after she saved his life. Now, he begins a devoted journey to win her heart.",
     "originName": "你是我的难忘时光",
+    "cover": "https://pic.bstarstatic.com/ogv/61f70c06d421531e93ef9b56c58a2ae0.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Sweet Love",
+      "Enemies to Lovers",
+      "Humor",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -465354,7 +466330,11 @@
     ],
     "type": 5,
     "firstEpisode": "29271563",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2379417": {
     "id": 2379417,
@@ -466689,6 +467669,20 @@
     "title": "A Safe Return",
     "description": "Eighteen years ago, Liu Yanfang's son was kidnapped due to her negligence. She has since kept her noodle shop open, waiting for his return. When the shop faces a forced buyout, she meets Su Yunchen, who helps her. Through a long-life lock pendant, they finally reunite. Although Su Yunchen is the CEO of a major group, he is mistaken for a security guard. Relatives who once mocked Liu Yanfang are left in deep regret after discovering his true identity.",
     "originName": "平安归来",
+    "cover": "https://pic.bstarstatic.com/ogv/3dae64e5f8027f390cdab93e61e72585.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Urban",
+      "Misunderstanding",
+      "Family",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -466932,7 +467926,11 @@
     ],
     "type": 5,
     "firstEpisode": "29311588",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2380022": {
     "id": 2380022,
@@ -467471,6 +468469,19 @@
     "title": "Tilted Motherly Love",
     "description": "Xu Nian was a brilliant student, but her brother Xu Songhe framed her, making their parents believe she failed her middle school exams. Feeling ashamed, her parents sent her to the countryside without checking the facts. Despite this, Xu Nian never gave up and earned a spot at Jinghua University through a competition. However, she chose to decline the offer, aiming to become the top scorer in the college entrance exam to fulfill her grandmother's wish. After returning to the city, she faced constant sabotage from her brother and neglect from her parents. Their endless denial and misunderstanding eventually left her completely heartbroken.",
     "originName": "倾斜的母爱",
+    "cover": "https://pic.bstarstatic.com/ogv/7984225097015fa272134fb385b96431.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Hatred",
+      "Misunderstanding",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -467714,13 +468725,31 @@
     ],
     "type": 5,
     "firstEpisode": "29318667",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2380365": {
     "id": 2380365,
     "title": "Flash Marriage with My CEO on Day One",
     "description": "To avoid an arranged marriage, top designer Nan Qiaomu tries to hire a male model to fool her family, but accidentally flash-marries Han Siyan, her new boss who is posing as a job seeker. Neither knows the other's true identity: she doesn't know he's the powerful CEO, and he doesn't know she is his star designer and the 'gold-digger' he dislikes. Their relationship unfolds through secrets and misunderstandings.",
     "originName": "让你上班你第一天闪婚总裁",
+    "cover": "https://pic.bstarstatic.com/ogv/166471c6542876118453d6920ee32e9c.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Sweet Love",
+      "Urban",
+      "Contract Lover",
+      "Humor"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -467964,7 +468993,11 @@
     ],
     "type": 5,
     "firstEpisode": "29322204",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2380461": {
     "id": 2380461,
@@ -468504,6 +469537,20 @@
     "title": "Flash Marriage: No More Pretending",
     "description": "After being betrayed by her boyfriend, Jiang Ningyue, the chairwoman of Fengying International, enters a flash marriage with Gu Xingheng, a CEO who is disguised as a painter. While hiding their true identities, they face family pressures and business rivalries together. As they take down villains and workplace enemies, they gradually uncover each other's true status.",
     "originName": "闪婚后我和老公都不装了",
+    "cover": "https://pic.bstarstatic.com/ogv/d2a0d55517546279af5ba2873a3b6d15.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Uplifting Series",
+      "Strong Female Lead",
+      "Romance",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -468747,7 +469794,11 @@
     ],
     "type": 5,
     "firstEpisode": "29341029",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2380736": {
     "id": 2380736,
@@ -469550,6 +470601,19 @@
     "title": "She Shines Like Early Dawn",
     "description": "An Lan, the eldest daughter of the An family, is forced by her selfish stepsister An Xue to marry the playboy Chen Yan in exchange for her mother's medical fees. On the wedding day, Chen Yan escapes to a car race. An Lan chases him in her wedding dress and wins the race with her elite driving skills, forcing him to complete the marriage. Despite their initial conflicts, the two grow closer as they face family pressures and An Xue's schemes together, eventually finding true love.",
     "originName": "她如夜色初亮",
+    "cover": "https://pic.bstarstatic.com/ogv/b84be0683ba7f04270f1760415eb3a65.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Contract Lover",
+      "Contract Marriage",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -469793,13 +470857,31 @@
     ],
     "type": 5,
     "firstEpisode": "29360766",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2381091": {
     "id": 2381091,
     "title": "She Is Like the Rising Sun",
     "description": "An Nuannuan, the eldest daughter of the An family, marries Chen Xu, Jiangzhou's most notorious playboy, as a surrogate bride. On their wedding day, she tracks him down at a race track, defeats him in a race, and forces him to attend the wedding based on their bet. While Chen Xu tries to resist her, he finds himself increasingly drawn to her. Through their daily bickering and rivalry, the two eventually fall for each other.",
     "originName": "她若旭日初升",
+    "cover": "https://pic.bstarstatic.com/ogv/96d5f4c20fc024ca578d682018358748.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Sweet Love",
+      "Urban",
+      "Enemies to Lovers",
+      "Humor",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 40 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -470043,7 +471125,11 @@
     ],
     "type": 5,
     "firstEpisode": "29364066",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 40 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2381156": {
     "id": 2381156,
@@ -471115,6 +472201,19 @@
     "title": "The Rising Daughter",
     "description": "Sun Mei has long been oppressed by her husband, Lin Jianguo, for not giving birth to a son. Their daughter, Lin Shengnan, becomes a top pharmacist and returns to her hometown to build a factory to help her mother and neighbors. However, her cousin Lin Xu steals her credit and spreads malicious rumors. Believing the lies, Lin Jianguo joins the villagers in bullying Sun Mei and her daughter, claiming Shengnan's wealth is illegal and even accusing her of theft when she presents the factory plans.",
     "originName": "望女成凤",
+    "cover": "https://pic.bstarstatic.com/ogv/da59960b51dd8027f7d2e0fee2ce2c9d.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Marriage",
+      "Uplifting Series",
+      "Hatred"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 74 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -471358,7 +472457,11 @@
     ],
     "type": 5,
     "firstEpisode": "29393025",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 74 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2381626": {
     "id": 2381626,
@@ -474283,6 +475386,18 @@
     "title": "Happiness to the Distance",
     "description": "Ren Zhuoyuan, a young man from the countryside, opens a tea restaurant to change his fate and lead his fellow villagers to prosperity. Despite facing setbacks in both his career and family, he finds the strength to start over with the support of his loved ones.",
     "originName": "幸福向远方",
+    "cover": "https://pic.bstarstatic.com/ogv/fd1a5b3db0d4cc1e510bd77dcc0ef293.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Strong Female Lead",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 91 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -474526,7 +475641,11 @@
     ],
     "type": 5,
     "firstEpisode": "29009821",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 91 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2382875": {
     "id": 2382875,
@@ -474798,6 +475917,19 @@
     "title": "Cuddles with My Mystic Wife: Mr. Li, Let Me Borrow a Kiss",
     "description": "Gu Manman, a young Taoist master, accidentally breaks her master's treasure and must find her 'destined one' to ward off evil spirits and survive a deadly ordeal. Guided by her compass, she finds Li Xiujin, a disabled CEO known as the 'Star of Misfortune.' Despite his initial skepticism and coldness, the two enter a contract marriage to save each other. As Manman uses her mystic powers to heal his legs and protect him, the cold CEO finds his heart melting. What started as a business deal turns into a deep, supernatural romance.",
     "originName": "玄学甜妻求贴贴，黎先生，借个吻",
+    "cover": "https://pic.bstarstatic.com/ogv/6337ed1c2b7e36af4252e0b10e06eaeb.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Sweet Love",
+      "Urban",
+      "Humor",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 36 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -475041,13 +476173,30 @@
     ],
     "type": 5,
     "firstEpisode": "29460709",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 36 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2383129": {
     "id": 2383129,
     "title": "The Long-Lost Daughter",
     "description": "Haitang Group builds Wangxing Tower to find their missing third daughter, Qin Zixing. The project manager, Zhang Yang, cuts corners and frames Yu Daqiang for the malpractice. Driven by desperation to find his sister, Qin Zihao takes his anger out on Yu Daqiang, leading to the latter's suicide. Meanwhile, Huang Shuya steals Yu Huan's jade pendant to fake her identity as the missing daughter and attempts to murder the real Yu Huan. Eventually, the truth is revealed, and the Qin family rushes to save Yu Huan.",
     "originName": "遥远的她",
+    "cover": "https://pic.bstarstatic.com/ogv/567bfd63aa7815ac5974fe2b970ff684.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Uplifting Series",
+      "Urban",
+      "Mystery"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 14, 2026",
+    "officialEpisodeCount": "Total 73 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -475291,7 +476440,11 @@
     ],
     "type": 5,
     "firstEpisode": "29025099",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 14, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 73 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2383206": {
     "id": 2383206,
@@ -476629,6 +477782,20 @@
     "title": "Cousin's Secret",
     "description": "Fang Han, a fresh graduate from a traditional Chinese medicine college, only wanted to be a quietly handsome doctor, marry a beautiful wife, and earn a chief physician title before retirement. But he unexpectedly became the youngest master of traditional Chinese medicine. This is a story of a young doctor growing with the help of a system! This is a story of an ordinary person growing into a great healer for all! Reborn as the only son of the prime minister, Liu Quan's only goal is to ruin his own reputation as much as possible and become a despised villain, so that the emperor can rest assured and spare his family. So he beats people, flips tables, and forcibly harasses noble ladies, trying to cement his reputation as a bully.",
     "originName": "表姐的秘密",
+    "cover": "https://pic.bstarstatic.com/ogv/d0cbdb2b5c11cbe7d6329592e7e2a3e4.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Suspense",
+      "Urban",
+      "Mystery",
+      "Steamy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 9, 2026",
+    "officialEpisodeCount": "Total 24 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -476872,7 +478039,11 @@
     ],
     "type": 5,
     "firstEpisode": "29438507",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 9, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 24 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2383774": {
     "id": 2383774,
@@ -477147,6 +478318,18 @@
     "title": "Reap What You Sow: Trapping My Fake Husband",
     "description": "In her past life, Lin Ye married Su Lingyue just to use her resources to become a famous influencer. He illegally used her identity to sell fake 'anti-cancer' creams, leading to Su's death by cyberbullying. Reborn, Su Lingyue decides to give him a taste of his own medicine. She exposes Lin Ye's lies and teams up with Zhou Chi, another victim of his scams, to make Lin Ye pay for his crimes.",
     "originName": "种因得果，冒牌老公请入局",
+    "cover": "https://pic.bstarstatic.com/ogv/c998a8cec32611d8668236d8ac652693.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Marriage",
+      "Romance"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -477390,7 +478573,11 @@
     ],
     "type": 5,
     "firstEpisode": "29491925",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2383954": {
     "id": 2383954,
@@ -478456,6 +479643,19 @@
     "title": "Reborn Heiress: No More Love Brain",
     "description": "Song Jianing was betrayed by Lu Zicheng, losing her family business and dying in the arms of her childhood friend, Shen Youze. Waking up ten years in the past, she finds herself back when she and Lu Zicheng were interns at the Song Group. This time, Jianing refuses to be his puppet. She breaks up with him decisively and vows to teach him a lesson he’ll never forget.",
     "originName": "重生后大小姐拒绝恋爱脑",
+    "cover": "https://pic.bstarstatic.com/ogv/a82a1e2307cc7ce7ba3f4a4e90f33084.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Romance",
+      "Sweet Love",
+      "Rebirth"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -478699,13 +479899,30 @@
     ],
     "type": 5,
     "firstEpisode": "29518198",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2384566": {
     "id": 2384566,
     "title": "Mr. Zhou, Please Leave My Future",
     "description": "After seven years of dating and three years of marriage, Yu Qingge is left scarred by Zhou Shengyan's cold indifference despite her devotion. Heartbroken, she moves to Switzerland for healing and meets Luo Xingen. With the support of her best friend Xiong Xiaolan and the care of Luo Xingen, she reclaims her honor and finds a truer, more beautiful love.",
     "originName": "周先生，请离开我的未来",
+    "cover": "https://pic.bstarstatic.com/ogv/6571fd8d45904920cdba9b869666b2e3.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Urban",
+      "Hatred",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -478949,7 +480166,11 @@
     ],
     "type": 5,
     "firstEpisode": "29521129",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2384683": {
     "id": 2384683,
@@ -479487,6 +480708,20 @@
     "title": "Love Wandering at the Start",
     "description": "Tang Jiaojiao is harassed in a bar, and Shi Yanchuan's rescue only deepens their misunderstanding. After learning the truth from Meng Yan, she rushes to explain, but Shi Yanchuan insults her instead. Devastated, Tang Jiaojiao gives up on their relationship and seeks revenge by revealing her true identity at his engagement party.",
     "originName": "爱在原处徘徊",
+    "cover": "https://pic.bstarstatic.com/ogv/a895e79900fff30830bc53584c0a5e29.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Soulmate",
+      "Sweet Love",
+      "Urban",
+      "Wealthy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -479730,7 +480965,11 @@
     ],
     "type": 5,
     "firstEpisode": "29538316",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2385113": {
     "id": 2385113,
@@ -481333,6 +482572,19 @@
     "title": "The Yandere's Guide to Taming",
     "description": "In her past life, Jiang Yunling loved the wrong man, lost everything, and was murdered by her family and her lover. Before dying, she learned that her cousin's family killed her father, and the one who actually saved her was Qin Yue—the man she hated most but who died for her. Reborn, she dumps the scumbag, embraces Qin Yue, and schemes to reclaim her inheritance and punish those who wronged her.",
     "originName": "病娇驯养手册",
+    "cover": "https://pic.bstarstatic.com/ogv/61bc6405b749caff4262d30bc9ebc81f.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Boys Channel",
+      "Romance",
+      "Urban",
+      "Toxic Relationship"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 33 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -481576,7 +482828,11 @@
     ],
     "type": 5,
     "firstEpisode": "29574422",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 33 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2385916": {
     "id": 2385916,
@@ -482115,6 +483371,18 @@
     "title": "Warm Tea, Warm Years",
     "description": "Huo Tingjun, the 50-year-old chairman of a top black tea company, enters a flash marriage with tea shop owner Hu Xiaojuan after being set up by his daughter. Initially, both resist the union as they still harbor feelings for their past loves. However, daily life spent over tea and business gradually dissolves the barriers between them. When Huo’s company faces a brand crisis, Hu helps him with her traditional tea-making skills and local reputation. Through the aroma of tea, they finally find true love, turning a forced marriage into a warm, lifelong bond.",
     "originName": "茶香暖时光",
+    "cover": "https://pic.bstarstatic.com/ogv/9f1710d8865dedcc63f17226edd0b8f1.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Uplifting Series",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -482358,7 +483626,11 @@
     ],
     "type": 5,
     "firstEpisode": "29588733",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2386271": {
     "id": 2386271,
@@ -483696,6 +484968,19 @@
     "title": "The Villainess Wants to Slack Off, but the CEO is Hooked",
     "description": "After dying from debt and exhaustion, Su Ying transmigrates as a villainess in a CEO novel. Knowing the plot, she saves her family business with the help of her 'husband,' Qin Yihan. To avoid a tragic end, she suppresses her feelings and tries to set him up with the original heroine. However, after saving each other repeatedly, they fall in love and rewrite their destiny together.",
     "originName": "穿书躺平后，他真香了",
+    "cover": "https://pic.bstarstatic.com/ogv/5a232ba4019c75d6e36efbaf9ca384a0.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Uplifting Series",
+      "Fantasy",
+      "Super Power",
+      "Time Travel"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -483939,13 +485224,30 @@
     ],
     "type": 5,
     "firstEpisode": "29617523",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2386843": {
     "id": 2386843,
     "title": "Spring Breeze and Lingering Regret",
     "description": "At a high-end gala, Lin Wan unexpectedly meets Xie Chenzhou, the powerful leader of the mysterious Xie Group. As a tycoon who controls the city's destiny, he is calm and reserved. From initial testing to mutual understanding, Xie Chenzhou admires Lin Wan's clarity and resilience. With his support, Lin Wan restarts her career and builds her own design brand. Ultimately, she achieves financial independence and finds a relationship built on respect and equality.",
     "originName": "春风得意春风恨",
+    "cover": "https://pic.bstarstatic.com/ogv/add869703bf59bc952093ddb9fc82f99.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Boys Channel",
+      "Harem",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 33 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -484189,7 +485491,11 @@
     ],
     "type": 5,
     "firstEpisode": "29620646",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 33 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2386935": {
     "id": 2386935,
@@ -485785,6 +487091,19 @@
     "title": "Heartbreak at the Wedding: My Husband Sings for His First Love",
     "description": "Jiang Ningyue once gave everything for Shen Haozhe, only to be betrayed and die in Lu Yuchen's arms. Unexpectedly, she is reborn ten years back to the day before her wedding. This time, Ningyue decides to stop being a desperate lover and cherish the right person. Meanwhile, her fiancé Shen Haozhe still thinks she is his loyal follower. At the wedding, he confesses his love to another woman, Ye Qingyao. Ningyue exposes him on the spot, the wedding is canceled, and the Shen family faces bankruptcy due to the scandal.",
     "originName": "婚礼上，老公深情献唱他的白月光",
+    "cover": "https://pic.bstarstatic.com/ogv/6f8910f8179380483df656299fbbb60b.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Urban",
+      "Toxic Relationship",
+      "Contract Marriage",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 28 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -486028,7 +487347,11 @@
     ],
     "type": 5,
     "firstEpisode": "29657520",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 28 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2387778": {
     "id": 2387778,
@@ -487361,6 +488684,18 @@
     "title": "Bringing the Trafficker to Justice",
     "description": "Tao Guijia was abducted by human trafficker Mei Renxin as a child and grew up through many hardships away from her family. Years later, while working in a restaurant, she recognizes Mei Renxin on the news after he is sentenced to eight years for child trafficking. Determined to seek justice for herself, she gathers evidence and sues him again. In court, Mei Renxin arrogantly denies his crimes due to a lack of evidence, but Guijia brings forward a surprise witness to expose his hidden evil deeds.",
     "originName": "将人贩子送上法庭",
+    "cover": "https://pic.bstarstatic.com/ogv/79da3cb847c0c5b307a2365e8cbf2c62.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Avenge",
+      "Revenge",
+      "Uplifting Series"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -487604,13 +488939,29 @@
     ],
     "type": 5,
     "firstEpisode": "29678075",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2388384": {
     "id": 2388384,
     "title": "Lord Jiu, It’s My Turn to Love You",
     "description": "In her past life, Luoyang married the illegitimate son Li Songyuan and became an envied CEO's wife. However, Li was a secret pervert who forced her to raise his mistress's son. After being reborn, Luoyang’s sister, Luo Jinyu, snatches Li Songyuan for herself, while Luoyang chooses to marry the mysterious Huai Jiuying instead.",
     "originName": "九爷，换我来爱你",
+    "cover": "https://pic.bstarstatic.com/ogv/e185c2ec0d11ddef9ed208558e96e06f.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 70 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -487854,13 +489205,30 @@
     ],
     "type": 5,
     "firstEpisode": "29681060",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 70 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2388510": {
     "id": 2388510,
     "title": "Awakening in the 90s: Leaving Wrong Love Behind",
     "description": "In 1991, Xiangxin Town, doctor Su Wanqing is about to marry Wu Yiheng, a factory vice director. However, Wu's first love, Xiao Xiaorou, returns with a son and uses schemes to drive a wedge between them. Facing Wu's lack of trust and Xiao's malice, Wanqing loses hope and decides to start over in Beijing. By the time Wu realizes his mistakes, it is already too late.",
     "originName": "觉醒九零，挥别错爱向前行",
+    "cover": "https://pic.bstarstatic.com/ogv/93602bd2c44cb9343ebe72e2604c61b0.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Urban",
+      "Toxic Relationship",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -488104,7 +489472,11 @@
     ],
     "type": 5,
     "firstEpisode": "29688114",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2388573": {
     "id": 2388573,
@@ -490767,6 +492139,19 @@
     "title": "Spirit Baby Descends: Mr. Shen's Metaphysical Helper",
     "description": "Little Taoist Shen Youyou is kicked off the mountain by her master after accidentally roasting a phoenix during its rebirth. Tasked with finding her birth parents, she discovers that Shen Yu and Li Wan have no idea she exists. The divorced couple is forced to work together on a new project, while Youyou uses her supernatural powers to resolve crises, defeat villains, and try her best to reunite her parents.",
     "originName": "灵宝下山，沈先生的玄学小外挂",
+    "cover": "https://pic.bstarstatic.com/ogv/088667791175410bf1ca2ecb8d071a2a.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cute Baby",
+      "Paranormal",
+      "Mystery",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -491010,13 +492395,30 @@
     ],
     "type": 5,
     "firstEpisode": "29742539",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2389581": {
     "id": 2389581,
     "title": "The Tiny Master: Saving the Family with a Baby Bottle",
     "description": "Fu Zhenting sends his son, Hongyu, to welcome their 'Great-Grandmother,' only to find a toddler. Skeptical but compliant, Hongyu takes her home. Using her past-life mystical powers, little Chaochao saves Hongyu from a fatal accident with a lucky charm. Despite his disbelief, she later exposes a nanny's scheme to steal the family fortune. These miraculous acts finally convince Hongyu of her divine powers.",
     "originName": "灵宝下山之叼个奶瓶救全家",
+    "cover": "https://pic.bstarstatic.com/ogv/6f5b23fe63a88713580881971110d152.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cute Baby",
+      "Paranormal",
+      "Family",
+      "Destiny"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -491260,7 +492662,11 @@
     ],
     "type": 5,
     "firstEpisode": "29745449",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2389683": {
     "id": 2389683,
@@ -493390,6 +494796,19 @@
     "title": "The Saleswoman's Secret",
     "description": "To sell a luxury mansion, saleswoman Bai Xue targets Huang Yurui, a businessman with a failing marriage. As they grow closer, a dark secret emerges: it is all a trap set by Huang's wife, Li Qing. To be with her lover, Li Qing hired Bai Xue to seduce Huang and force him into a divorce with no assets. Discovering the plot, Huang teams up with Bai Xue to turn the tables. In the end, Li Qing pays the price for her treachery.",
     "originName": "女销售的秘密",
+    "cover": "https://pic.bstarstatic.com/ogv/056dcdb646369cba081ec499db06d50f.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "Toxic Relationship",
+      "Steamy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 79 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -493633,7 +495052,11 @@
     ],
     "type": 5,
     "firstEpisode": "29791479",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 79 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2390612": {
     "id": 2390612,
@@ -496560,6 +497983,18 @@
     "title": "Surrounded by Villains, but I Have a Mental Illness",
     "description": "Song Qiao, recently released from a mental hospital, buys a new home only to find her neighbors are a family from hell. They enforce ridiculous rules in the group chat, banning all noise and pets, while dumping trash at her door and letting their bratty child urinate there. When Song Qiao tries to reason with them, she is met with insults and deliberate midnight noise. As she teeters on the brink of a mental breakdown, her emotional support dog becomes her only hope for staying calm.",
     "originName": "全员恶人，但我有精神病",
+    "cover": "https://pic.bstarstatic.com/ogv/002c42ab9885bf31d54abbd522a4a73a.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Paranormal",
+      "Underdog Rise",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 70 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -496803,7 +498238,11 @@
     ],
     "type": 5,
     "firstEpisode": "29851533",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 70 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2391844": {
     "id": 2391844,
@@ -497867,6 +499306,19 @@
     "title": "Requesting Landing, Please Approve",
     "description": "Captain Lu Nanming and Air Traffic Controller Zhou Shuzhan entered a contract marriage through an introduction, agreeing to divorce after one year. They pretend to be strangers at work while secretly flirting with each other. As the contract's end nears, Shuzhan struggles with her growing feelings, unaware that this entire marriage was actually Lu Nanming's long-planned scheme.",
     "originName": "申请降落，请予通过",
+    "cover": "https://pic.bstarstatic.com/ogv/2f03e4671a2e1996726235f4b5b235cb.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "Marriage",
+      "Romance",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -498110,13 +499562,30 @@
     ],
     "type": 5,
     "firstEpisode": "29884168",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2392421": {
     "id": 2392421,
     "title": "Faded Marriage",
     "description": "Shen Qingyu gave up her design dreams for her family, only to face her husband's affair, her in-laws' contempt, and her son's hatred. While everyone favored the mistress Meng Yun, only her daughter stayed by her side. After a decisive divorce, she returns to the design world as the top designer 'Mu Bai.' Winning a prestigious international award, she takes revenge on her ex-husband and his mistress, starting a new life with her daughter.",
     "originName": "失色的婚姻",
+    "cover": "https://pic.bstarstatic.com/ogv/98b664386e3ca7002860e4905671faa9.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Romance",
+      "Hatred",
+      "Contract Marriage"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -498360,7 +499829,11 @@
     ],
     "type": 5,
     "firstEpisode": "29889579",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2392556": {
     "id": 2392556,
@@ -498632,6 +500105,19 @@
     "title": "He Once Promised Forever",
     "description": "After his first love Su Le goes abroad, Qi Minrui marries Shen Shiqing for business. Shen is a devoted wife, but when Su Le returns, Shen steps aside. Tragedy strikes when Su Le kills Shen’s child. After uncovering the truth, a heartbroken Shen commits suicide. Realizing the truth too late, Qi sends Su Le to prison and ends his own life by jumping into the sea.",
     "originName": "他曾承诺过永远",
+    "cover": "https://pic.bstarstatic.com/ogv/14b0e9084b9fd92dc86cf09095f3ea03.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Secret Identity",
+      "Romance",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 70 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -498875,7 +500361,11 @@
     ],
     "type": 5,
     "firstEpisode": "29898927",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 70 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2392778": {
     "id": 2392778,
@@ -501265,6 +502755,18 @@
     "title": "I'm Already Dead, So Who Is Your Affection For?",
     "description": "The story follows the failing marriage of Shang Nianci and Xi Nanyuan. After mistress Lin Qingwan intervenes, Nianci suffers through domestic cold violence while battling brain cancer. Following a series of tragedies—including being forced to kneel in apology and her father’s death in a car accident—she finally passes away after giving birth to her daughter post-divorce. Only then does Xi Nanyuan discover the truth and fall into a pit of regret.",
     "originName": "我都死了，你深情给谁看",
+    "cover": "https://pic.bstarstatic.com/ogv/9aa3ee5bb08015f06779bf5cc96bf589.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Paranormal",
+      "Romance",
+      "Hatred"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -501508,7 +503010,11 @@
     ],
     "type": 5,
     "firstEpisode": "29941685",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2393863": {
     "id": 2393863,
@@ -501781,6 +503287,18 @@
     "title": "Lucky Queen: Rising with My Flash-Marriage Husband",
     "description": "Xu Zhiwei supported Lu Sinian for seven years, only to find he secretly married another woman and plotted to steal her company shares. Little did he know, his success came from her extraordinary luck. Leaving him behind, she enters a flash marriage with his rival, Shen Yan. As Shen’s business flourishes, Lu’s empire crumbles, leaving him in deep regret.",
     "originName": "我用气运带飞闪婚老公",
+    "cover": "https://pic.bstarstatic.com/ogv/370d18af20f2a168abc192618b5bb308.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Marriage Before Love",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 40 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -502024,7 +503542,11 @@
     ],
     "type": 5,
     "firstEpisode": "29947599",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 40 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2394091": {
     "id": 2394091,
@@ -503356,6 +504878,19 @@
     "title": "False Alarm! You're Done, Mr. Pei!",
     "description": "Qiao Xi is a struggling actress neglected by her husband and bullied by her mother-in-law. After being diagnosed with terminal leukemia with only 3 months to live, she decides to stop being a doormat and starts getting even with everyone. Surprisingly, her sudden transformation catches her cold husband's eye. Little does she know, the life-altering medical report was actually her husband's doing.",
     "originName": "虚惊一场！姓裴的你完了",
+    "cover": "https://pic.bstarstatic.com/ogv/c848ac6e1e31e4d1df1b6bc627eb49e0.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Love Triangle",
+      "Romance",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -503599,7 +505134,11 @@
     ],
     "type": 5,
     "firstEpisode": "29977850",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2394697": {
     "id": 2394697,
@@ -503870,6 +505409,18 @@
     "title": "My Mystic Wife Arrives: Hubby, Catch Me!",
     "description": "Ye Susu, a long-lost heiress raised in an orphanage, was trained by a master in the mountains. After mastering mystical arts, she returns home to find her family. To survive a fated curse, she must marry Huo Jinxiu, a man with a 'Pure Yang' body. Despite an initial misunderstanding, Jinxiu eventually falls for her and helps find her long-lost brother. Together, they defeat the villain Huo Xingzhi, securing the family’s peace and living happily ever after.",
     "originName": "玄妻驾到，老公快接住！",
+    "cover": "https://pic.bstarstatic.com/ogv/52fc9fc0a739ef651ce1d5c0d4d0d85c.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "Romance",
+      "Marriage Before Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 70 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -504113,7 +505664,11 @@
     ],
     "type": 5,
     "firstEpisode": "29986428",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 70 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2394830": {
     "id": 2394830,
@@ -505711,6 +507266,18 @@
     "title": "Cherished as a Treasure",
     "description": "Old Qiao, a bachelor from Dahe Village, found an abandoned baby girl in a scrapyard and named her Qiao Xin. He raised her with love and supported her education. Twenty-five years later, Qiao Xin has become a successful CEO. As Old Qiao’s memory begins to fail, he travels to the city to find her, only to be bullied by fellow villager Lin Yuanshan and his daughter. Qiao Xin steps in to protect him, revealing her powerful status to her father. Just as they begin to enjoy a peaceful life together, Qiao Xin’s biological father suddenly appears...",
     "originName": "有人视我如珍宝",
+    "cover": "https://pic.bstarstatic.com/ogv/a25bf19854145f55f7cf7086cb0c63b0.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Soulmate",
+      "Sweet Love",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -505954,7 +507521,11 @@
     ],
     "type": 5,
     "firstEpisode": "30023027",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2395582": {
     "id": 2395582,
@@ -507813,6 +509384,18 @@
     "title": "Fortune's Arrival: The Little Lucky Star Crashes In",
     "description": "As Shen Yanqiu and Lin Manman prepare for their wedding, Shen's adoptive mother, Shen Fang, travels from the countryside to attend. On her way, she is mistaken for a thief by Lin's parents. To avoid ruining the wedding, Shen Fang hides the truth. However, at the ceremony, Lin's family bullies her. Shen Yanqiu witnesses the abuse, and during the confrontation, a fallen phone reveals the evidence that will bring the truth to light.",
     "originName": "招财进宝，小小福星闯进门",
+    "cover": "https://pic.bstarstatic.com/ogv/3b40ed21043892249a4f72e15f72ef14.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cute Baby",
+      "Comedy",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 60 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -508056,7 +509639,11 @@
     ],
     "type": 5,
     "firstEpisode": "29480338",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 60 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2396526": {
     "id": 2396526,
@@ -508327,6 +509914,18 @@
     "title": "No Family Feast for Mid-Autumn",
     "description": "Qian Xiaomei, owner of a housekeeping company, has spent her life being exploited by her birth family to pay off her brother's gambling debts. At the Mid-Autumn family dinner, faced with her sister-in-law's mockery, her brother's betrayal, and her father's coldness, she finally sees the truth. With her children's support, she cuts ties, focuses on her career, and starts a new life.",
     "originName": "中秋无家宴",
+    "cover": "https://pic.bstarstatic.com/ogv/6b9c1540cec3785a069dee9f4052ad26.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Urban",
+      "Misunderstanding",
+      "Family"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -508570,7 +510169,11 @@
     ],
     "type": 5,
     "firstEpisode": "29489027",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2396768": {
     "id": 2396768,
@@ -509635,6 +511238,19 @@
     "title": "CEO Husband, Please Remarry Me",
     "description": "To pay for her mother's surgery, Gu Nansheng enters a 5-year contract marriage with CEO Ouyang Sen. After their divorce, Ouyang Sen tries to win her back, but they face constant schemes from Lin Wenxu, who caused a car accident years ago to frame her. Ouyang Sen divorced her to protect her from these threats. Now, as they face public humiliation and danger, Gu Nansheng must navigate the conspiracies while Ouyang Sen secretly protects her.",
     "originName": "总裁老公请复婚",
+    "cover": "https://pic.bstarstatic.com/ogv/3cf72c40792d14949121f336ff5a1779.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Marriage",
+      "CEO",
+      "Urban",
+      "Contract Marriage"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 80 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -509878,7 +511494,11 @@
     ],
     "type": 5,
     "firstEpisode": "30098847",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 80 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2397202": {
     "id": 2397202,
@@ -510415,6 +512035,18 @@
     "title": "Little Happiness of Love",
     "description": "Xia Chuyi, an orphan who grew up in a foster home, regards Director Su Lin as her own mother. During college, she was saved from thugs by Qi Yuchen and fell deeply in love with him. Later, she was framed and spent a night with him while drunk, with photos taken as evidence. Believing she climbed into his bed for money and used the photos to blackmail him, Qi Yuchen enters a relationship with her only to torment her. Out of love, Chuyi endures his repeated hurt and cruelty.",
     "originName": "爱的小确幸",
+    "cover": "https://pic.bstarstatic.com/ogv/5e30450070db5716ad37d873ba574bf5.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -510658,7 +512290,11 @@
     ],
     "type": 5,
     "firstEpisode": "30116288",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2397433": {
     "id": 2397433,
@@ -511988,6 +513624,18 @@
     "title": "Escaping Love to Inherit My Family's Billions",
     "description": "Fu Yuanchuan blames the Ning family for his parents' suicide following their bankruptcy. Seeking revenge, he adopts Ning Mengmeng, the daughter of his 'traitor' Ning Tianyu, and raises her for thirteen years. As they grow closer, Mengmeng falls deeply in love and becomes his secret lover. However, Fu Yuanchuan soon betrays her by getting engaged to Ning Ziyan. Labeled as a mistress and subjected to endless humiliation, Mengmeng is determined to escape his control while searching for her true biological parents.",
     "originName": "不谈恋爱，回家继承亿万家产",
+    "cover": "https://pic.bstarstatic.com/ogv/aa68c5e2ddce17acc35a8a8bd342b09f.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Urban",
+      "Wealthy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -512231,7 +513879,11 @@
     ],
     "type": 5,
     "firstEpisode": "30134853",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2397963": {
     "id": 2397963,
@@ -513563,6 +515215,18 @@
     "title": "Phoenix Above the Nine Heavens",
     "description": "Su Shiwan, the noble 9th Princess of the Zhou Dynasty, escapes the palace to find her lover, Qin Yuchuan, who disappeared three years ago. However, when they reunite, he insults her as a gold-digger who sold her body for money. With the support of her brother, the Crown Prince, Shiwan proudly reveals her identity as a princess, leaving Qin Yuchuan filled with deep regret.",
     "originName": "凤倾九霄",
+    "cover": "https://pic.bstarstatic.com/ogv/ddfe45dab42ddacdd96a533175cc13c7.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Romance",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 50 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -513806,13 +515470,29 @@
     ],
     "type": 5,
     "firstEpisode": "30160837",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 50 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2398499": {
     "id": 2398499,
     "title": "Madam, President Lu Has Fallen",
     "description": "Lu Yanting blames Song Guan for the death of his ex-girlfriend, Su Ran, and subjects her to long-term mental torment and revenge. Despite Song Guan's claims of innocence, she is left isolated and endures both physical and mental suffering. As the truth gradually comes to light, their relationship undergoes a dramatic turning point.",
     "originName": "夫人，陆总沦陷了",
+    "cover": "https://pic.bstarstatic.com/ogv/d528d686c026993d4b35b42eea5c3168.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Second-chance Love",
+      "True Love",
+      "Contract Marriage"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 18 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -514056,7 +515736,11 @@
     ],
     "type": 5,
     "firstEpisode": "30166077",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 18 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2398599": {
     "id": 2398599,
@@ -522810,6 +524494,19 @@
     "title": "Mr. Su's Runaway Bride",
     "description": "On the wedding day of Su Huaijin and Luo Qiuhan, Qiuhan runs away. Her father forces her sister, Luo Wanxing, to take her place, even though Wanxing already has a boyfriend. Wanxing also decides to flee, but on her way, she bumps into Su Huaijin, the CEO who is also trying to escape the marriage. Su Huaijin falls in love with her at first sight. Later, Wanxing is heartbroken when her rival, Tang Xueman, tricks her into seeing her boyfriend, Gu Zechuan, confessing his love to Tang. As Tang and Gu insult and humiliate Wanxing, Su Huaijin steps in to rescue her.",
     "originName": "苏少的逃婚新娘",
+    "cover": "https://pic.bstarstatic.com/ogv/77bdbca1feb3ee913bfe780ed851386b.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "CEO",
+      "Sweet Love",
+      "Enemies to Lovers",
+      "Wealthy"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 31 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -523053,7 +524750,11 @@
     ],
     "type": 5,
     "firstEpisode": "30329990",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 31 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2401804": {
     "id": 2401804,
@@ -523857,6 +525558,18 @@
     "title": "Warm Light",
     "description": "Five years ago, Sheng Jianing, the true heiress, was framed by her ex-boyfriend and her fake sister. After a one-night stand with CEO Lu, she gave birth to a son, but her sister stole the baby and lied that he was stillborn, forcing Jianing to flee abroad. Five years later, she returns with a plan for revenge. She is determined to punish those who hurt her and take back everything that belongs to her.",
     "originName": "温暖的光",
+    "cover": "https://pic.bstarstatic.com/ogv/e6b574d1ed1cf63a18dfbaf2bf074fa5.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Boys Channel",
+      "Romance",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -524100,13 +525813,30 @@
     ],
     "type": 5,
     "firstEpisode": "30350155",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2402117": {
     "id": 2402117,
     "title": "Falling for Your Tenderness",
     "description": "Lin Xiaobei, an ordinary delivery man, accidentally discovers he is the long-lost heir to a billionaire. Facing sudden wealth and a family conspiracy, he must learn to play the money game with the help of his bodyguard, Su Wan. As sparks fly between them, a shocking secret about a 20-year-old bloodbath surfaces... Meanwhile, a once-mighty general, who lost everything in defeat, now wanders the streets.",
     "originName": "温柔沦陷",
+    "cover": "https://pic.bstarstatic.com/ogv/7384b7d639cfefefe52676255887e7d3.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Soulmate",
+      "Sweet Love",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 50 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -524350,7 +526080,11 @@
     ],
     "type": 5,
     "firstEpisode": "30353070",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 50 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2402217": {
     "id": 2402217,
@@ -524621,6 +526355,14 @@
     "title": "I’m Dead, Why Are You Crying, Cold CEO?",
     "description": "Lin Mo fell in love with the proud Song Qingge at first sight and eventually married her. However, she never loved him. When her true love, Fu Pingchuan, faked his death, she blamed Lin Mo. She not only divorced him but also sent him to prison.",
     "originName": "我死了，冰山总裁你哭什么",
+    "cover": "https://pic.bstarstatic.com/ogv/3e4f868cc0bcb0cb4dc9572f3b711cb9.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 30 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -524864,7 +526606,11 @@
     ],
     "type": 5,
     "firstEpisode": "30362948",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 30 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2402468": {
     "id": 2402468,
@@ -527521,6 +529267,19 @@
     "title": "Wedding Vows: My Wife Confesses to Her True Love",
     "description": "Elderly Gu Tingsheng discovers his son isn't his biological child and is subsequently murdered by his wife, Jiang Xinran, and her lover. Reborn twenty years ago on the eve of his wedding, he uses his knowledge of the future to expose their affair at the ceremony. This leads to the downfall of the Jiang family as Gu Tingsheng embarks on a journey of revenge and protecting his loved ones.",
     "originName": "婚礼宣誓，老婆表白她的白月光",
+    "cover": "https://pic.bstarstatic.com/ogv/070be81d7a0ae0a67de6b5e55fce7ddc.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Soulmate",
+      "Betrayal",
+      "Urban"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 31 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -527764,7 +529523,11 @@
     ],
     "type": 5,
     "firstEpisode": "30456517",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 31 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2403643": {
     "id": 2403643,
@@ -528035,6 +529798,18 @@
     "title": "Love in the High Sky",
     "description": "Lin Man and Fu Yuanchuan married after an accidental one-night stand at a party. For three years, they lived as a polite but distant couple. Fu Yuanchuan never spoke of his love, making Lin Man feel insecure. When Fu discovers Lin Man is suffering from a brain nerve condition caused by overwork, he orders her to stop flying and replaces her with Xia Weian, who secretly loves him. This leads Lin Man to believe Fu loves Xia instead. Further misunderstanding arises when Lin Man sees Xia flaunting a ring that Fu had actually bought for Lin Man but accidentally left in Xia’s car. Heartbroken, Lin Man decides to go on one last trip with Fu before letting him go. During the trip, Fu leaves for work, and Lin Man collapses in the hotel, only to be saved by her doctor, Lu Ze. As Lu Ze cares for her, a worried Fu Yuanchuan rushes back to find them together.",
     "originName": "恋恋长空",
+    "cover": "https://pic.bstarstatic.com/ogv/27180e62090173776138305389153d4a.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "Soulmate",
+      "True Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 28 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -528278,7 +530053,11 @@
     ],
     "type": 5,
     "firstEpisode": "30466467",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 28 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2403901": {
     "id": 2403901,
@@ -528549,6 +530328,19 @@
     "title": "The Little Matchmaker’s Perfect Assist",
     "description": "Su Anqiao, the eldest daughter of the Su family, faces a failing marriage and a harsh mother-in-law. Amidst the crisis, she reunites with Mu Lingshen, a steady man who becomes her emotional sanctuary. Haunted by a rainy night separation and a lost child from five years ago, the two must face their past. Their son, Gu Sinan, teams up with his uncle to secretly play matchmaker. Through their clever help, Mu Lingshen finally wins back Anqiao’s heart in a unique way.",
     "originName": "萌宝红娘神助攻",
+    "cover": "https://pic.bstarstatic.com/ogv/1f1f352e875c195fb74e14110a474230.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Cute Baby",
+      "Comedy",
+      "Romance",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 38 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -528792,7 +530584,11 @@
     ],
     "type": 5,
     "firstEpisode": "30476940",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 38 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2404091": {
     "id": 2404091,
@@ -531188,6 +532984,19 @@
     "title": "Married First, Love Later: CEO Fan's Endless Pampering",
     "description": "Grandma Fan and Zhao Sitian's grandmother were best friends. After her friend passed away, Grandma Fan finds Sitian and fakes an illness to force her grandson, Fan Yiming, into marrying her. Yiming reluctantly agrees but misunderstands Sitian as a gold-digger, while Sitian dislikes him too. When they both refuse to marry, Grandma Fan uses her 'illness' again to guilt-trip them. Sitian eventually gives in, further fueling Yiming's prejudice. Sitian vows to never see him again, only to discover that her new boss is none other than Fan Yiming.",
     "originName": "先婚后爱：范总的花样宠妻",
+    "cover": "https://pic.bstarstatic.com/ogv/f52fa8d48d00fdd8bc9ebdc0d2a990c6.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Romance",
+      "CEO",
+      "Marriage Before Love",
+      "Sweet Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 45 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -531431,7 +533240,11 @@
     ],
     "type": 5,
     "firstEpisode": "30531165",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 45 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2404969": {
     "id": 2404969,
@@ -532766,6 +534579,18 @@
     "title": "Whispers of the Wind: My Unexpected CEO",
     "description": "After the Xia family went bankrupt, Xia Lan worked multiple jobs to afford her mother's rising medical bills. Desperate, she decides to seek help from the man her grandfather betrothed her to years ago at the Ji Group. Unexpectedly, she is rescued by the CEO, Ji Yanchi, whom she mistakes for her fiancé. The two end up getting married on the spot!",
     "originName": "“岚”风知我意",
+    "cover": "https://pic.bstarstatic.com/ogv/78d1fa03085cd835c9dbfe5a5a56ef53.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Romance",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 38 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -533009,7 +534834,11 @@
     ],
     "type": 5,
     "firstEpisode": "30382425",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 38 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2405658": {
     "id": 2405658,
@@ -534343,6 +536172,18 @@
     "title": "Hero of the Nation: Forging the Great Sword!",
     "description": "After years in the desert, Li Rongguang completes the final chip for the 'Qingtian-1' spacecraft, only to find his comrades have all passed away. Returning home for his honors, he discovers his brother Li Yong lost both hands saving lives. While at the hospital, they are harassed by a celebrity, Yao Han, who cuts the line. Yao's fans cyberbully Rongguang and even storm Li Yong’s ward to cause trouble. Finally, General Nie Hong arrives with his team to bring the culprits to justice.",
     "originName": "大国功臣：我为大夏铸剑！",
+    "cover": "https://pic.bstarstatic.com/ogv/9ec3ebcfdff67371f38341fd9bd3b940.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Ancient Dressing",
+      "Boys Channel",
+      "Underdog Rise"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Apr 22, 2026",
+    "officialEpisodeCount": "Total 40 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "AU",
       "JP",
@@ -534586,7 +536427,11 @@
     ],
     "type": 5,
     "firstEpisode": "30419830",
-    "checkedAt": "2026-10-06"
+    "airDate": "Apr 22, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 40 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2406345": {
     "id": 2406345,
@@ -542936,6 +544781,19 @@
     "title": "My Weak Fiancé, I’ll Protect Him This Life",
     "description": "Liang Wange and Meng Chen'ou were attacked on the night of the proposal, and Meng Chen'ou was killed on the spot. After learning Chen Jiayun believed Meng Chen'ou was not her biological son, Liang Wange was tortured to death by assailants. Reborn on the fateful night, she vows to protect Meng Chen'ou and embarks on a path of revenge. She first exposes Meng Yuekuang’s corruption and sends him to prison, then uncovers the true blood relationship between Meng Chen'ou and Chen Jiayun. However, Chen Jiayun has already launched a second assassination attempt, leaving Meng Chen'ou comatose. When Liang Wange presents the kinship proof to Chen Jiayun, the latter collapses and goes insane in disbelief. Having completed her revenge, Liang Wange decides to marry the unconscious Meng Chen'ou in the ward. Midway through the wedding, Meng Chen'ou wakes up, and the two finally live a happy life together.",
     "originName": "未婚夫太菜此生我来保护他",
+    "cover": "https://pic.bstarstatic.com/ogv/c31ef6229f12b97ee3d1ad996ead4f9d.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Avenge",
+      "Rebirth",
+      "Bitter Love"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Aug 20, 2026",
+    "officialEpisodeCount": "Total 100 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "SG",
       "ID",
@@ -542951,7 +544809,11 @@
     ],
     "type": 5,
     "firstEpisode": "30705138",
-    "checkedAt": "2026-10-06"
+    "airDate": "Aug 20, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 100 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2417067": {
     "id": 2417067,
@@ -543072,6 +544934,19 @@
     "title": "Useless To Tycoon After Binding System",
     "description": "Foolish Chen Qiang inherits a factory after his parents pass away. Betrayed by his best friend and cheated on by his wife, he kills himself. A modern‑day man transmigrates into his body with a tycoon system. Hiding his true strength under the fool’s identity, he humiliates his wife, gets revenge on his former friend and rebuilds the factory. Powered by the system, the once‑despised fool grows into a powerful business tycoon.",
     "originName": "绑定系统后草包变巨鳄",
+    "cover": "https://pic.bstarstatic.com/ogv/9b176e90f22b9f071425c91dffca1564.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Boys Channel",
+      "Revenge",
+      "Paranormal",
+      "Underdog Rise"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Aug 20, 2026",
+    "officialEpisodeCount": "Total 66 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "SG",
       "ID",
@@ -543087,13 +544962,30 @@
     ],
     "type": 5,
     "firstEpisode": "30736395",
-    "checkedAt": "2026-10-06"
+    "airDate": "Aug 20, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 66 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2417327": {
     "id": 2417327,
     "title": "Sisters Ride the Wind",
     "description": "Domestic‑violence victim Lin Xiaojin is driven out by her husband Cheng Bin with her daughter on her birthday. She meets Bai Suyan, a hidden wealthy heiress. An accident swaps their souls. Bai Suyan joins showbiz. She defeats rivals Mo Shuhe and Xia Shiyin on variety shows with life wisdom and exposes their true faces. Lin Xiaojin uses social media to reveal Cheng Bin’s abuse. With Bai Zhiting’s help, she gets divorced. Both achieve success. Lin Xiaojin enjoys family warmth in the Bai family. Bai Suyan devotes to public welfare for troubled women. They start new lives.",
     "originName": "乘风破浪的姐姐",
+    "cover": "https://pic.bstarstatic.com/ogv/1a96dd63445c9f187c1a115da78215ea.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Avenge",
+      "Revenge",
+      "Paranormal"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Aug 20, 2026",
+    "officialEpisodeCount": "Total 76 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "SG",
       "ID",
@@ -543109,7 +545001,11 @@
     ],
     "type": 5,
     "firstEpisode": "30743005",
-    "checkedAt": "2026-10-06"
+    "airDate": "Aug 20, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 76 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2417425": {
     "id": 2417425,
@@ -543153,6 +545049,19 @@
     "title": "You’re Tough, But My Squad Has My Back",
     "description": "Kind‑hearted Su Su has innate divine power. She saves electric‑bodied He Ran and pregnant Huang Wei in a car crash. Back home, vicious neighbors seize the corridor and force a house swap. When a brat ruins her mother’s relics, Su Su nearly loses control, saved by her mother’s recording. He Ran helps her trap the neighbors into heavy mortgage debt and expose cheating. The vengeful family blocks an ambulance, causing the child’s death. They get arrested. Huang Wei gives birth safely. He Ran confesses, and they live happily.",
     "originName": "你不好惹可我有病友团撑腰",
+    "cover": "https://pic.bstarstatic.com/ogv/65bd6505199fa242bd4734723feff4bc.png",
+    "originAreas": "Chinese Mainland",
+    "styles": [
+      "Girls Channel",
+      "Revenge",
+      "Secret Identity",
+      "Super Power"
+    ],
+    "payPolicy": "VIP",
+    "payPolicyEnum": 1,
+    "officialStart": "Aug 20, 2026",
+    "officialEpisodeCount": "Total 40 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "SG",
       "ID",
@@ -543168,7 +545077,11 @@
     ],
     "type": 5,
     "firstEpisode": "30754979",
-    "checkedAt": "2026-10-06"
+    "airDate": "Aug 20, 2026",
+    "indexShow": "Full",
+    "isFinished": true,
+    "totalEpisodes": "Total 40 Episodes",
+    "checkedAt": "2026-10-14"
   },
   "2417576": {
     "id": 2417576,
@@ -544094,6 +546007,14 @@
     "title": "viva la viDA",
     "description": "valila",
     "originName": "length vali",
+    "cover": "https://pic.bstarstatic.com/ogv/7a0c56220784b8973588c97f81893ba2602b07de.jpg",
+    "originAreas": "Chinese Mainland",
+    "styles": [],
+    "payPolicy": null,
+    "payPolicyEnum": 0,
+    "officialStart": "Feb 14, 2022",
+    "officialEpisodeCount": "Total 2 Episodes",
+    "contentCheckedAt": "2026-10-14",
     "regions": [
       "SHARE",
       "LOCAL",
@@ -544101,6 +546022,10 @@
     ],
     "type": 1,
     "firstEpisode": "1180835327251211",
-    "checkedAt": "2026-10-06"
+    "airDate": "Feb 14, 2022",
+    "indexShow": "Update to EP 2",
+    "isFinished": false,
+    "totalEpisodes": "Total 2 Episodes",
+    "checkedAt": "2026-10-14"
   }
 }

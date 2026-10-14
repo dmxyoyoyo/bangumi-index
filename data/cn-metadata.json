@@ -4243,6 +4243,166 @@
     "available": true,
     "code": 0
   },
+  "25487": {
+    "season_id": 25487,
+    "title": "荒野求生 第二季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/4710bbc26dcdc503f47eba867ec726a70fc25821.png",
+    "evaluate": "在《荒野求生》第二季节目中，贝尔·格里尔斯将来到地球上最艰苦、最荒凉的地方接受挑战。贝尔将利用他独特的生存技术向您展示如何在这样的环境中生存一周。但是如果没有正确的生存技能，你连一天都忍不了。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第二季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2018-07-11 00:00:00",
+      "pub_time_show": "2018年07月11日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 246945,
+    "firstEpisodePublishedAt": 1554363600000,
+    "type": 3,
+    "episodeCount": 13,
+    "episodeTitles": [
+      "空降撒哈拉",
+      "沙漠保命",
+      "巴拿马丛林"
+    ],
+    "total": 13,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "25488": {
+    "season_id": 25488,
+    "title": "荒野求生 第一季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ec7d2c51950c0dad2a4292dbc7470ac8eae06686.jpg",
+    "evaluate": "Discovery频道真人秀节目，曾服役于英国特种部队的求生专家贝尔·格里尔斯每集被空降到一处环境恶劣、甚至有致命危险的无人地，如雨林、沙漠、丘陵、冰原等，浑身只携带一点简陋工具，由摄影小组全程记录他的整个逃生过程。他会利用各种求生技巧，包括判断方向、寻找水源、获取食物等等，我们可以惊异地看着贝尔大啖蛆、生肉、昆虫、爬虫，如何利用自己的尿液，如何用木棍击杀野兔，如何对抗烈日、寻找夜间藏身之所，最终成功在时限之内到达有人类活动的领域。从而教会观众在同等险境中该如何脱身。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第一季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-05-16 00:00:00",
+      "pub_time_show": "2019年05月16日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 246972,
+    "firstEpisodePublishedAt": 1536044520000,
+    "type": 3,
+    "episodeCount": 15,
+    "episodeTitles": [
+      "荒野求生秘技",
+      "欧洲阿尔卑斯山",
+      "哥斯达黎加雨林"
+    ],
+    "total": 15,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "25757": {
     "season_id": 25757,
     "title": "Top Gear 第6季",
@@ -5829,6 +5989,244 @@
     "available": true,
     "checkedAt": "2026-10-11",
     "richCheckedAt": "2026-10-11"
+  },
+  "27762": {
+    "season_id": 27762,
+    "title": "荒野求生 第三季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/fc61ba0aeb47c0435e23cec2150ef7f4b33086a1.jpg",
+    "evaluate": "在《荒野求生》第三季节目中，贝尔·格里尔斯将来到地球上最艰苦、最荒凉的地方接受挑战。贝尔将利用他独特的生存技术向您展示如何在这样的环境中生存一周。但是如果没有正确的生存技能，你连一天都忍不了。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第三季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-05-11 19:00:00",
+      "pub_time_show": "2019年05月11日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 271436,
+    "firstEpisodePublishedAt": 1557572400000,
+    "type": 3,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "巴哈沙漠",
+      "爱尔兰",
+      "南方腹地"
+    ],
+    "total": 12,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "27763": {
+    "season_id": 27763,
+    "title": "荒野求生 第四季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/086415cdafc5d5111fe847a1298f9cdcc8d9faf3.jpg",
+    "evaluate": "贝尔 格里尔斯来到北极圈的冰冷水域，这里是地球上最严寒的地带之一。贝尔要挑战冰冻的瀑布，并且狩猎野生驯鹿。他临时把降落伞当做风筝，穿过一大片冰湖，接着跃入齐颈深的冰冷河水。当他终于安全穿越海岸，他的探险之旅依然没有结束。贝尔要用被海水冲上岸的一块块残骸，制造一艘小筏，划往峡湾外的岛屿。只有在那里，他的信号弹才能被航线上的渔船发现。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第四季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-05-08 00:00:00",
+      "pub_time_show": "即将",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 277950,
+    "firstEpisodePublishedAt": 1563015600000,
+    "type": 3,
+    "episodeCount": 13,
+    "episodeTitles": [
+      "阿拉巴马森林",
+      "挪威瑞典极地",
+      "越南丛林"
+    ],
+    "total": 13,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "27764": {
+    "season_id": 27764,
+    "title": "荒野求生:威尔·法瑞尔特集",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/09fd98d185b4841fa7e2ac2b25781023e13cb99d.jpg",
+    "evaluate": "贝尔格里斯承担了他最艰难的任务。这一次，他将带领好莱坞著名演员威尔费雷尔，新电影”迷失之地“的主角，在北极圈进行48小时的生存任务。他们会随着150英尺的绳索下降到瑞典北部冰冷的峡谷，忍受直升飞机的可怕下降。对Will来说，他必须在极端寒冷和深雪的情况下进行战斗，而当他们在夜晚安顿下来的时候，贝尔会做冷冻的鹿眼球当作食物。威尔是否足够勇敢可以接受挑战吗？",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生:威尔·法瑞尔特集",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-08-11 19:00:00",
+      "pub_time_show": "2019年08月11日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 280919,
+    "firstEpisodePublishedAt": 1565521200000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "荒野求生：威尔·法瑞尔特集"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "27779": {
     "season_id": 27779,
@@ -7523,6 +7921,84 @@
     "available": true,
     "code": 0
   },
+  "28186": {
+    "season_id": 28186,
+    "title": "荒野求生：印度总理莫迪特辑",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7c61d244c17c4e5e12bb12478c2700e7565c71ef.png",
+    "evaluate": "时隔七年，贝爷再次出道，全新《Man vs Wild》特别篇即将上线！bilibili全网独播！在《荒野求生》系列节目中，野外探险专家贝尔置身于极为恶劣的自然环境，展现了非凡的求生技巧。在印度特辑中，贝爷首次登陆印度开启冒险之旅，搭档印度总理莫迪，来到了印度科比特国家公园，在湿冷的喜马拉雅山脚下，一起深入险境，探索孟加拉虎栖息地，穿越冰冷湍急的河流，探讨人与自然的共处之道。在此之前，莫迪荣获了联合国地球卫士奖，节目中也看到莫迪对于自然的敬畏与保护。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生：印度总理莫迪特辑",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-08-13 20:00:00",
+      "pub_time_show": "2019年8月13日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 281096,
+    "firstEpisodePublishedAt": 1565697600000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "与莫迪同行"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "28277": {
     "season_id": 28277,
     "title": "守护解放西",
@@ -8056,6 +8532,86 @@
     "available": true,
     "checkedAt": "2026-10-12",
     "richCheckedAt": "2026-10-12"
+  },
+  "28859": {
+    "season_id": 28859,
+    "title": "越野千里",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/5c1c4e56cab0a0d3f6dc941a3a25b3a9c01a4ed6.png",
+    "evaluate": "英国探险家贝尔·格里尔斯以1v1模式带领明星，深入自然荒野求生的大型探险综艺节目。贝尔先后在微博上向姚明、李彦宏、傅园慧、韩庚、柳岩等中国各界大拿下战书，邀请他们与自己一同荒野求生。紧张的冒险之余，李彦宏和贝爷在草原上与牦牛共舞，傅园慧则拜倒在贝爷的“石榴裙”下，韩庚百步穿杨，陈意涵峡谷速降……",
+    "jpTitle": "",
+    "seasonTitle": "越野千里",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2019-11-06 19:00:00",
+      "pub_time_show": "2019年11月06日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 291328,
+    "firstEpisodePublishedAt": 1573020522000,
+    "type": 3,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "韩庚",
+      "曾宝仪 陈意涵",
+      "陶喆 曾宝仪"
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "30759": {
     "season_id": 30759,
@@ -11922,6 +12478,44 @@
     "available": true,
     "code": 0
   },
+  "45735": {
+    "season_id": 45735,
+    "title": "年会不能停！",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/ed145fd83c493e847a8957f374afe2694a156137.png",
+    "evaluate": "钳工胡建林（大鹏 饰）阴差阳错被调入集团总部成为金领，与大厂格格不入的胡建林不但没有被发现问题，还歪打正着连升三级，这让裹挟在这个错误中的同事马杰（白客 饰）诚惶诚恐……",
+    "jpTitle": "",
+    "seasonTitle": "年会不能停！",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-02-14 10:00:00",
+      "pub_time_show": "2024年02月14日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 814499,
+    "firstEpisodePublishedAt": 1707876000000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 45735,
+        "title": "年会不能停！"
+      },
+      {
+        "id": 307572,
+        "title": "年会不能停！2"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "45800": {
     "season_id": 45800,
     "title": "2023七夕奇妙游",
@@ -13884,6 +14478,84 @@
     "available": true,
     "code": 0
   },
+  "108950": {
+    "season_id": 108950,
+    "title": "贝尔·格里尔斯之鲨战",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c46ec91d168038e57e72b14a936bc89cb075f25b.jpg",
+    "evaluate": "讲述了在太平洋上贝尔为了揭秘这个玄幻之地，开启了紧张刺激的“鲨鱼冒险之旅”，他将会与鲨鱼产生怎样的博弈呢？是否能像他所说的那样与最顶级的猎食动物面对面相处呢……",
+    "jpTitle": "",
+    "seasonTitle": "贝尔·格里尔斯之鲨战",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-08-29 19:00:00",
+      "pub_time_show": "2025年08月29日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2095765,
+    "firstEpisodePublishedAt": 1756465200000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "109661": {
     "season_id": 109661,
     "title": "流言终结者 第三季",
@@ -14338,6 +15010,86 @@
     "type": 4,
     "code": 0
   },
+  "119686": {
+    "season_id": 119686,
+    "title": "荒野求生 第五季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/da4fb4ce2626de8543dfa5d1a0d16706fa72ad51.png",
+    "evaluate": "本季，贝尔・格里尔斯将深入澳大利亚北部的阿纳姆地，开启为期一周的极限求生挑战。这片被称作 “史前地区” 的荒野，自远古以来地貌几乎未变，栖息着十万多条食人咸水鳄，部分体重超一吨，还有致命毒蛇、猎人蛛等危险生物，夏季气温高达 36 - 37℃且湿度极高，稍有不慎便可能丧命！",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第五季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-11-15 18:30:00",
+      "pub_time_show": "2025年11月15日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2373000,
+    "firstEpisodePublishedAt": 1763202600000,
+    "type": 3,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "124647": {
     "season_id": 124647,
     "title": "守护解放西·探案季",
@@ -14712,6 +15464,86 @@
     "type": 3,
     "available": true,
     "code": 0
+  },
+  "131205": {
+    "season_id": 131205,
+    "title": "荒野求生 第六季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3120f5671bdd37e7e9ed8e47fe4329c1b3d74fe9.jpg",
+    "evaluate": "英国陆军特种空勤团(SAS)士兵、探险家贝尔·格里尔斯(Bear Grylls) 担任主角。本季延续了节目一贯的核心模式：贝尔被空降到世界各地的极端环境中，凭借其丰富的生存知识和技能，在只有极简装备的情况下，寻找重返文明社会的路。",
+    "jpTitle": "",
+    "seasonTitle": "荒野求生 第六季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-01-10 18:30:00",
+      "pub_time_show": "01月10日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2686606,
+    "firstEpisodePublishedAt": 1768041000000,
+    "type": 3,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
   },
   "137216": {
     "season_id": 137216,
@@ -124671,6 +125503,273 @@
     "richCheckedAt": "2026-10-14",
     "code": 0
   },
+  "307572": {
+    "season_id": 307572,
+    "title": "年会不能停！2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7faa77eb26dadb9ba42e48269a24e244502c6f9e.png",
+    "evaluate": "“缺心眼”刘奔（张若昀 饰）拼命冲业绩，功劳却只给会拍马屁的同事。“没脾气”马杰（白客 饰）被降职并分配到分公司，只求苟住养家糊口。两个倒霉蛋“刘马组合”在命运的安排下于“包子铺”相遇，命运扔来一张“无限流体验卡”：只要不成，时间倒带，重回原点。\n马屁精抢走了我的功劳？重来！领导给不干活的人升职？重来！可这场掀桌狂欢，到底有没有终点与答案？职场背后真正的“黑幕”又是什么？",
+    "jpTitle": "",
+    "seasonTitle": "年会不能停！2",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 10:00:00",
+      "pub_time_show": "09月18日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6084344,
+    "firstEpisodePublishedAt": 1789696800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 45735,
+        "title": "年会不能停！"
+      },
+      {
+        "id": 307572,
+        "title": "年会不能停！2"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "307886": {
+    "season_id": 307886,
+    "title": "I Refuse to Become a Zombie King",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/395169b1d4f97f85c76488af87bbdf7c.jpg",
+    "evaluate": "The apocalypse hits, and zombies overrun the world. Betrayed by his fiancée Ye Wenjie, Wang Miao dies and wakes up one week before doomsday. This time, he dumps the simping life and goes all-in on stockpiling supplies. After the apocalypse returns, he awakens superpowers and gains control over zombies. When three rival survivors attack for his supplies, Wang Miao sets a deadly trap and takes them all down. At last, he builds a safe haven with Zhang Yun, Hua Lili, and Xu Wuhui—a home for the survivors.",
+    "jpTitle": "",
+    "seasonTitle": "I Refuse to Become a Zombie King",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-04 00:00:00",
+      "pub_time_show": "09月04日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6091066,
+    "firstEpisodePublishedAt": 1788451200000,
+    "type": 5,
+    "episodeCount": 62,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 62,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "307894": {
+    "season_id": 307894,
+    "title": "惩罚者",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6ca4f83add0733951722beb3eccd6d80c10fde70.png",
+    "evaluate": "南澳，滨海之城，霓虹之下暗流汹涌。热血警察郑译目睹搭档张铭志为掩护自己而死。警局腐败，反将张铭志诬为内鬼。郑译信念崩塌，脱下警服，以暴制暴向毒枭钱九复仇。就在手刃仇敌之际，却发现张铭志并未死去，他早已被钱九收买，假死脱身。曾经的生死兄弟，如今隔着背叛的深渊。毒枭追杀、警局抛弃、爱人惨死，这对反目的兄弟被迫放下恩怨，以残躯为刃向黑暗发起悲壮的反扑，用生命完成了情义的最终救赎，撕开了笼罩南澳的毒网。",
+    "jpTitle": "",
+    "seasonTitle": "惩罚者",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-15 10:00:00",
+      "pub_time_show": "09月15日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6135908,
+    "firstEpisodePublishedAt": 1789437600000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "307945": {
+    "season_id": 307945,
+    "title": "怪屋",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3d4d021dce526a63d0cdec51b4f146d8842fd331.png",
+    "evaluate": "　常年游走于凶宅的试睡员吴霜（傅菁 饰），在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮（苏劲源 饰），试睡过程中屋内频频出现各种“怪事”：诡异声响夜半不绝、不明血印墙面浮现、屋内空间错乱颠倒。一系列异常出现的原因究竟是什么？这座怪屋里还隐藏着哪些秘密？",
+    "jpTitle": "",
+    "seasonTitle": "怪屋",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-28 10:00:00",
+      "pub_time_show": "09月28日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6401085,
+    "firstEpisodePublishedAt": 1790560800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "307955": {
+    "season_id": 307955,
+    "title": "一英里",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/aff47870dd72cbff4fcb7dd55f9a967ac1445533.png",
+    "evaluate": "一位父亲刑满释放后，试图通过带女儿参观大学校园来修复父女关系。然而，当一个凶残的邪教开始追杀他们时，两人所要拼命守护的，早已不只是那段早已破碎的亲情。",
+    "jpTitle": "",
+    "seasonTitle": "一英里",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 16:00:00",
+      "pub_time_show": "10月14日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6644273,
+    "firstEpisodePublishedAt": 1791964800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "308020": {
+    "season_id": 308020,
+    "title": "终宋",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b2d723646a35428a591bc5360a653a598e4a1d2d.png",
+    "evaluate": "《终宋》讲述现代击剑冠军李瑕魂穿南宋死囚，随北上小队深入蒙古腹地盗取军机。前有虎狼追兵，后有同僚背叛，在人人皆可跪着求生的乱世，他以命为刃，带领残兵一步步把死局盘活，为风雨飘摇的赵宋朝廷带回希望的曙光。",
+    "jpTitle": "",
+    "seasonTitle": "终宋",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-11 20:00:00",
+      "pub_time_show": "09月11日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6093331,
+    "firstEpisodePublishedAt": 1789472693000,
+    "type": 11,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 7,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "308577": {
+    "season_id": 308577,
+    "title": "跟着贝尔勇闯荒野",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/52fd4c458b813b47b5cad8aad96a06b957b277f2.png",
+    "evaluate": "《跟着贝尔勇闯荒野》是一档荒野生存真人秀。贝尔·格里尔斯带领安东尼·约书亚、罗伯·布莱顿、沃维克·戴维斯、加雷斯·索斯盖特和大卫·威廉姆斯，深入英国悬崖、群山、荒原与湖区，挑战攀岩、速降、绳索横渡、涉水求生及野外取食。极限环境褪去名人光环，他们分享人生低谷与内心困惑，在恐惧、压力和意外中彼此支持，突破身心极限，展现勇气、坚韧与真实自我。",
+    "jpTitle": "",
+    "seasonTitle": "跟着贝尔勇闯荒野",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-14 17:00:00",
+      "pub_time_show": "09月14日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6140806,
+    "firstEpisodePublishedAt": 1789376400000,
+    "type": 3,
+    "episodeCount": 5,
+    "episodeTitles": [
+      "英国重量级拳王安东尼・约书亚",
+      "喜剧明星罗伯・布莱顿",
+      "影星沃维克・戴维斯"
+    ],
+    "total": 5,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
   "309659": {
     "season_id": 309659,
     "title": "进化（中配版）",
@@ -125938,6 +127037,82 @@
       {
         "id": 330052,
         "title": "第二季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-14",
+    "richCheckedAt": "2026-10-14"
+  },
+  "330060": {
+    "season_id": 330060,
+    "title": "贝尔的求生教室",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/73238ce804a5eef4b3a5bda3ad291919219c6eb4.jpg",
+    "evaluate": "野外生存专家贝尔是全世界最知名的探险家之一，他将带领著名喜剧演员米兰达·哈特，在风雪的阴云下挑战危机四伏的高山冰原，也将带领著名主持人乔纳森·罗斯深入雨林，踏上自然障碍重重的冒险之旅……",
+    "jpTitle": "",
+    "seasonTitle": "贝尔的求生教室",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-19 17:00:00",
+      "pub_time_show": "10月19日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 3,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 28186,
+        "title": "2019莫迪特辑"
+      },
+      {
+        "id": 25488,
+        "title": "第一季"
+      },
+      {
+        "id": 25487,
+        "title": "第二季"
+      },
+      {
+        "id": 27762,
+        "title": "第三季"
+      },
+      {
+        "id": 27763,
+        "title": "第四季"
+      },
+      {
+        "id": 27764,
+        "title": "威尔特辑"
+      },
+      {
+        "id": 28859,
+        "title": "越野千里中国版"
+      },
+      {
+        "id": 108950,
+        "title": "贝尔·格里尔斯之鲨战"
+      },
+      {
+        "id": 119686,
+        "title": "第五季"
+      },
+      {
+        "id": 131205,
+        "title": "第六季"
+      },
+      {
+        "id": 308577,
+        "title": "跟着贝尔勇闯荒野"
+      },
+      {
+        "id": 330060,
+        "title": "贝尔的求生教室"
       }
     ],
     "available": true,
