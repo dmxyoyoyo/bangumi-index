@@ -9417,6 +9417,66 @@
     "available": true,
     "code": 0
   },
+  "36722": {
+    "season_id": 36722,
+    "title": "人生七年",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/b8d6f4b58347fcc3a60e5bc25ad902bb6d38e11b.png",
+    "evaluate": "迈克尔·艾普特从1964年开始拍摄纪录片系列的第一部，采访来自英国不同阶层的十四个七岁的小孩子，他们有的来自孤儿院，有的是上层社会的小孩。此后每隔七年，艾普特都会重新采访当年的这些孩子，倾听他们的梦想，畅谈他们的生活。",
+    "jpTitle": "",
+    "seasonTitle": "人生七年",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-01-16 11:00:00",
+      "pub_time_show": "2021年01月16日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 378727,
+    "firstEpisodePublishedAt": 1610766000000,
+    "type": 3,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "7 UP",
+      "14 UP",
+      "21 UP"
+    ],
+    "total": 12,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
   "37618": {
     "season_id": 37618,
     "title": "Top Gear 第29季",
@@ -11210,6 +11270,66 @@
     "checkedAt": "2026-10-09",
     "richCheckedAt": "2026-10-09"
   },
+  "41239": {
+    "season_id": 41239,
+    "title": "新人生七年",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/15b8f9a9b9189813d19fdc1bf7c02192eb35af66.jpg",
+    "evaluate": "新版《人生七年》，采访对象仍是来自英国不同文化背景的孩子。每隔七年，都会重新采访当年的这些孩子，倾听他们的梦想，畅谈他们的生活。",
+    "jpTitle": "",
+    "seasonTitle": "新人生七年",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2022-02-12 19:00:00",
+      "pub_time_show": "2022年02月12日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 470714,
+    "firstEpisodePublishedAt": 1644663600000,
+    "type": 3,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "7 UP",
+      "14 UP 上",
+      "14 UP 下"
+    ],
+    "total": 7,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
   "41390": {
     "season_id": 41390,
     "title": "地中海",
@@ -11249,6 +11369,66 @@
     "type": 3,
     "available": true,
     "code": 0
+  },
+  "41560": {
+    "season_id": 41560,
+    "title": "人生七年（美国版）",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/3d31cd25f2fe3a6200428ebb73348c60e8839359.png",
+    "evaluate": "《人生七年》美国版延续了经典英国纪录片“人生七年”系列，导演追踪一群在经济、种族和社会多元化的7岁儿童。",
+    "jpTitle": "",
+    "seasonTitle": "人生七年（美国版）",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2022-04-02 19:00:00",
+      "pub_time_show": "2022年04月02日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 478180,
+    "firstEpisodePublishedAt": 1648897201000,
+    "type": 3,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "7 UP",
+      "14 UP",
+      "21 UP"
+    ],
+    "total": 3,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
   },
   "41605": {
     "season_id": 41605,
@@ -13306,6 +13486,124 @@
     ],
     "checkedAt": "2026-10-09",
     "richCheckedAt": "2026-10-09"
+  },
+  "48064": {
+    "season_id": 48064,
+    "title": "人生七年与我",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c0569eced0c5907220ab51a4792241646f52cc7e.png",
+    "evaluate": "迈克尔·艾普特导演于1964年推出纪录片系列《人生七年》迎来了最新篇章。《人生七年》是一部独特且深具影响力的纪录片系列，由格拉纳达电视台于1964年创立，最初召集一群七岁的孩子，计划每隔七年拍摄一次，以探究社会阶层如何影响他们的未来。随着时间的推移，这些孩子们的生活轨迹呈现出多样化：有的实现了童年的梦想，有的则经历了人生的起起落落。这一过程不仅记录了他们个人的成长和变化，也反映了英国社会几十年来的演变。为庆祝新篇章上线，众多英美名人粉丝来到镜头面前，探讨该系列的持久影响力。随着系列的持续，这部纪录片不仅记录了参与者的人生轨迹，也成为了观众自己生命经历的一部分，伴随着一代又一代人的成长。在特辑中，名人们还坦率地探讨了自己生活中的关键时刻，从学生时代和初恋到家庭和实现抱负，同时围绕阶级、教育和养育子女等话题挖掘社会历史的变迁。接受采访的名人包括托尼·罗宾逊爵士、迈克尔·辛、萨迪·弗罗斯特、鲁拉·兰斯卡等。",
+    "jpTitle": "",
+    "seasonTitle": "人生七年与我",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-08-30 20:00:00",
+      "pub_time_show": "2024年08月30日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 834097,
+    "firstEpisodePublishedAt": 1725019200000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "人生七年与我"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "48065": {
+    "season_id": 48065,
+    "title": "人生七年 第九季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b0c7c230ede4a0d0336f0e3cdd0ee0745fd3e789.png",
+    "evaluate": "迈克尔·艾普特从1964年开始拍摄纪录片系列的第一部，采访来自英国不同阶层的十四个七岁的小孩子，他们有的来自孤儿院，有的是上层社会的小孩。此后每隔七年，艾普特都会重新采访当年的这些孩子，倾听他们的梦想，畅谈他们的生活。四十九岁知天命，看尽岁月流逝，看穿沧海桑田。本片综合了被访者七岁、十四岁、二十一岁、二十八岁、三十五岁、四十二岁、四十九岁及五十六岁多年的访问精华。",
+    "jpTitle": "",
+    "seasonTitle": "人生七年 第九季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-08-09 20:00:00",
+      "pub_time_show": "2024年08月09日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 831893,
+    "firstEpisodePublishedAt": 1723204800000,
+    "type": 3,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "63UP 上",
+      "63UP 中 ",
+      "63UP 下"
+    ],
+    "total": 3,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
   },
   "48306": {
     "season_id": 48306,
@@ -126254,6 +126552,939 @@
     "checkedAt": "2026-10-15",
     "richCheckedAt": "2026-10-15"
   },
+  "310832": {
+    "season_id": 310832,
+    "title": "忍者神龟：变种大乱斗",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/bdf4fe29420eecefbc5e602b28dc55d0df1a66f3.png",
+    "evaluate": "四个情同手足的乌龟少年一直生活在隐秘的下水道中，在师父的训练下，他们成为了功夫高超的“忍者神龟”，渴望被人类接纳的四小只，在人类朋友艾普的帮助下，开始追踪一个神秘的犯罪集团，但随着一支强大变种生物军队的降临，同样属于变种生物的忍者神龟们知道，这下大麻烦来了……",
+    "jpTitle": "",
+    "seasonTitle": "忍者神龟：变种大乱斗",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-06 11:00:00",
+      "pub_time_show": "10月06日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6584850,
+    "firstEpisodePublishedAt": 1791255600000,
+    "type": 2,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "",
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310833": {
+    "season_id": 310833,
+    "title": "哈里·布朗",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1022d6b71a253b0edb52a4ca55f1112aa1fe2b5a.png",
+    "evaluate": "70多岁的哈里·布朗（迈克尔·凯恩 Michael Caine 饰）是一名退役的皇家海军军官，妻子去世后，靠退休金生活的哈里独自住在贫民窟附近的小公寓。附近的人行隧道是小混混们街头斗殴、毒品交易和肉体买卖的场所，跟布朗下象棋的好朋友，老头子莱昂纳德（大卫·布莱德利 David Bradley 饰）就常被这帮混混骚扰，甚至终被残忍杀害。女警官弗兰普顿（艾米莉·莫迪默 Emily Mortimer 饰）与下属负责调查案件，却因证据不足而不得不释放杀害莱昂纳德的凶手。一把年纪的布朗忍无可忍，决定亲自上阵，铲除混混，为莱昂纳德报仇。本片获2010年英国《帝国》电影杂志评选的最佳英国影片、最佳惊悚片及最佳男主角（迈克尔·凯恩）提名，并获伦敦影评人协会最具突破性的英国影人（丹尼尔·巴伯 Daniel Barber）提名。",
+    "jpTitle": "",
+    "seasonTitle": "哈里·布朗",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-05 11:00:00",
+      "pub_time_show": "10月05日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6584849,
+    "firstEpisodePublishedAt": 1791169200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310834": {
+    "season_id": 310834,
+    "title": "第一小分队",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b6f82b760ea1aa984e1fcc1d8e0dfdc13b52cd66.png",
+    "evaluate": "1944年8月，苏联红军继续进攻波兰东部。中尉叶戈罗夫的小分队接到任务，为保证部分红军过河要守住桥。战士们在阵地上发现一个被毁坏的修道院，里面有一群孤儿和修女耶娃，她已失去信仰，已在营救无助和无人保护的孩子们中找到了生活的意义。叶戈罗夫中尉应该执行指挥部的、会威胁波兰孩子生命的命令。战士们都竭尽全力，以保证孩子们的安全......",
+    "jpTitle": "",
+    "seasonTitle": "第一小分队",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-11 11:00:00",
+      "pub_time_show": "10月11日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6690493,
+    "firstEpisodePublishedAt": 1791687600000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310835": {
+    "season_id": 310835,
+    "title": "太空运输",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4bf18fafdfda166af25264d85e7268e8ddb8b9bd.png",
+    "evaluate": "23世纪中叶，地球已进入全面崩溃的阶段，战争和传染病让这颗原本美丽的蓝色星球破烂不堪，人类被迫离开赖以生存的家园，远赴外太空寻找新的栖息地。凭借TSA先进的技术，木卫五成为充满希望的新兴乐土。在此之后，大批地球人乘坐飞船前往木卫五，地球逐渐被人遗忘。然而就在此时，不断有人起来反抗，声称要推翻TSA利用机器对人类的麻醉和统治，并据此不断向空间站发起恐怖袭击。美丽的劳拉·波特曼博士（Anna-Katharina Schwabroh 饰）随一艘货船前去空间站看望亲人。在长达4个月的旅途中，大部分人需进入睡眠状态。劳拉担任了值班的任务，然而在这静寂的飞船里，似乎有其他人在暗中窥视着她。一桩桩阴谋渐渐浮出水面……",
+    "jpTitle": "",
+    "seasonTitle": "太空运输",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-26 11:00:00",
+      "pub_time_show": "10月26日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310836": {
+    "season_id": 310836,
+    "title": "完美无瑕",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fab609f7d8b9b652624a6329e4afaf25b59f264c.png",
+    "evaluate": "20世纪60年代，英国伦敦。供职于伦敦钻石公司的劳拉·奎恩（黛米·摩尔 Demi Moore 饰）美丽端庄，聪明睿智，工作兢兢业业。但在女性地位尚未得到足够尊重的年代，尤其是这家男性占主导地位的钻石公司，劳拉的付出始终得不到应有回报，升职的机会一次次与之擦肩而过。某天，劳拉应邀和公司的清洁工——即将退休的胡布斯（迈克尔·凯恩 Michael Caine 饰）出来看电影，却得知自己将被公司开除的消息，她的事业瞬时陷入绝地。在钻石公司工作十多年的胡布斯深谙公司内部的管理情况，他瞄上了钻石公司的保险库，策划在退休前大干一笔，而多年来郁郁不得志劳拉正是这次行动的绝佳人选……",
+    "jpTitle": "",
+    "seasonTitle": "完美无瑕",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-24 11:00:00",
+      "pub_time_show": "10月24日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310837": {
+    "season_id": 310837,
+    "title": "救赎者",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3b75eb74cf442c8a91b16f6e9581950e9bef95c6.png",
+    "evaluate": "影片讲述了退伍军人马克斯转行为雇佣军，在一次南美洲任务失败后濒临死亡，康复后试图在平静生活中重塑人生，却因昔日战友的再度出现而被迫直面过往的故事。",
+    "jpTitle": "",
+    "seasonTitle": "救赎者",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-19 11:00:00",
+      "pub_time_show": "10月19日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310838": {
+    "season_id": 310838,
+    "title": "赢利",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4b9cbe1573d10c9b3ff852125551faaa46a1285d.png",
+    "evaluate": "影片由克里斯蒂安·塞斯玛自编自导，故事讲述一名假释犯和他的老同事们一起，决心找到10年前从一个DEA破产案中偷来的被埋的现金袋，同时被一个退休的警长跟踪的故事。",
+    "jpTitle": "",
+    "seasonTitle": "赢利",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-22 11:00:00",
+      "pub_time_show": "10月22日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310839": {
+    "season_id": 310839,
+    "title": "里斯本的故事",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/678208ccaae26eaecd23dc0d7ef39c2a3ba01c43.png",
+    "evaluate": "此片可以看作是文德斯《事物的状态》的续集。前集中的导演弗里德里希（帕特里克·波查 Patrick Bauchau 饰）在本片中去里斯本拍摄素材，他邀请电影收音师菲利普（鲁迪格·福格勒 Rüdiger Vogler 饰）帮自己的默片收集声音。菲利浦接到邀请明信片之后，依约赶往里斯本，却找不到弗里德里希的踪迹，只发现他留下的一些神秘线索。根据导演留下的一段关于里斯本某个小镇的菲林，菲利普前去该地方收集声音。他穿越在大街小巷，记录下各种声音。在里斯本游荡期间，他结识一位电影插曲演唱女歌手，生活自此增添了些许情调。影片最后，他找到了弗里德里希，了解到导演离走的原因：面对商业影像的冲击，导演已经对影像感到麻木，无法再找到拍摄的灵感与激情，于是发明了一种盲拍手法，将摄影机架在肩上，自己随意走动，任凭镜头记录所到之处的影像，他认为这种记录才是忠实地记录一个地方，是客观和真实的。",
+    "jpTitle": "",
+    "seasonTitle": "里斯本的故事",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-18 11:00:00",
+      "pub_time_show": "10月18日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310840": {
+    "season_id": 310840,
+    "title": "同步",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/9b512016072b07acf39a4652da456098469579ba.png",
+    "evaluate": "安东尼·麦凯、詹米·多南加盟科幻惊悚片[同步](Synchronic，暂译)。艾伦·穆尔黑德、贾斯汀·本森([无尽])执导，贾斯汀·本森操刀剧本。麦凯、多南在片中饰演新奥尔良两名医护人员，一种离奇药物的出现导致了一系列恐怖死亡事件，两人的生活也被彻底打乱。XYZ Films负责该片国际发行。",
+    "jpTitle": "",
+    "seasonTitle": "同步",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-21 11:00:00",
+      "pub_time_show": "10月21日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310841": {
+    "season_id": 310841,
+    "title": "终极死路",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/48faebabcbb09ec0c924f3e31801c8648ee69e69.png",
+    "evaluate": "一名牵涉到三名好莱坞小明星的三人杀人案的男子开始了自己的调查。需要帮助时，他招募了两名侦探，以揭露比他们想像中更爆炸的阴谋。",
+    "jpTitle": "",
+    "seasonTitle": "终极死路",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-23 11:00:00",
+      "pub_time_show": "10月23日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310842": {
+    "season_id": 310842,
+    "title": "高空飞行",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b56f6273dd89de29c33e0e292f534b1265593d7c.png",
+    "evaluate": "某个有些阴霾的日子，军人之女莎拉（杰西卡·朗德斯 Jessica Lowndes 饰）和好友梅尔（茱莉安娜·奎尔 Julianna Guill 饰）、科里（瑞恩·多诺荷 Ryan Donowho 饰）、萨尔（杰克·威尔瑞 Jake Weary 饰）及布鲁斯（兰顿·李伯伦 Landon Liboiron 饰）相约驾机前往另一个城市看Coldplay的演唱会。莎拉胆大妄为，独自承担驾机任务。路途中充满欢乐，只有布鲁斯似乎总有隐隐的担忧。他们的欢乐没有持续太久，意外很快发生。飞机的升降舵出现问题，被迫驶入一片厚厚的雨云之中，燃油很快耗尽，重要部件相继结冰，飞机随时坠毁。经过一番努力，飞机总算恢复控制。但更恐怖的事随之发生，天空中出现了一只巨大的章鱼……",
+    "jpTitle": "",
+    "seasonTitle": "高空飞行",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-16 11:00:00",
+      "pub_time_show": "10月16日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "310843": {
+    "season_id": 310843,
+    "title": "怪兽在逃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/9d406c611d23e79626a72f00758f9c05de15e497.png",
+    "evaluate": "亚历克斯决定通过组建一个小组来解决他弟弟的噩梦问题，即对付那些想象中的怪物。当他们的行动取得成功并大获成功后，一切似乎都顺风顺水……直到其中一个怪物竟然变成了真实的存在，而且体型还非常巨大。",
+    "jpTitle": "",
+    "seasonTitle": "怪兽在逃",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-13 11:00:00",
+      "pub_time_show": "10月13日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6696836,
+    "firstEpisodePublishedAt": 1791860400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311035": {
+    "season_id": 311035,
+    "title": "一又二分之一的夏天",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5c595b4d44cd46e374c2109a34151a37f2f5564f.png",
+    "evaluate": "张灏（尼坤 饰）从小在国外长大，为了念大学，他回到了国内。没过多久，个性开朗独立的张灏便结识了罗曼（徐璐 饰）和李修齐（蒋劲夫 饰）等一干有趣的朋友们，几人组建了一支校园乐队，酒吧老板丁玲（朱丹 饰）为他们提供了绝好的演出机会。\n　　虽然英俊帅气的张灏在女生中人气极高，但在他的内心里，于旅行中邂逅的女孩舒晴（于文文 饰）占据了十分重要的位，然而，当张灏与舒晴重逢之时，舒晴的冷淡和拒绝让张灏伤透了心。之后，张灏和曾是死对头的罗曼越走越近，两人之间渐渐产生了真挚的感情，与此同时，李修齐亦发现，罗曼早就在不知不觉间偷走了自己的心。",
+    "jpTitle": "",
+    "seasonTitle": "一又二分之一的夏天",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 29,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311038": {
+    "season_id": 311038,
+    "title": "人到中年（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7cb6a529bb7ffc6b5e7862419a7b50aae3be4ad3.png",
+    "evaluate": "　经过十几年的打拼，贺立群（冯远征 饰）和田文洁（陈冲 饰）夫妇总算拥有了自己的房子。就在他们乔迁未久之时，立群的哥哥立众（丁霄汉 饰）将母亲送到弟弟这里。此前，贺母一直与立众夫妇居住，立众的老婆邱东兰（梁丹妮 饰）造就受不了这种跟婆婆同在一个屋檐下的日子。刚好贺母崴脚，东兰利用这个机会怂恿丈夫将“包袱”送了出去。\n　　立群夫妇还未正式享受期盼已久的独立生活，贺母的到来便引起轩然大波。在此之后，两代人不同的观念，以及婆媳之间固有的鸿沟不可避免发生碰撞，甚至连文洁的妈妈也搅和进来。鸡毛蒜皮，家长里短，让这些早已为工作疲于奔命的中年人更加难以应付……",
+    "jpTitle": "",
+    "seasonTitle": "人到中年（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 33,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311042": {
+    "season_id": 311042,
+    "title": "大侠黄飞鸿",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/d887b7c2ef4640a4139c0e9fc56f54a13ebe2442.png",
+    "evaluate": "由万合天宜最新出品的网络自制剧《大侠黄飞鸿》公布最新概念海报，画面中黄飞鸿赤裸上身背对镜头美感十足，引发网友热议。\n　　由这次公布的海报可以看出《大侠黄飞鸿》或许将与万合天宜以往作品的风格都有所区别，少了许多低成本搞笑，多了几分大片的即视美感。概念海报与内容海报不同，它是将影片的元素进行碎片化和符号化的处理，是更具艺术性的创作，它传递的主要是影片的核心概念，并让影片变得神秘而有趣。《大侠黄飞鸿》的这张概念海报以人物为主体，显然是以黄飞鸿为核心内容，神秘的色彩与造型似乎在向观众宣传一个理念：这将是一个不一样的大侠。",
+    "jpTitle": "",
+    "seasonTitle": "大侠黄飞鸿",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 15,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311047": {
+    "season_id": 311047,
+    "title": "知情者（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e83a0136e3f0abc83768e636dcf0946368ecdd96.png",
+    "evaluate": "《知情者》描述了中国证监会外派机构———平津特派办查处上市公司“华商生物”的整个过程，揭露了该公司粉饰、伪造会计报表，操纵、虚增利润等黑幕。“保护股民的利益，也就是保护中国资本市场的利益！”一位中国证监会人士说。对于那些在股市当中遭遇过挫折的股民来说，《知情者》无疑将给人以很大安慰。",
+    "jpTitle": "",
+    "seasonTitle": "知情者（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 22,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311054": {
+    "season_id": 311054,
+    "title": "矿长（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b6b40ff3665510b93a43e4e7c41ae38671ece1a2.png",
+    "evaluate": "安全生产作为煤矿企业的头等大事使大观煤矿矿长王家瑞夜不能寐.在狠抓安全生产的同时王家瑞也抵制了民营煤矿的高薪诱惑和妻子卢秀云的劝说,思索着煤炭企业如何保持可持续性发展这一难题. 王家瑞和副矿长叶晓薇力排众议,决定争取陈玉亮的无烟煤转焦加工项目.陈玉亮也在想年轻时没人看得起自己的大观煤矿挣足面子,双方开始了磕磕绊绊.困难重重的合作. 一次次僵持,一次次峰回路转,无烟煤转焦项目终于上马. 此刻,市政府决定在做好煤炭这篇文章的同时开发得天独厚的太行山王莽岭.王家瑞领导下的大观煤炭集团和陈玉亮联手,决心给子孙后代打造一张“绿色名片”，他们在旅游资源开发领域开始一展身手！ 被组织调查清楚没有问题的王家瑞，带领大观煤炭集团的干部职工走向了科技兴矿的康庄大道.",
+    "jpTitle": "",
+    "seasonTitle": "矿长（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 24,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311060": {
+    "season_id": 311060,
+    "title": "插翅难逃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b8ff3cc1e1727d5997b20091aae48485d2a8cdd3.png",
+    "evaluate": "1997年秋，两名歹徒在东北抢劫杀人后，在我公安机关的强大压力下仓皇逃窜。他们先后流窜十余省市，每到一处都疯狂作案，他们的罪恶震惊全国，震动了公安部。他们的作案方式十分凶残狡猾，最终还是被我陕西警匪擒获，没能逃脱出覆灭的下场，本剧便是从他们第一次流窜的宝鸡市开始的。",
+    "jpTitle": "",
+    "seasonTitle": "插翅难逃",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6825383,
+    "firstEpisodePublishedAt": 1791959382000,
+    "type": 5,
+    "episodeCount": 18,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 18,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311142": {
+    "season_id": 311142,
+    "title": "我的罪行",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3c64b61881ffaf04e3a8a76d83640c67b7cf141c.png",
+    "evaluate": "穷困潦倒的女演员玛德琳和好友律师波琳蜗居在一个小公寓内，每天不厌其烦的应付着各种债务的催缴。这天，一位警察找上了门。原来著名制片人蒙费朗被人在家中枪杀，而在之前到访过蒙费朗家并被其性骚扰的玛德琳成为了头号嫌疑人。不仅如此，玛德琳还有一支手枪。在警局问询的过程中，玛德琳和波琳想到如果以正当防卫认下这个罪行，不仅不会坐牢还有机会出名。现实也与预想无二，玛德琳从法庭全身而退，甚至因为她的精彩证词和波琳的辩护二人声名鹊起，过上了富足的生活。眼见两人名利双收，真正的凶手坐不住了，她找到两人要钱。预见到事情败露的悲惨结局后，三人提出了合作。最终三人合作出演了以此案为蓝本改编的话剧《苏泽特的磨难》。",
+    "jpTitle": "",
+    "seasonTitle": "我的罪行",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-08 11:00:00",
+      "pub_time_show": "10月08日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6584884,
+    "firstEpisodePublishedAt": 1791428400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311147": {
+    "season_id": 311147,
+    "title": "女人和孩子",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/372ccce69255f3cd7a6a67484a9c7b6a7194f03e.png",
+    "evaluate": "40岁的寡居护士Mahnaz正为叛逆儿子Aliyar焦头烂额——后者刚被学校勒令停学。当她与新男友Hamid举行订婚仪式时，家庭矛盾达到顶点，一场悲剧性意外随之发生。事故余波中，Mahnaz不得不直面背叛与失去，并踏上一段追寻正义的旅程。",
+    "jpTitle": "",
+    "seasonTitle": "女人和孩子",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-09 11:00:00",
+      "pub_time_show": "10月09日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6584902,
+    "firstEpisodePublishedAt": 1791514800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311154": {
+    "season_id": 311154,
+    "title": "人生七年 第十季 70 UP",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/334adc1f1073e9b708cd48bc5e15dad87dcb3d4f.png",
+    "evaluate": "阿西夫·卡帕迪亚将为 ITV 长篇纪录片系列《人生七年》画上句号，最后一集将于今年播出。该系列节目始于 1964 年，并在 2024 年被评为过去 50 年中最具影响力的英国电视节目。该节目每隔七年跟踪拍摄一群人从童年到成年的生活，现在又开始关注他们步入老年后的生活。该系列的长期导演迈克尔·艾普特于 2021 年去世。卡帕迪亚以其关于艾米·怀恩豪斯、艾尔顿·塞纳和迭戈·马拉多纳的纪录片而闻名，现在他接手了该系列，并称这项任命是“莫大的荣幸和特权”。卡帕迪亚表示，这部纪录片是他最喜欢的，他认为原版系列是“对人类生活的终极刻画”。ITV 纪实节目主管兼《70 Up》节目委托人乔·克林顿-戴维斯称该系列节目是电影制作的里程碑之作，“已成为我们文化结构的一部分”，并表示最后一集是对艾普特的致敬。她说：“阿西夫·卡帕迪亚是一位杰出的导演，他将以他的热情、创造力和非凡的才华，在守护《人生七年》珍贵遗产的同时，为影片注入新的活力。最终，这要归功于所有被拍摄者的勇气，他们继续与我们分享他们的生活，让我们能够从他们身上看到自己的影子。”\n",
+    "jpTitle": "",
+    "seasonTitle": "人生七年 第十季 70 UP",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-15 20:00:00",
+      "pub_time_show": "10月15日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6836020,
+    "firstEpisodePublishedAt": 1792065600000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311165": {
+    "season_id": 311165,
+    "title": "僵尸之路",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2adec788c769a0ae96be9f31334d1ef43b6e39a3.png",
+    "evaluate": "一位年轻的阿比盖尔·阿彻，在1870年代蒙大拿的冬天孤身一人，她为生存而战，并从一群嗜血的强盗手中夺回她唯一的世俗财产——一匹家马。",
+    "jpTitle": "",
+    "seasonTitle": "僵尸之路",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-10 11:00:00",
+      "pub_time_show": "10月10日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6689650,
+    "firstEpisodePublishedAt": 1791601200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311170": {
+    "season_id": 311170,
+    "title": "复仇女黑帮",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/db6374de1b67ce8390cd49d1e9f084b518fd1a03.png",
+    "evaluate": "玛吉（塞琳达·斯旺饰）是全女性黑月摩托帮成员中一个坚强无情的成员，该帮派由无情的特里加（波莉安娜·麦金托什饰）领导。在玛吉的表妹在一次派对上遭到袭击并被下药后，帮派们出发准备亲自复仇。由基根（杰克·洛克特饰）领导的攻击者未料到愤怒的到来，战争爆发，玛吉和布莱恩（迭戈·博内塔饰）夹在中间，双方争相走向一场暴力对决，誓要一劳永逸地结束战斗。",
+    "jpTitle": "",
+    "seasonTitle": "复仇女黑帮",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-15 11:00:00",
+      "pub_time_show": "10月15日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6762424,
+    "firstEpisodePublishedAt": 1792033200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311251": {
+    "season_id": 311251,
+    "title": "铁血莲花（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/cb2a4af5bd723262d61b3943b1af912fc67e5047.png",
+    "evaluate": "1846年夏季的一天，澳门海岸上来了十几个衣衫不整、疲惫不堪的人。他们是刚被葡萄牙女王任命为澳门总督的沙瓦德（马蒂尼饰）和随行人员，刚经历过一场海难。突然一伙黑布蒙面人执弓拔刀不由分说，将其携带的大部分鸦片和装有女王的任命书的皮箱一兵掳走，扬长而去。原来他们碰上了澳门有名的海盗杜海龙（吴毅将饰）。沙瓦德怒不可遏，发誓上任以后要报仇。上岸后，发现来到一个华人渔村，一个院子里发出喧哗声音，他们闻声寻去。\n　　这一天，澳门望厦村长林春方正在给自己的小儿子阿明过18岁的生日，大儿子林伟良（谢君豪饰）和未婚妻水莲（秦岚饰）帮助操办，场面煞是热闹，正高兴间，沙瓦德的部下卡洛斯率葡兵进来，蛮横地要搜寻被劫走的鸦片和皮箱，双方发生激烈冲突。阿明跑出向清政府驻望厦衙署官员王韬报告求助，却一去不回，神秘失踪。。。。。\n　　这是一部讲述1849年发生在澳门的那段鲜为人知、悲壮惨烈...",
+    "jpTitle": "",
+    "seasonTitle": "铁血莲花（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 36,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311259": {
+    "season_id": 311259,
+    "title": "麻辣女友",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/26071952d3d49659a00e7cc011bece2d320d4d90.png",
+    "evaluate": "一个是出身豪门、任性刁蛮又善良的天之骄女；一个是孤苦伶仃、在怜悯和施舍中倔强长大的乖乖女。刁蛮女在竭力摆脱家族安排的“门当户对”式婚姻之困中，爱上了一贫如洗又深深伤害了自己的穷小子——清远。可惜落花有意换来流水无情，穷小子在默默地追求着柔弱的静汝；但静汝此时不知不觉地爱上了同学待嫁的未婚夫——逸轩。",
+    "jpTitle": "",
+    "seasonTitle": "麻辣女友",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6825159,
+    "firstEpisodePublishedAt": 1791959200000,
+    "type": 5,
+    "episodeCount": 20,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 20,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311260": {
+    "season_id": 311260,
+    "title": "情非情（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3d5d17b7fac3bfe96fd0d3ce76a7fe9a88237f7b.png",
+    "evaluate": "向美双有最糟糕的遭遇，却在跌宕的命运中成就了她“最完美的人生”。美貌绝伦，业务优秀的向美双为了给男友梁敬东筹集研究经费，擅自挪用公款，最终锒铛入狱，前途尽毁。因为表现优秀，美双可以提前出狱，但发现男友和好友已经结为夫妻，远走美国。特殊的经历，使得美双连找一份可以糊口的工作也成为问题，但她可以面对残酷的现实，在最为底层的菜市场卖肉工作面前她选择珍惜和积极面对。好不容易放下了对梁敬东的感情，跟刑警潘军重新开始，但却因为潘军出车祸需要植皮，一向暗恋潘军的于小川匿名为潘军供皮。潘军知道一切后，做出了一个惊人的决定：“娶于小川为妻”！此时，向美双如同五雷轰……在入狱、出狱、失恋等挫折面前，向美双承受了常人无法想象的压力，但她却由始至终地坚强：对患癌症的好友肖莉的照顾；对雇主于南的丈夫事业上的支持……双美以她的大度与包容去面对生活，面对厄运，跌宕的命运中成就了向美双“最完美的人生”。",
+    "jpTitle": "",
+    "seasonTitle": "情非情（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 27,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311263": {
+    "season_id": 311263,
+    "title": "保姆与保安（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/14d9a7c1fc0e446d24a424883444800e995cbaf3.webp",
+    "evaluate": "高级住宅小区的保姆大苗和保安国梁引起了轩然大波，他们在中年保安大丁的新婚之日，帮助小保姆二梅逃婚，新娘从此下落不明。大丁赔了夫人又折钱，狂怒不已，逼大苗交出二梅，遭拒后发誓不让大苗和国梁有一天安稳的日子，他表面粗悍，却功于心计，招招恶毒狠辣。先是诬陷大苗伙同二梅诈骗他钱物，后又设计偷走居民名贵小狗栽赃大苗，说是被大苗和国梁盗买，所造“罪证”真得令人深信不疑，警方加入，一直被誉为小区模范保姆的大苗名誉扫地，陷入困境。但大苗认实理，为保护保姆姐妹敢做敢当，勇于面对，与大丁周旋。忠厚善良的国梁却不一样了，像是欠了大丁还不清的债，逆来顺受，笑脸相对。\n　　大苗深爱国梁，多次表示爱意，国梁也爱她，可是不敢接受，倒不是她有个不知跟谁生的九岁的女儿念念，而是他自己有难言之隐，国梁在八岁时在前往少年宫学校小号的路上遭遇过严重车祸，父母双亡，他脑部受伤留下后遗症，常常发病，随时会瘫痪和死亡，他不想拖累大苗。但面对深情款款而又漂亮直率的大苗，优柔寡断的性格又使他这想法不很坚决，他年轻，渴望爱情，因此态度左右摇摆，当大丁接连发难，他与大苗共同应付，又头痛病发足，被大苗悉心照料。",
+    "jpTitle": "",
+    "seasonTitle": "保姆与保安（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 33,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311266": {
+    "season_id": 311266,
+    "title": "不能没有娘",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a4e2c8c4559a85f735c9d4412e7ccb98535282a0.png",
+    "evaluate": "善良的渔村女教师“海娘”（ 何琳饰）冲破世俗，克服艰辛，收养八名流浪儿童，“香兰”（李艳饰）的男友齐国林（王韦智饰）在帮助“海娘”的过程中与之产生感情，准备结婚之际，发现“海娘”患“绝症”，弥留之际的“海娘”促成香兰与齐国林的婚事，并将收养的八名流浪儿交给齐国林，带着信任和满足悄然离去，将“大爱无疆”的情怀留给了世间。一块刻有“亲娘”二字的墓碑表达了孩子们和世人共同的怀念。故事情节跌宕起伏、催人泪下，贯穿全剧的“大爱”让人憧憬、崇敬。",
+    "jpTitle": "",
+    "seasonTitle": "不能没有娘",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6825018,
+    "firstEpisodePublishedAt": 1791958978000,
+    "type": 5,
+    "episodeCount": 29,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 29,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311268": {
+    "season_id": 311268,
+    "title": "谁怜天下慈母心（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7a6a551c528a88a56808a39ce22de367ba64f240.png",
+    "evaluate": "六岁的小海燕跟爸爸大勇、妈妈金花生活在海边小镇，在海燕眼中，爸爸是世界上最好的人，但实际上，大勇其实曾经结过婚，另有一个女儿，他一直瞒着金花，偷偷照顾前妻和女儿。前妻得了白血病，大勇没钱，唯有偷工厂货物去卖。\n　　金花知道真相，大怒，跟大勇大闹一场，大勇跟着远洋货船出海，想要挣回一笔钱来填补自己的空缺。\n　　就在大勇出海后，大勇前妻病情恶化，面硬心软的金花去医院照顾她，在临死前，前妻把女儿海君托付给金花：“你是好人，你会对她好的。”金花含泪答应了她临终前的最后要求。\n　　金花带着海君回家，要海燕认了这个姐姐，她一个人带着两个女儿，等待大勇出海归来，等来的却是噩耗：海船失去联络，大勇下落不明！",
+    "jpTitle": "",
+    "seasonTitle": "谁怜天下慈母心（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 23,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311269": {
+    "season_id": 311269,
+    "title": "张礼红的现代生活（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/24c8fe9b7c11d9f51960e3bb8c9a4df5e008be0c.png",
+    "evaluate": "　张礼红对自己的生活很自信。事业上，公司刚刚经历失去老总的意外，但在她的努力下，公司业务进展顺畅，她将很可能成为新的总经理；家庭上，婚姻平稳地走过20年，女儿周音畅已是大三学生，丈夫周致军是个典型的书生，大多时间沉浸在自己的个人世界中。一切都如同她管理公司，井井有条，游刃有余。\n　　然而，一条彩信结束了张礼红的平静生活：照片上的她和另一个男人举止暧昧……敲诈者对张礼红不断提出各种匪夷所思的勒索条件，他的目标似乎并不是钱……",
+    "jpTitle": "",
+    "seasonTitle": "张礼红的现代生活（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 26,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311274": {
+    "season_id": 311274,
+    "title": "大掌门（作废）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6f7f8abce92f6b167b894a8a7949db82a318f464.png",
+    "evaluate": "电视剧《大掌门》中，围绕杨家埠“年画大家族”杨氏一族争当掌门之位而展开，在讲述“七七事变”前后杨家埠的民间艺人和爱国志士，为保住祖宗传下来的艺术瑰宝，与日本侵略者斗智斗勇、拼死抗争故事的同时，也首次揭开杨家埠年画发展历程和制作工艺的神秘面纱。",
+    "jpTitle": "",
+    "seasonTitle": "大掌门（作废）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 30,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311286": {
+    "season_id": 311286,
+    "title": "我是烂尾世界造物主",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/3af4caf6dc5115b3a2e7c2ab0f312e8929e56003.jpg",
+    "evaluate": "扑街网文作者林白，五年写作连全勤都没拿到，一觉穿入自己的烂尾小说，开局被自己笔下冰山男主顾清寒用剑抵住，只因他持有顾家半块残玉。好在他还有故障百出的机械键盘系统。林白与顾清寒斗智斗勇，拉拢算命道士陆玄机、刺客柳如烟组队搜集残玉。众人历经多重冒险，发现千年老怪玄冥子意图集齐残玉重启世界，最后一块残玉就在林白身上。最终林白动用系统核心，以烂尾积攒的乱码病毒击败反派。四人归隐小镇，扑街作者最终亲手写下圆满结局。",
+    "jpTitle": "",
+    "seasonTitle": "我是烂尾世界造物主",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-23 10:00:00",
+      "pub_time_show": "09月23日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6363900,
+    "firstEpisodePublishedAt": 1790128800000,
+    "type": 4,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "我是烂尾世界造物主  第1话",
+      "我是烂尾世界造物主  第2话",
+      "我是烂尾世界造物主  第3话"
+    ],
+    "total": 20,
+    "seasons": [
+      {
+        "id": 311286,
+        "title": "动画"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
   "311291": {
     "season_id": 311291,
     "title": "【2015LPL春季赛】2015英雄联盟职业联赛春季赛",
@@ -126295,8 +127526,572 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-12",
-    "richCheckedAt": "2026-10-12"
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311338": {
+    "season_id": 311338,
+    "title": "一个部门的诞生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2ad68654be2694a3afa85d6ef29022f50e7042c5.png",
+    "evaluate": "青年德仔（戴玉麒 饰）因电视台会员套餐问题多次拨打客服电话却始终无法退订，前往营业厅线下办理退订业务时遇到重重阻碍，阴差阳错之下变成“持枪劫匪”。客服人员（白只 饰）、执勤警员（麦沛东 饰）连同电视台吉祥物（廖子妤 饰）、来访用户等人尽数被挟持，开心电视台客户服务大厅内闹剧不断。小小的退费纠纷迅速发酵成全城关注的荒诞劫案，就连警方介入帮忙后，也难逃工作人员层层推诿扯皮、热线电话等候永无止境的无解局面，这场离谱的退订风波最终将如何收场？",
+    "jpTitle": "",
+    "seasonTitle": "一个部门的诞生",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-22 16:00:00",
+      "pub_time_show": "09月22日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6203946,
+    "firstEpisodePublishedAt": 1790064000000,
+    "type": 2,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "",
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311464": {
+    "season_id": 311464,
+    "title": "大国之翼",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a8244cd05d575884e0467f1c659b34af33805101.png",
+    "evaluate": "空军第八航空学校被誉为“空军摇篮”，培养过航天员杨利伟、汶川地震救灾英雄机长邱光华等一众杰出人物；运-20通过十年成长，从靠外型萌出圈的“胖妞”脱变为大国重器“鲲鹏”。2025年是人民空军成立76周年，在其发展历程中不仅有前辈的坚守，也有新一代的追梦。我们通过讲述空军第八航校的历史往事和运-20飞行员的成长故事，呈现他们守卫蓝天的凌云壮志，探寻空军来时路上的精神传承。",
+    "jpTitle": "",
+    "seasonTitle": "大国之翼",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-09-21 00:00:01",
+      "pub_time_show": "2023年9月21日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6204977,
+    "firstEpisodePublishedAt": 1789566837000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "寻找航标",
+      "垂天之翼"
+    ],
+    "total": 2,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311472": {
+    "season_id": 311472,
+    "title": "当你老了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/0278e359a18141e1d5c739d45fdeb979f975a6e8.png",
+    "evaluate": "在老龄社会来临的当下，养老已是一个不可忽视的社会问题。我们以5组人物，五个老年切片故事呈现真实的社会困境。农民养老金、流动农民工、乡村留守老人、大龄女性创业……我们记录这些现象背后的真实人生，也探讨现象、挖掘原因、对于未来养老方式提供思考路径。",
+    "jpTitle": "",
+    "seasonTitle": "当你老了",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-09-21 00:00:01",
+      "pub_time_show": "2023年9月21日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6205022,
+    "firstEpisodePublishedAt": 1789568251000,
+    "type": 3,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "田间来信",
+      "秀英和秀玲",
+      "茶山候鸟"
+    ],
+    "total": 4,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311789": {
+    "season_id": 311789,
+    "title": "演绎",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/0ba30b524b569df26f9282eae0856897bcaf6ab4.jpg",
+    "evaluate": "本系列纪录片全景呈现 2026 年​第20届亚运会电子竞技（第五人格亚运版本）项目的完整征战历程，以资格赛突围、终极备战、正赛争锋为核心叙事线，记录亚洲各战队的竞技对决与背后故事。全集以电竞入亚的时代背景为底色，既呈现顶尖的战术博弈与赛场名场面，也刻画选手的成长、坚守与团队羁绊，诠释 “追光逐梦，演绎无界” 的赛事精神。",
+    "jpTitle": "",
+    "seasonTitle": "演绎",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-20 10:30:00",
+      "pub_time_show": "09月20日10:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6267455,
+    "firstEpisodePublishedAt": 1789871400000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "共绽",
+      "追光"
+    ],
+    "total": 3,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "311805": {
+    "season_id": 311805,
+    "title": "锦绣天府 第三季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/27626ea1fcff001cb8bda39c20e4793a55bbeacb.jpg",
+    "evaluate": "《锦绣天府》是四川广播电视台2026年出品的一档融媒体文旅主题节目。节目以“锦绣天府·安逸四川”为核心，由文化学者于丹担任主讲人，每期聚焦两位当代在四川生活的普通人，采用双线叙事，以“锦绣天府”开篇，聚焦人物“内在的精神烂漫”，第二篇章“安逸四川”外景体验，走进人物真实的生活场景，让“安逸”成为可感可知、可触可享的生活方式。节目旨在挖掘四川人的精神内核，将这份独特的精神气韵传递给更多人。\n\n",
+    "jpTitle": "",
+    "seasonTitle": "锦绣天府 第三季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-19 00:00:00",
+      "pub_time_show": "09月19日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6237375,
+    "firstEpisodePublishedAt": 1789823402000,
+    "type": 3,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "人生不设限",
+      "四川耍起 川超雄起",
+      "俯仰见生灵"
+    ],
+    "total": 20,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312005": {
+    "season_id": 312005,
+    "title": "夜班",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b99379828beaaab51b1c2bb981080830a82d4d06.png",
+    "evaluate": "  在瑞士一家医院的外科病房工作的Floria（Leonie Benesch饰）是一位充满热情与专业精神的外科护理师。她技术娴熟，即使在压力巨大的情况下也总能耐心倾听每一位病人的需求，在紧急情况下，她总能迅速到场——理想状态下是如此。然而现实情况中这份工作常常难以预料，情况远没有那么理想。\n  这一天，Floria开始了她的晚班，但在这个床位已满、人手紧缺的病房里一位同事突然因故缺勤。尽管工作繁忙，她仍尽心照顾着一位重病的母亲（Lale Yavas饰）和一位焦急等待诊断的老人（Urs Bihler饰），同样细致周到地应对着那位私人病人（Jürg Plüss饰）的各种额外要求。\n  然而，一场致命的错误悄然发生，让整个值班陷入混乱。一场与时间赛跑的紧张之旅由此开始。",
+    "jpTitle": "",
+    "seasonTitle": "夜班",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-13 16:00:00",
+      "pub_time_show": "10月13日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6708035,
+    "firstEpisodePublishedAt": 1791878400000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312016": {
+    "season_id": 312016,
+    "title": "火锅传奇（废弃）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b2c1569fc1999180397ecaddf2914b63558ca99c.jpg",
+    "evaluate": "民国初年，军阀混战时期，船工子弟陈二娃在机缘巧合下，在重庆较场坝开了一家火锅馆。躲债的富家小姐李若兰、为清剿山匪而潜心卧底的魏天南和一心想讨老婆的大龄青年曾宝玉先后成为馆子的伙计。火锅馆刚开张，各种意想不到的事便接踵而来，先是遭遇同行的恶意竞争，几经周折后走上正轨，却又被山匪觊觎。在陈二娃和同行们的努力下，众人不仅协助城防大队、联合袍哥剿灭了山匪，还让深陷赌局的赌徒重获新生、令不孝的逆子迷途知返、帮助侦探捉拿通缉犯、阻止贫苦女子被卖入青楼、带领水八块小贩们抱团生存。在火锅生意逐渐红火的过程中，陈二娃获得了事业与爱情的双丰收，也让渝商艰苦奋斗的精神得以发扬和传承。",
+    "jpTitle": "",
+    "seasonTitle": "火锅传奇（废弃）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 30,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312034": {
+    "season_id": 312034,
+    "title": "坚守阵地",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f57821a828fe84d6d6ae7840b4e1e1cdd897b4cb.png",
+    "evaluate": "特种老兵凭借就地自卫法案，向谋害家人的凶手展开复仇。",
+    "jpTitle": "",
+    "seasonTitle": "坚守阵地",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-21 16:00:00",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 1,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312205": {
+    "season_id": 312205,
+    "title": "天之骄子",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/241321cabb522645cab34f12d735b9478f2f084b.png",
+    "evaluate": "故事是从一个离奇的婚礼开始：大明年间，秀丽的江南蒋州，孟大学士才貌绝世的女儿，孟丽君要出嫁了。她要嫁的是豪门皇亲刘捷的儿子，刘奎壁。可本该是喜上眉梢的新娘，却泪流满面，麻衣素服，这究竟是为了什么……\n　　一年前，聪慧的丽君在花溪畔巧遇了俊朗的总督之子皇甫少华，二人面对满天星空定下了一世情缘，不料卷入一场铺天盖地的大阴谋。奸诈贪婪的国舅刘捷内外勾结、走私贩盐，且阴谋挑唆，造成了皇甫家与孟家对立不和。而刘捷的儿子刘奎璧偏偏也爱上同窗好友少华的恋人，一场比武招亲，他们几乎反目。刘捷升官进京，并借胞姐刘皇后恩威，使得皇甫家被诬叛国抄家，少华身背罪名亡命天涯，而孟丽君被逼要嫁进刘家……",
+    "jpTitle": "",
+    "seasonTitle": "天之骄子",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 33,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312222": {
+    "season_id": 312222,
+    "title": "大家庭",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6b35bb193cf2d1422ebe98e686f3bf577b6d101f.png",
+    "evaluate": "绵亘十年的文革动乱，改变了无数人的命运。响应领导人号召上山下乡的知识青年们，历经磨难总算等到返城的那一天，但是美丽的陈涵秋（刘威葳 饰）却经历着人生中最为苦难的时刻。涵秋出身知识分子家庭，父亲不忍受辱“畏罪自杀”，她则因黑五类的身份在乡下备受歧视。在此关头，她怀孕的消息 引来无数的争议，而一直爱恋他的平民子弟袁刚（于和伟 饰）则挺身而出，担当起保护涵秋的重任。这对出身背景全然不同的男女，就这样被命运连在了一起。而当婚后的生活平稳推进时，与两人一同下乡的同学李劲松（刘钧 饰）——同时也是真正让涵秋怀有身孕的男人突然出现。\n　　此去经年，亲情、友情、爱情……种种情感，将这群命运多舛的人紧紧绑在了一起……",
+    "jpTitle": "",
+    "seasonTitle": "大家庭",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 30,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312236": {
+    "season_id": 312236,
+    "title": "城事",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a073c9724104fc4c0d8dc000223aee705bba5519.png",
+    "evaluate": "22集电视连续剧《城.事》讲述了原本是大学副教授的叶若黎在不得以的情况下辞职开餐馆，完成由一个大学老师到小老板蜕变的故事。剧中，叶若黎与毛剑原本是一对和睦的夫妻，为了搭上毛剑单位分房的末班车，两口子在“上有政策，下有对策”的侥幸心理中，办理了假离婚，始料不及的是，叶若黎为此丢了工作，不得不走上艰苦的再创业路程，而且在分房的漫长等待中，她跟毛剑在各自的经历中，以“分到房子”为目的的假离婚也假戏真做，曾经温暖的“蜗居”生活被打破。创业的艰难、情感的波折，使人到中年的叶若黎倍感压力，尽管举步维艰，但看似柔弱的叶若黎选择了奋斗，并依靠自己的不懈努力成功突围，“它将都市人创业的艰辛曲折表现得淋漓尽致，堪称中年版《奋斗》，女人版的《士兵突击》。”石钟山这样评价他第一部非军旅题材作品。",
+    "jpTitle": "",
+    "seasonTitle": "城事",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 00:00:00",
+      "pub_time_show": "10月01日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 5,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 22,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312286": {
+    "season_id": 312286,
+    "title": "白夜危情",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fb31c97b941e298a7df8229075e70e13a2ab1c19.jpg",
+    "evaluate": "代号“脸谱”的顶尖杀手徐行之，在清除组织叛徒后，遭遇警方全城严密排查。重伤濒危之际，他被雷厉风行的女刑警林捷意外“认出”——她坚信徐行之是自己苦苦寻找多年的侄子“薛望”。面对这绝佳的生存机会，徐行之将计就计，顶替了这个身份，以养伤为由，住进了最危险的灯下黑之地：警队宿舍。从此，杀手与猎手开始了奇特的“姑侄”同居生活。徐行之凭借顶尖的观察与模仿能力，完美扮演着乖巧、内向的青年薛望，却在日常细节中屡屡面临暴露危机：一道无法解释的新伤，一次快过常人的本能反应，都让心思缜密的林捷疑窦渐生。更为致命的是，林捷奉命全力追查的冷血杀手“脸谱”，其侧写特征正与她身边这个“亲人”悄然重合。在温情脉脉的家庭假象之下，一场惊心动魄的猫鼠游戏激烈进行。徐行之为完成组织任务与灭口，不断在林捷眼皮底下制造精妙的不在场证明；而林捷则在无微不至的“关怀”中，隐秘地搜集着“侄子”的每一点异常。信任与怀疑的天平在亲情滤镜下反复摇摆，直至一次突发行动，徐行为救林捷（或为灭口）被迫在她面前悍然出手。枪响瞬间，两人四目相对，所有伪装于顷刻崩塌。最终，徐行之选择以一场与仇敌的同归于尽，终结自己的罪恶，也成全林捷坚守的正义。",
+    "jpTitle": "",
+    "seasonTitle": "白夜危情",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6230813,
+    "firstEpisodePublishedAt": 1789649852000,
+    "type": 5,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312361": {
+    "season_id": 312361,
+    "title": "惹心",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fb4881da55cae6ff4654e90c0154edc1b51f5e79.png",
+    "evaluate": "苏烬羽一生中最悲惨的那一天，六月飞雪，她被押送上山，成为千年山狐的绝佳祭品。丈夫许明礼不顾苏烬羽的苦苦哀求，一旁的情妇姜罂阴谋得逞，得意狞笑，许老太冷漠纵容，这一刻，苏烬羽悔恨自己错爱下嫁，让赘婿进门吃绝户，倘若她大难不死……思绪之间，苏烬羽被推进千年狐洞，一阴柔书生拉着苏烬羽快跑，狐妖恐怖出现，萦绕周围。可下一秒，苏烬羽却一刀戳进狐妖的心脏，转头看向柔弱书生。原来，柔弱可人的男子，正是山狐大人玄夜！凡是被献祭来的人类，都要历经他设下的迷魂阵，而苏烬羽竟是打破他迷魂阵的第一人！玄夜发现苏烬羽竟拥有至善至纯的灵魂，却因仇恨污染，无法治愈他的雷刑之伤。苏烬羽敏锐地捕捉到玄夜对她纯净灵魂的渴望，大胆与他提出交易——玄夜助她复仇，事成之后，她会将涤荡干净的灵魂赠与玄夜。于是，苏烬羽吞下玄夜的妖丹，二人达成契约。而玄夜不知道的是，这一切竟是苏烬羽的设计，从被推进狐洞那一刻起，所有人都是她复仇的棋子！被献祭的苏烬羽不仅没死，反而妖艳异常，以堂妹之名杀回府邸。这一次，苏烬羽将狐狸那套勾引戏耍的本事学了个淋漓尽致，步步为营，活埋许老太、揭发情妇姜罂，逼疯许明礼，大仇终于得报！",
+    "jpTitle": "",
+    "seasonTitle": "惹心",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6231440,
+    "firstEpisodePublishedAt": 1789652433000,
+    "type": 5,
+    "episodeCount": 74,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 74,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312371": {
+    "season_id": 312371,
+    "title": "三秒预见你",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4d51aae614d8f8b06f17f3ec0f87e07411f51183.png",
+    "evaluate": "落魄影后林知予因为一次意外落水事故，而拥有了一项特殊能力——与人肌肤接触三秒，即可预见对方未来三十天发生的重要大事。一次意外，她预见一夜情对象沈佑川将会杀死自己。为保命，她仓皇逃离，却阴差阳错与沈佑川不断纠缠。一边是“死亡预知”的恐惧，一边是重登影后之路的艰难，林知予步步惊心。当预知画面反复上演时，她才发现，眼前之人竟是命定之人。",
+    "jpTitle": "",
+    "seasonTitle": "三秒预见你",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6231705,
+    "firstEpisodePublishedAt": 1789653610000,
+    "type": 5,
+    "episodeCount": 60,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312374": {
+    "season_id": 312374,
+    "title": "缘起三生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f222853ff247a3e064ddb60f4860da0d08cb88a1.png",
+    "evaluate": "蛇妖青影与姐姐白凤一体双魂，每五十年轮换掌控身体。青影活泼，白凤温婉。\n 百年前 青影救下书生忘尘并相爱。婚礼上，假青影（玄道子）屠杀忘尘全家并重伤忘尘。青影激战重伤，白凤苏醒将其救回，封印了青影痛苦的记忆。百年后青影惊醒，发现白凤被渣男所害饮雄黄酒濒死。青影夺回身体斩渣男。为救即将魂散的白凤，急需借至阳之躯双修提升妖力。\n 她盯上了宗门无情道弟子忘尘（书生转世）。忘尘法力高强，极难诱惑。青影抓住其心软弱点，种下通感情蛊。白凤苏醒屡阻未果。忘尘小师妹祁婉儿也从中作梗。相处中，忘尘道心莲开，对青影情根深种。两人两情相悦，于合欢树下夜结合，青影妖力增暂稳白凤魂，忘尘破戒损法。\n 玄道子作为忘尘师傅实为白凤昔日孽徒，偏执爱慕白凤，曾阻其飞升。他杀害忘尘全家，并培养忘尘都是为夺舍其身成仙。因此，玄道子联合祁婉儿，唤醒忘尘前世记忆并嫁祸青影为凶手。忘尘由爱生恨重伤青影“破劫”。心死青影将身体交还白凤。玄道子欲献祭徒弟携白凤升仙。白凤拼死与其同归于尽。最终重伤白凤化为蛇蛋，与青影分离肉身。忘尘幡然醒悟，不顾人妖之别，守护姐妹二人，共迎新生。",
+    "jpTitle": "",
+    "seasonTitle": "缘起三生",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6231880,
+    "firstEpisodePublishedAt": 1789654233000,
+    "type": 5,
+    "episodeCount": 82,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 82,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312393": {
+    "season_id": 312393,
+    "title": "自由天堂",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/69b66d841c6d45b63d60897aacfff173fb6ee519.png",
+    "evaluate": "为避免被姑妈“待价而沽”卖给富商，家道中落的孤女安憬（女主）铤而走险，决定利用姑妈的情人之一，港城最有势力的帮派二当家秦不逍（男主），试图从他身上获取留学资金，奔赴海外。她精心策划了一场小白兔与大灰狼的戏码，成功挑逗起秦不逍的兴趣。就在安憬要全身而退时，秦不逍却识破安憬对自己的利用，反手断了安憬的后路，强行将安憬留在身边。留学梦碎，安憬被迫成为大哥的女人，在刀尖扮演温顺。却意外看到恶人真心：在帮派火拼之际，秦不逍以命相护；不仅如此，他还为安憬求来留学申请。只是这份留学申请秦不逍没能亲手交给安憬，他遭遇帮派背叛，被伏击坠海。好不容易萌生的真心却在此刻被掐碎。安憬含泪奔赴海外留学，却意外与失忆的秦不逍重逢。深埋心底的爱意有了宣泄的出口，摆脱港城纷扰，安憬如愿与秦不逍过起平凡日子，直到遭遇“毒枭围剿”。 秦不逍为保护安憬身受重伤，两人被迫重回港城治疗。而谎言也随之撕裂：秦不逍所谓失忆，不过是他复仇的苦肉计。他早已联手安于娴，借她之手重返权力中心，杀死何三爷，成为大华堂的话事人。\n安憬无法接受欺骗，她试图逃离，却发现自己已怀身孕，同时被秦不逍所囚禁。",
+    "jpTitle": "",
+    "seasonTitle": "自由天堂",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6232858,
+    "firstEpisodePublishedAt": 1789679150000,
+    "type": 5,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312394": {
+    "season_id": 312394,
+    "title": "宫墙许良人",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2ff94e1606e6d1b48cb2233efd610cea41bd6855.jpg",
+    "evaluate": "女主苏辛上一世从宫女一步一步登上皇后之位，上一世男主魏丛诫是真太监，与女主对食，在苏辛封后当日被周丞相父女揭发“对食”，二人惨死。二人双双重生后，苏辛成为一朵不折不扣的黑莲花，她一心想要改变命运，想阻止魏丛诫踏上入宫为宦的道路，但其实男主这一世是假扮太监。两个相爱的人不想像上一世一样惨死，两人都在用各自的方式保护着对方。二人历经从试探（苏辛疑魏丛诫假太监）到合作（扳倒娴妃），期间魏丛诫为护苏辛入狱受虐，苏辛在求情救他时，确认其假太监身份，魏丛诫亦坦白重生真相。最终二人联手，借立后大典让周如韵反戈揭发周丞相通敌罪，周家伏法。苏辛拒绝皇后之位，与魏丛诫求皇上允许二人离宫，最终在宫外成婚相守。",
+    "jpTitle": "",
+    "seasonTitle": "宫墙许良人",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6232997,
+    "firstEpisodePublishedAt": 1789679709000,
+    "type": 5,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312522": {
+    "season_id": 312522,
+    "title": "饲养夜色",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/519f12c0b497de9b62bb759e5706009e02fc1f12.png",
+    "evaluate": "《饲养夜色》讲述画家叶馨儿被海城霸主厉靳言囚禁后逃离，化名沈心妍潜伏凌家复仇的故事。两年前厉靳言假意联姻实为救出叶馨儿母亲，而叶馨儿误会其背叛。重逢后，二人联手在慈善晚宴用温变画作揭露凌家陷害叶传雄的罪证。最终凌家覆灭，叶馨儿与厉靳言解开误会，共同摧毁地下赌场，迎来新生。",
+    "jpTitle": "",
+    "seasonTitle": "饲养夜色",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6234052,
+    "firstEpisodePublishedAt": 1789697375000,
+    "type": 5,
+    "episodeCount": 85,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 86,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "312580": {
+    "season_id": 312580,
+    "title": "许你不二之臣",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/19bb2db7850e91bfcef4ec46073abdc79b063b57.png",
+    "evaluate": "云周城首富秦至薇在一场商业谈判时，遭对方\n下药暗算，在她逃到绝境时，突然从某个房间伸出一只手，将她扯进房间。这个男人是云周大学的教授，名叫顾裴寂。\n既然必须跟人睡一觉，秦至薇选择了眼前这个帮\n助了自己好心男人，她将男人压倒在床上，保证一定会对他负责。\n秦至薇对顾裴寂一见钟情，她开始对顾裴寂穷追\n猛打，谁知道，这顾裴寂居然还有一个青梅竹马的未婚妻？!\n可秦至薇认定，只要他们俩没有结婚，自己还有机会！ 她早死的爹教过她：\n“喜欢什么就要说，想要什么就去抢，搞不定的就用钱来搞定！”\n于是，女总裁对冷面教授的强制爱开始了！ 她\n的直球强取豪夺式追爱能否成功？\n顾教授又能否抛下青梅竹马的未婚妻走向这个热烈如红玫瑰的女人？\n冷面的顾教授，又是否有其他马甲呢？\n让我们拭目以待……",
+    "jpTitle": "",
+    "seasonTitle": "许你不二之臣",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-18 12:00:00",
+      "pub_time_show": "09月18日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6235231,
+    "firstEpisodePublishedAt": 1789698435000,
+    "type": 5,
+    "episodeCount": 82,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 82,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
   },
   "313964": {
     "season_id": 313964,
@@ -139084,6 +140879,188 @@
     ],
     "total": 40,
     "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "334467": {
+    "season_id": 334467,
+    "title": "笼中凤",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/62e56d88deae56e85b9157fbdd97a41e79b6f468.jpg",
+    "evaluate": "\n她图他的权，他贪她的身。在这场真假参半的权谋博弈中，冷血的摄政王一步步沦陷，动了真心。可就在萧玦准备为她扫平一切障碍，许她一世荣华时，她却利用敌人的算计，当着他的面毫不犹豫地饮下毒酒，带着那一抹解脱的笑，死在了他的怀里。那一夜，大雍摄政王彻底疯魔，血洗政敌满门。他在城外的孤坟前枯坐，殊不知棺中早已空无一物，而他的“亡妻”，正踏上重掌大权的归国之路。",
+    "jpTitle": "",
+    "seasonTitle": "笼中凤",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-26 17:05:25",
+      "pub_time_show": "06月26日17:05",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6792052,
+    "firstEpisodePublishedAt": 1791880087000,
+    "type": 11,
+    "episodeCount": 44,
+    "episodeTitles": [
+      "笼中凤 第01集",
+      "笼中凤 第02集",
+      "笼中凤 第03集"
+    ],
+    "total": 41,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "334468": {
+    "season_id": 334468,
+    "title": "穿越之攻略对象你别跑",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f171ebce0993023f4eb027cf5b06ef1483d56bab.jpg",
+    "evaluate": "\n少女被系统选中来到架空王朝，只为攻略三皇子殿下，谁知三皇子却心系丞相千金，对她无比厌恶，一次次的付出一次次的任务失败横死，在第三次失败死亡重来之后系统替她更换了攻略对象，谁知这次攻略的对象竟然变成了自己的兄长大人！本以为又是一次必败无疑的攻略，结果却被攻略对象宠上天！可她终究是要完成任务离开这个世界回自己家的。这一次她又该何去何从？",
+    "jpTitle": "",
+    "seasonTitle": "穿越之攻略对象你别跑",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-27 09:03:04",
+      "pub_time_show": "06月27日09:03",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6791508,
+    "firstEpisodePublishedAt": 1791879731000,
+    "type": 11,
+    "episodeCount": 42,
+    "episodeTitles": [
+      "穿越之攻略对象你别跑 第01集",
+      "穿越之攻略对象你别跑 第02集",
+      "穿越之攻略对象你别跑 第03集"
+    ],
+    "total": 42,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "334469": {
+    "season_id": 334469,
+    "title": "直播后，隐门少女名满天下",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b9257876f5cf23e36f1f992de401bf1d59f19cab.jpg",
+    "evaluate": "\n慕容月表面上是京大考古专业学生，实则是天赋异禀的鉴宝师，业余时间会直播连线给人鉴宝。这天晚上连线的人是著名顶流周晟，周晟本来一口认定相貌年轻的慕容月是打着鉴宝的名头招摇撞骗，拉来自己奶奶手上的戒指给她看，意图戳破她的真面目。慕容月却一眼认出周晟的奶奶是千年皮尸，七日即将到来，周晟有性命之危。         ",
+    "jpTitle": "",
+    "seasonTitle": "直播后，隐门少女名满天下",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-30 09:03:17",
+      "pub_time_show": "06月30日09:03",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6791051,
+    "firstEpisodePublishedAt": 1791879368000,
+    "type": 11,
+    "episodeCount": 60,
+    "episodeTitles": [
+      "直播后，隐门少女名满天下 第01集",
+      "直播后，隐门少女名满天下 第02集",
+      "直播后，隐门少女名满天下 第03集"
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "334471": {
+    "season_id": 334471,
+    "title": "凤临冷宫镇山河",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/64b8dfd5f8d186a255f53b6f329d6ca62c1e4441.jpg",
+    "evaluate": "\n福宝是冷宫的棺生子，却没人知道，她能点石成金，一语成谶。直到娴妃林清辞把她搂进怀里，温柔道：“从今以后，你就是我的女儿。宁妃来抢人？福宝咒她摔歪鼻子。林家人来欺负娘亲？福宝招天雷劈得他们抱头鼠窜。皇帝病危，太医束手。钦天监夜观天象：唯有冷宫的福星可治！福宝小手一挥，邪气散尽，龙体康复。一个被嫌弃的棺生子，护着娘亲走出冷宫，一路逆袭成皇太后！",
+    "jpTitle": "",
+    "seasonTitle": "凤临冷宫镇山河",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-07-01 09:05:04",
+      "pub_time_show": "07月01日09:05",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6790436,
+    "firstEpisodePublishedAt": 1791878887000,
+    "type": 11,
+    "episodeCount": 45,
+    "episodeTitles": [
+      "凤临冷宫镇山河 第01集",
+      "凤临冷宫镇山河 第02集",
+      "凤临冷宫镇山河 第03集"
+    ],
+    "total": 45,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-15",
+    "richCheckedAt": "2026-10-15"
+  },
+  "334719": {
+    "season_id": 334719,
+    "title": "人生七年 第十季 70 UP（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/334adc1f1073e9b708cd48bc5e15dad87dcb3d4f.png",
+    "evaluate": "阿西夫·卡帕迪亚将为 ITV 长篇纪录片系列《人生七年》画上句号，最后一集将于今年播出。该系列节目始于 1964 年，并在 2024 年被评为过去 50 年中最具影响力的英国电视节目。该节目每隔七年跟踪拍摄一群人从童年到成年的生活，现在又开始关注他们步入老年后的生活。该系列的长期导演迈克尔·艾普特于 2021 年去世。卡帕迪亚以其关于艾米·怀恩豪斯、艾尔顿·塞纳和迭戈·马拉多纳的纪录片而闻名，现在他接手了该系列，并称这项任命是“莫大的荣幸和特权”。卡帕迪亚表示，这部纪录片是他最喜欢的，他认为原版系列是“对人类生活的终极刻画”。ITV 纪实节目主管兼《70 Up》节目委托人乔·克林顿-戴维斯称该系列节目是电影制作的里程碑之作，“已成为我们文化结构的一部分”，并表示最后一集是对艾普特的致敬。她说：“阿西夫·卡帕迪亚是一位杰出的导演，他将以他的热情、创造力和非凡的才华，在守护《人生七年》珍贵遗产的同时，为影片注入新的活力。最终，这要归功于所有被拍摄者的勇气，他们继续与我们分享他们的生活，让我们能够从他们身上看到自己的影子。”",
+    "jpTitle": "",
+    "seasonTitle": "人生七年 第十季 70 UP（中配版）",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-15 20:00:00",
+      "pub_time_show": "10月15日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6874531,
+    "firstEpisodePublishedAt": 1792065660000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 2,
+    "seasons": [
+      {
+        "id": 36722,
+        "title": "7岁到56岁"
+      },
+      {
+        "id": 48065,
+        "title": "63UP"
+      },
+      {
+        "id": 311154,
+        "title": "终章：70UP"
+      },
+      {
+        "id": 334719,
+        "title": "70UP（中文配音版）"
+      },
+      {
+        "id": 41239,
+        "title": "2000年版"
+      },
+      {
+        "id": 41560,
+        "title": "美国版"
+      },
+      {
+        "id": 48064,
+        "title": "名人reaction特辑"
+      }
+    ],
     "available": true,
     "code": 0,
     "checkedAt": "2026-10-15",
