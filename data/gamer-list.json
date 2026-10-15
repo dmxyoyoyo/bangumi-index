@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1902,
-    "lastSuccessfulRefresh": "2026-10-14T16:19:09.179Z"
+    "lastSuccessfulRefresh": "2026-10-15T01:53:01.136Z"
   },
   "items": [
     {
@@ -537,7 +537,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.5
+      "score": 4.6
     },
     {
       "acgSn": 148200,
@@ -879,7 +879,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 3.8
+      "score": 3.9
     },
     {
       "acgSn": 149339,
@@ -2543,7 +2543,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/69/0000137069.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 1,
+      "totalEpisode": 2,
       "popular": 34417,
       "highlightTag": {
         "bilingual": false,
@@ -4120,7 +4120,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/62/0000147362.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 2,
+      "totalEpisode": 3,
       "popular": 19425,
       "highlightTag": {
         "bilingual": false,
@@ -4992,7 +4992,7 @@
       "title": "黑化吧！聖女大人 第二季",
       "favorite": false,
       "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG?v=1792027675",
       "dateInfo": "年份：2026/10",
       "totalEpisode": 2,
       "popular": 14907,
@@ -6522,7 +6522,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 3.4
+      "score": 3.5
     },
     {
       "acgSn": 124471,
@@ -6932,7 +6932,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/2KU/70/3854a4a691bc2a8c1347e436d520mmy5.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 1,
+      "totalEpisode": 2,
       "popular": 9443,
       "highlightTag": {
         "bilingual": false,
@@ -16136,7 +16136,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.7
+      "score": 4.8
     },
     {
       "acgSn": 86183,
@@ -16310,25 +16310,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 139277,
-      "animeSn": 113771,
-      "videoSn": 42928,
-      "title": "快藏好！瑪琪娜同學!!",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000139277.JPG",
-      "dateInfo": "年份：2025/04",
-      "totalEpisode": 12,
-      "popular": 2045,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 134735,
       "animeSn": 113527,
       "videoSn": 37905,
@@ -16346,6 +16327,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 139277,
+      "animeSn": 113771,
+      "videoSn": 42928,
+      "title": "快藏好！瑪琪娜同學!!",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000139277.JPG",
+      "dateInfo": "年份：2025/04",
+      "totalEpisode": 12,
+      "popular": 2045,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 104647,
@@ -17089,25 +17089,6 @@
       "score": 4.2
     },
     {
-      "acgSn": 125880,
-      "animeSn": 113219,
-      "videoSn": 32428,
-      "title": "被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/80/0000125880.JPG",
-      "dateInfo": "年份：2023/01",
-      "totalEpisode": 12,
-      "popular": 1814,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
-    },
-    {
       "acgSn": 140518,
       "animeSn": 113696,
       "videoSn": 41634,
@@ -17125,6 +17106,25 @@
         "newArrival": false
       },
       "score": 4.5
+    },
+    {
+      "acgSn": 125880,
+      "animeSn": 113219,
+      "videoSn": 32428,
+      "title": "被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/80/0000125880.JPG",
+      "dateInfo": "年份：2023/01",
+      "totalEpisode": 12,
+      "popular": 1814,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
     },
     {
       "acgSn": 65516,
@@ -17697,25 +17697,6 @@
       "score": 4.6
     },
     {
-      "acgSn": 109289,
-      "animeSn": 112755,
-      "videoSn": 23375,
-      "title": "我們的重製人生",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000109289.JPG",
-      "dateInfo": "年份：2021/07",
-      "totalEpisode": 12,
-      "popular": 1694,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 147123,
       "animeSn": 113985,
       "videoSn": 47374,
@@ -17733,6 +17714,25 @@
         "newArrival": false
       },
       "score": 4.5
+    },
+    {
+      "acgSn": 109289,
+      "animeSn": 112755,
+      "videoSn": 23375,
+      "title": "我們的重製人生",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000109289.JPG",
+      "dateInfo": "年份：2021/07",
+      "totalEpisode": 12,
+      "popular": 1694,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 144955,
@@ -28755,25 +28755,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 121172,
-      "animeSn": 113170,
-      "videoSn": 32213,
-      "title": "電影版 奇巧計程車：撲朔謎林",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000121172.JPG",
-      "dateInfo": "年份：2022/04",
-      "totalEpisode": 1,
-      "popular": 318,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 137495,
       "animeSn": 113780,
       "videoSn": 42932,
@@ -28791,6 +28772,25 @@
         "newArrival": false
       },
       "score": 5
+    },
+    {
+      "acgSn": 121172,
+      "animeSn": 113170,
+      "videoSn": 32213,
+      "title": "電影版 奇巧計程車：撲朔謎林",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000121172.JPG",
+      "dateInfo": "年份：2022/04",
+      "totalEpisode": 1,
+      "popular": 318,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 130982,
@@ -31643,25 +31643,6 @@
       "score": 4.5
     },
     {
-      "acgSn": 120738,
-      "animeSn": 112924,
-      "videoSn": 26755,
-      "title": "超人力霸王銀河大戰：新世代英雄",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000120738.JPG",
-      "dateInfo": "年份：2019/09",
-      "totalEpisode": 1,
-      "popular": 159,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.5
-    },
-    {
       "acgSn": 120776,
       "animeSn": 113081,
       "videoSn": 30004,
@@ -31679,6 +31660,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 120738,
+      "animeSn": 112924,
+      "videoSn": 26755,
+      "title": "超人力霸王銀河大戰：新世代英雄",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000120738.JPG",
+      "dateInfo": "年份：2019/09",
+      "totalEpisode": 1,
+      "popular": 159,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.5
     },
     {
       "acgSn": 134656,
@@ -32726,25 +32726,6 @@
       "score": 4.2
     },
     {
-      "acgSn": 79322,
-      "animeSn": 113058,
-      "videoSn": 29762,
-      "title": "妖獸都市 1987 劇場版",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000079322.JPG",
-      "dateInfo": "年份：1987/04",
-      "totalEpisode": 1,
-      "popular": 113,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.5
-    },
-    {
       "acgSn": 114759,
       "animeSn": 112523,
       "videoSn": 19738,
@@ -32762,6 +32743,25 @@
         "newArrival": false
       },
       "score": 4.3
+    },
+    {
+      "acgSn": 79322,
+      "animeSn": 113058,
+      "videoSn": 29762,
+      "title": "妖獸都市 1987 劇場版",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000079322.JPG",
+      "dateInfo": "年份：1987/04",
+      "totalEpisode": 1,
+      "popular": 113,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.5
     },
     {
       "acgSn": 110642,
@@ -36143,7 +36143,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.3
+      "score": 4.2
     }
   ]
 }

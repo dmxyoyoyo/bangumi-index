@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1902,
-    "lastSuccessfulRefresh": "2026-10-14T16:19:09.179Z",
+    "lastSuccessfulRefresh": "2026-10-15T01:53:01.136Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -3851,7 +3851,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/471844",
       "date": "2026/10",
-      "episodes": 1,
+      "episodes": 2,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114193"
@@ -6209,7 +6209,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114220",
       "date": "2026/10",
-      "episodes": 2,
+      "episodes": 3,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114220"
@@ -7520,7 +7520,7 @@
       "id": 114198,
       "title": "黑化吧！圣女大人 第二季",
       "officialTitle": "黑化吧！聖女大人 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG?v=1792027675",
       "japaneseTitle": "傷だらけ聖女より報復をこめて Season2",
       "originalTitle": "傷だらけ聖女より報復をこめて Season2",
       "originalStatus": "japanese",
@@ -10431,7 +10431,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114192",
       "date": "2026/10",
-      "episodes": 1,
+      "episodes": 2,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114192"
@@ -10557,8 +10557,8 @@
       "classification": {
         "attributes": [
           "料理",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -10757,8 +10757,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -13342,8 +13342,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -16806,8 +16806,8 @@
           "奇幻",
           "戀愛",
           "溫馨",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -24271,6 +24271,36 @@
     {
       "classification": {
         "attributes": [
+          "喜劇",
+          "戀愛",
+          "溫馨",
+          "悠閒",
+          "親情",
+          "感人"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113527,
+      "title": "老夫老妻重返青春",
+      "officialTitle": "老夫老妻重返青春",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000134735.JPG",
+      "japaneseTitle": "じいさんばあさん若返る",
+      "originalTitle": "じいさんばあさん若返る",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/449562",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/449562",
+      "date": "2024/04",
+      "episodes": 11,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113527"
+    },
+    {
+      "classification": {
+        "attributes": [
           "科幻",
           "校園",
           "喜劇",
@@ -24297,36 +24327,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113771"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "喜劇",
-          "戀愛",
-          "溫馨",
-          "悠閒",
-          "感人",
-          "親情"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113527,
-      "title": "老夫老妻重返青春",
-      "officialTitle": "老夫老妻重返青春",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000134735.JPG",
-      "japaneseTitle": "じいさんばあさん若返る",
-      "originalTitle": "じいさんばあさん若返る",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/449562",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/449562",
-      "date": "2024/04",
-      "episodes": 11,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113527"
     },
     {
       "classification": {
@@ -24362,8 +24362,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -25419,32 +25419,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113219,
-      "title": "被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生",
-      "officialTitle": "被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/80/0000125880.JPG",
-      "japaneseTitle": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
-      "originalTitle": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=125880",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113219",
-      "date": "2023/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113219"
-    },
-    {
-      "classification": {
-        "attributes": [
           "異世界",
           "魔法",
           "奇幻",
@@ -25470,6 +25444,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113696"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113219,
+      "title": "被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生",
+      "officialTitle": "被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/80/0000125880.JPG",
+      "japaneseTitle": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
+      "originalTitle": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=125880",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113219",
+      "date": "2023/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113219"
     },
     {
       "classification": {
@@ -26319,34 +26319,6 @@
       "classification": {
         "attributes": [
           "校園",
-          "青春",
-          "勵志",
-          "時間穿越"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112755,
-      "title": "我们的重制人生",
-      "officialTitle": "我們的重製人生",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000109289.JPG",
-      "japaneseTitle": "ぼくたちのリメイク",
-      "originalTitle": "ぼくたちのリメイク",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/296870",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/296870",
-      "date": "2021/07",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112755"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
           "喜劇",
           "青春",
           "勵志",
@@ -26373,6 +26345,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113985"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "青春",
+          "勵志",
+          "時間穿越"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112755,
+      "title": "我们的重制人生",
+      "officialTitle": "我們的重製人生",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000109289.JPG",
+      "japaneseTitle": "ぼくたちのリメイク",
+      "originalTitle": "ぼくたちのリメイク",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/296870",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/296870",
+      "date": "2021/07",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112755"
     },
     {
       "classification": {
@@ -27812,8 +27812,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -29098,8 +29098,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -29322,8 +29322,8 @@
     {
       "classification": {
         "attributes": [
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -32244,8 +32244,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -32385,8 +32385,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越"
         ],
         "types": [
@@ -33367,8 +33367,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -33876,8 +33876,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -34436,8 +34436,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -35475,8 +35475,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -39142,8 +39142,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -39604,8 +39604,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -41609,8 +41609,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -42789,8 +42789,8 @@
       "classification": {
         "attributes": [
           "戀愛",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [
           "電影"
@@ -42848,34 +42848,6 @@
     {
       "classification": {
         "attributes": [
-          "推理",
-          "懸疑"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113170,
-      "title": "电影版 奇巧计程车：扑朔谜林",
-      "officialTitle": "電影版 奇巧計程車：撲朔謎林",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000121172.JPG",
-      "japaneseTitle": "映画 オッドタクシー イン・ザ・ウッズ",
-      "originalTitle": "映画 オッドタクシー イン・ザ・ウッズ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/363414",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113170",
-      "date": "2022/04",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113170"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "青春",
           "悠閒",
@@ -42903,6 +42875,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113780"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "推理",
+          "懸疑"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113170,
+      "title": "电影版 奇巧计程车：扑朔谜林",
+      "officialTitle": "電影版 奇巧計程車：撲朔謎林",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000121172.JPG",
+      "japaneseTitle": "映画 オッドタクシー イン・ザ・ウッズ",
+      "originalTitle": "映画 オッドタクシー イン・ザ・ウッズ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/363414",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113170",
+      "date": "2022/04",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113170"
     },
     {
       "classification": {
@@ -43401,8 +43401,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -46751,8 +46751,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影",
@@ -47211,6 +47211,33 @@
     {
       "classification": {
         "attributes": [
+          "喜劇",
+          "偶像",
+          "音樂"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113081,
+      "title": "神渣☆爱豆",
+      "officialTitle": "神渣☆偶像",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/76/0000120776.JPG",
+      "japaneseTitle": "神クズ☆アイドル",
+      "originalTitle": "神クズ☆アイドル",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/359985",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/359985",
+      "date": "2022/07",
+      "episodes": 10,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113081"
+    },
+    {
+      "classification": {
+        "attributes": [
           "科幻",
           "特攝"
         ],
@@ -47238,33 +47265,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112924"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "喜劇",
-          "偶像",
-          "音樂"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113081,
-      "title": "神渣☆爱豆",
-      "officialTitle": "神渣☆偶像",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/76/0000120776.JPG",
-      "japaneseTitle": "神クズ☆アイドル",
-      "originalTitle": "神クズ☆アイドル",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/359985",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/359985",
-      "date": "2022/07",
-      "episodes": 10,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113081"
     },
     {
       "classification": {
@@ -48869,34 +48869,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "靈異神怪"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113058,
-      "title": "妖兽都市 1987 剧场版",
-      "officialTitle": "妖獸都市 1987 劇場版",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000079322.JPG",
-      "japaneseTitle": "妖獣都市",
-      "originalTitle": "妖獣都市",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=79322",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113058",
-      "date": "1987/04",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113058"
-    },
-    {
-      "classification": {
-        "attributes": [
           "科幻",
           "特攝"
         ],
@@ -48925,6 +48897,34 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112523"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "靈異神怪"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113058,
+      "title": "妖兽都市 1987 剧场版",
+      "officialTitle": "妖獸都市 1987 劇場版",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000079322.JPG",
+      "japaneseTitle": "妖獣都市",
+      "originalTitle": "妖獣都市",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=79322",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113058",
+      "date": "1987/04",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113058"
     },
     {
       "classification": {
