@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1906,
-    "lastSuccessfulRefresh": "2026-10-15T16:05:42.990Z"
+    "lastSuccessfulRefresh": "2026-10-16T01:38:30.322Z"
   },
   "items": [
     {
@@ -130,7 +130,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/23/0000151823.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 1,
+      "totalEpisode": 2,
       "popular": 28625,
       "highlightTag": {
         "bilingual": false,
@@ -195,7 +195,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.6
+      "score": 4.7
     },
     {
       "acgSn": 152891,
@@ -290,7 +290,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.8
+      "score": 4.9
     },
     {
       "acgSn": 149516,
@@ -521,25 +521,6 @@
       "score": 4.3
     },
     {
-      "acgSn": 148164,
-      "animeSn": 114210,
-      "videoSn": 51787,
-      "title": "用【循環利息】強制收回借出的魔力",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
-      "dateInfo": "年份：2026/10",
-      "totalEpisode": 2,
-      "popular": 124220,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 3.8
-    },
-    {
       "acgSn": 143583,
       "animeSn": 114212,
       "videoSn": 51797,
@@ -595,6 +576,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 148164,
+      "animeSn": 114210,
+      "videoSn": 51787,
+      "title": "用【循環利息】強制收回借出的魔力",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
+      "dateInfo": "年份：2026/10",
+      "totalEpisode": 2,
+      "popular": 124220,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 3.8
     },
     {
       "acgSn": 135738,
@@ -719,7 +719,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG?v=1792027675",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 2,
+      "totalEpisode": 3,
       "popular": 15123,
       "highlightTag": {
         "bilingual": false,
@@ -2497,25 +2497,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 146142,
-      "animeSn": 114038,
-      "videoSn": 48424,
-      "title": "黃泉使者",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000146142.JPG",
-      "dateInfo": "年份：2026/04",
-      "totalEpisode": 24,
-      "popular": 4446586,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 5
-    },
-    {
       "acgSn": 144286,
       "animeSn": 114028,
       "videoSn": 48445,
@@ -2533,6 +2514,25 @@
         "newArrival": false
       },
       "score": 4.6
+    },
+    {
+      "acgSn": 146142,
+      "animeSn": 114038,
+      "videoSn": 48424,
+      "title": "黃泉使者",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000146142.JPG",
+      "dateInfo": "年份：2026/04",
+      "totalEpisode": 24,
+      "popular": 4446586,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 5
     },
     {
       "acgSn": 142432,
@@ -3922,25 +3922,6 @@
       "score": 4
     },
     {
-      "acgSn": 131066,
-      "animeSn": 113877,
-      "videoSn": 45537,
-      "title": "銀魂 3 年 Z 班銀八老師",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000131066.JPG",
-      "dateInfo": "年份：2025/10",
-      "totalEpisode": 12,
-      "popular": 536581,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 136223,
       "animeSn": 113901,
       "videoSn": 45576,
@@ -3958,6 +3939,25 @@
         "newArrival": false
       },
       "score": 5
+    },
+    {
+      "acgSn": 131066,
+      "animeSn": 113877,
+      "videoSn": 45537,
+      "title": "銀魂 3 年 Z 班銀八老師",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000131066.JPG",
+      "dateInfo": "年份：2025/10",
+      "totalEpisode": 12,
+      "popular": 536581,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 140852,
@@ -6335,25 +6335,6 @@
       "score": 3.8
     },
     {
-      "acgSn": 140343,
-      "animeSn": 113765,
-      "videoSn": 42911,
-      "title": "黑執事 綠之魔女篇",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000140343.JPG",
-      "dateInfo": "年份：2025/04",
-      "totalEpisode": 13,
-      "popular": 550291,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 140909,
       "animeSn": 113768,
       "videoSn": 42920,
@@ -6364,6 +6345,25 @@
       "dateInfo": "年份：2025/04",
       "totalEpisode": 25,
       "popular": 2681223,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
+      "acgSn": 140343,
+      "animeSn": 113765,
+      "videoSn": 42911,
+      "title": "黑執事 綠之魔女篇",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000140343.JPG",
+      "dateInfo": "年份：2025/04",
+      "totalEpisode": 13,
+      "popular": 550291,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -12640,7 +12640,7 @@
         "vipTime": "2100-12-31 00:00:00",
         "newArrival": false
       },
-      "score": 2.9
+      "score": 3
     },
     {
       "acgSn": 131121,
@@ -20829,7 +20829,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 2.6
+      "score": 2.7
     },
     {
       "acgSn": 115784,
@@ -22143,25 +22143,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 104281,
-      "animeSn": 104281,
-      "videoSn": 15161,
-      "title": "格萊普尼爾",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000104281.JPG",
-      "dateInfo": "年份：2020/04",
-      "totalEpisode": 13,
-      "popular": 2386701,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
       "acgSn": 108606,
       "animeSn": 108606,
       "videoSn": 15166,
@@ -22179,6 +22160,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 104281,
+      "animeSn": 104281,
+      "videoSn": 15161,
+      "title": "格萊普尼爾",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000104281.JPG",
+      "dateInfo": "年份：2020/04",
+      "totalEpisode": 13,
+      "popular": 2386701,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
     },
     {
       "acgSn": 108973,
@@ -25164,25 +25164,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 89510,
-      "animeSn": 112822,
-      "videoSn": 24884,
-      "title": "電影 哆啦A夢 大雄的金銀島",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000089510.JPG",
-      "dateInfo": "年份：2018/03",
-      "totalEpisode": 1,
-      "popular": 97454,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 87594,
       "animeSn": 112443,
       "videoSn": 17516,
@@ -25200,6 +25181,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 89510,
+      "animeSn": 112822,
+      "videoSn": 24884,
+      "title": "電影 哆啦A夢 大雄的金銀島",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000089510.JPG",
+      "dateInfo": "年份：2018/03",
+      "totalEpisode": 1,
+      "popular": 97454,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 90088,
@@ -35155,7 +35155,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.6
+      "score": 4.7
     },
     {
       "acgSn": 120048,
