@@ -36,7 +36,7 @@
       "uniqueIds": 349,
       "sitemapIds": 4772,
       "metadataChecked": 4613,
-      "unavailable": 2,
+      "unavailable": 0,
       "checkedAt": "2026-10-16"
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
@@ -45,7 +45,7 @@
       "not-found": 3,
       "candidate-unavailable": 2
     },
-    "lastSuccessfulRefresh": "2026-10-16T01:40:21.390Z"
+    "lastSuccessfulRefresh": "2026-10-16T15:52:54.860Z"
   },
   "items": [
     {
@@ -99384,7 +99384,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-02",
+        "date": "2022-01-01",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1042773&s_locale=zh_CN",
         "checkedAt": "2026-10-16",

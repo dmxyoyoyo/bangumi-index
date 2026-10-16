@@ -1903,6 +1903,19 @@
     "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76249",
     "checkedAt": "2026-10-06"
   },
+  "76284": {
+    "acgId": 76284,
+    "title": "流浪神差 ARAGOTO",
+    "candidateOriginalTitle": "ノラガミ ARAGOTO",
+    "englishTitle": "Noragami ARAGOTO",
+    "japaneseTitle": "ノラガミ ARAGOTO",
+    "originalTitle": "ノラガミ ARAGOTO",
+    "originalStatus": "japanese",
+    "premiereRegion": "不明",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76284",
+    "checkedAt": "2026-10-16"
+  },
   "76301": {
     "acgId": 76301,
     "japaneseTitle": "七つの大罪 聖戦の予兆",
@@ -20205,6 +20218,32 @@
     "premiereRegion": "日本",
     "source": "巴哈姆特 ACG 作品资料",
     "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=19797",
+    "checkedAt": "2026-10-16"
+  },
+  "114234": {
+    "acgId": 155019,
+    "title": "頭文字 D Extra Stage",
+    "candidateOriginalTitle": "頭文字D Extra Stage インパクトブルーの彼方に…",
+    "englishTitle": "Initial D Extra Stage",
+    "japaneseTitle": "頭文字D Extra Stage インパクトブルーの彼方に…",
+    "originalTitle": "頭文字D Extra Stage インパクトブルーの彼方に…",
+    "originalStatus": "japanese",
+    "premiereRegion": "日本",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=155019",
+    "checkedAt": "2026-10-16"
+  },
+  "114235": {
+    "acgId": 155020,
+    "title": "羅溫的男人",
+    "candidateOriginalTitle": "",
+    "englishTitle": "Seeing Double",
+    "japaneseTitle": "",
+    "originalTitle": "Seeing Double",
+    "originalStatus": "non-japanese",
+    "premiereRegion": "韓國",
+    "source": "巴哈姆特 ACG 作品资料",
+    "sourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=155020",
     "checkedAt": "2026-10-16"
   }
 }

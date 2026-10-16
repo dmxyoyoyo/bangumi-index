@@ -9837,6 +9837,138 @@
     "available": true,
     "code": 0
   },
+  "38194": {
+    "season_id": 38194,
+    "title": "2021河南春晚 当潮不让你好牛",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/056bcaaeca401660ab5238beda1786616270952c.jpg",
+    "evaluate": "在2021农历新春佳节即将到来之际，我台策划并制作了主题为“当潮不让·你好·牛”的河南省春节晚会。2021是十四五规划开局之年，我台的牛年春晚将紧扣黄河文化这一主题，以喜气氛围，大气呈现，洋气风格结合创意编排，将河南人“闯、创、干”的牛劲儿融入其中。",
+    "jpTitle": "",
+    "seasonTitle": "2021河南春晚 当潮不让你好牛",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-02-08 00:00:01",
+      "pub_time_show": "2021年2月8日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 391006,
+    "firstEpisodePublishedAt": 1614855900000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "2021河南春节晚会 当潮不让你好牛"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "38201": {
+    "season_id": 38201,
+    "title": "2021河南卫视元宵奇妙夜",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/fc104b730d8122ccfa0f2d86800aca1b33f8f2ae.jpg",
+    "evaluate": "2021河南卫视元宵奇妙夜继续主打优秀传统文化牌，以河南博物院中的镇馆之宝为吸睛点，以穿越时空、次元交汇为时间轴，将河南历史文化中最耀眼的元素与精彩的歌舞、戏曲、武术等艺术表演结合起来，用“传统文化+现代科技”的手法，展现河南的文化底蕴之厚度，文化创新之力度，文化建设之成就，为新媒体时代的观众继续带来美轮美奂的文化盛宴。",
+    "jpTitle": "",
+    "seasonTitle": "2021河南卫视元宵奇妙夜",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-02-25 00:00:01",
+      "pub_time_show": "2021年2月25日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 391030,
+    "firstEpisodePublishedAt": 1614860514000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "2021河南卫视元宵奇妙夜"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
   "38252": {
     "season_id": 38252,
     "title": "假如动物会摄影",
@@ -12538,6 +12670,72 @@
     "available": true,
     "code": 0
   },
+  "44555": {
+    "season_id": 44555,
+    "title": "2023河南春节晚会",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/704311cfc47a29c02d1da21e052fb7b6e6913b9b.jpg",
+    "evaluate": "卯足劲头弄春潮-2023河南春节晚会，将回归“舞台晚会”的创作范畴里，坚持以中国传统文化、黄河文化、河南文化等为文化内核，通过传统文化的现代化表达，让文化“说话”，让情感互联。打造一台有文化、有情怀、有共鸣、有趣味、有社交的2023河南春节晚会！",
+    "jpTitle": "",
+    "seasonTitle": "2023河南春节晚会",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-01-19 00:00:01",
+      "pub_time_show": "2023年1月19日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 732612,
+    "firstEpisodePublishedAt": 1674137340000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "2023河南春节晚会"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
   "45192": {
     "season_id": 45192,
     "title": "但是还有书籍3",
@@ -13367,6 +13565,72 @@
     "checkedAt": "2026-10-16",
     "richCheckedAt": "2026-10-16"
   },
+  "46145": {
+    "season_id": 46145,
+    "title": "2023中秋奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/828750ac24207304ecc103a83822c9934a0c14c1.jpg",
+    "evaluate": "《2023中秋奇妙游》以“月”为引，回归本真，开启一场不一样的心灵之旅。节目以“真实、共情、希望”三个出发点，聚焦各类人群的生活画像和生活故事，展现河南、福建等地的风土人情，呈现“真实的力量”。通过对月亮的文艺化表达，寻找传统文化在当下的映射，投射出不同情绪，带出人生百味，以延续中国人千百年的文化基因。",
+    "jpTitle": "",
+    "seasonTitle": "2023中秋奇妙游",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-09-28 00:00:01",
+      "pub_time_show": "2023年9月28日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 777039,
+    "firstEpisodePublishedAt": 1695907740000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "2023中秋奇妙游"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
   "46633": {
     "season_id": 46633,
     "title": "黄河文化大会 第二季",
@@ -14033,6 +14297,72 @@
     "checkedAt": "2026-10-10",
     "richCheckedAt": "2026-10-10"
   },
+  "48634": {
+    "season_id": 48634,
+    "title": "2024中秋奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/882e9482336f37f323dd9a9325e3ce7b1131aad5.png",
+    "evaluate": "《2024中秋奇妙游》以回归初心为核心理念，将舞蹈、歌曲、语言等多种艺术形式巧妙结合，旨在通过传统与现代交织的艺术表达，探索并诠释这一传统节日在当代社会的全新意义。晚会将为观众呈现一场既传统又现代、既古典又时尚的视听盛宴。让观众在欣赏的同时不仅重温中秋文化的深厚底蕴，更感受到传统节日在当代社会的勃勃生机与无限可能。",
+    "jpTitle": "",
+    "seasonTitle": "2024中秋奇妙游",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-09-16 19:30:00",
+      "pub_time_show": "2024年09月16日19:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 835713,
+    "firstEpisodePublishedAt": 1726489800000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "：2024中秋奇妙游"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
   "48700": {
     "season_id": 48700,
     "title": "梦想改造家 第一季",
@@ -14325,6 +14655,72 @@
       {
         "id": 46134,
         "title": "2023"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "48854": {
+    "season_id": 48854,
+    "title": "2024重阳奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/21972077536315071ce32ad15221c913d923e30b.png",
+    "evaluate": "《2024重阳奇妙游》以“人生是旷野”为题，瞄准当下人们的情感锚点，讲述「人生是一场奔向旷野的旅途」，以「起意、寻解、行路、驻足、收获、见心」为题眼，将真实的人物或故事以旅行Vlog、伪纪录等创意视频的形式呈现，与节目内容环环扣，带领观众走入秋日山高水长的广阔画卷，提取极具重阳节文化符号的元素进行艺术加工，呈现中国文化之美、艺术之美、风景人文之美，展现华夏文明的精神追求。感受重阳独有的醇厚情感，在光影交错、岁月变迁中寻找到独属自己的人生节奏。",
+    "jpTitle": "",
+    "seasonTitle": "2024重阳奇妙游",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-10-11 20:30:00",
+      "pub_time_show": "2024年10月11日20:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 840836,
+    "firstEpisodePublishedAt": 1728649801000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "：带你奔向旷野的旅途"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
       }
     ],
     "available": true,
@@ -17141,6 +17537,72 @@
     "type": 3,
     "available": true,
     "code": 0
+  },
+  "208738": {
+    "season_id": 208738,
+    "title": "2026元宵奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5b33de5629bf1c1a1e02bb078f691208266cd513.jpg",
+    "evaluate": "2026河南春晚以“马年”为契机，将“马”的品格、“马”的精神，从一种生肖符号，升华为一种积极的时代心态，提升为承载民族性格与当下处境的精神图腾。晚会旨在通过艺术化的表达，将着力营造一种“在负重中看到希望，在奋进中感受温暖”的整体氛围，力求实现凝聚共识、提振士气的社会效益。",
+    "jpTitle": "",
+    "seasonTitle": "2026元宵奇妙游",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-03-03 19:35:00",
+      "pub_time_show": "03月03日19:35",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 3251573,
+    "firstEpisodePublishedAt": 1772541854000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
   },
   "210706": {
     "season_id": 210706,
@@ -21353,6 +21815,72 @@
     "type": 9,
     "available": true,
     "code": 0
+  },
+  "250607": {
+    "season_id": 250607,
+    "title": "2026端午奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2fae275b7c196e0a5e37961f109ea8a82d8afb6f.jpg",
+    "evaluate": "2026河南卫视端午奇妙游以“争上游、拔头筹、立潮头”为核心精神主线，打破传统晚会叙事模式，创新以“古今时代切片”为沉浸式舞台载体，以“奋楫者先”的新时代奋进故事为内容串联脉络。深度融合端午仲夏祈福、求索奋进的传统内核与当代青年拼搏、实干争先的时代精神，在端午仲夏盛景之中，铺展一幅古韵文脉与现代新风交织、个体逐梦与家国奋进同频的唯美奋进画卷，打造兼具文化厚度、时代温度与传播热度的端午文化视听盛宴。",
+    "jpTitle": "",
+    "seasonTitle": "2026端午奇妙游",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-06-18 20:30:00",
+      "pub_time_show": "06月18日20:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 4394169,
+    "firstEpisodePublishedAt": 1781785800000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "共赏端午奇妙游里宋制美学"
+    ],
+    "total": 0,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
   },
   "251326": {
     "season_id": 251326,
@@ -136911,6 +137439,594 @@
     "checkedAt": "2026-10-16",
     "richCheckedAt": "2026-10-16"
   },
+  "314582": {
+    "season_id": 314582,
+    "title": "Kiss That Gangster Boss Until He Cries",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/25290ae476f4cc4ae48db35319a2c5d2.png",
+    "evaluate": "Shen Yu'an is the lover of gangster boss Zhao Ye. After Zhao Ye is sentenced to death, Shen Yu'an is reborn ten years into the past and meets Zhao Ye before he has fully gone down the wrong path. Won't study? He kisses him until he does. Wants to fight? He fights alongside him. Others say they are not meant for each other, but he is determined to spoil him into a top student and get into the same university. He swears that this time, he will rewrite their future with his own hands.",
+    "jpTitle": "",
+    "seasonTitle": "Kiss That Gangster Boss Until He Cries",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6280998,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314583": {
+    "season_id": 314583,
+    "title": "I Crawled into His Bed and Got Pregnant—Only to Learn He's the True Boss",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/1b8400548ec9c8a7d98ba7f187390d9e.png",
+    "evaluate": "My name is Zhou Zhuo, a bottom-level errand boy in the North City underworld. The man in front of me now is my sister-in-law—the boss's man. And the reason he flew all the way here to catch me isn't just that I played with his feelings... it's also because I'm a hermaphrodite carrying his child. But wait—what did that fake boss just call him? Big Brother??",
+    "jpTitle": "",
+    "seasonTitle": "I Crawled into His Bed and Got Pregnant—Only to Learn He's the True Boss",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281046,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314584": {
+    "season_id": 314584,
+    "title": "The Little Dragon Fake Heir, Forced to Play the Villain",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/9411da9e8f3074d1e3459e4830ec1d13.jpg",
+    "evaluate": "He transmigrated into a dragon clan's fake young master, and the system forced him to be a villain. At one year old, he hugged his tail and cried \"rawr,\" making the whole family melt. His brother has a sharp tongue but a soft heart, and the real young master proposed as soon as he appeared. To avoid dragging them down, he personally planned his own nationwide cancellation. Until the coming-of-age ceremony, when he went into heat and bit his own brother.",
+    "jpTitle": "",
+    "seasonTitle": "The Little Dragon Fake Heir, Forced to Play the Villain",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281078,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 18,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 18,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314585": {
+    "season_id": 314585,
+    "title": "Open Up, Bro! This Is My House",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/d17411a5f06eb801397c3b959de7f400.png",
+    "evaluate": "Have you ever wondered, what if parallel worlds exist?\nWhile food vlogger Cheng Le was live-streaming a cake-making session, a stranger named Xie Jingyuan unlocked the door and walked in.\nBoth were shocked and called the police at the same time, each claiming it was their own home.\nBut the neighbors said they were a married couple, and a marriage certificate was actually found in the closet.\nAll nearby hotels and houses showed no vacancies, so they had no choice but to live together.\nJust as their feelings were slowly warming up, something big happened.",
+    "jpTitle": "",
+    "seasonTitle": "Open Up, Bro! This Is My House",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281096,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 14,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 14,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314587": {
+    "season_id": 314587,
+    "title": "The Gang Boss Has a Sweet Tooth",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/784c9371e5d97f8b7ec0fe05fd6890b1.png",
+    "evaluate": "Chen Xiaoman, a ruthless and terrifying gang boss in public, is secretly obsessed with sweets. After being rejected in a confession, he cries like a mess and gets caught by pastry chef Cheng Xun. Just as Chen Xiaoman is about to silence this innocent passerby, Cheng Xun calmly identifies the exact model of the gun in his hand — who exactly is this donut-making man?",
+    "jpTitle": "",
+    "seasonTitle": "The Gang Boss Has a Sweet Tooth",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281110,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 17,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 17,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314589": {
+    "season_id": 314589,
+    "title": "Don't Bite, You Little Dog—I'm Your Brother",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/d557a14fcdde4347fa2103f43275f553.png",
+    "evaluate": "My name is Qi Lishen, the adopted son of the Qi family. My adoptive parents' biological son, Qi Ye, went missing when he was five years old—fifteen years ago now. On their deathbeds, they kept telling me I had to find him. But when I finally did, he had already become a fool. I thought I was bringing home a poor, pitiful pup. I didn't expect a wild dog—not only food-aggressive, but baring his teeth. When I tell him to call me brother, he opens his mouth and barks. No choice—shut the door and slowly train him. But why—hey! This dog keeps climbing on top of me looking for candy! I'm the CEO of the Qi Corporation, and I'm fighting wits every day with a 1.9-meter-tall dumb dog. Wait. Is something off here? Clearly I was the one taming the dog, so why does it feel like I'm the one being tamed?",
+    "jpTitle": "",
+    "seasonTitle": "Don't Bite, You Little Dog—I'm Your Brother",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281134,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314590": {
+    "season_id": 314590,
+    "title": "After the Breakup, He Tied Me Up and Took Me Home",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/6152f624532a021fae59371340f9b97d.png",
+    "evaluate": "My name is Shen Fang, a top-tier director and known playboy in the entertainment industry—an ultimate alpha top. Directing is just my side job; sleeping with celebrities is the real goal. I set my sights on the newly crowned Best Actor Lu Shen—cold, restrained, with a sexy little mole by his nose. I called him into the lounge and slid a room key card toward him. He took it. But what I never expected was that I planned to sleep with him, and ended up being thoroughly conquered by him...",
+    "jpTitle": "",
+    "seasonTitle": "After the Breakup, He Tied Me Up and Took Me Home",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281151,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314591": {
+    "season_id": 314591,
+    "title": "Transmigrated as the Villain: The Male Lead Tutored Me Until My Lips Went Numb",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/af602acf55aa3ceecc9c4bcb30e29548.png",
+    "evaluate": "After transmigrating into a cannon fodder villain in a double male lead novel, I was throwing cash around to humiliate the male lead when the system warned: if I don't stop, he'll ruin me and my family. To survive, I changed my words on the spot—\"I'm buying you for one night to tutor me!\" Unexpectedly, the male lead agreed and showed up every day, feeding me mints and threatening to kiss me until I cried. It wasn't until a banquet that I discovered this \"poor student\" was actually the head of the Xiao family—and also the childhood friend I lost six years ago after losing my memory.",
+    "jpTitle": "",
+    "seasonTitle": "Transmigrated as the Villain: The Male Lead Tutored Me Until My Lips Went Numb",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281179,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314592": {
+    "season_id": 314592,
+    "title": "Love Returns After the Tide Goes Out",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/4f61188de89c6457e8c1871064d20f0b.png",
+    "evaluate": "When I found out I wasn't part of the Song family by blood, I turned and left. In the pouring rain, Song Qingyang clutched a stack of wish coupons and begged me to stay, but I still walked away. Two years later, we met again at university. Watching me shield my real brother Fang Yue behind me, his eyes turned ice-cold: \"Is it because you love him far more than you ever loved me?\"",
+    "jpTitle": "",
+    "seasonTitle": "Love Returns After the Tide Goes Out",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281243,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 17,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 17,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314593": {
+    "season_id": 314593,
+    "title": "Don't Mess With Me, Bro—I'm a Guy",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/17295af551a31d07930364c5d6bd477f.png",
+    "evaluate": "My name is Lin Xu, a totally straight guy. But after an accident, I got sucked into a campus romance novel my sister was reading. The good news: I awakened a system, and if I complete the romance mission, I can go home and get a hundred million. The bad news: the system glitched—it's making me romance the male lead, Gu Shen. Every day I tell myself: I'm straight. But every time Gu Shen gets close, my mouth reacts before my brain does. Every time he holds me, my hands respond before my heart does. The system says once the romance is successful, I can leave. But when he looked at me with red-rimmed eyes and said, 'Don't abandon me'—I think… I don't want to leave anymore.",
+    "jpTitle": "",
+    "seasonTitle": "Don't Mess With Me, Bro—I'm a Guy",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 00:00:00",
+      "pub_time_show": "10月14日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6281227,
+    "firstEpisodePublishedAt": 1791907200000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314760": {
+    "season_id": 314760,
+    "title": "黑岛监狱",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/68cbd674d46eba9486ce2dc0a4602896f0b39def.png",
+    "evaluate": "凌东国刑警廉明为了破获边境人口失踪案，也前往黑岛监狱卧底查案。南岭国退役特种兵文傍为了营救和自己相依为命的雅醇母女，被迫进入黑岛监狱服刑。狱中二人从互相敌对到彼此扶持，互助协作，勇敢对抗黑帮势力的同时，还要机智化解特殊身份给他们带来的重重危机。就在二人逐步揭开监狱犯罪真相的同时，一场更大的危险正在渐渐靠近……",
+    "jpTitle": "",
+    "seasonTitle": "黑岛监狱",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-23 12:00:00",
+      "pub_time_show": "09月23日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6357086,
+    "firstEpisodePublishedAt": 1790136002000,
+    "type": 5,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314769": {
+    "season_id": 314769,
+    "title": "2026山东卫视中秋晚会",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/46af26b35edbb0d8e807360e400ee07c6d82ccd0.jpg",
+    "evaluate": "《我们的节日·中秋——2026山东卫视中秋晚会》以“明月几时有 家国万里明”为主题，以“我们的节日”和“苏轼的月亮”为双叙事线索，深挖月亮文化、苏轼文化。运用诗词演诵、国风歌舞表演、民俗文化演绎、器乐演奏等多种艺术形态，打造具有家国情怀的中秋文化盛宴。",
+    "jpTitle": "",
+    "seasonTitle": "2026山东卫视中秋晚会",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-26 19:30:00",
+      "pub_time_show": "09月26日19:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6442394,
+    "firstEpisodePublishedAt": 1790429400000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "完整回顾"
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314774": {
+    "season_id": 314774,
+    "title": "除暴之路",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/80f8d71a73d9d01f2882145b51adc449fd50a997.png",
+    "evaluate": "怀揣明星梦的妹妹身陷娱乐公司犯罪漩涡，哥哥为救出亲人，与当地警察并肩行动，最终成功将社会中的黑恶势力铲除。",
+    "jpTitle": "",
+    "seasonTitle": "除暴之路",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-24 10:00:00",
+      "pub_time_show": "09月24日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6291081,
+    "firstEpisodePublishedAt": 1790215200000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314784": {
+    "season_id": 314784,
+    "title": "“月是故乡明”2026 海峡两岸（漳州）中秋晚会",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3bcb0a621fcccb05a0ae5bf5c6120873f10f505.jpg",
+    "evaluate": "举杯邀明月，两岸共此时。2026年9月23日19:30，皓月之下，碧波之上，湖光山色尽入怀。寇振海、吕薇、李翊君、陈佳、灼海豚、利晴天等两岸嘉宾与你相约漳州西湖，与天地共赴一场圆满之约。",
+    "jpTitle": "",
+    "seasonTitle": "“月是故乡明”2026 海峡两岸（漳州）中秋晚会",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-30 20:30:00",
+      "pub_time_show": "09月30日20:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6550438,
+    "firstEpisodePublishedAt": 1790771400000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "中秋晚会完整回顾"
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314785": {
+    "season_id": 314785,
+    "title": "我家的两岸故事·思源季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2807acc86bb25065e2ef6e0be0358a891656d649.jpg",
+    "evaluate": "寻根的路，山高水长；念念不忘，终有回响。系列微纪录片《我家的两岸故事·思源季》关注以不同方式追根溯源并在不同领域筑梦圆梦的台胞台青，深入挖掘和展现两岸文化同源与血脉联结，分享两岸融合发展的真切感受。本季节目入选国家广电总局“网络视听节目精品创作传播工程”。",
+    "jpTitle": "",
+    "seasonTitle": "我家的两岸故事·思源季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-20 00:00:01",
+      "pub_time_show": "2026年9月20日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6291639,
+    "firstEpisodePublishedAt": 1789897982000,
+    "type": 3,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "一脉连两岸 家国世代传",
+      "在这里点一盏回家的灯",
+      "两岸同胞携手 守护迁台记忆"
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 314785,
+        "title": "思源季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314788": {
+    "season_id": 314788,
+    "title": "2026中秋奇妙游",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/374889bc06f66b0ebc3c5d3b90ac98f9d30395c8.jpg",
+    "evaluate": " 2026中秋奇妙游以“月”为精神原点，以“月亮镇”为叙事容器，将散落在历史长河中的月光记忆重新打捞、编织、照亮。这里有人间烟火里的团圆温情，有跨越山海与时光的思念回响，有长征路上红旗漫卷的信仰之光，有坚守自我、挣脱命运的理想追寻。每一段故事，都是一次对“圆满”的不同作答。千万份人间至情在同一轮月下交汇，中秋便不再只是一个节日，它是中华文明对“天人合一”的千年追寻，是每一个普通人在生活跋涉中对光明的笃信。月光所及，皆是归途，你我皆是月光。",
+    "jpTitle": "",
+    "seasonTitle": "2026中秋奇妙游",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-24 19:30:00",
+      "pub_time_show": "09月24日19:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6429649,
+    "firstEpisodePublishedAt": 1790254800000,
+    "type": 7,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "完全回顾"
+    ],
+    "total": 1,
+    "seasons": [
+      {
+        "id": 208738,
+        "title": "2026元宵"
+      },
+      {
+        "id": 48634,
+        "title": "2024中秋节"
+      },
+      {
+        "id": 48854,
+        "title": "2024重阳奇妙游"
+      },
+      {
+        "id": 46145,
+        "title": "2023中秋节"
+      },
+      {
+        "id": 44555,
+        "title": "2023春节"
+      },
+      {
+        "id": 38201,
+        "title": "2021元宵节"
+      },
+      {
+        "id": 38194,
+        "title": "2021春晚"
+      },
+      {
+        "id": 250607,
+        "title": "2026端午"
+      },
+      {
+        "id": 314788,
+        "title": "2026中秋"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314796": {
+    "season_id": 314796,
+    "title": "前哨",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/dde4813b9156f1371fd51b9c26d6eba20cf118f2.png",
+    "evaluate": "影片故事将围绕53名美国士兵的真实故事展开，这些士兵与阿富汗东北部约400名敌方武装分子拉开持久的作战。他们所建造的前哨基地位于巴基斯坦边境仅14英里处的三处陡峭山脉底部。基地则面临塔利班恐怖分子的袭击。而驻扎在那里的士兵则面临着巨大威胁。",
+    "jpTitle": "",
+    "seasonTitle": "前哨",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-04 11:00:00",
+      "pub_time_show": "10月04日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6495431,
+    "firstEpisodePublishedAt": 1791082800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "314848": {
+    "season_id": 314848,
+    "title": "宠物系恋人",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c01f4e0b0dff6b26cdcacf0b27c4af6cca25e47d.png",
+    "evaluate": "天赋异禀的小厨娘唐小甜始终怀揣厨神梦想，却屡屡被“小人物不配有梦想”的外界偏见打击。十五年前，她在九星连珠夜的许愿池边，因争执随口说出的诅咒，意外让跋扈小男孩江以朗沦为“不时变猪”的受害者；十五年后，江以朗寻到唐小甜，二人因解除诅咒达成同盟，共赴澳门征战厨神大赛。旅程中，他们历经美食技艺的比拼、金钱诱惑的考验与旧有偏见的阻挠，在鸡飞狗跳的相处中渐生真情，最终不仅携手斩获大赛冠军，更收获了坚实的真爱与圆满的事业。",
+    "jpTitle": "",
+    "seasonTitle": "宠物系恋人",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-01 21:45:00",
+      "pub_time_show": "10月01日21:45",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388713,
+    "firstEpisodePublishedAt": 1790862300000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
   "315473": {
     "season_id": 315473,
     "title": "世界战史 真实二战",
@@ -136967,8 +138083,8 @@
         "title": "瞒天过海"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/3d944a6a39141682a77d1bea19c7a102dac43605.jpg",
     "firstEpisodePublishedAt": 1790242200000,
     "type": 3,
@@ -137031,8 +138147,8 @@
         "title": "瞒天过海"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/ea6ea9944dfdda9b9f715aeba232683703e9c015.jpg",
     "firstEpisodePublishedAt": 1790674200000,
     "type": 3,
@@ -137141,15 +138257,142 @@
       {
         "id": 315497,
         "title": "第20季"
+      },
+      {
+        "id": 332624,
+        "title": "诱饵篇 第十季"
       }
     ],
-    "checkedAt": "2026-10-13",
-    "richCheckedAt": "2026-10-13",
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/6ccd6aba5c60ca3b28a8d8bdccd42658f4b0ae42.png",
     "firstEpisodePublishedAt": 1791198000000,
     "type": 3,
     "available": true,
     "code": 0
+  },
+  "315697": {
+    "season_id": 315697,
+    "title": "随兴旅-That's Journey-",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b4d7f0a2a3d8165106c0eef19d6fe767504ff829.png",
+    "evaluate": "期盼成为漫画家的大学生——铃森千花，虽然获得新人奖，却为了迟迟无法获得连载机会而苦恼。于是，她萌生了\"好想去旅行\"的念头，并且在社交媒体上随性地举办了旅行地点的投票活动。没想到投票人数多到超乎想象，搞得自己骑虎难下！然而，她自身是真的拥有想去旅行的心情。既然如此，她便下定决心依靠问卷的结果，来一场毫无计划的随机旅行！有时独自一人，有时和朋友同行。\"正因如此，才会有意想不到的邂逅在等着我们。\" 随机旅行冒险（随兴旅），正式出发！",
+    "jpTitle": "",
+    "seasonTitle": "随兴旅-That's Journey-",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-09-28 16:59:00",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 1,
+      "weekday": 0
+    },
+    "firstEpisode": 6400055,
+    "firstEpisodePublishedAt": 1790585940000,
+    "type": 1,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "第1旅 最初的1225级台阶",
+      "第2旅 名不虚传！鲜溜的双人旅行",
+      "第3旅 就按那样的筋道"
+    ],
+    "total": 12,
+    "seasons": [
+      {
+        "id": 315697,
+        "title": "TV"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "315769": {
+    "season_id": 315769,
+    "title": "卓别林：流浪之心",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c1c753671ecdc499738961b9fd3ddda3169ce0fa.png",
+    "evaluate": "本片通过独家访谈及首度公开的卓别林家族档案，以私密口述、电影残片、家庭影像与当代罗姆艺术家创作参与为经纬，编织出一场对喜剧大师吉普赛血统的银幕考古。镜头穿透百年时光尘埃，在《流浪汉》的吊脚裤褶皱间，窥见一个流浪民族被遮蔽的精神胎记。",
+    "jpTitle": "",
+    "seasonTitle": "卓别林：流浪之心",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-07 11:00:00",
+      "pub_time_show": "10月07日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6584875,
+    "firstEpisodePublishedAt": 1791342000000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "315776": {
+    "season_id": 315776,
+    "title": "水上回光",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/236e2e99b5c1b935e1c5b5701b34ed867cc4cd00.png",
+    "evaluate": "本片是文德斯应尼古拉司·雷的邀请与其一同拍摄的纪录片，雷是美国著名的文艺片导演，最出名的作品包括《无因的叛逆》、《万王之王》等。本片真实地纪录了他生命最后岁月里的一些琐事，包括他本来要计划拍摄的绝唱，是关于一个画家远赴中国寻求医治良方的构思，但遗憾的是在纪录片还未发行前因癌症去世。本片忠实地描述了他对于死亡将临的感受。",
+    "jpTitle": "",
+    "seasonTitle": "水上回光",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-12 11:00:00",
+      "pub_time_show": "10月12日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6692557,
+    "firstEpisodePublishedAt": 1791774000000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "315777": {
+    "season_id": 315777,
+    "title": "健介的王国",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/89089ee02a6862f97845f5bc1d8743be5f501543.png",
+    "evaluate": "影片故事根据迈克尔·莫波格同名小说改编，讲述麦克坐船环游世界途中，他和小狗史特拉被风浪扫落大海。靠着一个足球，他们漂浮到一座荒岛。荒岛上住着一个二次世界大战因船难流亡的日本老兵健介。",
+    "jpTitle": "",
+    "seasonTitle": "健介的王国",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-10-14 11:00:00",
+      "pub_time_show": "10月14日11:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6762386,
+    "firstEpisodePublishedAt": 1791946800000,
+    "type": 2,
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
   },
   "319558": {
     "season_id": 319558,
@@ -138165,6 +139408,118 @@
       {
         "id": 331542,
         "title": "狄仁杰之不死军"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
+  },
+  "332624": {
+    "season_id": 332624,
+    "title": "恶海捕蟹记：诱饵篇 第十季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2ed69d7ca34a962ca6ea0d5e7857782e93d077ab.png",
+    "evaluate": "帝王蟹季遭遇美国政府停摆，捕捞窗口期大幅压缩；乔什・哈里斯夺回传奇渔船柯妮丽亚・玛丽号；西格 18 岁女儿曼迪・汉森登上西北号，成为本季最大争议看点，雪蟹季风暴与船舶机械故障持续威胁船队。",
+    "jpTitle": "",
+    "seasonTitle": "恶海捕蟹记：诱饵篇 第十季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-10-19 19:00:00",
+      "pub_time_show": "10月19日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 3,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 42966,
+        "title": "恶海捕蟹记 血脉篇1"
+      },
+      {
+        "id": 44155,
+        "title": "恶海捕蟹记 血脉篇2"
+      },
+      {
+        "id": 145015,
+        "title": "第1季"
+      },
+      {
+        "id": 162111,
+        "title": "第3季"
+      },
+      {
+        "id": 199747,
+        "title": "第4季"
+      },
+      {
+        "id": 210706,
+        "title": "第5季"
+      },
+      {
+        "id": 218544,
+        "title": "第8季"
+      },
+      {
+        "id": 225489,
+        "title": "第9季"
+      },
+      {
+        "id": 234110,
+        "title": "第10季"
+      },
+      {
+        "id": 236522,
+        "title": "第11季"
+      },
+      {
+        "id": 240483,
+        "title": "第12季"
+      },
+      {
+        "id": 249853,
+        "title": "第13季"
+      },
+      {
+        "id": 255285,
+        "title": "第14季"
+      },
+      {
+        "id": 260088,
+        "title": "第15季"
+      },
+      {
+        "id": 269688,
+        "title": "第15季 特辑"
+      },
+      {
+        "id": 272572,
+        "title": "第16季"
+      },
+      {
+        "id": 286323,
+        "title": "第17季"
+      },
+      {
+        "id": 291183,
+        "title": "第18季"
+      },
+      {
+        "id": 310300,
+        "title": "第19季"
+      },
+      {
+        "id": 315497,
+        "title": "第20季"
+      },
+      {
+        "id": 332624,
+        "title": "诱饵篇 第十季"
       }
     ],
     "available": true,
@@ -149916,5 +151271,35 @@
     "code": 0,
     "checkedAt": "2026-10-15",
     "richCheckedAt": "2026-10-15"
+  },
+  "335848": {
+    "season_id": 335848,
+    "title": "漫剧新260827002",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/5acbbcf3a295554986bca24c583b9853cd5872fb.jpg",
+    "evaluate": "小镇边缘住着一位守旧的老邮差，数十年间风雨无阻穿梭在山间小路，递送一封封来往信件。时代飞速发展，手机普及，纸质信件越来越少，邮局计划撤销这里的投递点。老邮差看着空空的邮包，心中满是怅然。一日，他收到一封没有收件人地址的信，拆开后才发现是多年前一位离家少年写下的家书，当年因故没能寄出。他循着模糊线索翻过山岭，找到了已经成家的少年。时隔多年，迟到的思念终于送达。这件小事也让镇上的人重新看见书信独有的温度。老邮差依旧走在熟悉山道，不再执着于信件数量，而是珍惜每一份托付，平淡的日子里，延续着一份温柔的坚守。",
+    "jpTitle": "",
+    "seasonTitle": "漫剧新260827002",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-27 17:42:02",
+      "pub_time_show": "08月27日17:42",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6839842,
+    "firstEpisodePublishedAt": 1791975001000,
+    "type": 12,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "video001",
+      "video002"
+    ],
+    "total": 13,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-16"
   }
 }
