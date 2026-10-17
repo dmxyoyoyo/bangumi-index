@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1909,
-    "lastSuccessfulRefresh": "2026-10-16T15:50:59.940Z",
+    "lastSuccessfulRefresh": "2026-10-17T01:43:50.378Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -111,7 +111,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/621108",
       "date": "2026/10",
-      "episodes": 1,
+      "episodes": 2,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114200"
@@ -1012,7 +1012,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114201",
       "date": "2026/10",
-      "episodes": 2,
+      "episodes": 3,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114201"
@@ -1123,7 +1123,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114199",
       "date": "2026/10",
-      "episodes": 4,
+      "episodes": 5,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114199"
@@ -2227,7 +2227,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114133",
       "date": "2026/07",
-      "episodes": 15,
+      "episodes": 16,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114133"
@@ -2258,7 +2258,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114111",
       "date": "2026/07",
-      "episodes": 15,
+      "episodes": 16,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114111"
@@ -2936,8 +2936,8 @@
       "classification": {
         "attributes": [
           "料理",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -3872,7 +3872,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114053",
       "date": "2026/04",
-      "episodes": 27,
+      "episodes": 28,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114053"
@@ -4997,8 +4997,8 @@
           "奇幻",
           "戀愛",
           "溫馨",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -10925,8 +10925,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -12143,6 +12143,35 @@
       "classification": {
         "attributes": [
           "動作",
+          "魔法",
+          "奇幻",
+          "喜劇",
+          "悠閒"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113641,
+      "title": "Acro Trip 顶尖恶路",
+      "officialTitle": "Acro Trip 頂尖惡路",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/03/0000128903.JPG",
+      "japaneseTitle": "アクロトリップ",
+      "originalTitle": "アクロトリップ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128903",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113641",
+      "date": "2024/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113641"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
           "冒險",
           "異世界",
           "魔法",
@@ -12169,35 +12198,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113642"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "魔法",
-          "奇幻",
-          "喜劇",
-          "悠閒"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113641,
-      "title": "Acro Trip 顶尖恶路",
-      "officialTitle": "Acro Trip 頂尖惡路",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/03/0000128903.JPG",
-      "japaneseTitle": "アクロトリップ",
-      "originalTitle": "アクロトリップ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128903",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113641",
-      "date": "2024/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113641"
     },
     {
       "classification": {
@@ -19453,6 +19453,34 @@
     {
       "classification": {
         "attributes": [
+          "奇幻",
+          "戀愛"
+        ],
+        "types": [
+          "泡麵番"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114077,
+      "title": "被遗忘的皇女只想平静生活",
+      "officialTitle": "被遺忘的皇女只想平靜生活",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000151514.JPG",
+      "japaneseTitle": "",
+      "originalTitle": "The Forgotten Princess Just Wants Peace",
+      "originalStatus": "non-japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=151514",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114077",
+      "date": "2023/05",
+      "episodes": 10,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114077"
+    },
+    {
+      "classification": {
+        "attributes": [
           "超能力",
           "校園",
           "戀愛",
@@ -19479,34 +19507,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114076"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "奇幻",
-          "戀愛"
-        ],
-        "types": [
-          "泡麵番"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114077,
-      "title": "被遗忘的皇女只想平静生活",
-      "officialTitle": "被遺忘的皇女只想平靜生活",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000151514.JPG",
-      "japaneseTitle": "",
-      "originalTitle": "The Forgotten Princess Just Wants Peace",
-      "originalStatus": "non-japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=151514",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114077",
-      "date": "2023/05",
-      "episodes": 10,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114077"
     },
     {
       "classification": {
@@ -21892,33 +21892,6 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113193,
-      "title": "银砂糖师与黑妖精～sugar apple fairy tale～",
-      "officialTitle": "銀砂糖師與黑妖精～sugar apple fairy tale～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000126284.JPG",
-      "japaneseTitle": "シュガーアップル・フェアリーテイル",
-      "originalTitle": "シュガーアップル・フェアリーテイル",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=126284",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113193",
-      "date": "2023/01",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113193"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
-          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -21940,6 +21913,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113202"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "戀愛"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113193,
+      "title": "银砂糖师与黑妖精～sugar apple fairy tale～",
+      "officialTitle": "銀砂糖師與黑妖精～sugar apple fairy tale～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000126284.JPG",
+      "japaneseTitle": "シュガーアップル・フェアリーテイル",
+      "originalTitle": "シュガーアップル・フェアリーテイル",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=126284",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113193",
+      "date": "2023/01",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113193"
     },
     {
       "classification": {
@@ -31629,33 +31629,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "魔法",
-          "校園"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112476,
-      "title": "BURN THE WITCH 龙与魔女",
-      "officialTitle": "BURN THE WITCH 龍與魔女",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000110536.JPG",
-      "japaneseTitle": "BURN THE WITCH",
-      "originalTitle": "BURN THE WITCH",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/302293",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112476",
-      "date": "2020/10",
-      "episodes": 3,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112476"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "奇幻",
           "超能力",
           "校園",
@@ -31683,6 +31656,33 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112457"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "魔法",
+          "校園"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112476,
+      "title": "BURN THE WITCH 龙与魔女",
+      "officialTitle": "BURN THE WITCH 龍與魔女",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000110536.JPG",
+      "japaneseTitle": "BURN THE WITCH",
+      "originalTitle": "BURN THE WITCH",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/302293",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112476",
+      "date": "2020/10",
+      "episodes": 3,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112476"
     },
     {
       "classification": {
@@ -33661,8 +33661,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -36001,6 +36001,34 @@
     {
       "classification": {
         "attributes": [
+          "冒險",
+          "奇幻",
+          "血腥暴力",
+          "黑暗"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 94032,
+      "title": "哥布林杀手",
+      "officialTitle": "哥布林殺手",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
+      "japaneseTitle": "ゴブリンスレイヤー",
+      "originalTitle": "ゴブリンスレイヤー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/238006",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/238006",
+      "date": "2018/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "異世界",
@@ -36032,36 +36060,8 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "血腥暴力",
-          "黑暗"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 94032,
-      "title": "哥布林杀手",
-      "officialTitle": "哥布林殺手",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
-      "japaneseTitle": "ゴブリンスレイヤー",
-      "originalTitle": "ゴブリンスレイヤー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/238006",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/238006",
-      "date": "2018/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -37789,6 +37789,32 @@
     {
       "classification": {
         "attributes": [
+          "戀愛",
+          "GL"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 86010,
+      "title": "citrus～柑橘味香气～",
+      "officialTitle": "citrus～柑橘味香氣～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000086010.JPG",
+      "japaneseTitle": "シトラス",
+      "originalTitle": "シトラス",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=86010",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/198098",
+      "date": "2018/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=86010"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "奇幻"
@@ -37812,32 +37838,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=85205"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "戀愛",
-          "GL"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 86010,
-      "title": "citrus～柑橘味香气～",
-      "officialTitle": "citrus～柑橘味香氣～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000086010.JPG",
-      "japaneseTitle": "シトラス",
-      "originalTitle": "シトラス",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=86010",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/198098",
-      "date": "2018/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=86010"
     },
     {
       "classification": {
@@ -41572,8 +41572,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -51535,8 +51535,8 @@
       "classification": {
         "attributes": [
           "戀愛",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [
           "電影"

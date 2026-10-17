@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1909,
-    "lastSuccessfulRefresh": "2026-10-16T15:50:59.940Z"
+    "lastSuccessfulRefresh": "2026-10-17T01:43:50.378Z"
   },
   "items": [
     {
@@ -73,7 +73,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000149241.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 1,
+      "totalEpisode": 2,
       "popular": 39530,
       "highlightTag": {
         "bilingual": false,
@@ -681,7 +681,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/12/0000149012.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 2,
+      "totalEpisode": 3,
       "popular": 55321,
       "highlightTag": {
         "bilingual": false,
@@ -727,7 +727,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 3.7
+      "score": 3.8
     },
     {
       "acgSn": 149355,
@@ -757,7 +757,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000150697.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 4,
+      "totalEpisode": 5,
       "popular": 32689,
       "highlightTag": {
         "bilingual": false,
@@ -1498,7 +1498,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/91/0000148591.JPG",
       "dateInfo": "年份：2026/07",
-      "totalEpisode": 15,
+      "totalEpisode": 16,
       "popular": 354389,
       "highlightTag": {
         "bilingual": false,
@@ -1517,7 +1517,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/59/0000150959.JPG",
       "dateInfo": "年份：2026/07",
-      "totalEpisode": 15,
+      "totalEpisode": 16,
       "popular": 39186,
       "highlightTag": {
         "bilingual": false,
@@ -2600,7 +2600,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000141989.JPG",
       "dateInfo": "年份：2026/04",
-      "totalEpisode": 27,
+      "totalEpisode": 28,
       "popular": 217359,
       "highlightTag": {
         "bilingual": false,
@@ -8178,25 +8178,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 131251,
-      "animeSn": 113642,
-      "videoSn": 40260,
-      "title": "Re：從零開始的異世界生活 第三季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000131251.JPG",
-      "dateInfo": "年份：2024/10",
-      "totalEpisode": 16,
-      "popular": 5274757,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 128903,
       "animeSn": 113641,
       "videoSn": 40126,
@@ -8214,6 +8195,25 @@
         "newArrival": false
       },
       "score": 4.5
+    },
+    {
+      "acgSn": 131251,
+      "animeSn": 113642,
+      "videoSn": 40260,
+      "title": "Re：從零開始的異世界生活 第三季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000131251.JPG",
+      "dateInfo": "年份：2024/10",
+      "totalEpisode": 16,
+      "popular": 5274757,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 131860,
@@ -13080,25 +13080,6 @@
       "score": 3.4
     },
     {
-      "acgSn": 151507,
-      "animeSn": 114076,
-      "videoSn": 49266,
-      "title": "拜託！請去死吧！",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/07/0000151507.JPG",
-      "dateInfo": "年份：2023/05",
-      "totalEpisode": 11,
-      "popular": 6219,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 2.7
-    },
-    {
       "acgSn": 151514,
       "animeSn": 114077,
       "videoSn": 49277,
@@ -13116,6 +13097,25 @@
         "newArrival": false
       },
       "score": 3.4
+    },
+    {
+      "acgSn": 151507,
+      "animeSn": 114076,
+      "videoSn": 49266,
+      "title": "拜託！請去死吧！",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/07/0000151507.JPG",
+      "dateInfo": "年份：2023/05",
+      "totalEpisode": 11,
+      "popular": 6219,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 2.7
     },
     {
       "acgSn": 128661,
@@ -14752,25 +14752,6 @@
       "score": 3.3
     },
     {
-      "acgSn": 126284,
-      "animeSn": 113193,
-      "videoSn": 32336,
-      "title": "銀砂糖師與黑妖精～sugar apple fairy tale～",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000126284.JPG",
-      "dateInfo": "年份：2023/01",
-      "totalEpisode": 24,
-      "popular": 1255662,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
       "acgSn": 123617,
       "animeSn": 113202,
       "videoSn": 32347,
@@ -14788,6 +14769,25 @@
         "newArrival": false
       },
       "score": 4.2
+    },
+    {
+      "acgSn": 126284,
+      "animeSn": 113193,
+      "videoSn": 32336,
+      "title": "銀砂糖師與黑妖精～sugar apple fairy tale～",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000126284.JPG",
+      "dateInfo": "年份：2023/01",
+      "totalEpisode": 24,
+      "popular": 1255662,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
     },
     {
       "acgSn": 129504,
@@ -21288,25 +21288,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 110536,
-      "animeSn": 112476,
-      "videoSn": 18422,
-      "title": "BURN THE WITCH 龍與魔女",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000110536.JPG",
-      "dateInfo": "年份：2020/10",
-      "totalEpisode": 3,
-      "popular": 337744,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 108886,
       "animeSn": 112457,
       "videoSn": 18626,
@@ -21319,6 +21300,25 @@
       "popular": 25260342,
       "highlightTag": {
         "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
+      "acgSn": 110536,
+      "animeSn": 112476,
+      "videoSn": 18422,
+      "title": "BURN THE WITCH 龍與魔女",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000110536.JPG",
+      "dateInfo": "年份：2020/10",
+      "totalEpisode": 3,
+      "popular": 337744,
+      "highlightTag": {
+        "bilingual": false,
         "edition": "",
         "vipTime": "",
         "newArrival": false
@@ -24214,25 +24214,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 94804,
-      "animeSn": 112438,
-      "videoSn": 17334,
-      "title": "Re：從零開始的異世界生活 Memory Snow",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000094804.JPG",
-      "dateInfo": "年份：2018/10",
-      "totalEpisode": 1,
-      "popular": 288809,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 94032,
       "animeSn": 94032,
       "videoSn": 10852,
@@ -24243,6 +24224,25 @@
       "dateInfo": "年份：2018/10",
       "totalEpisode": 13,
       "popular": 6638192,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
+    },
+    {
+      "acgSn": 94804,
+      "animeSn": 112438,
+      "videoSn": 17334,
+      "title": "Re：從零開始的異世界生活 Memory Snow",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000094804.JPG",
+      "dateInfo": "年份：2018/10",
+      "totalEpisode": 1,
+      "popular": 288809,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -25411,25 +25411,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 85205,
-      "animeSn": 85205,
-      "videoSn": 14080,
-      "title": "七大罪 戒律的復活",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/05/0000085205.JPG",
-      "dateInfo": "年份：2018/01",
-      "totalEpisode": 24,
-      "popular": 2078985,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
-    },
-    {
       "acgSn": 86010,
       "animeSn": 86010,
       "videoSn": 9309,
@@ -25447,6 +25428,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 85205,
+      "animeSn": 85205,
+      "videoSn": 14080,
+      "title": "七大罪 戒律的復活",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/05/0000085205.JPG",
+      "dateInfo": "年份：2018/01",
+      "totalEpisode": 24,
+      "popular": 2078985,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
     },
     {
       "acgSn": 88795,

@@ -45,8 +45,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1461898620000,
+    "type": 4,
+    "code": 0
   },
   "5626": {
     "season_id": 5626,
@@ -94,8 +97,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1577534400000,
+    "type": 4,
+    "code": 0
   },
   "23780": {
     "season_id": 23780,
@@ -8507,8 +8513,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1568883660000,
+    "type": 3,
+    "code": 0
   },
   "28760": {
     "season_id": 28760,
@@ -9729,6 +9738,46 @@
     "available": true,
     "code": 0
   },
+  "37623": {
+    "season_id": 37623,
+    "title": "门捷列夫很忙",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/0e0e15f175922dd96b03388d76635783dc0ea358.png",
+    "evaluate": "以著名化学家门捷列夫的动画形象为串联，带领观众了解元素发现的历史；认识对于宇宙和我们最为重要的氢、氧、碳、氮元素；领略有毒元素的威力以及它们的功用；最活跃和最不活跃的金属、非金属元素的特质；以及对人类文明进程起到关键作用的碳、硅、铀、铁等元素的故事。通过充满趣味性的知识介绍，向广大中国受众普及化学基本知识，提高全民科学素养。",
+    "jpTitle": "",
+    "seasonTitle": "门捷列夫很忙",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2021-01-06 19:00:00",
+      "pub_time_show": "2021年01月06日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 377412,
+    "firstEpisodePublishedAt": 1609930800000,
+    "type": 3,
+    "episodeCount": 5,
+    "episodeTitles": [
+      "门捷列夫是怎样“炼”成的",
+      "四大天王",
+      "你好毒"
+    ],
+    "total": 5,
+    "seasons": [
+      {
+        "id": 37623,
+        "title": "第一季"
+      },
+      {
+        "id": 318214,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
   "37710": {
     "season_id": 37710,
     "title": "鬼影实录5：鬼次元",
@@ -10702,8 +10751,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1689739200000,
+    "type": 4,
+    "code": 0
   },
   "39668": {
     "season_id": 39668,
@@ -10735,8 +10787,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1703210400000,
+    "type": 4,
+    "code": 0
   },
   "39773": {
     "season_id": 39773,
@@ -11723,8 +11778,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1661769000000,
+    "type": 3,
+    "code": 0
   },
   "42966": {
     "season_id": 42966,
@@ -12164,8 +12222,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1717556400000,
+    "type": 4,
+    "code": 0
   },
   "43547": {
     "season_id": 43547,
@@ -12213,8 +12274,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1690632001000,
+    "type": 4,
+    "code": 0
   },
   "44140": {
     "season_id": 44140,
@@ -13446,8 +13510,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1717819200000,
+    "type": 4,
+    "code": 0
   },
   "45964": {
     "season_id": 45964,
@@ -13514,8 +13581,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1712545200000,
+    "type": 4,
+    "code": 0
   },
   "46134": {
     "season_id": 46134,
@@ -14294,8 +14364,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1732276800000,
+    "type": 4,
+    "code": 0
   },
   "48634": {
     "season_id": 48634,
@@ -16030,8 +16103,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0
@@ -16078,8 +16151,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0
@@ -17785,8 +17858,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "218544": {
     "season_id": 218544,
@@ -28082,7 +28155,7 @@
     "title": "One Piece",
     "evaluate": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n",
     "userTitle": "海贼王",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "One Piece",
@@ -28094,9 +28167,13 @@
       "unknow_pub_date": 0,
       "weekday": 0
     },
-    "firstEpisode": null,
-    "episodeCount": 0,
-    "episodeTitles": [],
+    "firstEpisode": 5420201,
+    "episodeCount": 1204,
+    "episodeTitles": [
+      "I'm Luffy! The Man Who Will Become the Pirate King!",
+      "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+      "Morgan VS Luffy! Who`s This Beautiful Young Girl?"
+    ],
     "total": 1204,
     "seasons": [
       {
@@ -28208,10 +28285,10 @@
         "title": "SP11"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png",
     "available": true,
-    "firstEpisodePublishedAt": null,
+    "firstEpisodePublishedAt": 1630429200000,
     "type": 1,
     "code": 0
   },
@@ -54075,13 +54152,13 @@
     "season_id": 274247,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-10-16"
+    "checkedAt": "2026-10-17"
   },
   "274249": {
     "season_id": 274249,
     "title": "Nyaruko: Crawling With Love! Second Season",
     "evaluate": "No info available",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "jpTitle": "",
     "seasonTitle": "Nyaruko: Crawling With Love! Second Season",
     "publish": {
@@ -54110,7 +54187,7 @@
         "title": "S2"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/f2b748e3b9ca7614b5b449718db704c3.png",
     "firstEpisodePublishedAt": 1608830220000,
     "type": 1,
@@ -62036,7 +62113,7 @@
     "title": "Redo of Healer",
     "evaluate": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. ",
     "userTitle": "回复术士的重启人生",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Redo of Healer",
@@ -62057,7 +62134,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png",
     "available": true,
     "firstEpisodePublishedAt": 1613121192000,
@@ -71994,7 +72071,7 @@
     "title": "Combatants Will Be Dispatched!",
     "evaluate": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations!\n",
     "userTitle": "战斗员派遣中",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Combatants Will Be Dispatched!",
@@ -72015,7 +72092,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png",
     "available": true,
     "firstEpisodePublishedAt": 1617543000000,
@@ -74020,7 +74097,7 @@
     "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
     "evaluate": "Keiki Kiryu, an ordinary high school student who didn't have a girlfriend during his lifetime, suddenly receives a love letter, and a romantic comedy begins. The letter does not contain the sender's name, but the letter does contain white panties. In addition to finding the pervert peculiar, Keiki was desperate to have him participate in the perverted behavior of these several girls who surround him...",
     "userTitle": "只要可爱即使是变态你也会喜欢我吧？",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
@@ -74041,7 +74118,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png",
     "available": true,
     "firstEpisodePublishedAt": 1623168000000,
@@ -79517,7 +79594,7 @@
     "title": "Strike the Blood",
     "evaluate": "The Fourth Primogenitor, who is the world's strongest vampire that only exists in legends. Accompanied by twelve Kenjuu and spreading calamity, rumor says that this phantom vampire appeared in Japan finally. For the purpose of observation and obliteration, the government and Lion King organization decided to dispatch an attack mage known as a Sword Shaman. However, for some reason, the one chosen for the observation was an apprentice Sword Shaman girl, Himegari Yukina. Wielding the strongest anti-primogenitor spirit spear, Yukina arrived at Demon District, Itogami City. So what is the true identity of Akatsuki Kojou, the 4th Progenitor she meets!?",
     "userTitle": "噬血狂袭",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Strike the Blood",
@@ -79538,7 +79615,7 @@
     ],
     "total": 24,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1640358000000,
@@ -89157,7 +89234,7 @@
     "title": "Chainsaw Man",
     "evaluate": "To spend quality time with the girl he likes and lead a contented life is Denji's simple and ordinary dream. This, however, is far from the truth because Denji's fate is to be made to kill demons by the gang in order to settle his enormous debt. Turning his pet demon Pochita into a weapon, Denji will use any means necessary to make money.\n\nUnfortunately, the demon who had a deal with the gang killed him because he was no longer needed. Pochita, in a shocking turn of events, fuses with Denji's corpse and grants him the abilities of a chainsaw demon. The revived Denji uses his newfound abilities to swiftly and mercilessly eliminate his enemies. Denji gains the ability to transform certain parts of his body into a chainsaw. When the official witcher arrived on the scene, this attracted his attention, and the witcher hired Denji to work as one of them in the Public Security Bureau. Denji now has a strategy for defeating any foe, no matter how formidable, and he will go to any lengths to fulfill his simple teenage dream.",
     "userTitle": "电锯人",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Chainsaw Man",
@@ -89178,7 +89255,7 @@
     ],
     "total": 13,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png",
     "available": true,
     "firstEpisodePublishedAt": 1665504000000,
@@ -90422,7 +90499,7 @@
     "season_id": 278052,
     "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "evaluate": "Second season of BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.\n\nAfter an enthusiastic invitation from her friend, Kaede Honjou reluctantly agrees to try New World Online: a very popular VRMMO played by thousands of people across Japan. Naming her in-game character Maple, she sets out on her journey. As a complete novice to such games, she allocates all of her stat points into vitality, desiring to not get hurt. With not a single point in any other stat, Maple has extraordinarily high defense, but she can't move quickly or hit hard.\n\nDespite her overpowered character, Kaede has much to learn. As she progresses through the game, she meets new friends and acquaintances, helping her complete new levels and events. Through all of her adventures, she may even pick up some other crazy skills that exceed all expectations.",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "jpTitle": "",
     "seasonTitle": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "publish": {
@@ -90467,7 +90544,7 @@
         "title": "S2 Dub Indo"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/8640eef8c452869a6cc753383033cc4a.png",
     "firstEpisodePublishedAt": 1673451000000,
     "type": 1,
@@ -91161,7 +91238,7 @@
     "title": "Onimai: I'm Now Your Sister!",
     "evaluate": "Mahiro Oyama was just a normal erotic-game-loving dude...until he woke up one morning as a girl! Turns out his mad-scientist little sister, Mihari, tried out one of her new experiments on him. But Mihari is as determined to study him as he wanted to go back to his shut-in and game-playing life... Life is going to get a whole lot weirder from here on out!",
     "userTitle": "别当欧尼酱了",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Onimai: I'm Now Your Sister!",
@@ -91182,7 +91259,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1672932600000,
@@ -91723,7 +91800,7 @@
     "season_id": 278092,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-10-16"
+    "checkedAt": "2026-10-17"
   },
   "278093": {
     "season_id": 278093,
@@ -92806,7 +92883,7 @@
     "season_id": 278118,
     "title": "【Oshi No Ko】",
     "evaluate": "In the entertainment industry, lying is the weapon.\nEvery day, Goro, an obstetrician and gynecologist who works in a small city, leads a life unrelated to the entertainment business.\nYet, the idol Hoshino Ai that he \"followed\" started to move up the list of stars.\nSuch two realized their worst-case scenario, and from that point on, the wheels of fate started to turn.",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "userTitle": "我推的孩子",
     "jpTitle": "",
@@ -92837,7 +92914,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png",
     "available": true,
     "firstEpisodePublishedAt": 1681311600000,
@@ -96732,7 +96809,7 @@
     "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "evaluate": "Aijou Rentarou has an excellent reputation among females but has never been able to find a girlfriend because every lady he had a crush on has categorically rejected him. Since junior high, he has gone through 100 heartbreaks. The other day, the Love God appears while Aijou prays in a shrine and predicts that she will meet 100 soulmates in high school. All the girls would pass away due to various bad circumstances if their connection with him fails. Aijou must now make the choice between love and death.",
     "userTitle": "超超超喜欢你的100个女朋友",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
@@ -96762,7 +96839,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png",
     "available": true,
     "firstEpisodePublishedAt": 1696773600000,
@@ -103486,7 +103563,7 @@
     "season_id": 278723,
     "title": "Into the Mortal World",
     "evaluate": "The anime tells the tale of a god who is in charge of \"herding stars\" and his mischievous sister. This anime creatively connects weaving with the celestial bodies above, retaining the mythological aspects of traditional Chinese culture while also introducing some new ideas.",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "jpTitle": "",
     "seasonTitle": "Into the Mortal World",
     "publish": {
@@ -103502,7 +103579,7 @@
     "episodeTitles": [],
     "total": 0,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/e62c9d5614cb2f3cb99fdea7b2c5f310.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -111804,7 +111881,7 @@
     "title": "MARRIAGETOXIN",
     "evaluate": "For centuries, the \"Users\" have honed the art of killing. Among them, the most powerful and influential are the Five Great Families—most notably, the \"Poison Users.\" Hikaru Gero, a young man born into this lineage, lives as a professional assassin, having spent his life avoiding any ties to women. To him, marriage has always been a distant concept.\nBut when the head of the Gero family declares that his sister will be forced to bear an heir to preserve their bloodline, everything changes.\nAmidst this crisis, Hikaru encounters Mei Kinosaki, a brilliant marriage swindler—and his latest target.\n\nDetermined to protect his sister and resolve the succession issue, Hikaru comes up with an unexpected solution: he will marry himself. On the spot, he asks Mei to help him find a wife.\n\"That’s the first time I’ve ever heard a proposal like that.\"\nThus begins an unlikely partnership: an elite assassin and a master con artist. With Mei as his advisor, Hikaru embarks on the most difficult mission of his life—finding a bride.\n\nHis goal: the perfect marriage. A high-stakes “marriage-hunting” battle action unfolds, as this deadly duo takes on the toughest mission in the world!",
     "userTitle": "婚姻剧毒",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "MARRIAGETOXIN",
@@ -111825,7 +111902,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png",
     "available": true,
     "firstEpisodePublishedAt": 1775572200000,
@@ -112486,7 +112563,7 @@
     "title": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
     "evaluate": "A concept proposed by Shimahara (40hara) of the doujin circle “Animal Machine,” later developed into a series of situational illustrations.\n\nThe works center on various character archetypes—such as maids, gyaru, office ladies, nurses, and shrine maidens—often portraying a contrast between aloof or disdainful expressions and provocative, teasing presentation. By blending these seemingly opposing elements, the series establishes a highly niche style that delivers a strong, distinctive appeal.\n\nFirst published as doujin works in 2015, the series will celebrate its 10th anniversary in 2025.\nAn anime adaptation debuted in 2018, with this title marking the fourth installment in the animated series.",
     "userTitle": "一脸嫌弃表情的妹子给你看胖次",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
@@ -112507,7 +112584,7 @@
     ],
     "total": 6,
     "seasons": [],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png",
     "available": true,
     "firstEpisodePublishedAt": 1777554000000,
@@ -113762,7 +113839,7 @@
     "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "evaluate": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n\nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.",
     "userTitle": "无职转生第三季",
-    "checkedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -113812,7 +113889,7 @@
         "title": "S3 (Thai ver.)"
       }
     ],
-    "richCheckedAt": "2026-10-16",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
     "available": true,
     "firstEpisodePublishedAt": 1783162800000,
@@ -117692,8 +117769,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 2,
@@ -118632,8 +118709,8 @@
         "title": "2026年"
       }
     ],
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 7,
@@ -118694,8 +118771,8 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "available": true,
     "firstEpisodePublishedAt": 1787313660000,
     "type": 3,
@@ -118865,7 +118942,7 @@
     "jpTitle": "",
     "seasonTitle": "Wow English 第1季",
     "publish": {
-      "is_finish": 0,
+      "is_finish": 1,
       "is_started": 1,
       "pub_time": "2026-08-24 17:00:00",
       "pub_time_show": "08月24日17:00",
@@ -118879,7 +118956,7 @@
       "Wow English 第1季 第2集 - 史蒂夫的彩色降落伞",
       "Wow English 第1季 第3集 - 完美的游戏屋"
     ],
-    "total": 0,
+    "total": 37,
     "seasons": [
       {
         "id": 288157,
@@ -118890,8 +118967,12 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787562000000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "288158": {
     "season_id": 288158,
@@ -118901,7 +118982,7 @@
     "jpTitle": "",
     "seasonTitle": "Wow English 第2季",
     "publish": {
-      "is_finish": 0,
+      "is_finish": 1,
       "is_started": 1,
       "pub_time": "2026-08-24 17:00:00",
       "pub_time_show": "08月24日17:00",
@@ -118915,7 +118996,7 @@
       "Wow English 第2季 第2集 - 迪斯科灯光",
       "Wow English 第2季 第3集 - 飞行书"
     ],
-    "total": 0,
+    "total": 37,
     "seasons": [
       {
         "id": 288157,
@@ -118926,8 +119007,12 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787562000000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "288161": {
     "season_id": 288161,
@@ -118937,7 +119022,7 @@
     "jpTitle": "",
     "seasonTitle": "珍妮马斯：小毛球宇宙探索队 第一季",
     "publish": {
-      "is_finish": 0,
+      "is_finish": 1,
       "is_started": 1,
       "pub_time": "2026-08-26 17:00:00",
       "pub_time_show": "08月26日17:00",
@@ -118951,7 +119036,7 @@
       "小毛球宇宙探索队",
       "太阳生病了"
     ],
-    "total": 0,
+    "total": 27,
     "seasons": [
       {
         "id": 288161,
@@ -118962,8 +119047,12 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787734800000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "288211": {
     "season_id": 288211,
@@ -119125,9 +119214,13 @@
         "title": "乔丹比赛系列"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1b5c5d8aae9427928855974d5526a0b79b8730a7.jpg"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1b5c5d8aae9427928855974d5526a0b79b8730a7.jpg",
+    "firstEpisodePublishedAt": 1788167133000,
+    "type": 9,
+    "available": true,
+    "code": 0
   },
   "288238": {
     "season_id": 288238,
@@ -119153,8 +119246,12 @@
     ],
     "total": 3,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787187600000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "288858": {
     "season_id": 288858,
@@ -119190,8 +119287,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787576374000,
+    "type": 3,
+    "code": 0
   },
   "288867": {
     "season_id": 288867,
@@ -119227,8 +119327,11 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1787889600000,
+    "type": 3,
+    "code": 0
   },
   "289193": {
     "season_id": 289193,
@@ -120685,8 +120788,8 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7cbd6f657d8696500140f023a5f3056f.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1787493600000,
@@ -120946,8 +121049,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3ae035fa0e7f6b4f3269fe6aa69f2d92ebd13d4.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -125205,8 +125308,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "303935": {
     "season_id": 303935,
@@ -126864,8 +126967,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "306788": {
     "season_id": 306788,
@@ -126894,8 +126997,8 @@
     "total": 12,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "code": 0
   },
   "307572": {
@@ -127291,8 +127394,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310199": {
     "season_id": 310199,
@@ -127581,8 +127684,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310836": {
     "season_id": 310836,
@@ -127608,8 +127711,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310837": {
     "season_id": 310837,
@@ -127635,8 +127738,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310838": {
     "season_id": 310838,
@@ -127662,8 +127765,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310839": {
     "season_id": 310839,
@@ -127689,8 +127792,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310840": {
     "season_id": 310840,
@@ -127716,8 +127819,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310841": {
     "season_id": 310841,
@@ -127743,8 +127846,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310842": {
     "season_id": 310842,
@@ -127754,24 +127857,26 @@
     "jpTitle": "",
     "seasonTitle": "高空飞行",
     "publish": {
-      "is_finish": 0,
-      "is_started": 0,
+      "is_finish": 1,
+      "is_started": 1,
       "pub_time": "2026-10-16 11:00:00",
       "pub_time_show": "10月16日11:00",
       "unknow_pub_date": 0,
       "weekday": 0
     },
-    "firstEpisode": null,
-    "firstEpisodePublishedAt": null,
+    "firstEpisode": 6762522,
+    "firstEpisodePublishedAt": 1792119600000,
     "type": 2,
-    "episodeCount": 0,
-    "episodeTitles": [],
+    "episodeCount": 1,
+    "episodeTitles": [
+      ""
+    ],
     "total": 1,
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "310843": {
     "season_id": 310843,
@@ -128678,8 +128783,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "312205": {
     "season_id": 312205,
@@ -138394,6 +138499,3218 @@
     "checkedAt": "2026-10-16",
     "richCheckedAt": "2026-10-16"
   },
+  "317438": {
+    "season_id": 317438,
+    "title": "中国尘封罪案实录",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/34e3c854c22892f8213a40098f3ee8c6d8170734.png",
+    "evaluate": "该节目以AI影视技术制作，聚焦1980—2000年代中国社会转型期的年代罪案纪录片。采用\"真实背景+戏剧创作\"的手法，将镜头对准那些散落在地方档案、老报纸边角和民间记忆中的\"非著名\"大案——它们或许没有被写入《中国刑侦一号案》，却真切地折射出一个时代的阵痛。",
+    "jpTitle": "",
+    "seasonTitle": "中国尘封罪案实录",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-09-24 18:30:00",
+      "pub_time_show": "09月24日18:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6400223,
+    "firstEpisodePublishedAt": 1790245800000,
+    "type": 3,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "女司机的陷阱",
+      "东北林海灭门血案",
+      "幼儿园投毒迷局"
+    ],
+    "total": 6,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317886": {
+    "season_id": 317886,
+    "title": "兽神",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/5368c0bc61da68ff1fda3a2633dafc513c4ced07.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "兽神",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-02-13 19:01:59",
+      "pub_time_show": "02月13日19:01",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6392438,
+    "firstEpisodePublishedAt": 1790152921000,
+    "type": 12,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "一口气看完｜漫剧兽神全集上部 远古血脉小犬人的逆袭之路 被父亲嫌弃被部落抛弃却被神眷顾",
+      "一口气看完｜漫剧兽神全集下部 远古血脉小犬人的逆袭之路 被父亲嫌弃被部落抛弃却被神眷顾"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317887": {
+    "season_id": 317887,
+    "title": "该硬时绝不软",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/1949d586ab37634d730b98118247af176c98a03e.jpg",
+    "evaluate": "孙玉玉远嫁北方海边小城，与丈夫陈浩成婚生子后\n与婆婆潘红同住。婆婆自怀孕起便处处刁难，故意反\n着孙玉玉的意愿行事，还窥探隐私、干涉生活，重男\n轻女的她偷偷换掉孙玉玉买的粉色婴儿服。孙玉玉剖\n腹产坐月子期间，婆婆趁她熟睡剪毁她珍视的长发\n称“产妇该有产妇样”，一场大战一触即发。",
+    "jpTitle": "",
+    "seasonTitle": "该硬时绝不软",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-02-12 17:27:25",
+      "pub_time_show": "02月12日17:27",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390733,
+    "firstEpisodePublishedAt": 1790151366000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "婆婆以为我是软柿子-第1集",
+      "该硬时绝不软-完整版"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317888": {
+    "season_id": 317888,
+    "title": "深渊岛主：从创世开始无敌",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/8458ce82c73c1239f1afcb1aaa0c761167b0f1fa.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "深渊岛主：从创世开始无敌",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-01-27 09:46:33",
+      "pub_time_show": "01月27日09:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390391,
+    "firstEpisodePublishedAt": 1790151008000,
+    "type": 11,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "深渊岛主：从创世开始无敌-第1集 我要成为尊贵的海岛主！",
+      "深渊岛主：从创世开始无敌-第2集 至高无上的主啊！",
+      "深渊岛主：从创世开始无敌-第3集 林无渊成功获得海岛之心就任岛主"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317889": {
+    "season_id": 317889,
+    "title": "望门妇",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/2105b41e4ed33e55127b9d0a092609b946629cbe.jpg",
+    "evaluate": "我重生了。重生在被抄家前五日。前世，父母早早得知消息，逼着谢轩娶了我。可他们却在流放途中没了性命。婚后不久后，谢轩便冷落了我，以至与我在乡下别庄郁郁而终。这一世，我不再行恩求报，拒嫁谢轩，不想却红了眼。",
+    "jpTitle": "",
+    "seasonTitle": "望门妇",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-12 18:26:53",
+      "pub_time_show": "02月12日18:26",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390570,
+    "firstEpisodePublishedAt": 1790151245000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "望门妇-第1集",
+      "望门妇-完整版"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317890": {
+    "season_id": 317890,
+    "title": "穿书成虐文女主",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/924251acc019ed90ded588fe71970e9bd2bc5bf6.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "穿书成虐文女主",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-06 10:37:43",
+      "pub_time_show": "02月06日10:37",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390569,
+    "firstEpisodePublishedAt": 1790151244000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "穿书成虐文女主-第1集",
+      "穿书成虐文女主 完整版一口气看完纯享"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317891": {
+    "season_id": 317891,
+    "title": "为了惩罚我，全家把我扔进电子厂",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f6bfea45d65105a99feb05373ccca8ea90b26573.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "为了惩罚我，全家把我扔进电子厂",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 11:59:42",
+      "pub_time_show": "02月26日11:59",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390568,
+    "firstEpisodePublishedAt": 1790151244000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "为了惩罚我，全家把我扔进电子厂-第1集",
+      "为了惩罚我，全家把我扔进电子厂-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317892": {
+    "season_id": 317892,
+    "title": "九岁那年被爸妈卖给小姨",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/89c07b0505267a654800400f7b3250c39f8c2547.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "九岁那年被爸妈卖给小姨",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-12 18:28:00",
+      "pub_time_show": "02月12日18:28",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390567,
+    "firstEpisodePublishedAt": 1790151244000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "九岁那年被爸妈卖给小姨-第1集",
+      "九岁那年被爸妈卖给小姨-完整版"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317893": {
+    "season_id": 317893,
+    "title": "魔法与爱",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ddbcffe154fbfc71d9594719050e5431ec346168.jpg",
+    "evaluate": "女巫师伊芙琳抚养大的十个徒弟，在她人生首次约会时集体潜伏守护。从餐厅到书店约会，徒弟们一路默默护航，利奥敏锐察觉却真诚接纳。最终，利奥以契合两人世界的戒指求婚，在徒弟们的欢呼中，伊芙琳答应，开启充满爱的新生活",
+    "jpTitle": "",
+    "seasonTitle": "魔法与爱",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-25 11:55:00",
+      "pub_time_show": "02月25日11:55",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390386,
+    "firstEpisodePublishedAt": 1790151006000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      " 魔法与爱 -第1集",
+      "魔法与爱-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317894": {
+    "season_id": 317894,
+    "title": "弟弟车祸大出血",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/0ec674cad4a2628f5a4a1c13f29fe3eaf53d5b96.png",
+    "evaluate": "陈莉莉重活回到弟弟陈家耀车祸大出血当天，上一世她违逆父母签字输血，却因侄子非亲生被家人怪罪，最终遭弟弟推下楼梯、弟媳余霏补刀惨死。这一世她冷眼旁观愚昧的父母为保“血统”阻挠输血，陈家耀最终不治身亡。她又设计让父母以为余霏怀了陈家独苗，诱其将余霏接回家，一步步挑起余霏与父母的矛盾，看着他们互相算计、丑态百出，最终父母惨死，余霏落网，陈莉莉成为拆迁遗产唯一继承人，彻底摆脱了这家人。",
+    "jpTitle": "",
+    "seasonTitle": "弟弟车祸大出血",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-23 15:59:18",
+      "pub_time_show": "03月23日15:59",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390730,
+    "firstEpisodePublishedAt": 1790151365000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "弟弟车祸大出血-第1集",
+      "弟弟车祸大出血-完整版一口气看完"
+    ],
+    "total": 14,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317895": {
+    "season_id": 317895,
+    "title": "开局创建天机阁，人人敬我神算子",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/02e96da23e5cae8320f4a7c55437e6d90e2e238a.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "开局创建天机阁，人人敬我神算子",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-06 13:45:05",
+      "pub_time_show": "02月06日13:45",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390729,
+    "firstEpisodePublishedAt": 1790151364000,
+    "type": 11,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "开局创建天机阁，人人敬我神算子-第1集",
+      "开局创建天机阁，人人敬我神算子-第2集",
+      "开局创建天机阁，人人敬我神算子-第3集"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317896": {
+    "season_id": 317896,
+    "title": "丈夫偷送80万彩礼",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/86fea5c51a451159f84fd40384c74e53e900a964.png",
+    "evaluate": "女主角“我”发现丈夫周俊，私自将两人用于购买学区房的80万存款，给了婆婆为小叔子周杰买婚房。“我”表面故作大度地同意了，并主动承担起为周杰操办婚事的一切费用。\n在“我”的纵容下，婆家对小叔子未婚妻杜静一家提出的高额彩礼、百万婚礼等无理要求满口答应，并全部转嫁给“我”承担。杜静和周杰在“我”的安排下，选择了总价高达150万的顶级婚礼套餐。为彻底摆脱周家，“我”以分拆迁款为由，诱骗周俊“假离婚”，并说服婆婆卖掉老宅来支付婚礼前期的各项费用。\n婚礼当天，“我”安排婚庆公司当众向周杰和杜静追讨150万尾款。在周家人试图逼“我”付款时，“我”当众揭露了他们一家的贪婪，并播放录音证明是他们主动选择了昂贵的婚礼服务。随后，“我”在大屏幕上播放了周俊与弟媳杜静的私情视频，揭露杜静腹中胎儿的生父其实是周俊，而婆婆对此完全知情。整场婚姻是一场骗局，目的是为周俊的私生子找一个名义上的父亲。",
+    "jpTitle": "",
+    "seasonTitle": "丈夫偷送80万彩礼",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-16 13:52:16",
+      "pub_time_show": "03月16日13:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390728,
+    "firstEpisodePublishedAt": 1790151364000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "丈夫偷送80万彩礼-第1集",
+      "丈夫偷送80万彩礼-完整版一口气看完"
+    ],
+    "total": 19,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317897": {
+    "season_id": 317897,
+    "title": "女扮男装官场奋斗遇皇帝示爱",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/2e5db61ec1db5053d9de71ca652bec2f1968f3f7.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "女扮男装官场奋斗遇皇帝示爱",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 10:09:22",
+      "pub_time_show": "02月27日10:09",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390726,
+    "firstEpisodePublishedAt": 1790151363000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "女扮男装官场奋斗遇皇帝示爱-第1集",
+      "女扮男装官场奋斗遇皇帝示爱-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317898": {
+    "season_id": 317898,
+    "title": "相亲36次仍单身",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/46312635db1e1baffed4a082d593ecee6a610e1a.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "相亲36次仍单身",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 14:02:30",
+      "pub_time_show": "02月26日14:02",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390385,
+    "firstEpisodePublishedAt": 1790151005000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "相亲36次仍单身-第1集",
+      "相亲36次仍单身-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317899": {
+    "season_id": 317899,
+    "title": "穿越到80年代故意搞砸一切",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/7d3753101d80245c19997b62bec1ec475ca84442.png",
+    "evaluate": "穿到八十年代，赵沁为一块饼嫁给拉废品的李升。面对重男轻女的婆婆和“家务必须全包”的丈夫，她反手开启“绿茶摆烂”模式，故意烧厨房、装病弱、夸丈夫“什么都会”。李升在一声声崇拜中化身全能男保姆，洗衣做饭哄媳妇。最终夫妻联手脱离原生家庭，在县城开起废品站，过上“她躺平、他宠妻”的甜蜜日子。",
+    "jpTitle": "",
+    "seasonTitle": "穿越到80年代故意搞砸一切",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-25 15:45:58",
+      "pub_time_show": "02月25日15:45",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390212,
+    "firstEpisodePublishedAt": 1790150885000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "穿越到80年代故意搞砸一切-第1集",
+      "穿越到80年代故意搞砸一切-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317900": {
+    "season_id": 317900,
+    "title": "微言集",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/3ee092760c6d59ade9788b7626efc0c5569b4239.png",
+    "evaluate": "情侣在海滩上享受假期，女友被一只突然出现的老虎叼走，消失在黑暗之中。主人公踏上寻找的旅程，穿越陌生的地域。当他终于与女友重逢，两人欢呼雀跃……主角在古老园林中发现一座偏僻塔楼，看见里面居住着一个巨人。好奇心驱使他进入探险，却发现这座建筑违背了所有物理法则——楼梯永远向上延伸，他走了很久很久，却始终无法到达巨人所在的楼层，也找不到返回的出口……",
+    "jpTitle": "",
+    "seasonTitle": "微言集",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-01 10:00:01",
+      "pub_time_show": "04月01日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390211,
+    "firstEpisodePublishedAt": 1790150885000,
+    "type": 11,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "微言集-第1集",
+      "微言集-第2集",
+      "微言集-第3集"
+    ],
+    "total": 11,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317901": {
+    "season_id": 317901,
+    "title": "我花光积蓄娶了个媳妇",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b42e8da007134ca67872ecab4808b30a56f2683f.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "我花光积蓄娶了个媳妇",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 13:57:05",
+      "pub_time_show": "02月27日13:57",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390103,
+    "firstEpisodePublishedAt": 1790150767000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我花光积蓄娶了个媳妇-第1集",
+      "我花光积蓄娶了个媳妇-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317902": {
+    "season_id": 317902,
+    "title": "像素世界",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/176aa6928694769158ba2385f77959d9cb7345d5.jpg",
+    "evaluate": "意外发现自己的电脑能连接二维像素世界，被像素小人奉为神明。他可以将现实物品赐予小人，同时接收小人献上的现实祭品，如能让人24小时不睡觉的精神手杖、知晓万物的仙人球精灵。本以为能借此成为真神，却因仙人球揭示的恶魔仪式信息而萌生退意。。现实物品与次元祭品双向流通，精神手杖、魔法使徒接连解锁。一边破解东河部落海怪中毒之谜，一边见证大蒜部落文明崛起，还要应对盐池部落阴谋，347 名族人的信仰助我执掌跨次元命运！点击左下角，看神明视角下的二维文明狂飙！",
+    "jpTitle": "",
+    "seasonTitle": "像素世界",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-03-28 14:00:01",
+      "pub_time_show": "03月28日14:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390724,
+    "firstEpisodePublishedAt": 1790151362000,
+    "type": 12,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "【一口气看完】我意外进入游戏世界，被这里的像素小人当成神了"
+    ],
+    "total": 21,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317903": {
+    "season_id": 317903,
+    "title": "小叔查出渐冻症，我借高利为他续命",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/becb44eb41d81d82892624026da80f95c1151042.png",
+    "evaluate": "宋樱从小被小叔周叙白抚养长大，视他为最亲的人。周家倒台后，周叙白“确诊”渐冻症，宋樱退伍借高利贷，独自承担巨额医疗费，五年间被追债打至肋骨开裂、累昏在打工路上、手掌被碎玻璃割得鲜血淋漓，所有钱都用来给小叔买“进口药”。直到她在五星级酒店撞见身着挺括军装、谈笑风生的小叔，才得知所谓绝症是假——他为偏袒养女陆诗诗，刻意设局惩罚她：陆诗诗因嫉妒诬陷宋樱泄露机密，导致周叙白彻底倒向陆诗诗；此后五年，他以“磨性子”为由，逼宋樱自毁前程、健康与尊严，全程配合陆诗诗演戏。宋樱早已罹患晚期脑瘤，拒绝手术，将全部积蓄换药，最终病重离世。临终前她发送遗言：“小叔，我不等你了。”周叙白返程后得知真相，崩溃疯魔，彻查揭穿陆诗诗全部谎言，将其驱逐。宋樱骨灰被送回西山家属院，而她本人经抢救失忆，被医生郑军医收为义妹，隐居南方小镇。一年后，周叙白以极端自虐方式赎罪，过劳猝死，遗产被宋樱捐出。",
+    "jpTitle": "",
+    "seasonTitle": "小叔查出渐冻症，我借高利为他续命",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:22:43",
+      "pub_time_show": "03月03日11:22",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390383,
+    "firstEpisodePublishedAt": 1790151005000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "小叔查出渐冻症，我借高利为他续命-第1集",
+      "小叔查出渐冻症，我借高利为他续命-完整版"
+    ],
+    "total": 21,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317904": {
+    "season_id": 317904,
+    "title": "凤御九宸:我，继后登基",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/d62db3b2e9554af63297848108300dd973db7025.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "凤御九宸:我，继后登基",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 10:56:44",
+      "pub_time_show": "02月26日10:56",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390564,
+    "firstEpisodePublishedAt": 1790151243000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "凤御九宸：我，继后登基-第1集",
+      "凤御九宸我，继后登基-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317905": {
+    "season_id": 317905,
+    "title": "留学回国被未婚夫堵在机场",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/d3500f2c1f455e1a85ff4c250cf1cc11bdb48659.jpg",
+    "evaluate": "姜晚留学回国，遭未婚夫方浔之与父母联手阻拦，只因方浔之的替身女友宋依需靠 “被爱系统” 存活。姜晚自带福星系统，在师弟陈见津相助下，揭露众人阴谋，收回给予姜家、方家的福气，让背叛者自食恶果，最终重拾学业与新生。",
+    "jpTitle": "",
+    "seasonTitle": "留学回国被未婚夫堵在机场",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-12 18:26:30",
+      "pub_time_show": "02月12日18:26",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390563,
+    "firstEpisodePublishedAt": 1790151242000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "留学回国被未婚夫堵在机场-第1集",
+      "留学回国被未婚夫堵在机场-完整版"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317906": {
+    "season_id": 317906,
+    "title": "逆命仙途：废柴嫡女飒爆三界",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ef741ecb84b43c38bb3c7389936411a543d98263.png",
+    "evaluate": "玄月宗嫡女苏月璃，本是万年一遇的先天混沌灵脉持有者、灵族圣女唯一传人，却在十五岁灵脉觉醒大典遭庶妹林薇薇与未婚夫楚墨然联手暗算，被蚀灵毒丹毁去灵脉，沦为全宗唾弃的废柴，最终惨死于地牢。\n带着滔天恨意重生，苏月璃回到悲剧发生前，当场识破毒丹阴谋，反手让仇人自食恶果，成功解封混沌灵脉，展露绝世天赋。她凭借前世记忆步步为营，夺秘境机缘、破宗门阴谋、查清灵族覆灭真相，发现亲生父亲林镇岳竟与暗影殿勾结，囚禁生母苏如雪、抽取灵族本源。\n途中，她与受灵族盟约守护混沌灵脉的魔界少主夜宸相遇，二人从盟约羁绊到生死相依，灵力共鸣、双强联手，一路横扫反派。苏月璃废林薇薇、惩柳媚、斩楚墨然、重创林镇岳，肃清宗门内奸，成功救出母亲，继承灵族完整传承。\n随着虚空大帝率虚空族入侵三界，灭世危机降临，苏月璃以混沌灵脉融合三界本源，与夜宸并肩组建三界联军，浴血奋战、力挽狂澜，最终彻底击溃虚空大帝，平定三界浩劫。\n她从人人轻贱的废柴嫡女，逆袭成为三界盟主、混沌圣女，完成前世复仇、今生守护。尘埃落定后，苏月璃与夜宸尘缘圆满，携手飞升神界，留下一段逆命改途、护佑三界的不朽传说。",
+    "jpTitle": "",
+    "seasonTitle": "逆命仙途：废柴嫡女飒爆三界",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-24 14:00:48",
+      "pub_time_show": "04月24日14:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390102,
+    "firstEpisodePublishedAt": 1790150766000,
+    "type": 11,
+    "episodeCount": 9,
+    "episodeTitles": [
+      "逆命仙途：废柴嫡女飒爆三界-第1集",
+      "逆命仙途：废柴嫡女飒爆三界-第2集",
+      "逆命仙途：废柴嫡女飒爆三界-第3集"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317907": {
+    "season_id": 317907,
+    "title": "学神千金：都市逆袭",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/6fc89976b2053ffc7426afe99de4e9a61cad8c5d.png",
+    "evaluate": "小镇做题家、豪门抱错真千金南思望，凭高考状元实力创立南氏集团，却遭云氏集团恶意打压濒临倒闭；云老爷子为甩巨额债务、找替罪羊，假意邀其继承云氏，南思望识破阴谋，凭借商业能力联合天盛、程前等集团反击，挖走云氏骨干与项目、曝光云家丑闻致其股价暴跌，最终揭露云老爷子经济犯罪使其落网、云氏破产，南思望带领南氏集团扩张壮大，同时救赎温柔、云挚意等角色，完成自我成长与事业逆袭的爽剧故事。",
+    "jpTitle": "",
+    "seasonTitle": "学神千金：都市逆袭",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-12 19:41:22",
+      "pub_time_show": "05月12日19:41",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389932,
+    "firstEpisodePublishedAt": 1790150646000,
+    "type": 11,
+    "episodeCount": 60,
+    "episodeTitles": [
+      "学神本神：都市逆袭-第1集",
+      "学神本神：都市逆袭-第2集",
+      "学神本神：都市逆袭-第3集"
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317908": {
+    "season_id": 317908,
+    "title": "远嫁第六年",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ccd6a82d74c07664090ea43682bbb77ccd56bf92.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "远嫁第六年",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 14:26:40",
+      "pub_time_show": "02月27日14:26",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390209,
+    "firstEpisodePublishedAt": 1790150885000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "远嫁第六年-第1集",
+      "远嫁第六年-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317909": {
+    "season_id": 317909,
+    "title": "大佬在梦中修仙了两年半",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9138de23aa0345655b4f3e245014ffc3d6865484.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "大佬在梦中修仙了两年半",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 18:12:01",
+      "pub_time_show": "02月26日18:12",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390208,
+    "firstEpisodePublishedAt": 1790150884000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "大佬在梦中修仙了两年半-第1集",
+      "大佬在梦中修仙了两年半-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317910": {
+    "season_id": 317910,
+    "title": "戳穿婆家骗局",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/cbe3a17fbcd43baba2ca94f560dc56a4119c6668.jpg",
+    "evaluate": "高芝因生育后遗症被截肢、失去双腿，婆婆抢走刚满月的儿子并逼她离婚，丈夫樊浩以“儿子不能有个残废亲妈”为由同意离婚。重生回结婚第三年，她发现不孕真相实为樊浩不育，而婆婆长期逼她喝偏方补药导致内分泌失调、肥胖、健康恶化。她拒绝喝药，当面讽刺婆婆“种子不行，再肥沃的土地也结不出果”，并暗中查证樊浩已偷偷体检确诊不育。她利用前世记忆买中彩票头奖1362万元，将钱转入母亲名下，投资股市获利。为加速离婚，她伪造自己不孕报告，激化婆家矛盾，最终和平离婚并分得三分之二夫妻共同财产。离婚后，樊浩在婆婆和二婶撮合下迅速与蔡思思结婚，蔡思思怀孕后被曝出轨，亲子鉴定前即当众与情人幽会，引发医院冲突，樊浩重伤昏迷。高芝揭穿樊浩不育真相并拒绝复婚，携父母返乡创业，开办农场，过上富足平静的生活。",
+    "jpTitle": "",
+    "seasonTitle": "戳穿婆家骗局",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:23:10",
+      "pub_time_show": "03月03日11:23",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390100,
+    "firstEpisodePublishedAt": 1790150765000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "戳穿婆家骗局-第1集",
+      "戳穿婆家骗局-完整版"
+    ],
+    "total": 15,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317911": {
+    "season_id": 317911,
+    "title": "重生后，我让真凶自曝于众",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a4093e70ee20be8610d7517f25ec8c9b39d1f7df.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "重生后，我让真凶自曝于众",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 17:43:08",
+      "pub_time_show": "02月26日17:43",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390205,
+    "firstEpisodePublishedAt": 1790150883000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "重生后，我让真凶自曝于众-第1集",
+      "重生后，我让真凶自曝于众-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317912": {
+    "season_id": 317912,
+    "title": "被拐的姐姐回来了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/215321a2e49d38944dff2d3b73d20a0fb6dffa58.jpg",
+    "evaluate": "盛念安从小被寄养在姑姑家，父母因长女盛安安幼时被拐，常年奔波寻人，极少关心她。她靠拼命学习换取父母偶尔的笑脸和玩偶，却在中学时因病住院，母亲刚来陪护便接到“姐姐有消息”的电话匆匆离开，留她独自在医院挨饿受冷。成年后，她成为医生，与青梅竹马江迟相恋。盛安安归来后，父母要求她让出一切——包括江迟，称“本该是他们结婚”。盛安安住院期间，父母日夜照料，指责盛念安“抢了姐姐的人生”。盛念安发现怀孕，检测报告单显示阳性，却在医院外接到母亲电话，被斥责“丢人”“搅局”。她遭父母、江迟及盛安安集体施压，被迫让位。一次外出游玩当晚，她被陌生男子拖入巷中强奸，事后因恐惧未报案；施暴者车祸成植物人，罪行不了了之。盛安安得知后，联合父母以“替她生子”为由逼迫她留下孩子，实则为羞辱与掌控。盛念安崩溃自残，被主任救下。主任揭露自身童年受虐经历，鼓励她离开。盛念安最终报案，提供流产胚胎证据，揭发盛安安长期教唆他人实施性犯罪。盛安安被判十五年；其父因报复施暴者杀人入狱；其母中风瘫痪。盛念安改名温暖，在主任帮助下赴瑞典学医，彻底告别过去。",
+    "jpTitle": "",
+    "seasonTitle": "被拐的姐姐回来了",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-14 10:53:49",
+      "pub_time_show": "03月14日10:53",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390097,
+    "firstEpisodePublishedAt": 1790150765000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "被拐的姐姐回来了-第1集",
+      "被拐的姐姐回来了-完整版"
+    ],
+    "total": 18,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317913": {
+    "season_id": 317913,
+    "title": "动员大会的惊喜",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/fb5508e4331de2ca7e1794be746df088be4886b2.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "动员大会的惊喜",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 10:48:26",
+      "pub_time_show": "02月27日10:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390203,
+    "firstEpisodePublishedAt": 1790150882000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "动员大会的惊喜-第1集",
+      "动员大会的惊喜-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317914": {
+    "season_id": 317914,
+    "title": "攻略男主失败，我直接捏爆系统核心",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/716bf3397a71d190288374fd0aef4ffada364fb6.png",
+    "evaluate": "许思思作为被抱错的真千金，被攻略系统强制绑定，需攻略男主顾明义或获得父母百分百喜爱度才能存活，否则将被抹杀。她兢兢业业当舔狗五年，却遭男主、父母及假千金许之遥的百般虐待与羞辱。在即将被抹杀之际，她觉醒系统之神的记忆，捏爆系统核心反杀。随后，她向所有仇人展开疯狂报复，揭露许之遥与许泽的龌龊行径，让众人自食恶果。最终，仇人皆下场凄惨，许思思成功脱离任务世界，回归原世界后下令剿杀所有恶毒攻略系统。",
+    "jpTitle": "",
+    "seasonTitle": "攻略男主失败，我直接捏爆系统核心",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:23:35",
+      "pub_time_show": "03月03日11:23",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389926,
+    "firstEpisodePublishedAt": 1790150644000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "攻略男主失败，我直接捏爆系统核心-第1集",
+      "攻略男主失败，我直接捏爆系统核心-完整版"
+    ],
+    "total": 15,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317915": {
+    "season_id": 317915,
+    "title": "灵魂典当后，我让前夫后悔莫及",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/39af1c72cebf012bc1fb29ca097b384b2fb307c1.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "灵魂典当后，我让前夫后悔莫及",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 15:47:02",
+      "pub_time_show": "02月27日15:47",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390096,
+    "firstEpisodePublishedAt": 1790150764000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "灵魂典当后，我让前夫后悔莫及-第1集",
+      "灵魂典当后，我让前夫后悔莫及-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317916": {
+    "season_id": 317916,
+    "title": "我把男主包养成金丝雀后，系统炸了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/10f7c743625436d566553e187215f91573f67a16.png",
+    "evaluate": "我是一本小说里的恶毒女配，等待系统发布欺辱男主的任务，但系统迟迟未启动。我遇见了落魄的男大学生裴砚，包养了他两年：替他母亲付清医药费、将他父亲送进监狱、资助他创业。他从青涩少年成长为冷峻企业家，与我维持着金钱关系，表面顺从，实则暗藏野心。南城地皮交易前夕，我为推动原剧情强行干预，伪造危机骗走他三亿资金转给女主江颜宁，结果被警方调查。裴砚出面解决，并察觉我的异常。我屡次撮合他与女主，安排约会、电影、烟火，却屡屡失败。女主误以为我喜欢她，提出让哥哥代为报恩；裴砚误会我要三人关系，崩溃质问。最终我在夜店醉酒时向他表白，承认只喜欢他一人。两人正式在一起，系统被迫将故事改为“浪女回头是岸”题材。",
+    "jpTitle": "",
+    "seasonTitle": "我把男主包养成金丝雀后，系统炸了",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-09 13:32:28",
+      "pub_time_show": "03月09日13:32",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390378,
+    "firstEpisodePublishedAt": 1790151003000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我把男主包养成金丝雀后，系统炸了-第1集",
+      "我把男主包养成金丝雀后，系统炸了-完整版"
+    ],
+    "total": 14,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317917": {
+    "season_id": 317917,
+    "title": "被表哥低估后，我的水果店爆火全城",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a9d818994ddc495dd15612b15e03e7459ba657b4.png",
+    "evaluate": "林默与堂哥林建军合伙开店三年，日夜操劳、辛苦打拼，包揽水果店大半经营，店铺年入两百万，他却只分得八万元。不仅如此，他还遭到堂哥一家算计，被强行背负二十万虚假债务，最终被迫净身出户，深陷负债困境。绝境之中，林默动用父母养老钱，在老小区开了一间小水果店。他诚信经营，严选新鲜果品，从不缺斤短两，靠着扎实口碑稳步发展。林建军心生嫉妒，屡次恶意打压、造谣碰瓷，处处使绊阻挠。林默凭借优质货源打响名气，打通产地供应链，拿下大额商超订单，创立鲜果品牌，逆风崛起。反观林建军唯利是图，售卖劣质水果、诈骗果农，触犯多项法律，最终锒铛入狱。逆袭成功的林默不忘初心，返乡组建种植合作社，带动乡亲增收致富，以诚信坚守，完成人生逆袭。",
+    "jpTitle": "",
+    "seasonTitle": "被表哥低估后，我的水果店爆火全城",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-27 10:00:11",
+      "pub_time_show": "04月27日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389410,
+    "firstEpisodePublishedAt": 1790150289000,
+    "type": 11,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "被表哥低估后，我的水果店爆火全城-第1集",
+      "被表哥低估后，我的水果店爆火全城-第2集",
+      "被表哥低估后，我的水果店爆火全城-第3集"
+    ],
+    "total": 30,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317918": {
+    "season_id": 317918,
+    "title": "我妈不是我亲妈",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/489896ee28c83ab85f0822ec1fde19386a045165.jpg",
+    "evaluate": "王采菊并非关木生母，而是人贩子，二十年前在医院\n将关木与沈如月调包。关木从小被王采菊虐待，高中\n体检发现血型不符后起疑，后确认自己是O型、王采\n菊为AB型。王采菊死后留下6000万遗产及两套棚户\n区房产，关木作为唯一继承人依法继承。她先帮舅舅\n还高利贷，后办妥拆迁手续获补偿款。她赴沈家认\n亲，经DNA鉴定确认生母为关灵芝，沈如月系王采菊\n亲女。沈如月拒不接受真相，联合舅舅舅妈多次闹\n事，索要遗产未果。",
+    "jpTitle": "",
+    "seasonTitle": "我妈不是我亲妈",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 17:58:10",
+      "pub_time_show": "02月27日17:58",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389925,
+    "firstEpisodePublishedAt": 1790150644000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我妈不是我亲妈-第1集",
+      "我妈不是我亲妈-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317919": {
+    "season_id": 317919,
+    "title": "攻略每个租客",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/5b4229b8da27148ed21b1145725e010675b3f33f.png",
+    "evaluate": "夏夜薇穿成豪门千金，被母亲派去收租。租客傅行衍是职业拳击手，刚输掉比赛、浑身带伤，称手头紧请求宽限房租。夏夜薇拒绝，坚持当晚不交租就搬走。傅行衍收拾行李时，系统首次激活，要求她攻略他。她试探性提出“用你抵房租”，两人发生关系，达成减免七个月租金的约定。次日系统发放多项身体及金钱奖励。因原租户谢霖越狱并扬言报复，夏夜薇请傅行衍当保镖，他免费应允。为提升防御力，她在拳击俱乐部淋浴间向他学习防身术，获防御值奖励。演唱会当日，谢霖闯入洗手间挟持她，她用所学防身术反击，傅行衍及时制服谢霖。危机解除后，她以“等他拿拳击金牌”为条件答应交往。苏辰峻表白遭拒，傅行衍当场现身宣示主权。结尾夏夜薇收到他送的贴身衣物，系统提示可用攻略次数兑换祛疤膏。",
+    "jpTitle": "",
+    "seasonTitle": "攻略每个租客",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-10 16:19:29",
+      "pub_time_show": "03月10日16:19",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390095,
+    "firstEpisodePublishedAt": 1790150764000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "攻略每个租客-第1集",
+      "攻略每个租客-完整版"
+    ],
+    "total": 15,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317920": {
+    "season_id": 317920,
+    "title": "公主辅政与边疆征战",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/bbd271ceb9c786b604d1aacb198b965f15066ec9.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "公主辅政与边疆征战",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-27 17:57:52",
+      "pub_time_show": "02月27日17:57",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389923,
+    "firstEpisodePublishedAt": 1790150643000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "公主辅政与边疆征战-第1集",
+      "公主辅政与边疆征战-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317921": {
+    "season_id": 317921,
+    "title": "祝你们永远锁死",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/267ade6c2a97b1e357ca43f0b95e4a98e182d0b2.png",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "祝你们永远锁死",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-02-26 11:20:00",
+      "pub_time_show": "02月26日11:20",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389519,
+    "firstEpisodePublishedAt": 1790150407000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "祝你们永远锁死-第1集",
+      "祝你们永远锁死-完整版一口气看完"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317922": {
+    "season_id": 317922,
+    "title": "黑暗中的反击",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/c7333f0274d03734af830c2d7bda1a7c3da97be4.jpg",
+    "evaluate": "我嫁给了强奸我的人。婚后，我对他很好\n给他洗衣做饭，端茶倒水，\n替他孝敬父母，嘘寒问暖，无微不至。\n他在外面得意地吹嘘：\n「大学生又怎么样？还不是只能给老子暖被窝！」\n我对此甘之如饴\n甚至被人们纷纷嘲骂。\n都没关系，我的跪舔越发让他得意。\n他便离死，越近。\n\n我觉得我好像是一个灾星\n\n从小到大，亲近我的人。\n\n死的死，伤的伤。\n\n在我十八岁那年\n\n我的超雄弟弟残忍屠杀了我们的父母。\n\n然后选择了自杀。\n\n在我二十四岁那年\n\n我的闺蜜宋晴晴意外死在了家中。\n\n她被巨大的衣柜砸中左边身体。\n\n本来有机会生还的。\n\n可巧的是，她前不久右腿骨折，\n\n失去了挣扎出来的机会。\n慢慢窒息在沉重的衣柜下。\n\n接着在她的葬礼上。\n\n我被她的丈夫方鹏强奸了。",
+    "jpTitle": "",
+    "seasonTitle": "黑暗中的反击",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-02 18:05:09",
+      "pub_time_show": "03月02日18:05",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389656,
+    "firstEpisodePublishedAt": 1790150523000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "黑暗中的反击-第1集",
+      "黑暗中的反击-完整版"
+    ],
+    "total": 13,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317923": {
+    "season_id": 317923,
+    "title": "重生无敌NPC",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/acec1819847eb9826ecacaf56ca9f4466db54b21.png",
+    "evaluate": "林无渊重生到《全民神域》游戏世界，成为一名9级NPC流民，受世界规则束缚无法升级，甚至被一群马贼追杀。正当绝境之际，游戏正式接入地球，无数神选者降临。他被拥有六星神级筑城令的气运之女楚幼欣征兆，成为她麾下第一个居民。 觉醒SSS级天赋“枪术杀意”后，林无渊凭借前世记忆和逆天资质，迅速获得楚幼欣的信任，从居民晋升副城主，再到摄政大臣，全权掌管城邦事务。",
+    "jpTitle": "",
+    "seasonTitle": "重生无敌NPC",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-13 18:58:21",
+      "pub_time_show": "03月13日18:58",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389408,
+    "firstEpisodePublishedAt": 1790150288000,
+    "type": 11,
+    "episodeCount": 7,
+    "episodeTitles": [
+      "重生无敌NPC-第1集 神域世界正式接入地球，神选者降临！",
+      "重生无敌NPC-第2集 不愧是SSS级人才，手感就是好！",
+      "重生无敌NPC-第3集 我一定让凌霄城君临天下！"
+    ],
+    "total": 30,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317924": {
+    "season_id": 317924,
+    "title": "金屋藏娃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/0c6b3e8ee3c086307815da10289da81c0c2dbff2.png",
+    "evaluate": "王宁19岁与学弟恋爱怀孕，生下大弟，落户父母名下；25岁与投行男交往怀孕，生下二弟；28岁与大卫交往怀孕，生下小妹。她大学时结识年长8岁的老公，对方月给5000元，后结婚，对外宣称丁克。她以“扶弟魔”形象示人，用老公的钱为三个孩子买房、落户、支付高昂教育费用，并让大弟、二弟、小妹陆续以弟弟妹妹身份进入老公家庭生活。老公因车祸丧失生育能力，误以为三孩均为妻子娘家所生，主动提出收养三人，支付300万元给父母，将三人登记在自己名下，对外称是私生子。后投行男父母、学弟父母分别持亲子鉴定上门认亲，达成共同抚养协议并给予补偿。王宁最终与大卫结婚，三人子女均获多方家庭支持，共同成长。",
+    "jpTitle": "",
+    "seasonTitle": "金屋藏娃",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-09 13:32:45",
+      "pub_time_show": "03月09日13:32",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389920,
+    "firstEpisodePublishedAt": 1790150642000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "金屋藏娃-第1集",
+      "金屋藏娃-完整版"
+    ],
+    "total": 13,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317925": {
+    "season_id": 317925,
+    "title": "十年后的真相",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ae0d0b59ab267bdfde06da1725698ebb5960c2c0.jpg",
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "十年后的真相",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-02 14:46:22",
+      "pub_time_show": "03月02日14:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390092,
+    "firstEpisodePublishedAt": 1790150763000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "十年后的真相-第1集",
+      "十年后的真相-完整版"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317926": {
+    "season_id": 317926,
+    "title": "财产归属之战",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/8da2e32d791d37424e64f5b5b9092011be2599ae.jpg",
+    "evaluate": "弟弟宣布要和男人同居，拒婚拒育，父母崩溃。重男轻女的我趁机提出：“我招婿，孩子跟我姓，家产给我。”父母动摇，我火速相亲锁定对象。为断弟弟后路，我暗中推波助澜，助其出柜、激化矛盾，最终弟弟被家族彻底放弃。六年后他落魄归家，房子公司早已归我。不久他死于旧友之手——而这一切，始于我发给他的那篇“男性互助”网帖。赢了家产，也赢了起跑线。",
+    "jpTitle": "",
+    "seasonTitle": "财产归属之战",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-02 16:42:55",
+      "pub_time_show": "03月02日16:42",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389517,
+    "firstEpisodePublishedAt": 1790150405000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "财产归属之战-第1集",
+      "财产归属之战-完整版"
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317927": {
+    "season_id": 317927,
+    "title": "工科女神：手撕职场PUA",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/c734a171fe10e4f3f1cabda0d6f9aee300d59413.png",
+    "evaluate": "夏龙机械厂高级工程师林启航，是厂里不可或缺的技术骨干，更是师父毕生心血的守护者。新厂长张强上任后，为立威刻意刁难，以迟到两分钟为由，扣除她十万年终奖，还安插侄子张龙等关系户挤兑她，肆意践踏职场规则。\n面对不公与 PUA，林启航没有忍气吞声，而是坚守底线、精准反击：严格卡点上下班，按厂规拒绝无偿加班，用对方制定的规矩反将一军。张强一伙不懂装懂、违规操作，导致核心生产线故障频发、废品率飙升，甚至弄丢重要订单，工厂陷入危机。\n林启航手握核心技术专利，从容应对各方刁难。她拒绝高薪挖角，坚守师父的工厂；戳破冒牌专家的伪装，揭露关系户偷换零件、危害生产安全的恶行。在博世集团合作方的认可与支持下，林启航彻底扭转局面，逼退张强等人，为自己讨回公道与赔偿。\n随后，林启航加入新平台，带领团队突破技术封锁，拿下重磅订单，最终成功收购夏龙机械厂。她废除不合理规矩，确立尊重技术、赏罚分明的新秩序，守护了工厂与工人权益，活成了整顿职场、坚守初心的工科女神。",
+    "jpTitle": "",
+    "seasonTitle": "工科女神：手撕职场PUA",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-05-04 19:34:40",
+      "pub_time_show": "05月04日19:34",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389178,
+    "firstEpisodePublishedAt": 1790150045000,
+    "type": 11,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "第1集：《工科女神：手撕职场PUA》",
+      "第2集：《工科女神：手撕职场PUA》",
+      "第3集：《工科女神：手撕职场PUA》"
+    ],
+    "total": 58,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317928": {
+    "season_id": 317928,
+    "title": "我有隐藏天赋",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f5af145d35c6681e0404d12b6b1aea2e45c2445f.png",
+    "evaluate": "战天奇在迷雾丛林野外战场倒地身亡，林凡重生回游戏开服时刻。他耗时五小时答完全部问答题，成为全球首位通关者，获得超神级魂印“巨灵神的左眼”，觉醒两项被动：每击杀十只魔物射程+1米（初上限1000米），每击杀一只魔物蓝量永久+1点（初上限1万点）。前世他是职业电竞冠军“凡神”，因假赛风波被俱乐部开除、背负天价违约金，妹妹叶小轩肾衰竭急需80万手术费却无力承担，最终离世。重生后他创建ID“凡神”，选择法师职业，直奔新手村外围刷黑皮哥布林。",
+    "jpTitle": "",
+    "seasonTitle": "我有隐藏天赋",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-16 13:52:53",
+      "pub_time_show": "03月16日13:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389516,
+    "firstEpisodePublishedAt": 1790150404000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我有隐藏天赋-第1集",
+      "我有隐藏天赋-完整版一口气看完"
+    ],
+    "total": 14,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317929": {
+    "season_id": 317929,
+    "title": "我打小就清楚自己不是亲生的",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f4e38cf15b6dde602e9870e6629a588a4e9df588.png",
+    "evaluate": "“我”幼时被亲生父母田玉霞、王玉强遗弃在县医院垃圾桶边，被养父母刘红安、李秀丽捡回抚养。养父母家境贫寒、负债累累，仍倾尽所有供“我”读书、治病、成才。大学毕业后，“我”事业有成，为养父母在县城购置花园洋房。此时田玉霞夫妇携儿子王成龙找上门，以“寻亲”为名索要房产，被“我”拒绝并报警驱离。二人转而闯入新房辱骂养父母，致李秀丽气急住院。“我”返家后怒斥驱赶王成龙等人，并换锁防范。后田玉霞一家又带摄像机闯入“我”公司，企图直播施压逼认亲，“我”当场揭穿其谎言，指出其真实目的是用房产为王成龙娶妻，并出示私闯民宅、气病养母等证据视频。事件发酵后舆论反转，“我”依法起诉，法院判决田玉霞夫妇犯遗弃罪、非法侵入住宅罪、故意伤害罪，共判刑5年；王成龙拘役10天并赔偿5000元。“我”与养父母继续安稳生活。",
+    "jpTitle": "",
+    "seasonTitle": "我打小就清楚自己不是亲生的",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:24:04",
+      "pub_time_show": "03月03日11:24",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389402,
+    "firstEpisodePublishedAt": 1790150284000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我打小就清楚自己不是亲生的-第1集",
+      "我打小就清楚自己不是亲生的-完整版"
+    ],
+    "total": 15,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317930": {
+    "season_id": 317930,
+    "title": "我的体内有御兽",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/885d42c908291850544b24773bf62886b735f88f.png",
+    "evaluate": "李现是凌云城李家长子，八岁起连续十年觉醒兽之力失败，被族人视为废物，十八岁被迫离开家族，与同样未觉醒兽之力的苏夏暖联姻。大婚当日，弟弟李霄闯入婚房欲强占苏夏暖，李现阻止反遭重创，双腿骨折、头破血流，戒指沾血后激活“兽狱”空间。兽狱中囚禁着四百头远古至亘古级妖兽，首只苏醒的啸月银狼承认十年来吞噬了李现全部兽之力，使其积累成“时段大圆满”资质。李现得知自己可掌控全部妖兽兽魂，怒意平息，连夜验证——触摸兽魂石成功觉醒十段时段兽力。次日离家赴永安县接管酒馆，途中遭李霄带人截杀，李现召唤啸月银狼反杀五人，当场踩爆李霄头颅，并嫁祸望龙碑土匪。抵达永安县后，他以三万两银票安顿酒馆生意，确认啸月银狼恢复至6%实力（相当于600年兽魂），契合度已达100%，实质迈入青铜兽师境界，且具备白银兽师离体作战能力，目标直指黄金兽师。",
+    "jpTitle": "",
+    "seasonTitle": "我的体内有御兽",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:24:55",
+      "pub_time_show": "03月03日11:24",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389513,
+    "firstEpisodePublishedAt": 1790150403000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我的体内有御兽-第1集",
+      "我的体内有御兽"
+    ],
+    "total": 18,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317931": {
+    "season_id": 317931,
+    "title": "家产已定，不容争抢",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b3f7b1e0d296dbff7e48f6e25a8110446af13e2d.jpg",
+    "evaluate": "我和张浩同居，有房有钱。姐姐得知后连夜回家，向父母强调自己结婚生子能传宗接代，要求重新分配房产、车子和遗产。我家重男轻女，父母从小告诉我“女儿是泼出去的水”，出嫁后孩子随夫姓，无法延续家族血脉；而儿子娶妻是为照顾父母、继承家业。姐姐出嫁后，家里等于少一个人。因此，家族财产——包括房产、公司、现金、黄金等——全部由我继承，姐姐只能被养大，无权获得任何实质性资产。父亲当面将房产证和黄金交给我。",
+    "jpTitle": "",
+    "seasonTitle": "家产已定，不容争抢",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-14 18:26:44",
+      "pub_time_show": "03月14日18:26",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389401,
+    "firstEpisodePublishedAt": 1790150283000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "家产已定，不容争抢-第1集",
+      "家产已定，不容争抢-完整版一口气看完"
+    ],
+    "total": 19,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317932": {
+    "season_id": 317932,
+    "title": "两元年终奖",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/69422459aabd5f9c6d141dda26b48f0039dbabc8.jpg",
+    "evaluate": "苏晚在新寒科技工作八年，从月薪三千的毕业生成长为项目总监，全程靠个人努力。公司表面光鲜，实则管理混乱、派系林立。其上司张敏是元老，能力平庸却擅抢功、甩锅、PUA下属。去年，张敏将高难度“智慧城市”千万级项目强推给苏晚，口头承诺二十万年终奖，并以苏晚母亲心脏病和房贷压力为要挟。苏晚带团队日夜攻坚，曾晕倒送医，最终成功交付，获客户高度认可。庆功宴上张敏独揽全部功劳，苏晚仅得两元年终奖。张敏随后诬陷她虚报八万元专家咨询费，伪造邮件与转账凭证，联合HR总监、大学闺蜜李然共同设局，致苏晚被全公司质疑、职业声誉尽毁。苏晚发现证据系内部伪造，联合被克扣奖金的王凯、小张、丽丽等人收集张敏滥用职权证据，集体辞职创业，成立锐行科技。三年间从50平米办公室起步，靠技术实力与诚信赢得口碑，发展为行业黑马。得知新寒科技因管理腐败濒临破产后，苏晚带队收购该公司。收购当日，她当众宣布张敏与李然被开除，遣散费各两元。此后整顿公司，清除蛀虫，重建公平机制，使新寒科技重回正轨。",
+    "jpTitle": "",
+    "seasonTitle": "两元年终奖",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-03 11:24:31",
+      "pub_time_show": "03月03日11:24",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389512,
+    "firstEpisodePublishedAt": 1790150403000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "两元年终奖-第1集",
+      "两元年终奖-完整版"
+    ],
+    "total": 17,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317933": {
+    "season_id": 317933,
+    "title": "我的人生，选择不听妈妈的话",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/eb7bff38a84b88fa8014eb7336055942e7d5abff.png",
+    "evaluate": "母亲因工厂效益不佳，用买断工龄的钱开办家庭寄宿生意，将家中改造成教室和宿舍，专门接收亲戚、熟人的孩子寄宿学习，收取费用并获得“王妈妈”称号。家中仅有的两间卧室被改造为上下铺，我的书柜、床等私人空间被陆续变卖，生活空间被严重挤压。母亲要求我无偿辅导寄宿学生功课、听写单词、做家务，理由是“温故知新”“体谅苦衷”，却忽视我的学业压力、心理需求和隐私边界。内衣被偷拿并污损后，我激烈抗议，母亲却捂住我的嘴阻止声张，称“传出去没人敢送孩子来”。我逐渐沉默孤僻，反感异性，家中沦为旅馆。为反抗，我故意在李修文诱导下网吧打游戏被德育主任抓到，遭口头警告，母亲当众维护形象、回家后斥责我“丢了活招牌”。此后我拼命学习，考取全市第五，却发现自己参赛作文被母亲擅自转给小舅领导的儿子署名获奖。报警维权遭派出所推诿，母亲砸毁赔罪手机并断绝母女关系。高三时母亲病重，亲戚们提议由我接手寄宿生意，我拒绝后遭冷暴力与道德绑架。高考后我填报千里之外高校，母亲却在志愿截止前夜试图篡改系统，被我当场识破。大学期间她持续视频指派教学任务，甚至联合辅导员制造贫困生假象，并安排十八岁相亲。我发现所谓相亲对象实为同性恋者，质问无果。最终我秘密自学德语，申请德国留学，攒够保证金，在A大开学日悄然离家赴欧，切断所有联系，彻底逃离母亲以爱为名的控制与剥削。",
+    "jpTitle": "",
+    "seasonTitle": "我的人生，选择不听妈妈的话",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-18 13:46:07",
+      "pub_time_show": "03月18日13:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389400,
+    "firstEpisodePublishedAt": 1790150283000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我的人生，选择不听妈妈的话-第1集",
+      "我的人生，选择不听妈妈的话"
+    ],
+    "total": 20,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317934": {
+    "season_id": 317934,
+    "title": "夺回商业江山",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9d3f30b5d7d56730835b4950b230e287afeb3381.jpg",
+    "evaluate": "徐道然假死诈尸，在自己葬礼上当场揭穿儿子徐坤与白家父女合谋侵吞龙腾集团的阴谋。他指出徐坤昏聩无能、纵容白如茵勾结外人，致集团三年缩水70%；白望生借债敛财、伪造证据、操纵股价，涉案数十亿。徐道然当场出示白家犯罪证据，引发债权人围堵追债。白家父女被警方带走，徐坤因共犯嫌疑亦被拘捕。随后徐道然以风水玄术为引，当众拆穿“神医”叶晨行骗本质，使其身败名裂逃窜。他在股东大会上以精准预言震慑股东——向云小三难产、祝正业涉贪藏证、万腾贪腐，逼迫众人零对价转让股权，收回龙腾集团100%控制权。他清算旧部，提拔忠干员工，重掌集团。又招揽落魄天才吕道成，许以高薪厚待及救治其绝症妻子。同时布局扶持临海公安局长张明秋，预判其张家旁支身份，授意其于神龙大酒店营救将突发心脏病的张家老爷子，意图借势撬动天南省四大家族格局。",
+    "jpTitle": "",
+    "seasonTitle": "夺回商业江山",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-10 16:18:26",
+      "pub_time_show": "03月10日16:18",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389173,
+    "firstEpisodePublishedAt": 1790150043000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "夺回商业江山-第1集",
+      "夺回商业江山-完整版一口气看完"
+    ],
+    "total": 14,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317935": {
+    "season_id": 317935,
+    "title": "告别错的遇见你",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/cba67f4eefc9bbe3e36c8f94cec669d88e8fa8c1.png",
+    "evaluate": "苏黎意外发现丈夫李进东胃癌晚期，却得知他与婆婆竟算计自己身患直肠癌早期的病情，盼她离世侵吞家产。苏黎收起软弱，一边积极治疗自身疾病，一边放任李进东沉溺烟酒加速病情，收集其出轨、算计的证据。最终李进东众叛亲离、病亡，苏黎成功离婚，走出背叛阴影，在家人陪伴下重拾生活，后遇到真诚待她的周屿，组建新家庭，收获幸福新生。",
+    "jpTitle": "",
+    "seasonTitle": "告别错的遇见你",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-17 10:58:00",
+      "pub_time_show": "03月17日10:58",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389090,
+    "firstEpisodePublishedAt": 1790149922000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "告别错的遇见你-第1集",
+      "告别错的遇见你-完整版一口气看完"
+    ],
+    "total": 32,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317936": {
+    "season_id": 317936,
+    "title": "爷爷创业",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/fd4e78a00b98dcdf71797e22ed3ff5d15edb00d6.png",
+    "evaluate": "高中生常梦到去世十年的爷爷张奎安，梦中爷爷屡屡催促他烧钱，告知自己在地府举旗起义，急需军饷支援。受女鬼指点，常按特制符箓烧纸，不仅备好海量纸钱，还定制加特林、火箭筒、原子弹等纸扎武器并附魔，更烧去印钞机、手机等物资。爷爷凭借这些阳间“大杀器”，一路势如破竹，收服项羽为将，击败霸道鬼帝，最终用灵魂爆炸子弹等终极武器消灭冥河老祖与地藏王，成功统一地府。功成名就后，爷爷派人传话，要接常前往地府，继承地府之主的位置。",
+    "jpTitle": "",
+    "seasonTitle": "爷爷创业",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-03-05 11:56:19",
+      "pub_time_show": "03月05日11:56",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389397,
+    "firstEpisodePublishedAt": 1790150282000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "爷爷创业-第1集",
+      "爷爷创业-完整版"
+    ],
+    "total": 16,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317937": {
+    "season_id": 317937,
+    "title": "我，神兽幼崽，开局被当成食材",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a6826a4c6e47606327ad6883a8680dd47d4e3e9c.jpg",
+    "evaluate": "陈乾一觉醒来，发现自己成了神兽世界一只刚破壳的杂毛小鸡崽。更绝望的是，这个世界神兽分九阶，龙凤为尊，而他——正被挂在“神兽幼崽食材市场”标价出售。生死关头，他觉醒吞噬进化系统，啄了口地摊灵石，羽毛泛起金光；偷吃凶兽零食，翅膀燃起小火苗；被追杀时慌不择路啃了上古残碑，背后浮现凤凰虚影。当神兽们嘲笑他“血脉不纯”时，陈乾默默吃光了对方的宝库，打了个嗝，不好意思，刚才你说谁是杂毛鸡来着？",
+    "jpTitle": "",
+    "seasonTitle": "我，神兽幼崽，开局被当成食材",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-03-24 17:04:41",
+      "pub_time_show": "03月24日17:04",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6390559,
+    "firstEpisodePublishedAt": 1790151241000,
+    "type": 12,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "【两小时精品漫画】穿越成杂毛鸡是一种什么体验？吃货靠贪吃也能逆袭？！"
+    ],
+    "total": 100,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317938": {
+    "season_id": 317938,
+    "title": "玫瑰似纸，深情似火",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/2740a929ba1204ff9c6102788db36190de589a05.png",
+    "evaluate": "小护士白冰，嫁给人人仰望的集团总裁康吉安，本是麻雀变凤凰的美梦，却从新婚当天就被撕开残酷真相。\n康吉安娶她，从不是因为爱，而是为了替瘫痪的母亲复仇 —— 报复白冰母亲当年毁掉他家庭的旧怨。他冷漠疏离、纵容前任挑衅、放任婆婆刁难，将白冰困在名为 “婚姻” 的牢笼里。\n可在日复一日的相处中，他却被这个看似柔弱却无比坚韧的女孩悄悄治愈，动了不该动的心。当白冰得知所有真相，心碎提出离婚，康吉安才幡然醒悟。\n这场以恨开始的婚姻，最终能否以爱收尾？玫瑰虽薄如纸，深情却可燎原。",
+    "jpTitle": "",
+    "seasonTitle": "玫瑰似纸，深情似火",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-13 13:44:16",
+      "pub_time_show": "05月13日13:44",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388751,
+    "firstEpisodePublishedAt": 1790149805000,
+    "type": 11,
+    "episodeCount": 65,
+    "episodeTitles": [
+      "玫瑰似纸，深情似火-第1集",
+      "玫瑰似纸，深情似火-第2集",
+      "玫瑰似纸，深情似火-第3集"
+    ],
+    "total": 65,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317939": {
+    "season_id": 317939,
+    "title": "我穿越时运气不好",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f1fa5fbf06973ed87d8cbf99a1757176587ad4ed.png",
+    "evaluate": "我穿越到古代饥荒年，生在十亩田的农户家，八岁起挑水浇地，全家辛劳却收成微薄，交完粮税后只能靠粗粮度日。旱灾后家中凑不足粮税，我被爹卖入牙行，因识字算术好被晋阳伯爵府选为厨房粗使丫头。我在厨房干活并帮管事张嬷嬷盘账，因常吃猪蹄胖了十斤，还省下银钱补贴家人。二小姐柳青轩落水后穿越而来，发现我是同乡，两人暗中相认。她想办女子学堂失败，被罚跪祠堂；我则被柳夫人调入内院学账，改名迎夏。后被柳三少爷点为通房，再被抬为良妾，但新夫人进门后我日渐抑郁。二十年后随柳三进京赶考途中逃至杭州，混上南洋商船，却被海盗劫持，意外重逢已成海盗首领的柳青轩。我们在海岛推行红薯种植与集体账务管理，建立乌托邦式社区。柳三任福建巡抚后追查红薯线索找到松江，将我与柳青轩一并带回。柳青轩最终接受招安住进柳府，我们一同研究木工与织布机。三十年后，现代穿越者软软出现，攻略系统即将带人回现代。我与柳青轩决定一同回归，临别时我对柳三说“我爱你，可我更爱自由”，随即踏入光圈重返现代，成为会计；柳青轩成为家具设计师。多年后见其投资人神似柳三，我怔然落泪。",
+    "jpTitle": "",
+    "seasonTitle": "我穿越时运气不好",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-18 13:48:05",
+      "pub_time_show": "03月18日13:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389089,
+    "firstEpisodePublishedAt": 1790149921000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "我穿越时运气不好-第1集",
+      "我穿越时运气不好-完整版一口气看完"
+    ],
+    "total": 22,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317940": {
+    "season_id": 317940,
+    "title": "被堂哥坑后，我开鲜肉店暴富",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/1b94b4d91314c54b364d42bbd52e9419f3ba22b5.png",
+    "evaluate": "农村青年江凡与堂哥江景峰合伙在沪城开鲜肉店，全年辛劳、包揽脏活累活，\n年赚两百多万，却只被分得八万元，受尽轻视与不公。不甘被压榨的他顶着二十\n万债务，毅然独自开店，坚守新鲜、诚信、品质底线，靠口碑与老客支持快速站\n稳脚跟。\n江景峰急功近利、以次充好，在重要店庆订单中使用病肉、陈肉，惨遭三倍\n赔偿，负债三百万，妻离子散、名声尽毁。家人偏心袒护堂哥，逼迫江凡背锅，\n江凡父母坚定站在儿子这边，守住底线与体面。\n江凡抓住机遇，拿下大型加工厂长期订单，盘下屠宰场实现全链条经营，还\n清债务、站稳脚跟，将家人接到沪城团聚。而江景峰躲债被打断腿，落魄潦倒，\n终尝贪心恶果。故事以底层创业为线，道尽诚信立身、贪心必败的人间道理，温\n暖又现实。",
+    "jpTitle": "",
+    "seasonTitle": "被堂哥坑后，我开鲜肉店暴富",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-11 09:23:34",
+      "pub_time_show": "04月11日09:23",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388747,
+    "firstEpisodePublishedAt": 1790149803000,
+    "type": 11,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "被堂哥坑后，我开鲜肉店暴富-第1集",
+      "被堂哥坑后，我开鲜肉店暴富-第2集",
+      "被堂哥坑后，我开鲜肉店暴富-第3集"
+    ],
+    "total": 37,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317942": {
+    "season_id": 317942,
+    "title": "天才刑侦生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/195064ff7deec35f0109a5718f676de312e57db6.jpg",
+    "evaluate": "我是刑侦专业天才学生，被分配到交警队指挥交通。执勤时用善恶之眼发现通缉犯王子豪正挟持女孩，当场将其制服，缴获剔骨刀。随后在高铁站附近抓获12名小偷。次日早高峰，在建设小学路口发现协查通报中的杀人分尸案凶手王广平，立即追捕。王广平逃入小区后欲持刀劫持祖孙二人，我扑倒他时被划伤肩膀，关键时刻一辆酒红色宾利撞飞王广平。警方确认其身份并抓捕归案。我因连破大案获许青山所长上报两个三等功及奖金。一周后查到救我的车主是女总裁严瑶，两人约定见面。下午随杨伟、方伟赴建工采砂场查处超速沙土车，收集证据后封堵大门。现场发现王建成等二十多名安保人员中，十余人为在逃重犯，采砂场实为毒窝和犯罪窝点。王建成电话请示其兄王建工后下令殴打交警，我爆发近战之王能力，一分钟内放倒十余人，彻底控制局面。",
+    "jpTitle": "",
+    "seasonTitle": "天才刑侦生",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-10 17:09:42",
+      "pub_time_show": "03月10日17:09",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6389087,
+    "firstEpisodePublishedAt": 1790149921000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "天才刑侦生-第1集",
+      "天才刑侦生-完整版"
+    ],
+    "total": 22,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317943": {
+    "season_id": 317943,
+    "title": "算尽乾坤：废柴皇子的首席精算妃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/db97f0d1bc6f9c287a4dee56d2d062f1b3ceee68.png",
+    "evaluate": "全剧围绕现代精算师苏清月穿越后的“搞钱升职”与大梁夺嫡战乱展开，分五阶段高能推进。苏清月穿书成为废柴九皇子萧澜淮的王妃，面对皇子府巨额债务，她用现代金融手段化解危机，创立“清月锦阁”，将笑话般的皇子府打造成京城最赚钱的机构，还与萧澜淮建立默契。随后她在商战中击溃对手，联手扳倒二皇子，意外发现萧澜淮的“废柴”表象下藏着情报网，两人结成战友。夺嫡风云中，她以商路停运、资产转移釜底抽薪，被封为“大梁掌财令”，助力萧澜淮清除政敌。边境战乱时，她怒斩内奸，开启全民筹军费，为前线源源不断输送粮草。最终，萧澜淮登顶帝位，苏清月成为盛世财神，两人携手开创大梁繁华盛世。",
+    "jpTitle": "",
+    "seasonTitle": "算尽乾坤：废柴皇子的首席精算妃",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-24 10:31:37",
+      "pub_time_show": "04月24日10:31",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388662,
+    "firstEpisodePublishedAt": 1790149682000,
+    "type": 11,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "算尽乾坤：废柴皇子的首席精算妃-第1集",
+      "算尽乾坤：废柴皇子的首席精算妃-第2集",
+      "算尽乾坤：废柴皇子的首席精算妃-第3集"
+    ],
+    "total": 39,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317944": {
+    "season_id": 317944,
+    "title": "武大郎：没喝药的我赢麻了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/11da2611bf4f3c125544ec02147951e9453b664a.png",
+    "evaluate": "武大郎被潘金莲与西门庆毒杀后含恨重生，重回新婚之夜。他摒弃前世懦弱，厉声震慑嫌弃自己的潘金莲，又抓住张大户的把柄，夺得银子与铺面作为第一桶金。他改良炊饼秘方，生意日渐红火。武松打虎归来后，武大郎提前提醒他远离西门庆，兄弟二人联手应对西门庆的屡次陷害。最终，他们收集到西门庆欺压百姓、行贿等罪证，将其绳之以法，武大郎也护住了弟弟与家业，彻底改写了任人宰割的命运",
+    "jpTitle": "",
+    "seasonTitle": "武大郎：没喝药的我赢麻了",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-11 09:24:08",
+      "pub_time_show": "04月11日09:24",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388512,
+    "firstEpisodePublishedAt": 1790149563000,
+    "type": 11,
+    "episodeCount": 9,
+    "episodeTitles": [
+      "武大郎：没喝药的我赢麻了-第1集",
+      "武大郎：没喝药的我赢麻了-第2集",
+      "武大郎：没喝药的我赢麻了-第3集"
+    ],
+    "total": 40,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317945": {
+    "season_id": 317945,
+    "title": "饕餮真千金",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9456c228b76c608671c1f7fa1e17f14d78ad3d91.png",
+    "evaluate": "上古饕餮转世的江知微，以陶家养女的身份，在陶家被宠得无忧无虑，唯一的执念便是“吃遍天下美食”。她看似呆萌贪吃，实则身负吞噬邪气、破阵除邪的强悍能力，默默以饕餮本体阵法守护陶家安宁。陶家真千金陶清雅的归巢，打破了这份平静。这位手握楚氏集团、历经世事的天之骄女，初归时本预设了一场真假千金的博弈，却被江知微疯狂干饭的模样彻底破局。从最初的试探疏离，到目睹江知微为护自己教训长舌宾客、失控时的脆弱无助，陶清雅渐渐放下防备，接纳了这个“吃货妹妹”，两人从陌生到并肩，成为彼此最坚实的依靠。",
+    "jpTitle": "",
+    "seasonTitle": "饕餮真千金",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-17 10:57:40",
+      "pub_time_show": "03月17日10:57",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388745,
+    "firstEpisodePublishedAt": 1790149802000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "饕餮真千金-第1集",
+      "饕餮真千金-完整版一口气看完"
+    ],
+    "total": 55,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317946": {
+    "season_id": 317946,
+    "title": "孪生神女，我才是天命之人",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/83c27c4854690d7f1f5a16f46bc9d897e1944f32.jpg",
+    "evaluate": "苏凝华与孪生姐姐苏清瑶同日出生，当日雷雨交加，巨雷劈中承乾宫。司天台占卜称苏清瑶为福星神女，苏凝华则为灾星煞星。自此，全家唯爱苏清瑶，视苏凝华为不祥，连母亲亦疏远她，幼时仅与大黄狗为伴，狗因吠苏清瑶被摔死。她屡遭污名：生辰致治国寺屋檐塌、贵人染病被指为她冲撞，终成全城唾弃的“妖女”。宫宴上鼓架倾倒砸伤苏清瑶，实为有人暗中动手脚，苏凝华百口莫辩，被连夜送至京郊庄子。途中遇山贼劫持，她以簪刺杀贼首自保，濒死之际被四皇子萧景珩所救。她发现萧景珩是苏清瑶倾慕之人，遂刻意接近。后因太子坠马，父亲认定祸由她起，强令她赴江南老家避祸，途中马夫逃走，她流落驿站，恰逢萧景珩率军赈灾，遂投靠。她助其识破假难民刺客，发现其虎口老茧与镇北侯相同，疑为父亲所遣。太子薨后，她随萧景珩返京，藏身其府。皇帝命搜府，她设计借机入宫，在太和殿当众揭穿司天台台主受镇北侯收买构陷自己，并指出刺客系父亲所派。皇帝震怒，下旨查抄苏家。镇北侯谋反证据确凿，满门抄斩；苏清瑶被废神女之名，贬为庶人流放。苏凝华洗刷煞星之名，成为萧景珩身边得力之人，开启新局。",
+    "jpTitle": "",
+    "seasonTitle": "孪生神女，我才是天命之人",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-14 16:00:28",
+      "pub_time_show": "03月14日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388375,
+    "firstEpisodePublishedAt": 1790149443000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "孪生神女，我才是天命之人-第1集",
+      "孪生神女，我才是天命之人-完整版一口气看完"
+    ],
+    "total": 32,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317947": {
+    "season_id": 317947,
+    "title": "跟发小翻脸后，农学博士直播助农逆袭",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/1177fbe8e0439f3c9056852f6042d91a18516d30.png",
+    "evaluate": "帝都农大农学博士陈嘉禾放弃百万年薪，与发小陈守业合伙回乡做助农直播， 凭借独家培育的有机菠菜一年爆火、粉丝破百万。不料分红之际，陈守业篡改合同，将 798 万利润独吞，只分给陈嘉禾 10 万元，还当众羞辱他、抢夺全部成果。心灰意冷的陈嘉禾在女友苏苏与村民支持下，毅然单干。他从五亩荒地起步，用 专业技术种出高品质有机菠菜，开启直播逆袭之路，意外爆火全网。另一边，失去核心技术的陈守业不懂种植、滥打农药、以次充好，最终因农药超标、虚假宣 传彻底翻车。陈嘉禾则一路过关斩将，拿下直播大赛一等奖、获得县里扶持，带动全村共同致富，从被背叛的落魄博士，成长为年产值近三亿、带动数千农户增收的乡村振兴带头人，守住初心，也赢回尊严。",
+    "jpTitle": "",
+    "seasonTitle": "跟发小翻脸后，农学博士直播助农逆袭",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-25 10:28:38",
+      "pub_time_show": "04月25日10:28",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6387775,
+    "firstEpisodePublishedAt": 1790149088000,
+    "type": 11,
+    "episodeCount": 14,
+    "episodeTitles": [
+      "跟发小翻脸后，农学博士直播助农逆袭-第1集",
+      "跟发小翻脸后，农学博士直播助农逆袭-第2集",
+      "跟发小翻脸后，农学博士直播助农逆袭-第3集"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317948": {
+    "season_id": 317948,
+    "title": "卖鱼养家反被抛弃，我靠龙虾逆天改命",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/d1ccebaa3209413ef77570f11c6f454777e66ab6.png",
+    "evaluate": "高考全县第一的陈江河，被重男轻女的父母撕毁录取通知书，被迫辍学卖鱼八年。八年里，他起早贪黑，挣的钱全被偏心父母拿去扶持眼高手低的大哥、虚荣的二姐。\n陈江河攒钱准备给女友王子怡凑彩礼，老宅三十万拆迁款却被家人独占，连一万彩礼都不肯给。心寒至极的陈江河当场与原生家庭断绝关系，走投无路时，意外发现野生龙虾商机。\n他凭借水产天赋与秘制配方，和憨厚兄弟大春摆摊创业，生意火爆。后获餐饮大佬周明山投资，一路扩张，从夜市小摊开到全国连锁餐饮集团，当选全国餐饮协会会长。\n期间，偏心的家人屡屡眼红搅局、散播谣言，最终大哥破产、二姐一事无成，落魄求助全被陈江河拒绝。而陈江河风光迎娶始终不离不弃的王子，设立奖学金回馈家乡，彻底摆脱吸血原生家庭，从落魄卖鱼郎逆袭成人生赢家，诠释 “不认命、靠自己” 的励志人生。",
+    "jpTitle": "",
+    "seasonTitle": "卖鱼养家反被抛弃，我靠龙虾逆天改命",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-14 13:41:07",
+      "pub_time_show": "05月14日13:41",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388093,
+    "firstEpisodePublishedAt": 1790149205000,
+    "type": 11,
+    "episodeCount": 51,
+    "episodeTitles": [
+      "卖鱼养家反被抛弃，我靠龙虾逆天改命-第1集",
+      "卖鱼养家反被抛弃，我靠龙虾逆天改命-第2集",
+      "卖鱼养家反被抛弃，我靠龙虾逆天改命-第3集"
+    ],
+    "total": 51,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317949": {
+    "season_id": 317949,
+    "title": "弃妇逆袭：废品女王养女成凰",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/7b30645a44c6ff071bb4d2b69fd6bb1d03c161e1.png",
+    "evaluate": "名牌大学毕业的苏晚，为爱放弃事业做全职太太，却在生日夜撞破丈夫林浩宇与白梦瑶的背叛，被狠心净身出户，带着五岁女儿苏念希流落街头。走投无路的她，为了女儿放下尊严，踏上废品回收之路。\n从流落街头，到靠两个三毛钱开启希望，苏晚凭借坚韧与专业，在旁人的白眼与嘲讽中站稳脚跟。女儿希希天赋异禀，精通垃圾分类，成为她最暖心的依靠。创业路上，她遭遇前夫刁难、小三挑衅、同行使坏，却始终诚信经营、以德服人，意外获得环保科技总裁顾琛的赏识与守护。\n苏晚将废品回收逐步升级为旧物翻新、智能回收、环保科技，从小小回收站做到上市公司，逆袭成为业界敬仰的环保女王。她狠狠打脸渣男小三，让恶人自食恶果；用爱与拼搏把女儿培养成自信优秀的小公主，也收获了势均力敌的真挚爱情。\n从绝境宝妈到商业传奇，苏晚用行动证明：靠自己的双手，既能撑起孩子的未来，也能活成耀眼的光芒。",
+    "jpTitle": "",
+    "seasonTitle": "弃妇逆袭：废品女王养女成凰",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-27 12:00:01",
+      "pub_time_show": "04月27日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388086,
+    "firstEpisodePublishedAt": 1790149201000,
+    "type": 11,
+    "episodeCount": 13,
+    "episodeTitles": [
+      "弃妇逆袭：废品女王养女成凰-第1集",
+      "弃妇逆袭：废品女王养女成凰-第2集",
+      "弃妇逆袭：废品女王养女成凰-第3集"
+    ],
+    "total": 43,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317950": {
+    "season_id": 317950,
+    "title": "假身份恋人",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/44f06affad4f565e012a5636b70510ffaed6c3da.png",
+    "evaluate": "江中发现一具男尸，法医确认腹部有刀伤，死亡时间在6月20日至21日之间。死者为王成辉，32岁，硕士毕业，与母亲同住，母亲患肺癌需二十多万元治疗费。调查发现，王成辉一年来多次购买超市电子礼品卡，累计支出16万元，资金来源为其全部积蓄。报案人罗晓（28岁，独居）曾于6月13日报警称被尾随，提供的尾随者照片正是王成辉。监控显示，王成辉于6月17日下午进入罗晓所住小区单元楼，直至6月19日晚才离开；罗晓当晚亦离家未归。罗晓向警方说明：王成辉曾持伪造QQ账号与其朋友圈内容完全一致的假身份与其聊天，实为大学同学李燕（小A）盗用其信息实施情感诈骗；李燕以罗晓身份与王成辉网恋，诱使其购买电子礼品卡并骗取16万元，后断联。王成辉得知真相后于6月20日前往李燕居住的西园小区索要钱财，遭李燕及其男友杀害，尸体被装入行李箱抛入江中。警方据此锁定李燕及男友，现场提取到王成辉DNA，二人落网。罗晓随后起诉李燕，并以朋友身份探望王成辉母亲。",
+    "jpTitle": "",
+    "seasonTitle": "假身份恋人",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-03-23 15:59:35",
+      "pub_time_show": "03月23日15:59",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6388508,
+    "firstEpisodePublishedAt": 1790149562000,
+    "type": 11,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "假身份恋人-第1集",
+      "假身份恋人-完整版一口气看完"
+    ],
+    "total": 23,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317951": {
+    "season_id": 317951,
+    "title": "佛心鬼手",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/686689451cac40810c3b11e9fe7883e679d02d23.png",
+    "evaluate": "民国乱世，堰城暗流涌动。鬼手门天才传人秦砚，年少时亲眼目睹爷爷秦耀遭师叔荆臻背叛杀害，译码本与古画秘宝被夺，从此背负血海深仇。\n五年后，秦砚蛰伏归来，意外结识神秘组织 “游隼”—— 由身负相似血海深仇的杜充、飒爽特工萱、千面高手二棉裤、人脉大佬上官沂组成。为查荆臻下落、夺回秘宝，秦砚加入组织，众人以古画宝藏为诱饵，布下连环杀局。\n他们先设局接近黑心黑帮钱勇楠、狠厉反派仇天铭，借反派内斗借力打力；再伪装身份、潜入敌营，与老谋深算的荆臻展开巅峰智斗。过程中，团队遭遇背叛、埋伏、生死考验，二棉裤为护同伴牺牲，众人从猜忌到信任，结下过命情谊。\n最终，秦砚揭穿荆勾结外敌、私吞国宝、屠戮师门的全部罪证，联合警方将其绳之以法，成功守护藏有倭军武器坐标的古画，为爷爷和师门复仇，完成家国大义，一众幸存者开启新人生。",
+    "jpTitle": "",
+    "seasonTitle": "佛心鬼手",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:46:09",
+      "pub_time_show": "05月19日07:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6387759,
+    "firstEpisodePublishedAt": 1790149082000,
+    "type": 11,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "佛心鬼手-第1集",
+      "佛心鬼手-第2集",
+      "佛心鬼手-第3集"
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317952": {
+    "season_id": 317952,
+    "title": "玄符在手，废柴横扫异界",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f8ffb7b777f3db0f2c6b0d78be55a5e0d088bba4.png",
+    "evaluate": "《玄符在手，废柴横扫异界》是一部符道修仙穿越玄幻漫剧，世界观宏大，以独特符术体系为核心。玄符世家天才凌玄舟触禁忌遭雷劫，神魂穿越成侯府经脉闭塞的废柴嫡子。他凭上古玄符传承觉醒符道，收服九尾天狐雪璃，在书院测试、秘境探险中一路逆袭。此后他周旋于侯府内斗、书院纷争，对抗焚天魔导团、雷焰武府等强敌，以符术破局、鏖战魔道，在生死中不断突破境界，最终从废柴成长为执掌诸天的符帝。",
+    "jpTitle": "",
+    "seasonTitle": "玄符在手，废柴横扫异界",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-13 09:29:12",
+      "pub_time_show": "04月13日09:29",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6387757,
+    "firstEpisodePublishedAt": 1790149082000,
+    "type": 11,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "玄符在手，废柴横扫异界-第1集",
+      "玄符在手，废柴横扫异界-第2集",
+      "玄符在手，废柴横扫异界-第3集"
+    ],
+    "total": 44,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317953": {
+    "season_id": 317953,
+    "title": "团宠小祖宗，专治不服",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/7f27270c350a2ce6ebd96ade9ad8440b4cfe7cc0.png",
+    "evaluate": "民国乱世，北城大帅遭东瀛人暗算病危，少帅陆霆川四处求医，意外得知南城宋家有一位能逆转生死的 “宋小姐”。这位宋小姐看似只是七八岁女童，实则是沉睡千年、身负气运与神力的无上存在，百年前便与宋家先祖结契，庇护宋家世代昌盛。\n宋家后人忘恩负义、忤逆不敬，擅自毁掉护族气运天珠，将她赶出家门，致使宋家顷刻覆灭。宋小姐转而为陆家护道，以无上玄术破煞阵、解毒咒、斩邪祟、救大帅，打脸欺压良善的旁系与反派，手撕勾结东瀛的周家势力。\n她以萌娃之躯，行通天之事，专治各种不服；陆霆川率陆家满门甘心认她为主，全城权贵争相跪奉，成为人人敬畏的团宠小祖宗。最终宋小姐助力陆家铲除日寇，护一城百姓安宁，天下太平后归隐山林，留下一段凡世仙踪传奇。",
+    "jpTitle": "",
+    "seasonTitle": "团宠小祖宗，专治不服",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-11 10:00:16",
+      "pub_time_show": "05月11日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386968,
+    "firstEpisodePublishedAt": 1790148483000,
+    "type": 11,
+    "episodeCount": 11,
+    "episodeTitles": [
+      "团宠小祖宗，专治不服-第1集",
+      "团宠小祖宗，专治不服-第2集",
+      "团宠小祖宗，专治不服-第3集"
+    ],
+    "total": 64,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317954": {
+    "season_id": 317954,
+    "title": "老宅变鱼塘，出路自己闯",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/3219dd5f02f75b0bf562a14c78e200eb0af3cbd6.jpg",
+    "evaluate": "张家三代仗势欺人，多年前与陆家约定共留出路却耍赖侵占，致使陆家长辈含恨而终。张兆龙结婚建房时，再度强占陆家宅基地、彻底堵死出路，让陆家受尽屈辱。主角陆辰隐忍布局，在张家婚礼当日用挖掘机堵门、拆穿其无赖行径，搅黄婚事使其颜面扫地。随后陆辰凭借合法手续，推倒自家老宅开挖鱼塘，断了张家唯一出路。张家依仗的人脉与法律手段尽数失效，最终内讧不断、家破人散，彻底为多年恶行付出代价，陆辰也为家族讨回了迟来的公道与尊严。",
+    "jpTitle": "",
+    "seasonTitle": "老宅变鱼塘，出路自己闯",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-20 13:25:02",
+      "pub_time_show": "04月20日13:25",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386897,
+    "firstEpisodePublishedAt": 1790148365000,
+    "type": 11,
+    "episodeCount": 11,
+    "episodeTitles": [
+      "老宅变鱼塘，出路自己闯-第1集",
+      "老宅变鱼塘，出路自己闯-第2集",
+      "老宅变鱼塘，出路自己闯-第3集"
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317955": {
+    "season_id": 317955,
+    "title": "沧瀚荒途之拯救石落村",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/66b19bf7ca357e136cac9d51cf4c539d9fa02f4e.png",
+    "evaluate": "瘴气笼罩的石落村中，少年石野偶触上古荒祖金纹碎片，胸口烙下印记却修为停滞，沦为众人嘲讽的废柴。浊化狼王率众兽袭村时，石野印记觉醒，绝境斩杀狼王一鸣惊人。\n村中祭坛魂晶现世，同伴青禾身负古老印记遭浊灵反噬，引来浊灵教、灵清门多方觊觎。神秘女子苏晚现身引路，告知绝陨渊可压制青禾血脉危机。一行人闯绝陨渊、战荒犀，解锁上古封印秘辛，得知需集齐荒祖骨笛、灵泉与纯正血脉，方能永封始祖残魂。\n途中众人身世层层揭开，林婉儿携荒祖碎片登场，与青禾同为封印血脉后人。各方势力围追堵截，同伴石虎迷途知返壮烈牺牲，苏晚奉命卧底内心挣扎。\n石野一路逆天突破，集齐传承至宝，联合青禾、林婉儿奔赴陨仙秘境净化灵泉。最终揭穿太上长老引天魔破界的阴谋，苏晚幡然倒戈舍身献祭。石野突破帝境终结浩劫，守护一方安宁，往后与青禾、林婉儿归隐山间，相守岁月静好。",
+    "jpTitle": "",
+    "seasonTitle": "沧瀚荒途之拯救石落村",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-11 13:34:19",
+      "pub_time_show": "05月11日13:34",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386966,
+    "firstEpisodePublishedAt": 1790148483000,
+    "type": 11,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "沧瀚荒途之拯救石落村-第1集",
+      "沧瀚荒途之拯救石落村-第2集",
+      "沧瀚荒途之拯救石落村-第3集"
+    ],
+    "total": 58,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317956": {
+    "season_id": 317956,
+    "title": "厨神归来-舌尖风云再起",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/525384c46abd889691bf30e9b15608ba82b4e04f.png",
+    "evaluate": "姓名：张露身份：竹园酒楼大小姐、厨神方亭的忠实粉丝性格：前期：娇俏直率、有点小傲娇，误以为阿亭是普通墩子，对他充满偏见与嫌弃；中期：善良心软、重情重义，在生死擂中守护酒楼与父亲，逐渐发现阿亭的不凡；后期：温柔坚定、勇敢追爱，四处寻找失踪的方亭，陪他度过失忆低谷，是方亭的救赎与光。情感线：从 “嫌弃后厨小工”→“敬佩神秘高手”→“深爱失忆厨神”，双向奔赴、不离不弃，是方亭黑暗岁月里的温暖支撑。",
+    "jpTitle": "",
+    "seasonTitle": "厨神归来-舌尖风云再起",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-12 16:49:14",
+      "pub_time_show": "05月12日16:49",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386155,
+    "firstEpisodePublishedAt": 1790147764000,
+    "type": 11,
+    "episodeCount": 66,
+    "episodeTitles": [
+      "厨神归来-舌尖风云再起-第1集",
+      "厨神归来-舌尖风云再起-第2集",
+      "厨神归来-舌尖风云再起-第3集"
+    ],
+    "total": 65,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317957": {
+    "season_id": 317957,
+    "title": "高原战途：我的货车能进化",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/aa5f9d5a50216a40ff553ff5b93b47e7384f2ea8.png",
+    "evaluate": "陆野原是一名欠债三十万的底层货车司机，在川藏线上偶然救下被追捕的大学生许安安，却因此激活了神秘的“末日物流系统”。该系统赋予他穿越现实世界与末日废土的能力——前者物资丰富但商业封锁严重，后者资源稀缺却蕴藏黄金、高强度合金等宝贵材料。\n陆野凭借两界物资差价迅速积累资本，并利用废土顶级机械师“铁砧”的技术，将普通货车逐步改装成拥有能量护盾、聚变核心甚至可变形为机甲的“钢铁巨兽”。然而，财富与力量引来了多方觊觎：昔日债主王虎联合路霸刀疤、人贩子黑蛇设下天罗地网，境外资本集团“丽莎”更企图窃取高原稀有矿产。\n在许安安的智谋辅助、废土盟友老K的武力支援及国家科研力量陈教授的暗中帮助下，陆野从被动逃亡转向主动反击。他不仅粉碎了商业封锁、击溃雇佣兵武装，还揭露了境外势力的间谍行为，最终建立“野路物流联盟”，成为高原运输线的守护者。故事尾声，系统提示新的“跨星域物流”任务，暗示着更宏大的宇宙级挑战。",
+    "jpTitle": "",
+    "seasonTitle": "高原战途：我的货车能进化",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-26 07:51:37",
+      "pub_time_show": "05月26日07:51",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386461,
+    "firstEpisodePublishedAt": 1790148002000,
+    "type": 11,
+    "episodeCount": 51,
+    "episodeTitles": [
+      "高原战途：我的货车能进化-第1集",
+      "高原战途：我的货车能进化-第2集",
+      "高原战途：我的货车能进化-第3集"
+    ],
+    "total": 51,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317958": {
+    "season_id": 317958,
+    "title": "被二舅辜负后，我扎根荒山成果王",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/3b8c6fe589cf5b2b8f122d42bcfb3dc864fbb5f7.png",
+    "evaluate": "农村姑娘林秀兰精通种果技艺，勤恳帮二舅打理果园一整年。可二舅背信弃义，百万收益只给她微薄报酬，肆意践踏她的付出。心寒的林秀兰拿出父母养老钱，承包荒山独自创业。\n开荒拓土、救治病树，她历经万般艰难，靠天然优质水果打开销路，拿下大额合作订单，站稳脚跟。背信的二舅因以次充好巨额赔付，家道败落，走投无路前来求饶，林秀兰选择大度包容，出手相助。\n后续同行接连恶意打压、造谣抹黑、恶意竞争，林秀兰凭质检报告与实证自证清白，化解危机。她不忘初心，创办种植合作社，传授技术，带领村民共同增收致富，将荒山打造成万亩生态果园，凭借诚信与坚韧，收获事业与圆满人生。",
+    "jpTitle": "",
+    "seasonTitle": "被二舅辜负后，我扎根荒山成果王",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-29 10:00:25",
+      "pub_time_show": "04月29日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6386153,
+    "firstEpisodePublishedAt": 1790147763000,
+    "type": 11,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "被二舅辜负后，我扎根荒山成果王-第1集",
+      "被二舅辜负后，我扎根荒山成果王-第2集",
+      "被二舅辜负后，我扎根荒山成果王-第3集"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317959": {
+    "season_id": 317959,
+    "title": "玄道",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/7d6cc8fee095468f0eb06494a623132c361a9fc8.png",
+    "evaluate": "奇门传人苏清月受人所托，为叶辞移树破煞，却意外撞破东洋九菊一派潜藏的险恶阴谋。为守护华夏气运与山河龙脉，她毅然肩负使命，踏上护脉护国的修行之路。\n她精通玄学阵法，一路破解各类凶煞邪阵，直面邪术侵袭，联合正道同道，步步拆解佐藤静香盗取华夏气运的歹毒图谋。为解救被困祖师，她不畏前路艰险，四处奔波寻觅三件上古至宝，奔赴龙虎山登台论道，凭高强修为力克强敌，顺利接引祖师归位。\n风波暂平，可日军狼子野心并未收敛，又将觊觎的目光投向东北天池龙脉，更大的玄门危机与家国隐患，正悄然酝酿降临。",
+    "jpTitle": "",
+    "seasonTitle": "玄道",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-12 19:41:50",
+      "pub_time_show": "05月12日19:41",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6385285,
+    "firstEpisodePublishedAt": 1790147165000,
+    "type": 11,
+    "episodeCount": 61,
+    "episodeTitles": [
+      "玄道-第1集",
+      "玄道-第2集",
+      "玄道-第3集"
+    ],
+    "total": 61,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317960": {
+    "season_id": 317960,
+    "title": "荆棘之路",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/6a0aee548b6ed7d0f7608da2c4adc570e8ee4ee7.png",
+    "evaluate": "羊城沈家老宅葬礼上，权势赫赫的莫寒现身。受尽苛待、伪装痴傻的沈家千金沈玉冉，一心逃离桎梏、为母复仇，刻意靠近莫寒博取关注。\n二人本有婚约牵绊，莫寒再度到访沈家，目睹沈玉冉被家族囚禁逼迫代笔作画，处境凄惨。沈家人觊觎她名下遗产，旁支更是心怀歹念，还设计下药妄图算计莫寒，被沈玉冉巧妙借力扭转局势，她也与莫寒有了纠葛。\n沈家见阴谋难成，趁莫寒抽身处理军务时纵火行凶，意图灭口夺产。危急关头，牵挂沈玉冉的莫寒不顾军令火速赶回，带队闯入险境救下奄奄一息的她。\n莫寒不惧问责强势护她脱离苦海，历经磨难的沈玉冉挣脱黑暗，二人彼此依偎，迎来双向奔赴的爱恋。\n",
+    "jpTitle": "",
+    "seasonTitle": "荆棘之路",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-23 07:48:37",
+      "pub_time_show": "05月23日07:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6385044,
+    "firstEpisodePublishedAt": 1790147042000,
+    "type": 11,
+    "episodeCount": 61,
+    "episodeTitles": [
+      "荆棘之路-第1集",
+      "荆棘之路-第2集",
+      "荆棘之路-第3集"
+    ],
+    "total": 61,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317961": {
+    "season_id": 317961,
+    "title": "重生养家我带妻儿致富",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9de4c7519d326de5938546827f9d76c047a4cea7.png",
+    "evaluate": "80 年代，悔恨终生的何昭意外重生。前世他被豪门郭家认回后抛妻弃女，落得家破人亡的凄惨结局。重回命运拐点，他毅然拒绝豪门认亲，全力护住待产的妻子与双胞胎女儿。洗心革面的何昭化身顾家好男人，凭借前世记忆紧抓时代机遇，捕鱼、贩菜、收购螺蛳、制作手工包，一步步做大生意，带领全家乃至全村致富。面对郭家屡次上门挑衅，他从容反击，狠狠打脸昔日亲人。他弥补亲情遗憾，守护家人、帮扶亲友，最终事业兴旺、家庭和睦，彻底改写悲惨人生，活成人人艳羡的模样。",
+    "jpTitle": "",
+    "seasonTitle": "重生养家我带妻儿致富",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-27 07:52:44",
+      "pub_time_show": "05月27日07:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6384788,
+    "firstEpisodePublishedAt": 1790146926000,
+    "type": 11,
+    "episodeCount": 55,
+    "episodeTitles": [
+      "重生养家我带妻儿致富-第1集",
+      "重生养家我带妻儿致富-第2集",
+      "重生养家我带妻儿致富-第3集"
+    ],
+    "total": 55,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317962": {
+    "season_id": 317962,
+    "title": "被八万打发后，我拿下整个海鲜码头",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/de99927d69e8b9800af7fc7ec8104e6049e84838.png",
+    "evaluate": "《被八万打发后，我拿下整个海鲜码头》是一部都市创业女性励志短剧，讲述普通女性林悦从被压榨到靠双手逆袭的真实成长之路。林悦婚后为养家，答应表姐林锦华合伙开海鲜店，约定利润平分。她全年无休跑码头、守店铺、垫付成本，默默撑起整家店，可年入两百万的表姐却自私刻薄，仅给她八万分红，还肆意轻视、压榨她。\n心灰意冷的林悦不愿再忍，果断拿出全部积蓄并负债，盘下旺铺自立门户，创立 “林氏海鲜”。丈夫陈宇毅然辞职相伴，用物流经验帮她规划货源与路线；热心顾客霞姨为她牵线饭店订单，成为创业路上的关键贵人。林悦坚守诚信、严把品质，接连拿下酒店、云吞店、食品加工厂等大额订单，一步步还清债务，甚至成功盘下专属海鲜码头，事业彻底腾飞。\n反观表姐林锦华，自私自利、以次充好，最终违约赔款三百万，丈夫离去、店铺倒闭，落得落魄下场。面对偏心刻薄的外婆与落魄的表姐，林悦虽受过伤害，却依旧承担外婆医药费，守住善良本心。整部剧以市井创业为底色，刻画女性坚韧力量、夫妻同心相守，揭露亲情势利与人性冷暖，传递 “诚信立身、实干逆袭” 的正向价值观。",
+    "jpTitle": "",
+    "seasonTitle": "被八万打发后，我拿下整个海鲜码头",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:46:13",
+      "pub_time_show": "05月19日07:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6382731,
+    "firstEpisodePublishedAt": 1790145605000,
+    "type": 11,
+    "episodeCount": 34,
+    "episodeTitles": [
+      "被八万打发后，我拿下整个海鲜码头-第1集",
+      "被八万打发后，我拿下整个海鲜码头-第2集",
+      "被八万打发后，我拿下整个海鲜码头-第3集"
+    ],
+    "total": 34,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317963": {
+    "season_id": 317963,
+    "title": "归来报君恩",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/114c708d3e0601acb7a7d173b310d9aa3bbcd307.png",
+    "evaluate": "十年前，陈顶天是叱咤风云的江湖大哥，一念善心救下饥寒交迫的小乞丐冯承恩，却被最信任的兄弟李超、陆奎陷害，背负罪名入狱十年。\n十年后，陈顶天刑满释放，昔日兄弟反目成仇，夺他财产、逼他擦鞋、极尽羞辱；女儿陈倩被渣男丈夫孙大志家暴、虐待、逼入绝境。\n就在他走投无路时，当年的小乞丐已成为身家亿万的龙腾集团董事长冯承恩。\n冯承恩记挂一饭之恩、救命之情，携滔天权势强势归来：\n当场打脸叛弟、收回产业、整顿黑白两道；\n救出受尽折磨的女儿、严惩家暴渣男；\n扫平黑帮彪哥、清理集团内奸；\n连曾经看不起陈顶天的权贵，全都俯首听命。\n陈顶天从阶下囚重回巅峰，不仅报了当年背叛之仇，更守护妻女、重掌事业，最终与冯承恩携手，以恩报恩、以直报怨，走上人生巅峰",
+    "jpTitle": "",
+    "seasonTitle": "归来报君恩",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-27 07:52:44",
+      "pub_time_show": "05月27日07:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6382249,
+    "firstEpisodePublishedAt": 1790145127000,
+    "type": 11,
+    "episodeCount": 60,
+    "episodeTitles": [
+      "归来报君恩-第1集",
+      "归来报君恩-第2集",
+      "归来报君恩-第3集"
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317964": {
+    "season_id": 317964,
+    "title": "和堂哥散伙后，我开生鲜店暴富",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/05dcc2a5f69f26bf4f7b7eafd06eb12e2ce797c9.png",
+    "evaluate": "《和堂哥散伙后，我开生鲜店暴富》是一部扎根市井的都市创业爽剧，以沪城海鲜行业为背景，通过堂兄弟二人截然相反的人生轨迹，深刻诠释 “诚信者赢天下，贪婪者终自毁” 的核心主题。踏实肯干的林舟倾尽心力与堂哥合伙创业，包揽所有脏活累活，却在年赚两百万的店铺中仅分得八万元，连年夜饭都被嫌弃排挤。心有不甘的他顶着二十万债务另起炉灶，在父母与妻子的全力支持下创办 “林氏海鲜”。他坚守 “只卖当日活鲜” 的底线，凭借老客口碑和过硬实力迅速站稳脚跟，单日销售额突破十万。反观林浩急功近利，为牟利用死鱼烂虾充数，在三十万店庆大单中翻车，面临三百万十倍赔偿，最终妻离子散、名声尽毁。偏心家人逼迫林舟背锅，其父母却坚定护子。最终林舟打通全产业链实现暴富，而林浩落得落魄潦倒的下场。",
+    "jpTitle": "",
+    "seasonTitle": "和堂哥散伙后，我开生鲜店暴富",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-11 10:00:11",
+      "pub_time_show": "05月11日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6381507,
+    "firstEpisodePublishedAt": 1790144526000,
+    "type": 11,
+    "episodeCount": 12,
+    "episodeTitles": [
+      "和堂哥散伙后，我开生鲜店暴富-第1集",
+      "和堂哥散伙后，我开生鲜店暴富-第2集",
+      "和堂哥散伙后，我开生鲜店暴富-第3集"
+    ],
+    "total": 37,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317965": {
+    "season_id": 317965,
+    "title": "归乡喊妈",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/5187084bf831cfecbbe359e6fc002f32b13124eb.png",
+    "evaluate": "襁褓中的孟吉德被弃河边，绝望轻生的孟婉儿救下他，耗尽一生未婚养育，视如己出。孟吉德以全省第一考上大学，孟婉儿身患胃癌，为凑学费跪求亲友、献血换钱，青梅沈雨更是牺牲自己换钱助他远行。孟吉德未去上学，毅然奔赴北境，浴血奋战成为护国神将。四年间，小人王富贵伪造通缉令，污蔑他叛国投敌，孟婉儿被宗族审判、酷刑加身，险些浸猪笼。孟吉德身披荣光、率部归乡，当众揭露污蔑真相，展露满身战功伤疤，震慑全村。他百倍报答乡亲恩情，严惩恶亲与奸人，救下被迫嫁人的沈雨，最终母子相认、家国两全，完成 “精忠报国、荣归故里” 的誓言。",
+    "jpTitle": "",
+    "seasonTitle": "归乡喊妈",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-13 13:42:15",
+      "pub_time_show": "05月13日13:42",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6381589,
+    "firstEpisodePublishedAt": 1790144642000,
+    "type": 11,
+    "episodeCount": 55,
+    "episodeTitles": [
+      "归乡喊妈-第1集",
+      "归乡喊妈-第2集",
+      "归乡喊妈-第3集"
+    ],
+    "total": 55,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317966": {
+    "season_id": 317966,
+    "title": "终礼",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/00ff5c25cc62a9cbb699bcdb34326744c5ff093d.png",
+    "evaluate": "顶尖黑客陆千曾与顾氏千金顾静书深爱相守，五年前为保全顾家、护住爱人，他甘愿替岳父顶下挪用公款的罪名入狱。不明真相的顾静书心生恨意，顾家也接连遭遇变故，家人身心俱损。\n五年后身患绝症的陆千获准保外就医，他刻意故作凉薄，只为让妻子彻底放下自己。顾氏集团遭遇黑客围攻，陆千不顾病痛出手筑牢网络防御，反倒遭到顾静书误解指责。为救治病重的岳父，他倾力攻克技术难题换取医疗设备，却再度被恶意诬陷。\n心灰意冷的顾静书决定改嫁，陆千带着满心遗憾离世。婚礼当日，当年隐情彻底曝光，顾静书悲痛悔恨不已。后来她孕育下二人的孩子，孩子继承父亲过人天赋茁壮成长，这段刻骨虐恋，最终在新生里慢慢归于圆满。",
+    "jpTitle": "",
+    "seasonTitle": "终礼",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-24 07:50:29",
+      "pub_time_show": "05月24日07:50",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6381588,
+    "firstEpisodePublishedAt": 1790144641000,
+    "type": 11,
+    "episodeCount": 56,
+    "episodeTitles": [
+      "终礼-第1集",
+      "终礼-第2集",
+      "终礼-第3集"
+    ],
+    "total": 56,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317967": {
+    "season_id": 317967,
+    "title": "棠晚花谢即归来",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a175f2b9ba55f65145a8b6fb75f1b96c42597057.png",
+    "evaluate": "落魄孤女苏棠晚大雪夜投奔姨母家被拒，幸得谢家嫡长子谢景珩收留。两人暗生私情，他许她日后纳为贵妾，她却牢记母亲 “绝不做妾” 的遗言，隐忍蛰伏。\n面对名门贵女凌雪吟的算计、家族的逼迫、谢景珩的偏执占有，苏棠晚步步惊心，更在春日宴遭人构陷，险些身败名裂。\n凌雪吟妒恨难平，买通劫匪欲置她于死地，谢景珩竟为救她以身挡箭、倾尽精锐，情深至此却依旧不肯给她正妻之位。\n苏棠晚彻底心死，布下火海假死骗局，携妹妹远走他乡，与寒门举子温知许相守，只求一世安稳。\n谢景珩以为挚爱惨死，痛彻心扉、弃婚守心，从此疯魔。两年追查，他终于在异乡撞见 “死而复生” 的她，爱恨癫狂、强势夺回。\n他扫清障碍、和离退婚、对抗全族，以八抬大轿、十里红妆，明媒正娶苏棠晚为正妻。\n棠花谢尽，故人归来，这一次，她要的名分，他倾尽所有给够。",
+    "jpTitle": "",
+    "seasonTitle": "棠晚花谢即归来",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-30 07:54:40",
+      "pub_time_show": "05月30日07:54",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6381048,
+    "firstEpisodePublishedAt": 1790144049000,
+    "type": 11,
+    "episodeCount": 61,
+    "episodeTitles": [
+      "棠晚花谢即归来-第1集",
+      "棠晚花谢即归来-第2集",
+      "棠晚花谢即归来-第3集"
+    ],
+    "total": 61,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317968": {
+    "season_id": 317968,
+    "title": "乞丐婆婆藏锋芒",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b312bfc03800add5b47ccfd428a7357d6bb60116.png",
+    "evaluate": "《乞丐婆婆藏锋芒》讲述身价万亿、缔造未来集团与顶级豪车 “劳斯拉”、被誉为 “世界车神” 的女总裁唐菀，为寻找世间善良、测试人心，故意伪装成盲眼乞丐流落街头。她被善良青年南宫离好心救助，为报恩答应假扮其女友，回老家应付母亲五十大寿。寿宴之上，南宫家人、势利亲戚、心机前任轮番嘲讽、羞辱、构陷，骂她乞丐、骗子、小偷。唐菀隐忍不发，直至被彻底激怒，当众亮明身份：豪车车队、百万寿礼、集团高管、商界大佬接连登场，所有看不起她的人当场吓瘫、疯狂求饶。她手撕仇人、收回施舍的财富、打脸所有恶人，同时与真心待她的南宫离日久生情，最终事业爱情双丰收，活成真正的人间王者。",
+    "jpTitle": "",
+    "seasonTitle": "乞丐婆婆藏锋芒",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:42:38",
+      "pub_time_show": "05月19日07:42",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6381031,
+    "firstEpisodePublishedAt": 1790144042000,
+    "type": 11,
+    "episodeCount": 61,
+    "episodeTitles": [
+      "乞丐婆婆藏锋芒-第1集",
+      "乞丐婆婆藏锋芒-第2集",
+      "乞丐婆婆藏锋芒-第3集"
+    ],
+    "total": 61,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317969": {
+    "season_id": 317969,
+    "title": "妙笔惊天下",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ed5dfaae11c71d21c8d18338d0812580ae762523.png",
+    "evaluate": "古代大雍的书画大家何墨意外穿越千年，来到现代，成了何家大房无人照看的遗孤。家中亲戚心怀叵测，妄图瓜分家产，他凭借一身登峰造极的书画技艺，一次次戳破对方的算计，稳稳守住家业。\n此后，外来画师前来挑衅，妄图贬低国画。何墨以精湛画艺从容应战，凭实力碾压对手，捍卫了传统国画的尊严。相处之间，他结识了顾司年，对方眉眼气质酷似自己前世故人，二人渐生情愫，彼此倾心。\n手握传世画技，心怀传承之志，何墨以笔墨为刃，不仅洗刷了家族困境，更让书画风采再度名扬四方，一步步重振家族声望，书写出全新的人生篇章。",
+    "jpTitle": "",
+    "seasonTitle": "妙笔惊天下",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-29 07:54:17",
+      "pub_time_show": "05月29日07:54",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6379293,
+    "firstEpisodePublishedAt": 1790142495000,
+    "type": 11,
+    "episodeCount": 54,
+    "episodeTitles": [
+      "妙笔惊天下-第1集",
+      "妙笔惊天下-第2集",
+      "妙笔惊天下-第3集"
+    ],
+    "total": 54,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317970": {
+    "season_id": 317970,
+    "title": "我才不伺候了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/4261415847a16c7d640ab5d5384cda376f38b992.png",
+    "evaluate": "李秀兰隐忍十年，操持家务、伺候公婆、苦心经营卤肉生意，一心为家庭付出，却在老宅分割时被大伯暴力推倒，丈夫冷眼旁观，亲生儿子冷漠嫌弃。心寒至极的她不再委曲求全，用二十年积蓄租下临街店面重开卤肉店，放弃房产继承、果断提出离婚，彻底摆脱吸血家人。开店途中，她收留身世坎坷的高三学霸李明远，悉心照料并供他读书。另一边，贪婪自私的王家人接连遭报应：大伯养蝎子闯祸负债、妻离子散；丈夫丢工作、众叛亲离；儿子失去婚房彩礼、感情破裂。最终，李秀兰凭借精湛手艺将卤肉店做成地方知名品牌，与默默守护多年的良人秦正阳相守，李明远考上顶尖大学报恩，她活成了自己最想要的模样，而所有伤害过她的人，都在悔恨中落魄度日。",
+    "jpTitle": "",
+    "seasonTitle": "我才不伺候了",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-12 16:48:39",
+      "pub_time_show": "05月12日16:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6379243,
+    "firstEpisodePublishedAt": 1790142367000,
+    "type": 11,
+    "episodeCount": 52,
+    "episodeTitles": [
+      "我才不伺候了-第1集",
+      "我才不伺候了-第2集",
+      "我才不伺候了-第3集"
+    ],
+    "total": 52,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317971": {
+    "season_id": 317971,
+    "title": "院士还乡",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/7ce027498e8e36915998e82bd7f0da1a2dbf9e57.png",
+    "evaluate": "贫寒学子程远以全县第一考入华清大学药学系，父亲程守田为凑学费，被黑心商人钱万财欺骗，签下十年 “卖身契” 送入黑砖窑，遭受非人虐待、打断肋骨、右手致残。母亲王桂兰身患不治肾病，无钱医治，全家坠入深渊。\n四年苦读，程远逆天改命，研发出肾病特效药，荣获国家最高荣誉东垣院士，放弃千万年薪与海外绿卡，毅然回乡。\n此时父亲仍被黑砖窑主胡大彪虐待，被赶进废弃仓库，被逼续签二十年苦力合同。程远以院士身份强势还乡，当场掀翻黑恶势力：\n逮捕胡大彪、钱万财等黑恶团伙，彻查黑砖窑罪恶；\n为父治好伤残，为母研发专属特效药，让母亲重获健康；\n怒斥医院权贵、打脸资本恶霸，将救命药定价18 元普惠百姓；\n建药材基地、办现代化药厂，带领全村种药致富；\n顶住垄断打压、顶住投毒破坏，坚守医者仁心与底线。\n最终，坏人伏法、父母安康、家乡腾飞，程远从寒门学子变成国之栋梁，用一生兑现：我以一身所学，报父母养育恩，富一方百姓，救天下病人。",
+    "jpTitle": "",
+    "seasonTitle": "院士还乡",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-27 07:52:49",
+      "pub_time_show": "05月27日07:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6379129,
+    "firstEpisodePublishedAt": 1790142123000,
+    "type": 11,
+    "episodeCount": 50,
+    "episodeTitles": [
+      "院士还乡-第1集",
+      "院士还乡-第2集",
+      "院士还乡-第3集"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317972": {
+    "season_id": 317972,
+    "title": "被二叔背叛后，我成牛油火锅女王",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/830d6c7d226e0091b58525e98807907006bd4715.png",
+    "evaluate": "九十年代初，重庆码头女子李红英合伙做火锅生意，反被亲叔坑走分红，只拿到 120 元，心寒至极。暴雨夜里她拼死护住火锅底料干货，决心凭手艺自立谋生。\n她凑齐父母资助的 380 元与微薄积蓄，摆摊做起火锅生意，却接连遭遇地痞勒索、同行刁难、天灾毁摊。她凌晨辛苦扛货、赊借食材，凭借正宗牛油锅底圈粉无数。\n从小摊开到小店，李红英坚守鲜货现做、不低价内卷，凭特色油碟打响名气。面对亲戚刁难、同行恶意使绊甚至蓄意加害，她坚守本心，大度宽恕悔改亲人。\n遭遇工厂欠款危机，她缩店清货、诚信还债。绝境中公开底料配方，带动街坊创业，优先帮扶下岗女工。最终夫妻同心连开两家门店，恪守初心家训，从底层小摊主逆袭成一代川渝火锅女王，谱写 90 年代女性实干逆袭的励志传奇。",
+    "jpTitle": "",
+    "seasonTitle": "被二叔背叛后，我成牛油火锅女王",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-12 16:48:52",
+      "pub_time_show": "05月12日16:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6378606,
+    "firstEpisodePublishedAt": 1790141053000,
+    "type": 11,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "被二叔背叛后，我成牛油火锅女王-第1集",
+      "被二叔背叛后，我成牛油火锅女王-第2集",
+      "被二叔背叛后，我成牛油火锅女王-第3集"
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317973": {
+    "season_id": 317973,
+    "title": "今天送你一张酱香饼，三年后投我一张选举票",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/9cdcc187dfb9af841432980a57f33d245f7a819c.png",
+    "evaluate": "陈志远和二叔合伙卖酱香饼，辛苦一年却遭对方克扣收入、扫地出门。他心有不甘，凑钱远赴异国闯荡，初到时囊中羞涩，住进阴暗地下室，还屡屡遭人刁难、同行排挤。\n他从头做起，一边打工谋生，一边坚持摆摊卖酱香饼，期间接连遭遇恶意驱赶、罚款、餐车被砸、拘留等重重打击，数次陷入绝境。走投无路时，他开始为流浪汉免费送饼，善举被网友关注，也收获了一群志同道合的志愿者。\n此后他规范经营、奔走发声，推动当地食品相关律法改进。三年后，陈志远以独立候选人身份参选州长，直面昔日对手的恶意抹黑与栽赃，凭借坦荡态度和众人支持逆袭当选。昔日落魄小贩，终靠一手酱香饼与不懈坚守，改写了自己的人生。",
+    "jpTitle": "",
+    "seasonTitle": "今天送你一张酱香饼，三年后投我一张选举票",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-29 07:54:40",
+      "pub_time_show": "05月29日07:54",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6378495,
+    "firstEpisodePublishedAt": 1790140926000,
+    "type": 11,
+    "episodeCount": 54,
+    "episodeTitles": [
+      "今天送你一张酱香饼，三年后投我一张选举票-第1集",
+      "今天送你一张酱香饼，三年后投我一张选举票-第2集",
+      "今天送你一张酱香饼，三年后投我一张选举票-第3集"
+    ],
+    "total": 54,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317974": {
+    "season_id": 317974,
+    "title": "心声助力，全家逆袭",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/493455f97f7eff3896349c5aa517874e16894651.png",
+    "evaluate": "职场社畜言晓吐槽悲情小说后，意外穿越书中，成为命运凄惨的豪门真千金夏知宁。她绑定系统，唯有守护家人、惩治作恶反派，才能重返现实世界。\n言晓意外心声可被家人听见，借此戳破假千金夏梦的害人诡计，揭开生父出轨谋夺家产、蓄意谋害至亲的真相。她结识同样能听见自己心声的商界大佬沈辞，二人结成同盟彼此照应。女主凭借剧情先知，一次次化解危机，护住两位兄长与母亲，助力母亲离婚，让背叛家庭的生父净身出户。\n后续众人联手粉碎反派夺权阴谋，所有作恶者尽数身败名裂，得到法律严惩。成功改写家族悲剧后，言晓割舍现实归途，留在书中相伴亲人，最终与沈辞修成正果，收获圆满幸福。",
+    "jpTitle": "",
+    "seasonTitle": "心声助力，全家逆袭",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-24 07:50:22",
+      "pub_time_show": "05月24日07:50",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6378323,
+    "firstEpisodePublishedAt": 1790140565000,
+    "type": 11,
+    "episodeCount": 67,
+    "episodeTitles": [
+      "心声助力，全家逆袭-第1集",
+      "心声助力，全家逆袭-第2集",
+      "心声助力，全家逆袭-第3集"
+    ],
+    "total": 67,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317975": {
+    "season_id": 317975,
+    "title": "被表哥害得跳海，三年后海上都要听我的",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/68f2612d56d538d0442bdb2d55ae5f42d70d52c1.png",
+    "evaluate": "渔家青年陈泽仁深谙观海识天的本事，帮二舅打理渔场，却遭对方勾结村霸暗中加害。船只被毁、家中被袭，他还被恶意污蔑，无奈带着兄弟凑钱买旧船远赴南洋求生。\n航行途中，众人接连遭遇台风、鲸群、鲨鱼等险境，数次险象环生。途中他救下遭海盗逼迫的苏静秋，对方懂医术、通外语，自此成为他的得力伙伴与爱人。\n凭借祖传信物与出色能力，陈泽仁在马尼拉站稳脚跟，接连挫败地头蛇与外籍官员的刁难，一步步壮大船队与码头。功成名就后他荣归故里，大度原谅昔日乡亲，依法惩处作恶之人。\n后来他提前预警特大台风保全村民，出资重建村落、兴办学堂。最终陈泽仁携家人与船队，循着先祖的足迹，向着全新的航路扬帆远航。",
+    "jpTitle": "",
+    "seasonTitle": "被表哥害得跳海，三年后海上都要听我的",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-30 07:54:52",
+      "pub_time_show": "05月30日07:54",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6378066,
+    "firstEpisodePublishedAt": 1790140324000,
+    "type": 11,
+    "episodeCount": 49,
+    "episodeTitles": [
+      "被表哥害得跳海，三年后海上都要听我的-第1集",
+      "被表哥害得跳海，三年后海上都要听我的-第2集",
+      "被表哥害得跳海，三年后海上都要听我的-第3集"
+    ],
+    "total": 49,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317976": {
+    "season_id": 317976,
+    "title": "一梦成冤",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/f19711e5ad98a2c3858de68be937280e4a520792.png",
+    "evaluate": "山海集团幕后董事长徐启，为磨砺儿子徐平、避免他沦为纨绔，隐去万亿身家，以乡下老农身份出席儿子的订婚宴。准儿媳陆青因一场荒诞春梦，误以为自己遭陌生老者玷污，当众撒泼控诉。她不分青红皂白联合亲友殴打羞辱徐启，撕毁上亿房产证、砸碎亡妻遗留的珍贵玉镯、焚毁唯一的留念合照，事后发现对方是自己公公，为嫁入豪门不惜删除监控、伪造孕检单，执意污蔑到底。与此同时，陆青出轨劈腿、腹中孩子并非徐平骨肉的真相接连曝光。随着徐启万亿大佬身份揭晓，势利的陆家众人彻底崩盘，所有作恶者最终为自己的贪婪与恶毒，付出了惨痛代价。",
+    "jpTitle": "",
+    "seasonTitle": "一梦成冤",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:46:51",
+      "pub_time_show": "05月19日07:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6377331,
+    "firstEpisodePublishedAt": 1790139601000,
+    "type": 11,
+    "episodeCount": 46,
+    "episodeTitles": [
+      "一梦成冤-第1集",
+      "一梦成冤-第2集",
+      "一梦成冤-第3集"
+    ],
+    "total": 46,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317977": {
+    "season_id": 317977,
+    "title": "随手退小红包，女儿瞬间崩溃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/de52bc43cda18db4bc5501e70ad9979ad83c72df.png",
+    "evaluate": "55 岁的白婉晴，半生为女儿白悦玥操劳：放弃舞蹈梦想、进城当免费保姆、每月 6000 退休金全帮女儿还房贷、倒贴菜钱、包揽所有家务。\n生日当天，她只收到女儿18.8 元红包，却被当众指责 “贪财、小气、不如婆婆”；女儿给婆婆送 4 万金镯、3 万欧洲游，对亲妈却百般刻薄。\n白婉晴彻底心死：退回红包、停掉房贷代扣、收拾行李回老家，宣布不再伺候、不再倒贴、不再心软。\n她重拾年轻时的舞蹈特长，成为县里舞蹈队领舞，迎来人生第二春；同时老家房子拆迁，获得 300 万补偿款。\n失去母亲支撑的白悦玥，生活瞬间崩塌：房贷逾期、学区房被查封、二胎流产、全家陷入债务危机。为骗取拆迁款，女儿竟联合女婿装死骗妈，被白婉晴当场拆穿。\n最终，白悦玥沦为环卫工，穷困潦倒、追悔莫及；而白婉晴跳舞、交友、为自己而活，活成了最潇洒的模样。",
+    "jpTitle": "",
+    "seasonTitle": "随手退小红包，女儿瞬间崩溃",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-30 07:55:20",
+      "pub_time_show": "05月30日07:55",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6377211,
+    "firstEpisodePublishedAt": 1790139125000,
+    "type": 11,
+    "episodeCount": 49,
+    "episodeTitles": [
+      "随手退小红包，女儿瞬间崩溃-第1集",
+      "随手退小红包，女儿瞬间崩溃-第2集",
+      "随手退小红包，女儿瞬间崩溃-第3集"
+    ],
+    "total": 49,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317978": {
+    "season_id": 317978,
+    "title": "神祇觉醒：吾乃华夏之主",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/df46117eba70aa840cbc67428ceb42c0961d4008.jpg",
+    "evaluate": "穿越者秋宇在 “东方无神” 的神祇纪元觉醒神契天赋，成为龙国希望。他唤醒多位华夏神明，击退外神挑衅，加入苏家备战 “众神之战”，誓要夺回被他国掠夺的华夏古神。为集齐女娲残像，他赴敦煌通过飞天神明试炼，夺得女娲右足。随后乘游轮前往樱花国夺取女娲左足，途中遭遇樱花国势力挑衅与游轮诡异危机，一场围绕华夏神脉的跨国争夺正式展开。",
+    "jpTitle": "",
+    "seasonTitle": "神祇觉醒：吾乃华夏之主",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-14 13:50:01",
+      "pub_time_show": "05月14日13:50",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376945,
+    "firstEpisodePublishedAt": 1790138645000,
+    "type": 12,
+    "episodeCount": 14,
+    "episodeTitles": [
+      "神祇觉醒：吾乃华夏之主-第1集",
+      "神祇觉醒：吾乃华夏之主-第2集",
+      "神祇觉醒：吾乃华夏之主-第3集"
+    ],
+    "total": 49,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317979": {
+    "season_id": 317979,
+    "title": "我的初恋成了妹妹的老师",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/ba550386db1e3defc5528f59cadede30482b86b0.png",
+    "evaluate": "七年前，江清和沈棠舟因外界压力与内心自卑无奈分手。七年后，江清陪妹妹咨询高考志愿，意外重逢初恋，对方如今竟是妹妹的志愿老师。久别重逢，两人情愫复燃，妹妹也全力撮合二人。昔日追求者接连登场，加上接连不断的误会，让感情之路一波三折。当当年分手的隐情彻底揭晓，两人终于放下隔阂，坦诚心意。历经重重考验，双方家人选择谅解与祝福，纠缠的旁人也坦然退场。兜兜转转七年，这对有情人终得圆满，携手开启甜蜜新生活。",
+    "jpTitle": "",
+    "seasonTitle": "我的初恋成了妹妹的老师",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-27 07:52:43",
+      "pub_time_show": "05月27日07:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376841,
+    "firstEpisodePublishedAt": 1790138525000,
+    "type": 11,
+    "episodeCount": 57,
+    "episodeTitles": [
+      "我的初恋成了妹妹的老师-第1集",
+      "我的初恋成了妹妹的老师-第2集",
+      "我的初恋成了妹妹的老师-第3集"
+    ],
+    "total": 58,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317980": {
+    "season_id": 317980,
+    "title": "店大欺客？我用3条视频掀翻黑店",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/c8d9c60fc5399ad2178a59bea6a0623d4df8330e.png",
+    "evaluate": "普通美食博主陈旭，带五岁儿子乐乐去高档御品轩餐厅庆生，不料孩子从菜品中吃出钢丝球，嘴被扎伤。陈旭只求道歉、查监控、带孩子就医，却遭势利服务员污蔑碰瓷、大堂经理威胁封口。\n餐厅老板赵大伟表面道歉，实则恶意剪辑视频、全网封禁陈旭账号，还威胁其家人安全。陈旭没有退缩，坚持直播取证，意外获得御品轩前员工曝光后厨脏乱、使用过期食材、长期欺压顾客的铁证。\n他联合三十多名受害者、正义律师张伟与敢言记者李菲，顶着商家施压、水军抹黑、家人受威胁的重重压力，层层举报、公开真相。最终，御品轩黑幕被彻底揭开，黑心老板赵大伟被刑拘，涉事集团公开道歉整改。\n陈旭从被污蔑的普通人，逆袭成全民点赞的维权英雄，不仅讨回公道，更推动行业整改，诠释 “店大不能欺客，正义永远不会缺席” 的现实爽感。",
+    "jpTitle": "",
+    "seasonTitle": "店大欺客？我用3条视频掀翻黑店",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:46:08",
+      "pub_time_show": "05月19日07:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376506,
+    "firstEpisodePublishedAt": 1790137688000,
+    "type": 11,
+    "episodeCount": 50,
+    "episodeTitles": [
+      "店大欺客，我用3条视频掀翻黑店-第1集",
+      "店大欺客，我用3条视频掀翻黑店-第2集",
+      "店大欺客，我用3条视频掀翻黑店-第3集"
+    ],
+    "total": 50,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317981": {
+    "season_id": 317981,
+    "title": "直到最后，女友才知我是京圈豪门",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/41d168bb843e6dc90433c44b8236c8d890db8654.png",
+    "evaluate": "大学即将毕业，我女朋友苏轻语，却忽然提出分手。\n\n　　她给了我一栋别墅，一辆宾利，以及一千八百万，说多谢我四年陪伴。\n\n　　我茫然，想知道为什么就要分手了。\n\n　　她却很冷漠的说：“许流年，我这种家庭的人，恋爱和婚姻是要分开的，现在我要回去联姻了，听懂了吗？”\n我女朋友订婚了，但未婚夫却不是我。\n　　当我赶去订婚现场时，便看到了台上的苏轻语。\n　　她穿着高定礼服，戴着华贵的珠宝，美丽中不失端庄。\n　　而站在她对面的男人，看上去却只有一米六左右，而且很胖，脸上长满了油汪汪的痘，像是随时会爆浆一样。",
+    "jpTitle": "",
+    "seasonTitle": "直到最后，女友才知我是京圈豪门",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-05-21 17:17:53",
+      "pub_time_show": "05月21日17:17",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376469,
+    "firstEpisodePublishedAt": 1790137572000,
+    "type": 11,
+    "episodeCount": 16,
+    "episodeTitles": [
+      "许她流年-1",
+      "许她流年-3",
+      "许她流年-4"
+    ],
+    "total": 17,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317982": {
+    "season_id": 317982,
+    "title": "挂机就变强",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/783b9f7eba78fe5746c0e9a768d1839dd4f6fe55.png",
+    "evaluate": "胎穿修真界的叶尘被家族视为废物，更被魔刹宗圣女苏镜辞强收为炉鼎。危难之际，他激活了“全自动修真系统”，从此修炼一键托管，睡觉也能升级。首次修炼便引他强闯圣女闺房，意外完成双修突破境界。从此叶尘逆天改命，从家族弃子到圣女炉鼎，再到反杀强敌、掠夺机缘，在修真界掀起一场属于他的风暴。            ",
+    "jpTitle": "",
+    "seasonTitle": "挂机就变强",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-27 15:35:23",
+      "pub_time_show": "05月27日15:35",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376216,
+    "firstEpisodePublishedAt": 1790137205000,
+    "type": 12,
+    "episodeCount": 11,
+    "episodeTitles": [
+      "挂机就变强-第1集",
+      "挂机就变强-第2集",
+      "挂机就变强-第3集"
+    ],
+    "total": 65,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317983": {
+    "season_id": 317983,
+    "title": "金仙入凡尘",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/3e786523de3b913178d1a2d001db55eaf177c8b2.png",
+    "evaluate": "仙界散修金仙卢澈冲击真仙失败，遭放贷的清虚道长逼迫抵债，为保元神，他催动转世符遁入凡界，转世到江州同名烂赌鬼身上。原身嗜赌欠债，被高利贷打手活活打死，还留下一位饱受虐待、温柔善良的哑妻黎若诗。卢澈被黎若诗的赤诚打动，决心护她周全、改写落魄人生。他凭借修仙本事点石成金缓解困境，又在古玩街赌石捡漏，低价开出极品翡翠，机缘结识江州大佬范爷。他识破歹人毒计，出手治好范爷顽疾，换来修仙灵药，成功治愈黎若诗的失语症。此后卢澈与好友合伙开设洗心堂，炼制丹药济世，当众揭穿恶医阴谋，名声大噪、财源广进，接连摆平高利贷混混，买下豪宅安稳度日，向妻子坦白修仙身份。就在生活步入正轨之际，追杀他的仙界清虚道长突然现身，一场仙凡对决骤然将至。",
+    "jpTitle": "",
+    "seasonTitle": "金仙入凡尘",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-23 07:48:29",
+      "pub_time_show": "05月23日07:48",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376212,
+    "firstEpisodePublishedAt": 1790137203000,
+    "type": 11,
+    "episodeCount": 58,
+    "episodeTitles": [
+      "金仙入凡尘-第1集",
+      "金仙入凡尘-第2集",
+      "金仙入凡尘-第3集"
+    ],
+    "total": 58,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317984": {
+    "season_id": 317984,
+    "title": "踹掉扶家狂魔老公后，婆婆全家悔断肠",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/a2b760ad2a0629c199e9ec59ab498b9b987ca85a.png",
+    "evaluate": "《踹掉扶家狂魔老公后，婆婆全家悔断肠》是一部聚焦当代婚姻家庭矛盾的60集都市情感剧本，核心主题是“女性经济独立与精神觉醒”。女主角苏月婚前全款购入房产，婚后却沦为婆家的免费保姆：小叔子一家四口在她的房子里白吃白住三年，婆婆处处刁难，丈夫周凯则是个典型的“鸵鸟男”，遇事只会说“忍一忍”。当苏月仅仅因为说了一句“房子太挤”，就被小叔子当场扇了六个耳光，而丈夫全程低头扒饭、视若无睹时，她终于明白：忍让换不来尊重，只会换来变本加厉的压榨。\n苏月没有哭闹纠缠，而是冷静地卖掉属于自己的婚前房产，搬回娘家，委托全市最好的离婚律师，用完整证据链起诉离婚。周家人从嚣张撒泼到被警察带走拘留，从住豪宅到流落街头，最终众叛亲离。周凯失去妻子、女儿和工作，三年后暴富归来求复合，被苏月断然拒绝。他肝癌晚期去世，遗嘱将剩余财产捐给儿童基金会。苏月则凭借卖房款创业成功，买了新别墅，在父母和女儿的陪伴下开启了全新人生。\n剧本以“法律+财产”为武器，彻底否定了“嫁鸡随鸡”“忍一忍就好”的陈旧观念，传递出清晰的价值主张：婚姻不是扶贫，女性不必为吸血型原生家庭买单。不奉陪，才是最高级的自尊。\"",
+    "jpTitle": "",
+    "seasonTitle": "踹掉扶家狂魔老公后，婆婆全家悔断肠",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-19 07:45:17",
+      "pub_time_show": "05月19日07:45",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6376079,
+    "firstEpisodePublishedAt": 1790136847000,
+    "type": 11,
+    "episodeCount": 60,
+    "episodeTitles": [
+      "远离家庭后，我逆袭成人生赢家-第1集",
+      "远离家庭后，我逆袭成人生赢家-第2集",
+      "远离家庭后，我逆袭成人生赢家-第3集"
+    ],
+    "total": 60,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317985": {
+    "season_id": 317985,
+    "title": "谁也别想耽误我高考",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b5959eeec6ba8a1933da578c43730f76bc8bc8b4.png",
+    "evaluate": "高三女生顾盼，从孤儿院被认回京市顶级豪门江家。\n全家围着养了十七年的假千金江可晴转，对她这个真千金只有冷漠、规矩和打压。\n顾盼毫不在意 —— 她的目标只有一个：考上清北。\n面对家人的轻视、江可晴的雌竞、哥哥的联姻算计，顾盼不吵不闹，只靠刷题和分数说话。\n她以703 分震撼全家，用一句 “靠山山会倒，靠人人会跑”点醒沉迷恋爱的江可晴。\n两人从对立变战友，顾盼冲刺清北，江可晴苦读逆袭。\n最终顾盼成为京市高考状元 **，圆梦清北；江可晴拒绝联姻，远赴费城攻读工商管理。\n江家父母、哥哥全员觉醒，放弃重男轻女与豪门算计，真正学会爱女儿。\n顾盼不靠家世、不靠宠爱，凭自己考上最高学府，活成最清醒的大女主。",
+    "jpTitle": "",
+    "seasonTitle": "谁也别想耽误我高考",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-28 07:52:27",
+      "pub_time_show": "05月28日07:52",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6375449,
+    "firstEpisodePublishedAt": 1790136127000,
+    "type": 11,
+    "episodeCount": 51,
+    "episodeTitles": [
+      "谁也别想耽误我高考-第1集",
+      "谁也别想耽误我高考-第2集",
+      "谁也别想耽误我高考-第3集"
+    ],
+    "total": 51,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317986": {
+    "season_id": 317986,
+    "title": "退休大佬出山惊全场",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/51a9cef3a9fa787bb0add63d359aa08b4be1d60c.png",
+    "evaluate": "国宝级机床工匠陆建国，辛苦栽培徒弟王明，退休后却被对方翻脸羞辱、扫地出门，一度靠拾荒度日。好在另一徒弟陆云彬伸出援手，以高薪厚礼礼遇恩师。恰逢老厂被日方专家漫天要价、刻意拖延，陆建国凭过硬手艺半日解决所有故障，狠狠回击外企傲慢。面对落魄老厂和王明的苦苦哀求，他不为所动。最终陆建国扎根国产技术，盘活老厂，背信弃义的王明也得到了法律的制裁。",
+    "jpTitle": "",
+    "seasonTitle": "退休大佬出山惊全场",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-05-31 07:53:14",
+      "pub_time_show": "05月31日07:53",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6375284,
+    "firstEpisodePublishedAt": 1790135891000,
+    "type": 11,
+    "episodeCount": 65,
+    "episodeTitles": [
+      "退休大佬出山惊全场-第1集",
+      "退休大佬出山惊全场-第2集",
+      "退休大佬出山惊全场-第3集"
+    ],
+    "total": 65,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317987": {
+    "season_id": 317987,
+    "title": "开局拍卖龙体，朕靠特效无敌了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/125ae97dd5813e94a35cb75aa8bd804eb3a957e4.jpg",
+    "evaluate": "熬夜改方案的社畜段钰一睁眼，居然穿成了大乾朝那位嗑药嗑昏过去的短命皇帝。原主满脑子都是修仙长生，把国库砸得一干二净，穷得连看守库房的老鼠都饿得连夜跑路。\n如今的大乾朝，边境强敌虎视眈眈随时要打进来，朝堂里奸臣抱团把持权柄，整个王朝已经摇摇欲坠崩盘在即。就在段钰打算破罐子破摔的时候，【昏君救国系统】突然绑定成功：只要他照着昏君的做派挥霍敛财搞事，就能兑换神级道具、解锁buff特效，还能涨国运值！\n段钰抱着试一试的心态开演，一次次亡国危机都靠系统特效轻松化解，一路“昏庸”搞事反而扫平内忧外患，最终创下统一大陆、国泰民安的盛世神话。",
+    "jpTitle": "",
+    "seasonTitle": "开局拍卖龙体，朕靠特效无敌了",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-04-28 10:00:01",
+      "pub_time_show": "04月28日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6375438,
+    "firstEpisodePublishedAt": 1790136122000,
+    "type": 12,
+    "episodeCount": 11,
+    "episodeTitles": [
+      "开局拍卖龙体，朕靠特效无敌了-全集",
+      "开局拍卖龙体，朕靠特效无敌了-第1集",
+      "开局拍卖龙体，朕靠特效无敌了-第2集"
+    ],
+    "total": 73,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "317988": {
+    "season_id": 317988,
+    "title": "重生1969 ：退婚开局",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/97c20b3823cb54e438f4abd790c2a5fd7cf00d00.png",
+    "evaluate": "重生回到1969年领证当天的李建军，带着上辈子被未婚妻柳如烟与情人季博达算计、沦为“接盘侠”且痛失母亲的怨恨，当众揭穿两人阴谋，坚决退婚，让奸夫淫妇自食恶果入狱。此后，他放下仇恨，凭借时代先知，先搞特色养殖、改良农技解决村民温饱，再抓住政策机遇发展农产品加工、打通贸易渠道，一步步积累财富。期间，他应对政策限制与同行竞争，弥补对父母的亏欠，结识志同道合的伙伴与灵魂伴侣苏晴，最终带领李家村脱贫致富，建立起庞大商业版图，活出圆满人生。",
+    "jpTitle": "",
+    "seasonTitle": "重生1969 ：退婚开局",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-05-27 15:35:03",
+      "pub_time_show": "05月27日15:35",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6375086,
+    "firstEpisodePublishedAt": 1790135521000,
+    "type": 12,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "1969：拒绝喜当爹，退婚知青成首富-第1集",
+      "1969：拒绝喜当爹，退婚知青成首富-第2集",
+      "1969：拒绝喜当爹，退婚知青成首富-第3集"
+    ],
+    "total": 69,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "318214": {
+    "season_id": 318214,
+    "title": "门捷列夫很忙2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/9067a80b428605a484aafe6329ed29ad17932826.png",
+    "evaluate": "该系列为经典科学纪录片IP，用幽默轻松的叙事风格，通过更加精良的动画和特殊摄影手段，继续以元素为载体介绍化学知识，分别从化学元素名字由来的故事、稀有和贵重金属元素、元素的“毒”性、稀土元素的奇妙关联、元素周期表的不断更新迭代以及元素性质周期性变化的真正原因，将一个个化学知识妙趣横生地演绎出来，推开化学的神奇大门，帮助更多青少年观众更加全面地了解奇妙的化学世界。",
+    "jpTitle": "",
+    "seasonTitle": "门捷列夫很忙2",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-06 17:00:00",
+      "pub_time_show": "10月06日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6574377,
+    "firstEpisodePublishedAt": 1791277200000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "门捷列夫不知道",
+      "遇事不决 量子力学"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 37623,
+        "title": "第一季"
+      },
+      {
+        "id": 318214,
+        "title": "第二季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
+  "318334": {
+    "season_id": 318334,
+    "title": "神兽学院：天枢觉醒",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/2cc409b07056fadaf8853e5ba2383a93f35caefc.jpg",
+    "evaluate": "80 年前，《山海经》上古巨兽席卷全球，人类濒临灭绝，幸存者退守孤岛，建起虚拟都市 A。每晚十点宵禁降临，怪兽现世，常人却无法感知。少年林小宁凭北斗胎记觉醒，召唤钢铁机甲战兽北北，与冷静天才凌霄、青梅肖筱筱一同奔赴七处封印之地，逐步揭开宵禁背后惊天秘辛。",
+    "jpTitle": "",
+    "seasonTitle": "神兽学院：天枢觉醒",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-01 10:00:00",
+      "pub_time_show": "10月01日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 6391139,
+    "firstEpisodePublishedAt": 1790820001000,
+    "type": 12,
+    "episodeCount": 10,
+    "episodeTitles": [
+      "神兽学院",
+      "撞大运了",
+      "那不是一场梦"
+    ],
+    "total": 12,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
+  },
   "319558": {
     "season_id": 319558,
     "title": "狄仁杰之狼人劫",
@@ -138448,7 +141765,7 @@
       "weekday": 0
     },
     "firstEpisode": 6538871,
-    "episodeCount": 13,
+    "episodeCount": 15,
     "episodeTitles": [
       "闪亮的明星",
       "星环送货员",
@@ -138465,8 +141782,12 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1790906400000,
+    "type": 4,
+    "available": true,
+    "code": 0
   },
   "319971": {
     "season_id": 319971,
@@ -138495,8 +141816,8 @@
     "total": 4,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "code": 0
   },
   "320235": {
@@ -138822,7 +142143,7 @@
     "season_id": 323807,
     "title": "崇祯皇帝",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/704c34bb422aa2e671ebb144177a5f672d842850.png",
-    "evaluate": "本片不止于讲述明朝如何灭亡，更聚焦于一个勤奋、节俭、渴望中兴的皇帝，为何会走向“诸臣误我”的绝境。这是一场个人性格、制度腐败与历史周期律共同作用下的“死亡合奏”。",
+    "evaluate": "本片以AI影视化技术解构历史人物，不止于讲述明朝如何灭亡，更聚焦于一个勤奋、节俭、渴望中兴的皇帝，为何会走向“诸臣误我”的绝境。这是一场个人性格、制度腐败与历史周期律共同作用下的“死亡合奏”。",
     "jpTitle": "",
     "seasonTitle": "崇祯皇帝",
     "publish": {
@@ -138834,14 +142155,19 @@
       "weekday": 0
     },
     "firstEpisode": 6549874,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "受命于危难"
+      "受命于危难",
+      "孤岛上的舵手"
     ],
     "total": 8,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791540002000,
+    "type": 3,
+    "available": true,
+    "code": 0
   },
   "323871": {
     "season_id": 323871,
@@ -138865,8 +142191,12 @@
     ],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1790820000000,
+    "type": 2,
+    "available": true,
+    "code": 0
   },
   "323877": {
     "season_id": 323877,
@@ -138884,14 +142214,19 @@
       "weekday": 0
     },
     "firstEpisode": 6527535,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "The Cold Sato-san"
+      "The Cold Sato-san",
+      "Second First Love"
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791295200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323878": {
     "season_id": 323878,
@@ -138908,9 +142243,10 @@
       "weekday": 0
     },
     "firstEpisode": 6527614,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "The Battle Begins"
+      "The Battle Begins",
+      "The Gate to Hell"
     ],
     "total": 14,
     "seasons": [
@@ -138923,9 +142259,13 @@
         "title": "S2"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/c6447902f4538eae6d3e2e636aa83a65.jpg"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/c6447902f4538eae6d3e2e636aa83a65.jpg",
+    "firstEpisodePublishedAt": 1791039600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323879": {
     "season_id": 323879,
@@ -138943,14 +142283,19 @@
       "weekday": 0
     },
     "firstEpisode": 6527477,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "Exile"
+      "Exile",
+      "Contract"
     ],
     "total": 13,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791050400000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323880": {
     "season_id": 323880,
@@ -138968,14 +142313,19 @@
       "weekday": 0
     },
     "firstEpisode": 6527505,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "Unwanted Repayment"
+      "Unwanted Repayment",
+      "Goddess Island"
     ],
     "total": 13,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791561600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323881": {
     "season_id": 323881,
@@ -138992,9 +142342,10 @@
       "weekday": 0
     },
     "firstEpisode": 6527411,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "Into the Shadow"
+      "Into the Shadow",
+      "Judgment"
     ],
     "total": 13,
     "seasons": [
@@ -139007,9 +142358,13 @@
         "title": "S2"
       }
     ],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/bbfbcaccc97d0b42fe8efd61f77ac511.png"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/bbfbcaccc97d0b42fe8efd61f77ac511.png",
+    "firstEpisodePublishedAt": 1791393300000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323882": {
     "season_id": 323882,
@@ -139027,14 +142382,19 @@
       "weekday": 0
     },
     "firstEpisode": 6527438,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "Everyone Has a Bad Day, Right? You're Asking Me What I'd Do?"
+      "Everyone Has a Bad Day, Right? You're Asking Me What I'd Do?",
+      "Enhanced Clothes K.O in One Strike And Hit Hard by a Traumatized Woman in Casual Wear"
     ],
     "total": 13,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791300600000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323883": {
     "season_id": 323883,
@@ -139052,15 +142412,20 @@
       "weekday": 0
     },
     "firstEpisode": 6527452,
-    "episodeCount": 2,
+    "episodeCount": 3,
     "episodeTitles": [
       "The Awakening of the Great Saint",
-      "Fia and the Knight Brigade"
+      "Fia and the Knight Brigade",
+      "Shape of the Saint"
     ],
     "total": 25,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791032400000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323885": {
     "season_id": 323885,
@@ -139078,15 +142443,20 @@
       "weekday": 0
     },
     "firstEpisode": 6527562,
-    "episodeCount": 2,
+    "episodeCount": 3,
     "episodeTitles": [
       "So What's Wrong with Getting Reborn as a Goblin?",
-      "So What's Wrong with Meeting a Quirky Pop?"
+      "So What's Wrong with Meeting a Quirky Pop?",
+      "So What's Wrong with Negotiating with Humans?"
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791205200000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323905": {
     "season_id": 323905,
@@ -139104,14 +142474,19 @@
       "weekday": 0
     },
     "firstEpisode": 6528997,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "ITEM"
+      "ITEM",
+      "Saiai Kinuhata (Newcomer)"
     ],
     "total": 12,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791559800000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "323926": {
     "season_id": 323926,
@@ -139129,14 +142504,19 @@
       "weekday": 0
     },
     "firstEpisode": 6529315,
-    "episodeCount": 1,
+    "episodeCount": 2,
     "episodeTitles": [
-      "I Tried Using the Internet!"
+      "I Tried Using the Internet!",
+      "I Tried Becoming an Adventurer!"
     ],
     "total": 13,
     "seasons": [],
-    "checkedAt": "2026-10-10",
-    "richCheckedAt": "2026-10-10"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
+    "firstEpisodePublishedAt": 1791378000000,
+    "type": 1,
+    "available": true,
+    "code": 0
   },
   "324723": {
     "season_id": 324723,
@@ -139165,8 +142545,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "324859": {
     "season_id": 324859,
@@ -139192,8 +142572,8 @@
     "total": 25,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "firstEpisodePublishedAt": 1791291300000,
     "type": 1,
     "code": 0
@@ -139222,8 +142602,8 @@
     "total": 13,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16",
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17",
     "firstEpisodePublishedAt": 1791208800000,
     "type": 1,
     "code": 0
@@ -139300,8 +142680,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "330060": {
     "season_id": 330060,
@@ -139376,8 +142756,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "331542": {
     "season_id": 331542,
@@ -139412,8 +142792,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "332624": {
     "season_id": 332624,
@@ -139524,8 +142904,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-16",
-    "richCheckedAt": "2026-10-16"
+    "checkedAt": "2026-10-17",
+    "richCheckedAt": "2026-10-17"
   },
   "334074": {
     "season_id": 334074,
