@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1909,
-    "lastSuccessfulRefresh": "2026-10-18T14:54:21.223Z",
+    "lastSuccessfulRefresh": "2026-10-19T01:29:12.395Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -93,8 +93,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -175,8 +175,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -256,10 +256,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "校園",
           "時間穿越"
         ],
@@ -316,10 +316,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "職場"
         ],
         "types": [],
@@ -375,10 +375,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "機甲",
           "勵志"
         ],
@@ -434,10 +434,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -490,9 +490,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -574,9 +574,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇",
           "勵志"
         ],
@@ -658,9 +658,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -686,9 +686,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -706,7 +706,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114216",
       "date": "2026/10",
-      "episodes": 2,
+      "episodes": 3,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114216"
@@ -770,9 +770,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -884,10 +884,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -922,7 +922,7 @@
       "id": 114211,
       "title": "大叔喜欢可爱小玩意",
       "officialTitle": "大叔喜歡可愛小玩意",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000148138.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000148138.JPG?v=1792133851",
       "japaneseTitle": "おじさんはカワイイものがお好き。",
       "originalTitle": "おじさんはカワイイものがお好き。",
       "originalStatus": "japanese",
@@ -966,8 +966,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -994,8 +994,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -1021,9 +1021,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -1048,8 +1048,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -1104,8 +1104,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -1132,10 +1132,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -1160,9 +1160,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "感人",
           "戰爭"
         ],
@@ -1181,7 +1181,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/530104",
       "date": "2026/09",
-      "episodes": 3,
+      "episodes": 4,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114215"
@@ -1245,8 +1245,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -1499,9 +1499,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -1670,8 +1670,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "戀愛",
           "戰爭",
@@ -1815,12 +1815,12 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -2038,10 +2038,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -2093,9 +2093,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -2210,8 +2210,8 @@
           "動作",
           "奇幻",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -2237,10 +2237,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -2295,9 +2295,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -2350,8 +2350,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "溫馨"
         ],
         "types": [],
@@ -2488,9 +2488,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -2571,9 +2571,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "溫馨",
           "親情"
         ],
@@ -2741,8 +2741,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -2795,8 +2795,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -2908,8 +2908,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -3019,10 +3019,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -3074,8 +3074,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "戀愛",
           "黑暗"
@@ -3160,9 +3160,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -3218,10 +3218,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "時間穿越",
           "血腥暴力"
         ],
@@ -3248,9 +3248,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -3421,8 +3421,8 @@
         "attributes": [
           "異世界",
           "魔法",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -3511,8 +3511,8 @@
           "戀愛",
           "時間穿越",
           "懸疑",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -3594,9 +3594,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -3708,8 +3708,8 @@
         "attributes": [
           "喜劇",
           "溫馨",
-          "悠閒",
           "料理",
+          "悠閒",
           "靈異神怪"
         ],
         "types": [],
@@ -3736,8 +3736,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "血腥暴力",
           "靈異神怪"
@@ -3792,8 +3792,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "喜劇",
           "音樂",
@@ -3822,8 +3822,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "時間穿越"
         ],
         "types": [
@@ -3938,10 +3938,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -4050,8 +4050,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -4106,8 +4106,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -4216,9 +4216,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -4302,10 +4302,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -4363,9 +4363,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "勵志",
           "溫馨",
           "感人"
@@ -4561,10 +4561,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": [
@@ -4591,9 +4591,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -4764,8 +4764,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "靈異神怪"
         ],
@@ -4822,8 +4822,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "校園",
           "血腥暴力",
@@ -4852,8 +4852,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛",
           "溫馨",
           "黑暗"
@@ -4910,8 +4910,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "喜劇"
         ],
@@ -4939,9 +4939,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -5023,10 +5023,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -5051,9 +5051,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "悠閒"
         ],
         "types": [],
@@ -5079,10 +5079,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "雙語"
@@ -5109,8 +5109,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "溫馨"
         ],
@@ -5195,9 +5195,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "戀愛",
           "職場",
           "BL"
@@ -5283,9 +5283,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -5366,9 +5366,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -5395,8 +5395,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -5478,9 +5478,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戰爭",
           "血腥暴力",
           "黑暗"
@@ -5563,9 +5563,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -5813,8 +5813,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "喜劇",
           "戀愛",
           "黑暗"
@@ -5842,8 +5842,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -5895,9 +5895,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "料理"
         ],
         "types": [],
@@ -5952,10 +5952,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -6143,8 +6143,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "感人"
         ],
         "types": [],
@@ -6251,9 +6251,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "親情"
         ],
         "types": [],
@@ -6420,10 +6420,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -6478,9 +6478,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -6505,8 +6505,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戀愛",
           "料理"
         ],
@@ -6533,9 +6533,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -6560,8 +6560,8 @@
     {
       "classification": {
         "attributes": [
-          "悠閒",
           "料理",
+          "悠閒",
           "職場"
         ],
         "types": [],
@@ -6587,10 +6587,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -6758,8 +6758,8 @@
         "attributes": [
           "校園",
           "懸疑",
-          "靈異神怪",
           "黑暗",
+          "靈異神怪",
           "GL"
         ],
         "types": [],
@@ -6900,8 +6900,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "親情"
         ],
         "types": [],
@@ -6927,10 +6927,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "料理"
         ],
         "types": [],
@@ -6957,10 +6957,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": [
@@ -7044,8 +7044,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -7156,8 +7156,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -7265,8 +7265,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "靈異神怪"
         ],
@@ -7405,8 +7405,8 @@
     {
       "classification": {
         "attributes": [
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -7432,8 +7432,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -7487,8 +7487,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -7514,10 +7514,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -7543,9 +7543,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -7684,8 +7684,8 @@
       "classification": {
         "attributes": [
           "青春",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -7792,9 +7792,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -7820,8 +7820,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "黑暗"
         ],
@@ -7931,9 +7931,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -7977,7 +7977,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113845",
       "date": "2025/07",
-      "episodes": 15,
+      "episodes": 16,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113845"
@@ -7985,9 +7985,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -8040,9 +8040,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -8179,8 +8179,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "戀愛",
           "懸疑"
@@ -8208,9 +8208,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "超能力",
           "戀愛"
         ],
@@ -8268,10 +8268,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -8355,8 +8355,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "科幻",
           "喜劇",
@@ -8449,8 +8449,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "料理"
         ],
         "types": [],
@@ -8566,9 +8566,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -8648,9 +8648,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -8733,8 +8733,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "溫馨"
         ],
         "types": [
@@ -8794,8 +8794,8 @@
         "attributes": [
           "懸疑",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": [
@@ -8851,9 +8851,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "親情"
         ],
         "types": [],
@@ -8966,8 +8966,8 @@
           "校園",
           "青春",
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -8992,8 +8992,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戰爭",
           "靈異神怪"
         ],
@@ -9459,8 +9459,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇",
           "戀愛"
@@ -9517,10 +9517,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "悠閒"
         ],
         "types": [],
@@ -9630,8 +9630,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -9769,9 +9769,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -9824,10 +9824,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -9879,8 +9879,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -9906,9 +9906,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "溫馨"
         ],
         "types": [],
@@ -9937,8 +9937,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "歷史",
           "靈異神怪"
         ],
@@ -9965,9 +9965,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -10139,9 +10139,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -10192,8 +10192,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": [
@@ -10221,9 +10221,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "機甲",
           "喜劇",
           "特攝"
@@ -10307,8 +10307,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "職場"
         ],
@@ -10335,13 +10335,13 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇",
           "戀愛",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -10366,9 +10366,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -10423,8 +10423,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -10480,9 +10480,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": [
@@ -10510,8 +10510,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -10538,9 +10538,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -10619,10 +10619,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -10648,9 +10648,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -10676,8 +10676,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "靈異神怪"
         ],
@@ -10952,9 +10952,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "職場"
         ],
@@ -10981,10 +10981,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11010,9 +11010,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11037,9 +11037,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -11097,8 +11097,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭",
           "血腥暴力"
         ],
@@ -11245,10 +11245,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11274,8 +11274,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11301,8 +11301,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "魔法",
+          "奇幻",
           "科幻",
           "職場"
         ],
@@ -11358,10 +11358,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11497,8 +11497,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "靈異神怪"
         ],
         "types": [],
@@ -11552,9 +11552,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11579,8 +11579,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "靈異神怪"
         ],
@@ -11637,8 +11637,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -11801,8 +11801,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -11856,8 +11856,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "溫馨"
         ],
@@ -11968,8 +11968,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -11995,8 +11995,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "科幻",
           "喜劇",
@@ -12057,9 +12057,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -12143,10 +12143,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "時間穿越",
           "血腥暴力"
         ],
@@ -12174,8 +12174,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "魔法",
+          "奇幻",
           "喜劇",
           "悠閒"
         ],
@@ -12230,9 +12230,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -12259,9 +12259,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -12287,9 +12287,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "感人",
           "戰爭"
         ],
@@ -12316,10 +12316,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -12345,9 +12345,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -12404,9 +12404,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影",
@@ -12678,8 +12678,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -12734,8 +12734,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戀愛",
           "戰爭"
         ],
@@ -12762,8 +12762,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -12817,9 +12817,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "悠閒"
         ],
         "types": [],
@@ -13014,9 +13014,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -13043,8 +13043,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -13070,8 +13070,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "溫馨",
           "職場"
         ],
@@ -13153,9 +13153,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -13232,8 +13232,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -13401,10 +13401,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -13430,9 +13430,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -13544,8 +13544,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "靈異神怪"
         ],
         "types": [],
@@ -13572,9 +13572,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇",
           "勵志"
         ],
@@ -13683,8 +13683,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影",
@@ -13713,9 +13713,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -13741,9 +13741,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -13886,8 +13886,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "靈異神怪"
         ],
@@ -14029,10 +14029,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -14114,10 +14114,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -14284,10 +14284,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -14341,9 +14341,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "感人",
           "戰爭"
         ],
@@ -14398,6 +14398,35 @@
     {
       "classification": {
         "attributes": [
+          "青春",
+          "勵志",
+          "偶像",
+          "音樂",
+          "職場"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113491,
+      "title": "夜晚的水母不会游泳",
+      "officialTitle": "夜晚的水母不會游泳",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/96/0000131196.JPG",
+      "japaneseTitle": "夜のクラゲは泳げない",
+      "originalTitle": "夜のクラゲは泳げない",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/425909",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113491",
+      "date": "2024/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113491"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "超能力",
           "校園",
@@ -14428,41 +14457,12 @@
     {
       "classification": {
         "attributes": [
-          "青春",
-          "勵志",
-          "偶像",
-          "音樂",
-          "職場"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113491,
-      "title": "夜晚的水母不会游泳",
-      "officialTitle": "夜晚的水母不會游泳",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/96/0000131196.JPG",
-      "japaneseTitle": "夜のクラゲは泳げない",
-      "originalTitle": "夜のクラゲは泳げない",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/425909",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113491",
-      "date": "2024/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113491"
-    },
-    {
-      "classification": {
-        "attributes": [
           "喜劇",
           "戀愛",
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -14517,9 +14517,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻",
           "校園"
         ],
@@ -14574,8 +14574,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -14600,8 +14600,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "懸疑"
         ],
         "types": [],
@@ -14652,6 +14652,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113519"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "青春",
+          "勵志",
+          "偶像",
+          "音樂"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113525,
+      "title": "偶像大师 闪耀色彩",
+      "officialTitle": "偶像大師 閃耀色彩",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000131061.JPG",
+      "japaneseTitle": "アイドルマスター シャイニーカラーズ",
+      "originalTitle": "アイドルマスター シャイニーカラーズ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/425222",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113525",
+      "date": "2024/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113525"
     },
     {
       "classification": {
@@ -14713,34 +14741,6 @@
         "attributes": [
           "青春",
           "勵志",
-          "偶像",
-          "音樂"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113525,
-      "title": "偶像大师 闪耀色彩",
-      "officialTitle": "偶像大師 閃耀色彩",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000131061.JPG",
-      "japaneseTitle": "アイドルマスター シャイニーカラーズ",
-      "originalTitle": "アイドルマスター シャイニーカラーズ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/425222",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113525",
-      "date": "2024/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113525"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "青春",
-          "勵志",
           "感人",
           "音樂"
         ],
@@ -14767,9 +14767,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -14886,8 +14886,8 @@
           "科幻",
           "喜劇",
           "戀愛",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -14940,8 +14940,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": [
@@ -14993,9 +14993,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -15047,10 +15047,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -15102,10 +15102,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -15223,8 +15223,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -15249,8 +15249,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "靈異神怪"
         ],
@@ -15331,9 +15331,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "溫馨"
         ],
         "types": [],
@@ -15386,8 +15386,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "悠閒"
         ],
         "types": [
@@ -15415,9 +15415,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -15555,8 +15555,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "靈異神怪"
         ],
         "types": [],
@@ -15582,8 +15582,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "戀愛",
           "勵志",
           "時間穿越"
@@ -15640,10 +15640,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -15726,10 +15726,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -15782,8 +15782,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -15810,8 +15810,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "靈異神怪"
         ],
@@ -15866,9 +15866,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -15894,9 +15894,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -16002,10 +16002,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -16084,9 +16084,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -16140,10 +16140,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "職場"
         ],
         "types": [],
@@ -16169,8 +16169,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -16195,10 +16195,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -16254,8 +16254,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力",
           "喜劇"
         ],
@@ -16309,8 +16309,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -16428,8 +16428,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影",
@@ -16492,8 +16492,8 @@
           "動作",
           "懸疑",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [
           "電影"
@@ -16552,8 +16552,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭",
           "血腥暴力"
         ],
@@ -16583,10 +16583,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -16732,33 +16732,6 @@
       "classification": {
         "attributes": [
           "校園",
-          "青春",
-          "溫馨"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113404,
-      "title": "星灵感应",
-      "officialTitle": "星靈感應",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000127847.JPG",
-      "japaneseTitle": "星屑テレパス",
-      "originalTitle": "星屑テレパス",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/404115",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113404",
-      "date": "2023/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113404"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
           "喜劇",
           "青春",
           "音樂"
@@ -16782,6 +16755,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113390"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "青春",
+          "溫馨"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113404,
+      "title": "星灵感应",
+      "officialTitle": "星靈感應",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000127847.JPG",
+      "japaneseTitle": "星屑テレパス",
+      "originalTitle": "星屑テレパス",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/404115",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113404",
+      "date": "2023/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113404"
     },
     {
       "classification": {
@@ -16813,8 +16813,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "時間穿越"
         ],
         "types": [],
@@ -16840,10 +16840,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "校園",
           "時間穿越"
         ],
@@ -16899,9 +16899,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -16980,9 +16980,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -17035,9 +17035,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -17062,9 +17062,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -17148,37 +17148,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "奇幻",
-          "冒險",
-          "超能力",
-          "血腥暴力"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113370,
-      "title": "不死不运",
-      "officialTitle": "不死不運",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000126781.JPG",
-      "japaneseTitle": "アンデッドアンラック",
-      "originalTitle": "アンデッドアンラック",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/397808",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113370",
-      "date": "2023/10",
-      "episodes": 24,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113370"
-    },
-    {
-      "classification": {
-        "attributes": [
           "喜劇",
           "勵志",
           "溫馨",
@@ -17211,9 +17180,40 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "冒險",
+          "奇幻",
+          "超能力",
+          "血腥暴力"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113370,
+      "title": "不死不运",
+      "officialTitle": "不死不運",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000126781.JPG",
+      "japaneseTitle": "アンデッドアンラック",
+      "originalTitle": "アンデッドアンラック",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/397808",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113370",
+      "date": "2023/10",
+      "episodes": 24,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113370"
+    },
+    {
+      "classification": {
+        "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -17240,10 +17240,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -17325,8 +17325,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -17349,32 +17349,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113367"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113397,
-      "title": "地下忍者",
-      "officialTitle": "地下忍者",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/40/0000130540.JPG",
-      "japaneseTitle": "アンダーニンジャ",
-      "originalTitle": "アンダーニンジャ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/348220",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113397",
-      "date": "2023/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113397"
     },
     {
       "classification": {
@@ -17405,6 +17379,32 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113733"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113397,
+      "title": "地下忍者",
+      "officialTitle": "地下忍者",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/40/0000130540.JPG",
+      "japaneseTitle": "アンダーニンジャ",
+      "originalTitle": "アンダーニンジャ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/348220",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113397",
+      "date": "2023/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113397"
     },
     {
       "classification": {
@@ -17488,8 +17488,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -17516,9 +17516,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "血腥暴力"
         ],
@@ -17630,9 +17630,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -17738,8 +17738,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -17843,8 +17843,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -17869,8 +17869,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "喜劇",
           "溫馨",
           "親情"
@@ -17898,8 +17898,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -17952,8 +17952,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "雙語"
@@ -18086,9 +18086,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "勵志",
           "溫馨",
           "感人"
@@ -18118,8 +18118,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "親情"
         ],
         "types": [],
@@ -18175,9 +18175,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影",
@@ -18385,12 +18385,12 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -18418,8 +18418,8 @@
           "動作",
           "冒險",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -18472,9 +18472,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -18553,8 +18553,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "黑暗"
         ],
@@ -18609,8 +18609,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -18636,9 +18636,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -18721,9 +18721,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -18861,9 +18861,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -18918,9 +18918,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -19028,8 +19028,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -19084,9 +19084,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -19138,8 +19138,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -19165,10 +19165,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -19221,9 +19221,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -19249,8 +19249,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影",
@@ -19308,8 +19308,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "音樂"
         ],
         "types": [],
@@ -19764,8 +19764,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志",
           "溫馨"
         ],
@@ -19792,8 +19792,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -19985,8 +19985,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -20068,8 +20068,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -20151,9 +20151,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -20233,8 +20233,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -20287,8 +20287,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -20340,8 +20340,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇"
         ],
@@ -20368,9 +20368,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戀愛",
           "溫馨"
         ],
@@ -20398,8 +20398,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -20426,8 +20426,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -20507,9 +20507,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -20564,9 +20564,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -20619,9 +20619,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -20699,9 +20699,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -20955,8 +20955,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭",
           "血腥暴力"
         ],
@@ -21105,8 +21105,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21131,8 +21131,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21157,8 +21157,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21183,8 +21183,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -21210,9 +21210,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "料理"
         ],
         "types": [
@@ -21240,8 +21240,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21486,9 +21486,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21513,8 +21513,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21595,8 +21595,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21621,9 +21621,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -21784,8 +21784,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21810,8 +21810,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21838,8 +21838,8 @@
         "attributes": [
           "異世界",
           "魔法",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": []
@@ -21864,8 +21864,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -21890,8 +21890,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -21917,8 +21917,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -22087,8 +22087,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -22245,9 +22245,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛",
           "GL"
         ],
@@ -22301,8 +22301,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -22417,10 +22417,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -22505,8 +22505,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "感人"
         ],
         "types": [],
@@ -22533,9 +22533,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -22710,8 +22710,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -22903,8 +22903,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "喜劇",
           "靈異神怪"
@@ -23025,9 +23025,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -23106,9 +23106,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "校園",
           "喜劇",
           "血腥暴力"
@@ -23168,8 +23168,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "溫馨"
         ],
         "types": [],
@@ -23195,9 +23195,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -23222,8 +23222,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭",
           "血腥暴力",
           "黑暗"
@@ -23307,8 +23307,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -23361,10 +23361,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -23706,8 +23706,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -23762,8 +23762,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -23790,8 +23790,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -23874,10 +23874,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -23928,8 +23928,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -24097,8 +24097,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -24183,9 +24183,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -24210,10 +24210,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -24238,8 +24238,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園",
           "戀愛"
         ],
@@ -24266,9 +24266,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -24569,8 +24569,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [
           "電影"
@@ -24719,8 +24719,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "喜劇"
         ],
         "types": [
@@ -25269,9 +25269,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -25413,9 +25413,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -25440,8 +25440,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -25497,9 +25497,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -25524,10 +25524,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -25554,8 +25554,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
           "料理",
+          "悠閒",
           "親情",
           "職場"
         ],
@@ -25609,8 +25609,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -25913,8 +25913,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -26119,8 +26119,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -26207,10 +26207,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -26262,9 +26262,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -26316,10 +26316,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -26345,8 +26345,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -26671,9 +26671,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -26865,8 +26865,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "靈異神怪"
         ],
         "types": [],
@@ -26918,8 +26918,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "科幻",
           "校園"
         ],
@@ -26975,9 +26975,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "懸疑"
         ],
         "types": [],
@@ -27037,8 +27037,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -27243,9 +27243,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -27274,8 +27274,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志",
           "溫馨"
         ],
@@ -27410,8 +27410,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -27491,9 +27491,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -27601,9 +27601,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -27654,9 +27654,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -27762,8 +27762,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "溫馨",
           "料理"
         ],
@@ -28044,9 +28044,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -28258,9 +28258,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戰爭"
         ],
         "types": [
@@ -28519,10 +28519,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -28631,8 +28631,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -28741,8 +28741,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -28909,8 +28909,8 @@
           "推理",
           "懸疑",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -28936,8 +28936,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -29048,9 +29048,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戰爭"
         ],
         "types": [
@@ -29195,10 +29195,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -29224,8 +29224,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "喜劇",
           "靈異神怪"
@@ -29310,8 +29310,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "感人"
         ],
         "types": [],
@@ -29391,10 +29391,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -29582,9 +29582,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "悠閒"
         ],
@@ -29691,8 +29691,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -29861,8 +29861,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -30171,8 +30171,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -30198,8 +30198,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -30284,10 +30284,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -30485,10 +30485,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "時間穿越"
         ],
         "types": [],
@@ -30598,8 +30598,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": [
@@ -30767,10 +30767,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -30799,9 +30799,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -30972,8 +30972,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -31032,8 +31032,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭",
           "血腥暴力"
         ],
@@ -31063,9 +31063,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "戰爭"
         ],
         "types": [
@@ -31188,8 +31188,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -31358,8 +31358,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -31439,8 +31439,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戀愛",
           "戰爭"
         ],
@@ -31493,9 +31493,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -31521,8 +31521,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -31656,10 +31656,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -31743,9 +31743,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -31775,8 +31775,8 @@
           "推理",
           "懸疑",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -31801,8 +31801,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -31914,9 +31914,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -31969,8 +31969,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "親情"
         ],
@@ -32066,8 +32066,8 @@
           "奇幻",
           "懸疑",
           "血腥暴力",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [
           "電影"
@@ -32154,9 +32154,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -32409,10 +32409,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "時間穿越",
           "血腥暴力"
         ],
@@ -32439,8 +32439,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "靈異神怪"
         ],
         "types": [],
@@ -32496,9 +32496,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
           "魔法",
+          "奇幻",
           "校園"
         ],
         "types": [],
@@ -32525,9 +32525,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -32885,9 +32885,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -33077,8 +33077,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -33158,8 +33158,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -33360,8 +33360,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -33418,8 +33418,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -33687,8 +33687,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -33741,8 +33741,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -33880,10 +33880,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "時間穿越",
           "血腥暴力"
         ],
@@ -33968,10 +33968,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -34060,9 +34060,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -34199,8 +34199,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -34254,8 +34254,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "校園",
           "喜劇",
           "靈異神怪"
@@ -34371,8 +34371,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -34398,10 +34398,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -34577,10 +34577,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [
@@ -34609,8 +34609,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -34772,8 +34772,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -34800,9 +34800,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "溫馨"
         ],
         "types": [],
@@ -35090,8 +35090,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -35173,8 +35173,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -35286,8 +35286,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -35309,35 +35309,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113628"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "超能力",
-          "喜劇"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 85322,
-      "title": "一拳超人 第二季",
-      "officialTitle": "一拳超人 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000085322.JPG",
-      "japaneseTitle": "ワンパンマン 第2期",
-      "originalTitle": "ワンパンマン 第2期",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/193619",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/193619",
-      "date": "2019/04",
-      "episodes": 12,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=85322"
     },
     {
       "classification": {
@@ -35374,8 +35345,37 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
+          "超能力",
+          "喜劇"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 85322,
+      "title": "一拳超人 第二季",
+      "officialTitle": "一拳超人 第二季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/22/0000085322.JPG",
+      "japaneseTitle": "ワンパンマン 第2期",
+      "originalTitle": "ワンパンマン 第2期",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/193619",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/193619",
+      "date": "2019/04",
+      "episodes": 12,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=85322"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [
@@ -35496,9 +35496,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇",
           "溫馨"
         ],
@@ -35526,9 +35526,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -35754,10 +35754,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -35813,8 +35813,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -35841,8 +35841,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -35921,8 +35921,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -36001,8 +36001,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -36057,10 +36057,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -36088,9 +36088,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -36118,10 +36118,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -36149,8 +36149,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -36319,10 +36319,10 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇",
           "戰爭"
         ],
@@ -36606,10 +36606,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -36720,8 +36720,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -36772,10 +36772,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -36853,8 +36853,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "溫馨"
         ],
         "types": [
@@ -36913,8 +36913,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "OVA"
@@ -37138,8 +37138,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -37417,8 +37417,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -37506,8 +37506,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -37592,10 +37592,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -37702,9 +37702,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -37789,33 +37789,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "奇幻",
-          "冒險"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 85205,
-      "title": "七大罪 戒律的复活",
-      "officialTitle": "七大罪 戒律的復活",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/05/0000085205.JPG",
-      "japaneseTitle": "七つの大罪 戒めの復活",
-      "originalTitle": "七つの大罪 戒めの復活",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/192978",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/192978",
-      "date": "2018/01",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=85205"
-    },
-    {
-      "classification": {
-        "attributes": [
           "戀愛",
           "GL"
         ],
@@ -37838,6 +37811,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=86010"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 85205,
+      "title": "七大罪 戒律的复活",
+      "officialTitle": "七大罪 戒律的復活",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/05/0000085205.JPG",
+      "japaneseTitle": "七つの大罪 戒めの復活",
+      "originalTitle": "七つの大罪 戒めの復活",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/192978",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/192978",
+      "date": "2018/01",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=85205"
     },
     {
       "classification": {
@@ -37895,8 +37895,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -37950,8 +37950,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "悠閒",
-          "料理"
+          "料理",
+          "悠閒"
         ],
         "types": [],
         "audiences": [
@@ -38122,9 +38122,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -38292,8 +38292,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "科幻",
           "勵志"
         ],
@@ -38375,8 +38375,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": [
@@ -38490,8 +38490,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -38544,8 +38544,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -38596,8 +38596,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -38685,8 +38685,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -38714,9 +38714,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -38774,8 +38774,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -38881,9 +38881,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "異世界"
+          "異世界",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -38939,8 +38939,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力",
           "黑暗"
         ],
@@ -39023,8 +39023,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "溫馨",
           "料理"
         ],
@@ -39195,8 +39195,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -39282,9 +39282,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -39554,9 +39554,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -39708,9 +39708,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -39850,10 +39850,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -40127,8 +40127,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -40323,8 +40323,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "親情",
           "靈異神怪"
         ],
@@ -40583,8 +40583,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -40848,8 +40848,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "戰爭"
         ],
         "types": [],
@@ -40903,9 +40903,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -41014,8 +41014,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -41600,8 +41600,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -41723,10 +41723,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -41778,10 +41778,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -41912,8 +41912,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -42252,35 +42252,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "超能力",
-          "喜劇"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 75930,
-      "title": "一拳超人",
-      "officialTitle": "一拳超人",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/30/0000075930.JPG",
-      "japaneseTitle": "ワンパンマン",
-      "originalTitle": "ワンパンマン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/127563",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/127563",
-      "date": "2015/10",
-      "episodes": 12,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=75930"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "科幻",
           "特攝"
         ],
@@ -42308,6 +42279,35 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112505"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "超能力",
+          "喜劇"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 75930,
+      "title": "一拳超人",
+      "officialTitle": "一拳超人",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/30/0000075930.JPG",
+      "japaneseTitle": "ワンパンマン",
+      "originalTitle": "ワンパンマン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/127563",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/127563",
+      "date": "2015/10",
+      "episodes": 12,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=75930"
     },
     {
       "classification": {
@@ -42380,7 +42380,7 @@
       "id": 76284,
       "title": "流浪神差 ARAGOTO",
       "officialTitle": "流浪神差 ARAGOTO",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000076284.JPG?v=1792116061",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000076284.JPG",
       "japaneseTitle": "ノラガミ ARAGOTO",
       "originalTitle": "ノラガミ ARAGOTO",
       "originalStatus": "japanese",
@@ -42603,8 +42603,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志",
           "溫馨",
           "感人"
@@ -42636,9 +42636,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -42723,8 +42723,8 @@
         "attributes": [
           "校園",
           "懸疑",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -42778,9 +42778,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -42942,8 +42942,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -43232,8 +43232,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -43260,8 +43260,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -43576,8 +43576,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -43975,8 +43975,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -44035,8 +44035,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -44317,9 +44317,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -44401,8 +44401,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -44429,9 +44429,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -44765,8 +44765,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -45125,9 +45125,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [],
@@ -45213,9 +45213,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [
@@ -45497,9 +45497,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "喜劇"
         ],
         "types": [],
@@ -45609,8 +45609,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [],
         "audiences": []
@@ -45726,10 +45726,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -45814,8 +45814,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "異世界",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -45899,10 +45899,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -46072,9 +46072,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [
@@ -46157,9 +46157,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [
@@ -46188,8 +46188,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [],
@@ -46276,8 +46276,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -46367,9 +46367,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "科幻"
         ],
         "types": [
@@ -47229,9 +47229,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -47601,9 +47601,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "魔法",
+          "奇幻",
           "黑暗"
         ],
         "types": [],
@@ -47725,10 +47725,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -48071,8 +48071,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越"
         ],
         "types": [
@@ -48389,8 +48389,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -48417,8 +48417,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -48444,10 +48444,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -48502,8 +48502,8 @@
     {
       "classification": {
         "attributes": [
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -48559,8 +48559,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志",
           "親情"
         ],
@@ -48591,8 +48591,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志",
           "黑暗"
         ],
@@ -48675,8 +48675,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -48994,10 +48994,10 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
-          "超能力",
           "魔法",
+          "奇幻",
+          "超能力",
           "科幻",
           "校園"
         ],
@@ -49025,8 +49025,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -49051,8 +49051,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -49278,6 +49278,35 @@
     {
       "classification": {
         "attributes": [
+          "超能力",
+          "機甲",
+          "科幻",
+          "戰爭",
+          "黑暗"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112823,
+      "title": "Code Geass 反叛的鲁路修R2",
+      "officialTitle": "Code Geass 反叛的魯路修 R2",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/93/0000015993.JPG",
+      "japaneseTitle": "コードギアス 反逆のルルーシュR2",
+      "originalTitle": "コードギアス 反逆のルルーシュR2",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/8",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/8",
+      "date": "2008/04",
+      "episodes": 25,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112823"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -49304,35 +49333,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112987"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "超能力",
-          "機甲",
-          "科幻",
-          "戰爭",
-          "黑暗"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112823,
-      "title": "Code Geass 反叛的鲁路修R2",
-      "officialTitle": "Code Geass 反叛的魯路修 R2",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/93/0000015993.JPG",
-      "japaneseTitle": "コードギアス 反逆のルルーシュR2",
-      "originalTitle": "コードギアス 反逆のルルーシュR2",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/8",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/8",
-      "date": "2008/04",
-      "episodes": 25,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112823"
     },
     {
       "classification": {
@@ -49424,8 +49424,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "魔法",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -49685,8 +49685,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -49711,6 +49711,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=52589"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "喜劇",
+          "戀愛"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113114,
+      "title": "旋风管家！",
+      "officialTitle": "旋風管家！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000017589.JPG",
+      "japaneseTitle": "ハヤテのごとく!",
+      "originalTitle": "ハヤテのごとく!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=17589",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113114",
+      "date": "2007/04",
+      "episodes": 52,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113114"
     },
     {
       "classification": {
@@ -49740,32 +49766,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112519"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "喜劇",
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113114,
-      "title": "旋风管家！",
-      "officialTitle": "旋風管家！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/89/0000017589.JPG",
-      "japaneseTitle": "ハヤテのごとく!",
-      "originalTitle": "ハヤテのごとく!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=17589",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113114",
-      "date": "2007/04",
-      "episodes": 52,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113114"
     },
     {
       "classification": {
@@ -49888,8 +49888,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -49914,8 +49914,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "超能力"
         ],
         "types": [
@@ -50412,8 +50412,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "靈異神怪",
-          "黑暗"
+          "黑暗",
+          "靈異神怪"
         ],
         "types": [],
         "audiences": []
@@ -50438,8 +50438,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -50469,9 +50469,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
-          "魔法"
+          "魔法",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -50708,8 +50708,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -51150,8 +51150,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -51210,8 +51210,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "血腥暴力"
         ],
         "types": [],
@@ -51448,8 +51448,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -51594,8 +51594,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -51772,9 +51772,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛"
         ],
         "types": [
@@ -51803,8 +51803,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -51945,8 +51945,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -52093,8 +52093,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "戀愛"
         ],
@@ -52269,8 +52269,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -52965,9 +52965,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛"
         ],
         "types": [
@@ -53055,8 +53055,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "喜劇",
           "親情"
         ],
@@ -53182,9 +53182,9 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "戀愛"
         ],
         "types": [
@@ -53213,9 +53213,9 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
           "異世界",
+          "奇幻",
           "機甲",
           "勵志"
         ],
@@ -53592,8 +53592,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -53651,8 +53651,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [],
@@ -53678,8 +53678,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
@@ -53902,8 +53902,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -53934,8 +53934,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -53995,8 +53995,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -54027,8 +54027,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
           "冒險",
+          "奇幻",
           "勵志"
         ],
         "types": [
@@ -54059,8 +54059,8 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "冒險"
+          "冒險",
+          "奇幻"
         ],
         "types": [
           "電影"
