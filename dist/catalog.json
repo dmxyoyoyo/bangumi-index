@@ -45,7 +45,7 @@
       "not-found": 3,
       "candidate-unavailable": 2
     },
-    "lastSuccessfulRefresh": "2026-10-19T18:22:12.099Z"
+    "lastSuccessfulRefresh": "2026-10-20T02:13:34.479Z"
   },
   "items": [
     {
@@ -99450,7 +99450,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-02",
+        "date": "2022-01-01",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1042883&s_locale=zh_CN",
         "checkedAt": "2026-10-20",
@@ -101694,7 +101694,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-10",
+        "date": "2022-01-09",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1045084&s_locale=zh_CN",
         "checkedAt": "2026-10-20",
