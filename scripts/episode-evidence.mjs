@@ -6,7 +6,7 @@ import {resolve} from 'node:path';
 export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:{}},day=today(),request=getJson,pause=delay}){
  const next={intl:{...cache.intl},cn:{...cache.cn}},pending=catalog.items.filter(x=>!x.cnId&&Number.isSafeInteger(x.intlId));
  const names=new Set(pending.flatMap(x=>[x.title,x.seaTitle,...(x.aliases||[])]).map(nameKey).filter(Boolean));
- for(const item of pending){const id=item.intlId;if(next.intl[id]?.checkedAt===day)continue;
+ for(const item of pending){const id=item.intlId;
   const j=await request('https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/episodes?season_id='+id+'&platform=web&s_locale=en_US');
   if(j.code===-412)throw new Error('International episode source rate-limited');
   if(j.code!==0)next.intl[id]={available:false,code:j.code,checkedAt:day};
@@ -19,7 +19,6 @@ export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:
   await pause(1200);
  }
  for(const candidate of Object.values(chinese).filter(x=>x.available!==false&&names.has(nameKey(x.title)))){const id=candidate.season_id;
-  if(next.cn[id]?.checkedAt===day)continue;
   const j=await request('https://api.bilibili.com/pgc/web/season/section?season_id='+id);
   if(j.code===-412)throw new Error('Chinese episode source rate-limited');
   if(j.code!==0)next.cn[id]={available:false,code:j.code,checkedAt:day};

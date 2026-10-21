@@ -4,12 +4,12 @@ export function synopsisKey(text){return nameKey(text);}
 function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';if(/dub\s*indo|indo\s*dub|印配|印尼语配音/i.test(text))return 'ID';if(/english\s*dub|dub\s*eng|英配|英语配音/i.test(text))return 'EN';if(/vietnamese\s*dub|越配|越南语配音/i.test(text))return 'VN';return null;}
 function label(item){return item.seasons?.find(s=>s.id===item.season_id)?.title||'';}
 function season(text){const m=String(text||'').match(/第([一二三四五六七八九十0-9]+)[季期]|season\s*([0-9]+)|([0-9]+)(?:st|nd|rd|th)\s*season|(?:^|\s)S([0-9]+)(?:$|\s)/i);return m?(Number(m[2]||m[3]||m[4]||m[1])||({一:1,二:2,三:3,四:4,五:5,六:6,七:7,八:8,九:9,十:10}[m[1]]||null)):null;}
-export function candidatesFor(item,metadata,localized,chinese){
+export function candidatesFor(item,metadata,localized,chinese,excludedIds=[]){
  if(metadata?.available===false)return [];
  const direct=[metadata?.title,localized?.title,item.seaTitle].map(nameKey).filter(Boolean),other=[item.title,...(item.aliases||[])].map(nameKey).filter(Boolean);
  const descriptions=[metadata?.description,localized?.description].map(synopsisKey).filter(x=>x.length>=25),expectedDub=dub(item.seaTitle||metadata?.title||item.title),expectedSeason=season(item.seaTitle||metadata?.title);
  const editions=chinese.filter(x=>{const edition=label(x),candidateDub=dub(x.title+' '+edition);
-  return x.available!==false&&!/drama|真人|电视剧/i.test(edition)&&candidateDub===expectedDub;});
+  return x.available!==false&&!excludedIds.includes(x.season_id)&&!/drama|真人|电视剧/i.test(edition)&&candidateDub===expectedDub;});
  const valid=editions.filter(x=>descriptions.includes(synopsisKey(x.evaluate)));
  const exact=valid.filter(x=>direct.includes(nameKey(x.title)));if(exact.length)return exact;
  const aliased=valid.filter(x=>other.includes(nameKey(x.title))&&(!expectedSeason||expectedSeason===1||season(x.title+' '+label(x))===expectedSeason));if(aliased.length)return aliased;
@@ -39,8 +39,8 @@ export function unavailableAssociatedCandidate(link,chinese){
 export function matchesEpisodes(chinese,international){
  return chinese?.available===true&&international?.available===true&&chinese.mainCount>0&&chinese.mainCount===international.mainCount&&chinese.extraCount===international.extraCount&&chinese.firstPublishedAt>0&&chinese.firstPublishedAt===international.firstPublishedAt;
 }
-export function verifiedOriginalMapping(item,metadata,chinese,verification){
- return Boolean(verification?.originalName&&verification?.cnTitle)&&item.originCategory==='china'&&Number(metadata?.type)===4&&metadata.available!==false&&chinese?.type===4&&chinese.available!==false&&chinese.season_id===verification?.cnId&&nameKey(metadata.originName)===nameKey(verification?.originalName)&&nameKey(chinese.title)===nameKey(verification?.cnTitle);
+export function verifiedOriginalMapping(item,metadata,chinese,verification,excludedIds=[]){
+ return !excludedIds.includes(verification?.cnId)&&Boolean(verification?.originalName&&verification?.cnTitle)&&item.originCategory==='china'&&Number(metadata?.type)===4&&metadata.available!==false&&chinese?.type===4&&chinese.available!==false&&chinese.season_id===verification?.cnId&&nameKey(metadata.originName)===nameKey(verification?.originalName)&&nameKey(chinese.title)===nameKey(verification?.cnTitle);
 }
 export function selectMapping(candidates,release,version=null,episodes=null){
  if(candidates.length===1)return candidates[0];

@@ -1,0 +1,4641 @@
+{
+  "meta": {
+    "checkedAt": "2026-10-19",
+    "partial": true,
+    "rateLimited": false,
+    "failedSources": 6
+  },
+  "pages": {
+    "https://www.bilibili.com/read/cv14759616": {
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "opusId": "613361681091881122",
+      "title": "B站隐藏番剧汇总（欢迎各位补充）",
+      "seasons": [
+        {
+          "id": 24567,
+          "title": "后街女孩",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 5558,
+          "title": "动画锻炼！XX 同一屋檐下",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 25717,
+          "title": "我喜欢的是小说里的你",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 26298,
+          "title": "笨拙之极的上野",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 1356,
+          "title": "萌单",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 1097,
+          "title": "空罐少女",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 2029,
+          "title": "最终兵器彼女",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 1146,
+          "title": "青之花",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 5125,
+          "title": "温暖的印记",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 47098,
+          "title": "异修罗",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 842,
+          "title": "笨蛋，测验，召唤兽",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 3486,
+          "title": "笨蛋，测验，召唤兽 OVA",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 843,
+          "title": "笨蛋，测验，召唤兽2",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 23869,
+          "title": "踏切时间",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 2238,
+          "title": "麻辣教师GTO",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "id": 142945,
+          "title": "超辉夜姬！",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        }
+      ],
+      "videos": [
+        {
+          "bvid": "BV1Jx411P7PM",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Lx411P7V1",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Hx411P7t3",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV16x411P7Jw",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1ex411P7zJ",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Dx411P7en",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1fx411P7Jc",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Rx411P7mX",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV13x411N7sN",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Kx411N7PE",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Gx411N7iR",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ux411w7gb",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1nx411P7oh",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV14x411P72H",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Wx411P7VH",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1rx411P7Tk",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1mx411P7u9",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1kx411P7ME",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Zx411P7Uu",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1ox411P7Ta",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1gx411N7UC",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV17x411N7e2",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Gx411N7TD",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV11s411Z7v4",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Us411Z7Hj",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1rs411Z7L8",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1rs411Z7kB",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV19s411Z7R5",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1os411Z7em",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ss411Z7zL",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Qs411Z7di",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ns411f7PQ",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ts411f7rg",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Fs411f7wK",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1ws411f75z",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1rs411Z7uZ",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1os411Z7Pm",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ss411Z7PH",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Qs411Z7Jd",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1us411f7Az",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Vs411D79y",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Hs411D7eb",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Es411D7fz",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1vs411D7FC",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Cs411D7Zv",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Qs411D7nS",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Us411D72R",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ls411U7xb",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ys411U7cW",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1ks411U7Fk",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ds411U7Bc",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        },
+        {
+          "bvid": "BV1Ss411U7Yz",
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+        }
+      ],
+      "media": [],
+      "cards": [
+        {
+          "id": 24567,
+          "title": "后街女孩",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/1a7403f11fc24c06ae8ed8323aecab8b8b26d2cd.png",
+          "indexShow": "限时免费 已完结, 全10话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 5558,
+          "title": "动画锻炼！XX 同一屋檐下",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/32b173fbb55ca90b39eb68d94492eed725d0c61e.jpg",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 25717,
+          "title": "我喜欢的是小说里的你",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/93800a3560fa26f3f63ea8ac0cd5c4bfa9e3d4ea.png",
+          "indexShow": "独家 已完结, 全10话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 26298,
+          "title": "笨拙之极的上野",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/406a17e27a7e8891196010e99400c85eb30626a9.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 1356,
+          "title": "萌单",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/4b12304c6d7f54c9fa339599f3bf195064c7bcef.jpg",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 1097,
+          "title": "空罐少女",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/e55b0044b3845cc476f36407636dd49edfb663cb.jpg",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 2029,
+          "title": "最终兵器彼女",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/2b56a8046b92dd25026bf1409f016a14c1c253f5.jpg",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 1146,
+          "title": "青之花",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/003019494b5446ca930ebcac6a352966f3e6eca0.jpg",
+          "indexShow": "已完结, 全11话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 5125,
+          "title": "温暖的印记",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/c8b031d45d8e7c0e41a409e5e6093823aaccd5c5.jpg",
+          "indexShow": "已完结, 全10话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 47098,
+          "title": "异修罗",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/39479ace4e34d59f049db757d1e48612113304be.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 842,
+          "title": "笨蛋，测验，召唤兽",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/2615ddc493f755acf9013c865863060957ffb08b.jpg",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 3486,
+          "title": "笨蛋，测验，召唤兽 OVA",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/2615ddc493f755acf9013c865863060957ffb08b.jpg",
+          "indexShow": "已完结, 全2话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 843,
+          "title": "笨蛋，测验，召唤兽2",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/29c14469bd368a4c01882b465f0a74cb6f6ae496.jpg",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 23869,
+          "title": "踏切时间",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/6bd6ce0df539056bc199fc2b551dc9f215aa2fa6.jpg",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 2238,
+          "title": "麻辣教师GTO",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/1c2df84ec85e2dcd94e1decebd077c0600565178.jpg",
+          "indexShow": "已完结, 全43话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 142945,
+          "title": "超辉夜姬！",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/e840f9073cae566f7bdc48bb41eca418617c93af.png",
+          "indexShow": "独家 已完结, 全1话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+          "verification": "official-ogv-card"
+        }
+      ],
+      "legacyVideos": [],
+      "relatedArticles": [
+        "https://www.bilibili.com/read/cv7314822",
+        "https://www.bilibili.com/read/cv6295997?from=articleDetail",
+        "https://www.bilibili.com/opus/611440172852572855"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    "https://www.bilibili.com/opus/984809853218193431": {
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "opusId": "984809853218193431",
+      "title": "2022年10月b站仅限港澳台放送番剧传送门合集（两边都有的不计入）",
+      "seasons": [
+        {
+          "id": 43060,
+          "title": "鏈鋸人（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 44816,
+          "title": "鏈鋸人 粵配版（僅限港澳地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43175,
+          "title": "我想成為影之強者！（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43177,
+          "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43281,
+          "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43061,
+          "title": "秋葉原冥途戰爭（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43174,
+          "title": "戀愛FLOPS（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43103,
+          "title": "轉生就是劍（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43171,
+          "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43176,
+          "title": "不道德公會（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43267,
+          "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43278,
+          "title": "後宮之烏",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43772,
+          "title": "總之就是很可愛～制服～（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43170,
+          "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43104,
+          "title": "我家師傅沒有尾巴（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43184,
+          "title": "四人各有小秘密（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 43064,
+          "title": "她來自煩星（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 44952,
+          "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        },
+        {
+          "id": 44862,
+          "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+        }
+      ],
+      "videos": [],
+      "media": [],
+      "cards": [
+        {
+          "id": 43060,
+          "title": "鏈鋸人（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/300e6d42bbfa633f45d69bca6240f014c0d9de5b.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44816,
+          "title": "鏈鋸人 粵配版（僅限港澳地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/01cebc96aae42b161086d38e0c1822f939827c2d.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43175,
+          "title": "我想成為影之強者！（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/f51209a66f693cd4964cf91a50d11924172e6121.png",
+          "indexShow": "已完结, 全20话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43177,
+          "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/4d5d9052290f78eac9e1e02507be5ee34608d797.png",
+          "indexShow": "已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43281,
+          "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/ccacbb3392c5aee06768d38104794fab56e87ccd.png",
+          "indexShow": "大会员 已完结, 全52话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43061,
+          "title": "秋葉原冥途戰爭（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/e2f4aca725e4f90ab4f16a7c772e46cc9aff1f9b.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43174,
+          "title": "戀愛FLOPS（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/b19fc8df9ea1df922bf1e0ed327425d6a9af3f9d.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43103,
+          "title": "轉生就是劍（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/500462758e6a1d6279e3f828d0729dd00c8517d2.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43171,
+          "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/2dd252cb48b59a4a8ce6ac606c78dd0a97ba758b.png",
+          "indexShow": "独家 已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43176,
+          "title": "不道德公會（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/df358e300a91d1aac7fea6f56d15cdef2ed99b6b.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43267,
+          "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/eddab327275e162d624da3fdd55ce4bcef6aef05.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43278,
+          "title": "後宮之烏",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/16e1a353eaa6a0af34860808b6be538e8cb35a06.png",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43772,
+          "title": "總之就是很可愛～制服～（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/e62d2071d3c4436f3dfac397ffe0123b3904ca07.png",
+          "indexShow": "独家 已完结, 全1话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43170,
+          "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/2d8f428cc21644363bbf1d62304588bf231dd05b.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43104,
+          "title": "我家師傅沒有尾巴（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/4a7072d0f4f6acb207f5b65a2f02b34cbd6eb452.png",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43184,
+          "title": "四人各有小秘密（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/b04d43c6d5f985d64201541833d1d4ae8edbaf92.png",
+          "indexShow": "独家 已完结, 全11话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 43064,
+          "title": "她來自煩星（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/4469f3f598d86ca20f454beb5a9c54fc1623ea8a.png",
+          "indexShow": "已完结, 全46话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44952,
+          "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/2a9a51fc8ca1c57a9526f4008c408e5c56083d12.png",
+          "indexShow": "大会员 已完结, 全4话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44862,
+          "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/7be89bb6697261792a109028f2b13789c19d4b5a.png",
+          "indexShow": "大会员 已完结, 全1话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+          "verification": "official-ogv-card"
+        }
+      ],
+      "legacyVideos": [],
+      "relatedArticles": [],
+      "checkedAt": "2026-10-19"
+    },
+    "https://www.bilibili.com/opus/862025538638708793": {
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "opusId": "862025538638708793",
+      "title": "2023年仅限港澳台番剧统计",
+      "seasons": [],
+      "videos": [],
+      "media": [],
+      "cards": [],
+      "legacyVideos": [
+        {
+          "aid": 862151601,
+          "expectedTitle": "1.不相信人类的冒险者们好像要去拯救世界（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 777359094,
+          "expectedTitle": "2.转生公主与天才千金的魔法革命（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 777362101,
+          "expectedTitle": "3.文豪野犬 第四季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 904666322,
+          "expectedTitle": "4.冰属性男子和酷酷女同事",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 222140153,
+          "expectedTitle": "5.弦音 -连结的一射-（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 522323654,
+          "expectedTitle": "6.阿鲁斯的巨兽",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 564782991,
+          "expectedTitle": "7.为了养老金去异世界存八万金（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 349762867,
+          "expectedTitle": "8.TRIGUN STAMPEDE（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 819820748,
+          "expectedTitle": "9.关于我在无意间被隔壁的天使变成废柴这件事（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 522368979,
+          "expectedTitle": "10.不当哥哥了（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 264810380,
+          "expectedTitle": "11.尼尔：自动人形 Ver1.1a（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 349836558,
+          "expectedTitle": "12.无意间变成狗，被喜欢的女生捡回家。（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 989869942,
+          "expectedTitle": "13.冰剑的魔术师将要统一世界（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 649887669,
+          "expectedTitle": "14.英雄传说：闪之轨迹",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 522578892,
+          "expectedTitle": "15.久保同学不放过我",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 435141414,
+          "expectedTitle": "16.真・进化之实 踏上胜利的人生",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 989813479,
+          "expectedTitle": "17.最强阴阳师的异世界转生记（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 265076499,
+          "expectedTitle": "18.拥有超常技能的异世界流浪美食家（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 392669169,
+          "expectedTitle": "19.因为太怕痛就全点防御力了 第二季",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 735102878,
+          "expectedTitle": "20.物之古物奇谭",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 649846705,
+          "expectedTitle": "21.魔王学院的不适合者 第二季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 519802803,
+          "expectedTitle": "22.虚构推理 第二季",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 862257590,
+          "expectedTitle": "23.傲娇反派千金莉洁洛特与实况主远藤同学及解说员小林同学（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 565000087,
+          "expectedTitle": "24.英雄王，为了穷尽武道而转生～然后，成为世界最强的见习骑士♀～（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 905079653,
+          "expectedTitle": "25.妖幻三重奏（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 777355938,
+          "expectedTitle": "26.间谍教室（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 777297114,
+          "expectedTitle": "27.被神捡到的男人 第二季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 264831286,
+          "expectedTitle": "28.不要欺负我，长瀞同学 2nd Attack（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 477310521,
+          "expectedTitle": "29.被解雇的暗黑士兵慢生活的第二人生",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 824473027,
+          "expectedTitle": "1.在异世界获得获得超强能力的我，在现实世界照样无敌（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 654493232,
+          "expectedTitle": "2.无神世界的神明活动（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 867086687,
+          "expectedTitle": "3.魔法使的新娘 第2季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 611902186,
+          "expectedTitle": "4.石纪元（第三季）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 439644678,
+          "expectedTitle": "5.物理魔法使-马修-",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 484675661,
+          "expectedTitle": "6.总之就是非常可爱 第二季",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 269536926,
+          "expectedTitle": "7.第二次被异世界召唤（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 312324574,
+          "expectedTitle": "8.鬼灭之刃 刀匠村篇",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 530423566,
+          "expectedTitle": "1.其实，我乃最强？（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 870525684,
+          "expectedTitle": "2.咒术回战 第二季",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 955635143,
+          "expectedTitle": "3.主宰七魔剑",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 230670933,
+          "expectedTitle": "4.死神少爷与黑女仆 第二季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 658173441,
+          "expectedTitle": "5.英雄教室（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 658350841,
+          "expectedTitle": "6.勇者赫鲁库",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 449139421,
+          "expectedTitle": "1.捡走被人悔婚的千金，教会她坏坏的幸福生活（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 959221355,
+          "expectedTitle": "2.想要成为影之实力者！第二季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 448941878,
+          "expectedTitle": "3.因想当冒险者而前往大都市的女儿已经升到了S级（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 364275474,
+          "expectedTitle": "4.盾之勇者成名录 第三季（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        },
+        {
+          "aid": 704224789,
+          "expectedTitle": "5.世界尽头的圣骑士 第二季 铁锈之山的君王（独播）",
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+        }
+      ],
+      "relatedArticles": [],
+      "checkedAt": "2026-10-19"
+    },
+    "https://www.bilibili.com/read/mobile?id=6211078": {
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078",
+      "opusId": "394000993857923478",
+      "title": "盘点B站购买的175部港澳台番剧！",
+      "seasons": [],
+      "videos": [],
+      "media": [],
+      "cards": [],
+      "legacyVideos": [
+        {
+          "aid": 60437826,
+          "expectedTitle": "2013-01-02\t前進吧！登山少女（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 28136,
+          "expectedTitle": "2013-07-12\t魔法少女☆伊莉雅（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57103800,
+          "expectedTitle": "2013-10-08\t東京暗鴉（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 11745532,
+          "expectedTitle": "2014-01-15\t魔劍姬！通（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 625669555,
+          "expectedTitle": "2014-04-05 地球隊長（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15277592,
+          "expectedTitle": "2014-04-09\t風雲維新大將軍（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 11501084,
+          "expectedTitle": "2014-04-09\t棺姬嘉依卡（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 62462810,
+          "expectedTitle": "2014-04-10\t乒乓（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 9485931,
+          "expectedTitle": "2014-04-11\t約會大作戰 第二季 （僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 9743342,
+          "expectedTitle": "2014-04-12\t目隱都市的演繹者（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 59914973,
+          "expectedTitle": "2014-07-06\t月刊少女野崎君（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 40160148,
+          "expectedTitle": "2014-07-09\tLOVE STAGE!!（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 60455837,
+          "expectedTitle": "2014-07-09\t前進吧！登山少女  第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 40179906,
+          "expectedTitle": "2014-07-11\t東京ESP （僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58297697,
+          "expectedTitle": "2014-08-23\t頭文字D Legend1 -覺醒-（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 11668811,
+          "expectedTitle": "2014-10-08\t棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 795707356,
+          "expectedTitle": "2014-10-09 白箱（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 36382505,
+          "expectedTitle": "2015-04-05\tSHOW BY ROCK!! （僅限台湾地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 2524522,
+          "expectedTitle": "2015-07-04\t沒有黃段子的無聊世界（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 60467057,
+          "expectedTitle": "2015-07-07\tOVERLORD（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 2571373,
+          "expectedTitle": "2015-07-09\t純情羅曼史 第3季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 28737,
+          "expectedTitle": "2015-10-03\t排球少年！！第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 11288700,
+          "expectedTitle": "2015-10-09\t新妹魔王的契約者  BURST（僅限港澳台）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 68974429,
+          "expectedTitle": "2016-01-07\tActive Raid -機動強襲室第八課-（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 35891970,
+          "expectedTitle": "2016-01-08\t昭和元祿落語心中（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 55787308,
+          "expectedTitle": "2016-01-08\t告訴我！辣妹子醬（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 62540402,
+          "expectedTitle": "2016-03-31\tJOJO的奇妙冒險 不滅鉆石（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 55793302,
+          "expectedTitle": "2016-04-09\t田中君總是如此慵懶（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 8590289,
+          "expectedTitle": "2016-04-23\t吹響！上低音號 ~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57087699,
+          "expectedTitle": "2016-04-23\t遊戲王：次元的黑暗面（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 36322697,
+          "expectedTitle": "2016-07-01\t剑风传奇 新作（僅限台湾地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 5359849,
+          "expectedTitle": "2016-07-03\tB-PROJECT（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 5189980,
+          "expectedTitle": "2016-07-03\t不愉快的怪物庵（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 5251672,
+          "expectedTitle": "2016-07-08\t藍海少女（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70755192,
+          "expectedTitle": "2016-07-08\t91Days（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69126477,
+          "expectedTitle": "2016-07-10\tActive Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 5461943,
+          "expectedTitle": "2016-07-10\t心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 18373104,
+          "expectedTitle": "2016-09-10\t魔法使的新娘 等待繁星之人（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 6556317,
+          "expectedTitle": "2016-10-06\t吹響！上低音號 第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 36383482,
+          "expectedTitle": "2016-10-06\tALL OUT!!（僅限台湾地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 55798651,
+          "expectedTitle": "2016-10-06\tFLIP FLAPPERS（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57091324,
+          "expectedTitle": "2016-10-06\t竞女（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 35892366,
+          "expectedTitle": "2016-10-07\t漂流武士 （僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58563223,
+          "expectedTitle": "2016-10-07\t排球少年 烏野高校 VS 白鳥澤學園高校（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 36382931,
+          "expectedTitle": "2017-01-01\t碧藍幻想（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 5775,
+          "expectedTitle": "2017-01-05\t政宗君的复仇（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58297092,
+          "expectedTitle": "2017-01-06\t幼.女戰記（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 36383908,
+          "expectedTitle": "2017-01-06\t昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 40225226,
+          "expectedTitle": "2017-01-07\t亚人酱有话要说 （僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58299137,
+          "expectedTitle": "2017-01-08\t情熱傳說 the X 第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 28137,
+          "expectedTitle": "2017-01-12\t为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 9540857,
+          "expectedTitle": "2017-04-02\t進擊的巨人 第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 11798212,
+          "expectedTitle": "2017-07-02\t活撃/刀剣乱舞（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15039192,
+          "expectedTitle": "2017-10-04\t品酒要在成為夫妻之後（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15044642,
+          "expectedTitle": "2017-10-04\tInfini-T Force（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15115443,
+          "expectedTitle": "2017-10-06\t國王遊戲 The Animation（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15146703,
+          "expectedTitle": "2017-10-07\tDies irae 神怒之日（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15180435,
+          "expectedTitle": "2017-10-08\t魔法使的新娘（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 15435842,
+          "expectedTitle": "2017-10-09\t干物妹!小埋R / 我家有個魚乾妹R（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 18044828,
+          "expectedTitle": "2018-01-07\tSlow Start（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 18102361,
+          "expectedTitle": "2018-01-07\t百變小櫻Clear咭（僅限港澳地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 18078599,
+          "expectedTitle": "2018-01-08\t續 刀劍亂舞 -花丸-（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 18281381,
+          "expectedTitle": "2018-01-14\tDARLING in the FRANXX（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21564143,
+          "expectedTitle": "2018-04-03\t蒼天之拳 REGENESIS（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21598677,
+          "expectedTitle": "2018-04-03\t銀河英雄傳說：全新命題 邂逅（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21598899,
+          "expectedTitle": "2018-04-03\tTokyo Guru: re (Part 1)（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21757061,
+          "expectedTitle": "2018-04-07\t失憶融合WIXOSS（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21951218,
+          "expectedTitle": "2018-04-07\t藍海少女～advance～（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 21829806,
+          "expectedTitle": "2018-04-08\t甜心戰士 Universe（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 23860,
+          "expectedTitle": "2018-04-13\t奴隸區 The Animation（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 26079528,
+          "expectedTitle": "2018-07-03\t千槍士（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 62380477,
+          "expectedTitle": "2018-07-05\t春原莊的管理員小姐（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 51073204,
+          "expectedTitle": "2018-07-08\t百鍊霸王與聖約女武神（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 26559937,
+          "expectedTitle": "2018-07-11\tAngolmois 元寇合戰記（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48095657,
+          "expectedTitle": "2018-07-13\t少女☆歌劇 Revue Starlight（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 33616321,
+          "expectedTitle": "2018-07-14\t搖曳莊的幽奈小姐（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 27501468,
+          "expectedTitle": "2018-07-23\t進擊的巨人 第三季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 32777654,
+          "expectedTitle": "2018-09-30\tDouble Decker! 道格&amp;基里爾（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 32848792,
+          "expectedTitle": "2018-10-02\t蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 33021084,
+          "expectedTitle": "2018-10-04\t天空與海洋之間（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 33128601,
+          "expectedTitle": "2018-10-05\t佐賀偶像是傳奇（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 33488613,
+          "expectedTitle": "2018-10-09\tTokyo Guru: re (Part 2)（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 34937632,
+          "expectedTitle": "2018-10-10\t產子救世錄（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 33579648,
+          "expectedTitle": "2018-10-11\t只要別西卜大小姐喜歡就好（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 51728459,
+          "expectedTitle": "2019-04-02\tYU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48377996,
+          "expectedTitle": "2019-04-06\t生肖奇缘 (2019)（僅限港澳地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48379841,
+          "expectedTitle": "2019-04-06\t滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48392619,
+          "expectedTitle": "2019-04-06\tMIX（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48354608,
+          "expectedTitle": "2019-04-07\t鬼滅之刃（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48391846,
+          "expectedTitle": "2019-04-07\t我們真的學不來！（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48531982,
+          "expectedTitle": "2019-04-07\t一弦定音！（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48628402,
+          "expectedTitle": "2019-04-08\t八月的棒球甜心（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 48806345,
+          "expectedTitle": "2019-04-10\t強襲魔女 501部隊出動!（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 50762638,
+          "expectedTitle": "2019-04-29\t進擊的巨人 第三季 Part.2（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57611295,
+          "expectedTitle": "2019-07-02\t你遭難了嗎？（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57616311,
+          "expectedTitle": "2019-07-02\t魔術學姐（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57730197,
+          "expectedTitle": "2019-07-03\t彼方的阿斯特拉（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57723995,
+          "expectedTitle": "2019-07-03\t流汗吧！健身少女（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57726890,
+          "expectedTitle": "2019-07-04\t魔王大人、RETRY！（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 668096206,
+          "expectedTitle": "2019-07-05 Free!-Road to the World-夢（僅限港澳及其他地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57990872,
+          "expectedTitle": "2019-07-05\t女高中生的虛度日常（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57984337,
+          "expectedTitle": "2019-07-05\tＤｒ．ＳＴＯＮＥ（新石紀）（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57990385,
+          "expectedTitle": "2019-07-06\t炎炎消防隊（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 57998601,
+          "expectedTitle": "2019-07-06\t騷亂時節的少女們。（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58092058,
+          "expectedTitle": "2019-07-07\t艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58209576,
+          "expectedTitle": "2019-07-07\t實況主的逃脫遊戲【直播中】（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58212949,
+          "expectedTitle": "2019-07-07\t偶像夢幻祭（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58365104,
+          "expectedTitle": "2019-07-08\t只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58356305,
+          "expectedTitle": "2019-07-08\t平凡職業造就世界最強（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58367425,
+          "expectedTitle": "2019-07-09\tCOP CRAFT（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58742142,
+          "expectedTitle": "2019-07-12\tGIVEN 被贈與的未來（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58910515,
+          "expectedTitle": "2019-07-13\t普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 58874800,
+          "expectedTitle": "2019-07-13\t科學一方通行（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 61430254,
+          "expectedTitle": "2019-07-31\tTRY KNIGHTS（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69171890,
+          "expectedTitle": "2019-09-27\t銀河英雄傳說：全新命題  星亂（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69497122,
+          "expectedTitle": "2019-10-01\t香蕉喵 不可思議的夥伴們（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69788434,
+          "expectedTitle": "2019-10-02\t浦島坂田船的日常（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69799007,
+          "expectedTitle": "2019-10-02\t這個勇者明明超TUEEE卻過度謹慎！（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69793261,
+          "expectedTitle": "2019-10-03\t小書痴的下剋上:為了成為圖書管理員不擇手段!（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69799741,
+          "expectedTitle": "2019-10-03\t喜歡本大爺的竟然就妳一個？（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69800677,
+          "expectedTitle": "2019-10-03\t放學後桌遊俱樂部（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 69914830,
+          "expectedTitle": "2019-10-03\t碧藍航線（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70073822,
+          "expectedTitle": "2019-10-04\t厨病激发BOY（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70075300,
+          "expectedTitle": "2019-10-05\t碧藍幻想 第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70186897,
+          "expectedTitle": "2019-10-05\t入間同學入魔了（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70183619,
+          "expectedTitle": "2019-10-05\t戰×戀（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70231748,
+          "expectedTitle": "2019-10-06\tFate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70236283,
+          "expectedTitle": "2019-10-06\t刀劍神域 Alicization War of Underworld（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70173767,
+          "expectedTitle": "2019-10-06\t我們真的學不來！第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70233455,
+          "expectedTitle": "2019-10-06\t一弦定音！第二季（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70455095,
+          "expectedTitle": "2019-10-07\t夢幻之星2 EPISODE ORACLE（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70459930,
+          "expectedTitle": "2019-10-07\t募戀英雄（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70474574,
+          "expectedTitle": "2019-10-07\t我不是說了能力要平均值嗎？（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70571226,
+          "expectedTitle": "2019-10-08\tZ/X Code reunion（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70583627,
+          "expectedTitle": "2019-10-09\t神田川JET GIRLS（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70776831,
+          "expectedTitle": "2019-10-10\t高達創戰潛行者 Re:RISE（僅限港澳地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70776781,
+          "expectedTitle": "2019-10-10\t鋼彈創鬥者潛網大戰 Re:RISE（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70795118,
+          "expectedTitle": "2019-10-10\t刺客守則（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70787829,
+          "expectedTitle": "2019-10-11\t非槍人生（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70857012,
+          "expectedTitle": "2019-10-11\t星合之空（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70867620,
+          "expectedTitle": "2019-10-12\t食戟之靈 神之皿（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70891395,
+          "expectedTitle": "2019-10-12\t歌舞伎町夏洛克（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 70872165,
+          "expectedTitle": "2019-10-12\t廚神小當家（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 71098083,
+          "expectedTitle": "2019-10-13\t美妙射擊部 / RIFLE IS BEAUTIFUL（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 73094209,
+          "expectedTitle": "2019-10-23\t花牌情緣 第三季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 73147884,
+          "expectedTitle": "2019-10-23\t眾神的逆鱗（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 82222439,
+          "expectedTitle": "2020-01-06\tID:INVADED（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 82559875,
+          "expectedTitle": "2020-01-09\t星掠者（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 82643678,
+          "expectedTitle": "2020-01-10\t理科生墜入情網，故嘗試證明。（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 82826601,
+          "expectedTitle": "2020-01-11\t科學超電磁砲T（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 370066080,
+          "expectedTitle": "2020.04\t昨日之歌（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 455078426,
+          "expectedTitle": "2020.04\t新櫻花大戰 the Animation（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 837637931,
+          "expectedTitle": "2020.04\t邪神與廚二病少女 第二季（僅限港澳台及其他地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 540074561,
+          "expectedTitle": "2020.04\t小書痴的下剋上:為了成為圖書管理員不擇手段! 第二部（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 925076431,
+          "expectedTitle": "2020.04\t聽我的電波吧（僅限港澳台及其他地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 752639653,
+          "expectedTitle": "2020.04\t生肖奇缘 第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 582573927,
+          "expectedTitle": "2020.04\t社長，戰鬥的時間到了！（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 582546669,
+          "expectedTitle": "2020.04\t球詠（僅限港澳台地区）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 667715682,
+          "expectedTitle": "2020.04\t噴嚏大魔王2020（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 710062138,
+          "expectedTitle": "2020.04\t辣妹與恐龍（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 540011313,
+          "expectedTitle": "2020.04\t繼怪怪守護神（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 497715774,
+          "expectedTitle": "2020.04\t輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 752589821,
+          "expectedTitle": "2020.04\t格萊普尼爾（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 667678569,
+          "expectedTitle": "2020.04\t高達創戰潛行者RE: RISE 2nd Season（僅限港澳地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 370204471,
+          "expectedTitle": "2020.04\t鋼彈創鬥者潛網大戰 Re:RISE 第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 840145520,
+          "expectedTitle": "2020.04\t放學後堤防日誌（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 837736319,
+          "expectedTitle": "2020.04\t超異域公主連結☆Re:Dive（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 882751136,
+          "expectedTitle": "2020.04\t別冊 奧林匹克之環（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 925173542,
+          "expectedTitle": "2020.04\t白貓 Project ZERO CHRONICLE（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 840117091,
+          "expectedTitle": "2020.04\t八男？別鬧了！（僅限港澳台及其他地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 667633346,
+          "expectedTitle": "2020.04\t闇影詩章（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 967558534,
+          "expectedTitle": "2020.04\t阿爾蒂（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 882544745,
+          "expectedTitle": "2020.04\tLISTENERS（僅限港澳台及其他地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 882578682,
+          "expectedTitle": "2020.04\tIDOLiSH7-偶像星願-Second Beat!（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 540154190,
+          "expectedTitle": "2020.04\tARGONAVIS from BanG Dream！（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 926359246,
+          "expectedTitle": "2020.07\t非槍人生 第二季 （僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 413682564,
+          "expectedTitle": "2020.07\t刀劍神域 Alicization War of Underworld 第二季（僅限台灣地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 752720959,
+          "expectedTitle": "2020.07\t富豪刑警 Balance:UNLIMITED（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 753775803,
+          "expectedTitle": "2020.07\t果然我的青春戀愛喜劇搞錯了。完（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        },
+        {
+          "aid": 285139680,
+          "expectedTitle": "2020.07\t食戟之靈 豪之皿（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+        }
+      ],
+      "relatedArticles": [
+        "https://www.bilibili.com/read/cv5418197",
+        "https://www.bilibili.com/read/cv4112385",
+        "https://www.bilibili.com/read/cv6174697",
+        "https://www.bilibili.com/read/cv4294089",
+        "https://www.bilibili.com/read/cv4077212",
+        "https://www.bilibili.com/read/cv4550840",
+        "https://www.bilibili.com/read/cv4146339",
+        "https://www.bilibili.com/read/cv4238967",
+        "https://www.bilibili.com/read/cv4133728",
+        "https://www.bilibili.com/read/cv4319119",
+        "https://www.bilibili.com/read/cv4225219",
+        "https://www.bilibili.com/read/cv4094249",
+        "https://www.bilibili.com/read/cv4156080",
+        "https://www.bilibili.com/read/cv5789203",
+        "https://www.bilibili.com/read/cv4276206",
+        "https://www.bilibili.com/read/cv4350951",
+        "https://www.bilibili.com/read/cv4307975",
+        "https://www.bilibili.com/read/cv4213553",
+        "https://www.bilibili.com/read/cv4402021",
+        "https://www.bilibili.com/read/cv4427800",
+        "https://www.bilibili.com/read/cv4449493",
+        "https://www.bilibili.com/read/cv4616469",
+        "https://www.bilibili.com/read/cv4730599",
+        "https://www.bilibili.com/read/cv4742854",
+        "https://www.bilibili.com/read/cv4983236",
+        "https://www.bilibili.com/read/cv5229632",
+        "https://www.bilibili.com/read/cv5459952",
+        "https://www.bilibili.com/read/cv5482512",
+        "https://www.bilibili.com/read/cv6133872",
+        "https://www.bilibili.com/read/cv3869508/?from=readlist",
+        "https://www.bilibili.com/read/cv3895171/?from=readlist",
+        "https://www.bilibili.com/read/cv3901072/?from=readlist",
+        "https://www.bilibili.com/read/cv3906159/?from=readlist",
+        "https://www.bilibili.com/read/cv3911687/?from=readlist",
+        "https://www.bilibili.com/read/cv3924535/?from=readlist",
+        "https://www.bilibili.com/read/cv3934250/?from=readlist",
+        "https://www.bilibili.com/read/cv3953284/?from=readlist",
+        "https://www.bilibili.com/read/cv3961309/?from=readlist",
+        "https://www.bilibili.com/read/cv3982962/?from=readlist",
+        "https://www.bilibili.com/read/cv3997941/?from=readlist",
+        "https://www.bilibili.com/read/cv4021692/?from=readlist",
+        "https://www.bilibili.com/read/cv4036253/?from=readlist",
+        "https://www.bilibili.com/read/cv4053052/?from=readlist",
+        "https://www.bilibili.com/read/cv4064774/?from=readlist",
+        "https://www.bilibili.com/read/cv4088148/?from=readlist",
+        "https://www.bilibili.com/read/cv4116021/?from=readlist",
+        "https://www.bilibili.com/read/cv4141082/?from=readlist",
+        "https://www.bilibili.com/read/cv4182729/?from=readlist",
+        "https://www.bilibili.com/read/cv4206760/?from=readlist",
+        "https://www.bilibili.com/read/cv4219407/?from=readlist",
+        "https://www.bilibili.com/read/cv4231803/?from=readlist",
+        "https://www.bilibili.com/read/cv4251348/?from=readlist",
+        "https://www.bilibili.com/read/cv4257501/?from=readlist",
+        "https://www.bilibili.com/read/cv4264039/?from=readlist",
+        "https://www.bilibili.com/read/cv4271433/?from=readlist",
+        "https://www.bilibili.com/read/cv4289891/?from=readlist",
+        "https://www.bilibili.com/read/cv4301507/?from=readlist",
+        "https://www.bilibili.com/read/cv4313038/?from=readlist",
+        "https://www.bilibili.com/read/cv4324839/?from=readlist",
+        "https://www.bilibili.com/read/cv4343226/?from=readlist",
+        "https://www.bilibili.com/read/cv4394381/?from=readlist",
+        "https://www.bilibili.com/read/cv4416243/?from=readlist",
+        "https://www.bilibili.com/read/cv4439594",
+        "https://www.bilibili.com/read/cv4490639",
+        "https://www.bilibili.com/read/cv4542948",
+        "https://www.bilibili.com/read/cv4584652",
+        "https://www.bilibili.com/read/cv4628401",
+        "https://www.bilibili.com/read/cv4661349",
+        "https://www.bilibili.com/read/cv4697941",
+        "https://www.bilibili.com/read/cv4732921",
+        "https://www.bilibili.com/read/cv4756071",
+        "https://www.bilibili.com/read/cv4778831",
+        "https://www.bilibili.com/read/cv4812086",
+        "https://www.bilibili.com/read/cv4907518",
+        "https://www.bilibili.com/read/cv4955654",
+        "https://www.bilibili.com/read/cv5015813",
+        "https://www.bilibili.com/read/cv5080292",
+        "https://www.bilibili.com/read/cv5139990",
+        "https://www.bilibili.com/read/cv5186249",
+        "https://www.bilibili.com/read/cv5253920",
+        "https://www.bilibili.com/read/cv5476383",
+        "https://www.bilibili.com/read/cv5538195",
+        "https://www.bilibili.com/read/cv5629893",
+        "https://www.bilibili.com/read/cv5721417",
+        "https://www.bilibili.com/read/cv5781888",
+        "https://www.bilibili.com/read/cv5853313",
+        "https://www.bilibili.com/read/cv5915445",
+        "https://www.bilibili.com/read/cv6021999",
+        "https://www.bilibili.com/read/cv6105165",
+        "https://www.bilibili.com/read/cv6152745",
+        "https://www.bilibili.com/read/cv6196453",
+        "https://www.bilibili.com/read/cv4470678/?from=readlist",
+        "https://www.bilibili.com/read/cv4500134/?from=readlist",
+        "https://www.bilibili.com/read/cv4562738/?from=readlist",
+        "https://www.bilibili.com/read/cv4594120/?from=readlist",
+        "https://www.bilibili.com/read/cv4650720/?from=readlist",
+        "https://www.bilibili.com/read/cv4720403/?from=readlist",
+        "https://www.bilibili.com/read/cv4744560/?from=readlist",
+        "https://www.bilibili.com/read/cv4767095/?from=readlist",
+        "https://www.bilibili.com/read/cv4800012/?from=readlist",
+        "https://www.bilibili.com/read/cv4851425/?from=readlist",
+        "https://www.bilibili.com/read/cv4940627",
+        "https://www.bilibili.com/read/cv5004023",
+        "https://www.bilibili.com/read/cv5051181",
+        "https://www.bilibili.com/read/cv5123107",
+        "https://www.bilibili.com/read/cv5163975",
+        "https://www.bilibili.com/read/cv5236587",
+        "https://www.bilibili.com/read/cv5335594",
+        "https://www.bilibili.com/read/cv5422275",
+        "https://www.bilibili.com/read/cv5505970",
+        "https://www.bilibili.com/read/cv5615961",
+        "https://www.bilibili.com/read/cv5692076",
+        "https://www.bilibili.com/read/cv5751307",
+        "https://www.bilibili.com/read/cv5806187",
+        "https://www.bilibili.com/read/cv5897827",
+        "https://www.bilibili.com/read/cv5962281",
+        "https://www.bilibili.com/read/cv6049604",
+        "https://www.bilibili.com/read/cv6139803",
+        "https://www.bilibili.com/read/cv6182183",
+        "https://www.bilibili.com/read/cv4790174/?from=readlist",
+        "https://www.bilibili.com/read/cv4827975/?from=readlist",
+        "https://www.bilibili.com/read/cv4926325/?from=readlist",
+        "https://www.bilibili.com/read/cv4971293",
+        "https://www.bilibili.com/read/cv5037521",
+        "https://www.bilibili.com/read/cv5112247",
+        "https://www.bilibili.com/read/cv5155432",
+        "https://www.bilibili.com/read/cv5220874",
+        "https://www.bilibili.com/read/cv5269375",
+        "https://www.bilibili.com/read/cv5366685",
+        "https://www.bilibili.com/read/cv5491409",
+        "https://www.bilibili.com/read/cv5601296",
+        "https://www.bilibili.com/read/cv5675278",
+        "https://www.bilibili.com/read/cv5737151",
+        "https://www.bilibili.com/read/cv5868795",
+        "https://www.bilibili.com/read/cv5929668",
+        "https://www.bilibili.com/read/cv6036882",
+        "https://www.bilibili.com/read/cv6128262",
+        "https://www.bilibili.com/read/cv6174517",
+        "https://www.bilibili.com/read/cv4478476",
+        "https://www.bilibili.com/read/cv4510618",
+        "https://www.bilibili.com/read/cv4519840",
+        "https://www.bilibili.com/read/cv4571644",
+        "https://www.bilibili.com/read/cv4673538",
+        "https://www.bilibili.com/read/cv4692930",
+        "https://www.bilibili.com/read/cv4715865",
+        "https://www.bilibili.com/read/cv4726102",
+        "https://www.bilibili.com/read/cv4737133",
+        "https://www.bilibili.com/read/cv4749360",
+        "https://www.bilibili.com/read/cv4762690",
+        "https://www.bilibili.com/read/cv4826452/?from=readlist",
+        "https://www.bilibili.com/read/cv4906513/?from=readlist",
+        "https://www.bilibili.com/read/cv4971733",
+        "https://www.bilibili.com/read/cv5047408",
+        "https://www.bilibili.com/read/cv5122858",
+        "https://www.bilibili.com/read/cv5253930",
+        "https://www.bilibili.com/read/cv5304546",
+        "https://www.bilibili.com/read/cv5343108",
+        "https://www.bilibili.com/read/cv5361442",
+        "https://www.bilibili.com/read/cv5497956",
+        "https://www.bilibili.com/read/cv5525957",
+        "https://www.bilibili.com/read/cv5562856",
+        "https://www.bilibili.com/read/cv5576856",
+        "https://www.bilibili.com/read/cv5610382",
+        "https://www.bilibili.com/read/cv5642804",
+        "https://www.bilibili.com/read/cv5669525",
+        "https://www.bilibili.com/read/cv5686104",
+        "https://www.bilibili.com/read/cv5698755",
+        "https://www.bilibili.com/read/cv5713458",
+        "https://www.bilibili.com/read/cv5741796",
+        "https://www.bilibili.com/read/cv5832258",
+        "https://www.bilibili.com/read/cv5845332",
+        "https://www.bilibili.com/read/cv5892115",
+        "https://www.bilibili.com/read/cv5907861",
+        "https://www.bilibili.com/read/cv6000403",
+        "https://www.bilibili.com/read/cv6014317",
+        "https://www.bilibili.com/read/cv6022324",
+        "https://www.bilibili.com/read/cv6058089",
+        "https://www.bilibili.com/read/cv6084549",
+        "https://www.bilibili.com/read/cv6110560",
+        "https://www.bilibili.com/read/cv6122972",
+        "https://www.bilibili.com/read/cv6163122"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    "https://www.bilibili.com/read/cv14794306": {
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "opusId": "614430445052371117",
+      "title": "B站2022年1月新番海外版权信息汇总",
+      "seasons": [
+        {
+          "id": 40667,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40714,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40662,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40668,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40673,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40672,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40694,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40710,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40676,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40669,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40679,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40659,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40661,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 39041,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40715,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40665,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40664,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40712,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40705,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40719,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40718,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40713,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40670,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40717,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40751,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 39013,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40688,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40666,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40663,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40671,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        }
+      ],
+      "videos": [],
+      "media": [],
+      "cards": [],
+      "legacyVideos": [],
+      "relatedArticles": [
+        "//www.bilibili.com/read/cv13619922/"
+      ],
+      "checkedAt": "2026-10-19"
+    }
+  },
+  "seasons": [
+    {
+      "id": 45838,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45838"
+    },
+    {
+      "id": 162127,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss162127"
+    },
+    {
+      "id": 37762,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss37762"
+    },
+    {
+      "id": 24567,
+      "title": "后街女孩",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 5558,
+      "title": "动画锻炼！XX 同一屋檐下",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 25717,
+      "title": "我喜欢的是小说里的你",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 26298,
+      "title": "笨拙之极的上野",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 1356,
+      "title": "萌单",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 1097,
+      "title": "空罐少女",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 2029,
+      "title": "最终兵器彼女",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 1146,
+      "title": "青之花",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 5125,
+      "title": "温暖的印记",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 47098,
+      "title": "异修罗",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 842,
+      "title": "笨蛋，测验，召唤兽",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 3486,
+      "title": "笨蛋，测验，召唤兽 OVA",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 843,
+      "title": "笨蛋，测验，召唤兽2",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 23869,
+      "title": "踏切时间",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 2238,
+      "title": "麻辣教师GTO",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 142945,
+      "title": "超辉夜姬！",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "id": 43060,
+      "title": "鏈鋸人（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 44816,
+      "title": "鏈鋸人 粵配版（僅限港澳地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43175,
+      "title": "我想成為影之強者！（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43177,
+      "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43281,
+      "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43061,
+      "title": "秋葉原冥途戰爭（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43174,
+      "title": "戀愛FLOPS（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43103,
+      "title": "轉生就是劍（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43171,
+      "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43176,
+      "title": "不道德公會（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43267,
+      "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43278,
+      "title": "後宮之烏",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43772,
+      "title": "總之就是很可愛～制服～（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43170,
+      "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43104,
+      "title": "我家師傅沒有尾巴（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43184,
+      "title": "四人各有小秘密（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 43064,
+      "title": "她來自煩星（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 44952,
+      "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 44862,
+      "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431"
+    },
+    {
+      "id": 40667,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40714,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40662,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40668,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40673,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40672,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40694,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40710,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40676,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40669,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40679,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40659,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40661,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 39041,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40715,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40665,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40664,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40712,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40705,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40719,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40718,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40713,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40670,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40717,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40751,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 39013,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40688,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40666,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40663,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40671,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 5531,
+      "title": "ALL OUT!!（僅限台湾地區）",
+      "mediaId": 4313102,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5551,
+      "title": "吹響！上低音號 第二季（僅限台灣地區）",
+      "mediaId": 5551,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5775,
+      "title": "政宗君的复仇（僅限港澳台地區）",
+      "mediaId": 28221373,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5782,
+      "title": "幼女戰記（僅限港澳台地區）",
+      "mediaId": 28221622,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5930,
+      "title": "吹響！上低音號 ​~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
+      "mediaId": 5930,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23860,
+      "title": "奴隸區 The Animation（僅限港澳台地區）",
+      "mediaId": 78592,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23868,
+      "title": "蒼天之拳 REGENESIS（僅限港澳台地區）",
+      "mediaId": 78772,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25848,
+      "title": "蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
+      "mediaId": 140972,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28136,
+      "title": "魔法少女☆伊莉雅（僅限港澳台地區）",
+      "mediaId": 28221610,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28137,
+      "title": "为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
+      "mediaId": 28221611,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28737,
+      "title": "排球少年！！第二季（僅限港澳台地區）",
+      "mediaId": 28223025,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33862,
+      "title": "魔物娘的醫生（僅限港澳台地區）",
+      "mediaId": 28229295,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33998,
+      "title": "迷糊餐廳（僅限港澳台地區）",
+      "mediaId": 28229437,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37758,
+      "title": "大人的防具店 第二季（僅限港澳台地區）",
+      "mediaId": 28233437,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37765,
+      "title": "Praeter之傷（僅限港澳台地區）",
+      "mediaId": 28233444,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37780,
+      "title": "SK8 the Infinity（僅限港澳台地區）",
+      "mediaId": 28233459,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37783,
+      "title": "怪物事變（僅限港澳台地區）",
+      "mediaId": 28233462,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37806,
+      "title": "天地創造設計部（僅限港澳台地區）",
+      "mediaId": 28233485,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37810,
+      "title": "轉生成蜘蛛又怎樣！（僅限港澳台地區）",
+      "mediaId": 28233489,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38091,
+      "title": "織田肉桂信長（僅限港澳台地區）",
+      "mediaId": 28233772,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38092,
+      "title": "22/7（僅限港澳台地區）",
+      "mediaId": 28233773,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38392,
+      "title": "憂國的莫里亞蒂 (下半)（僅限港澳台地區）",
+      "mediaId": 28234076,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38394,
+      "title": "持續狩獵史萊姆三百年， 不知不覺就練到LV MAX（僅限港澳台地區）",
+      "mediaId": 28234078,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38396,
+      "title": "青梅竹馬絕對不會輸的戀愛喜劇（僅限港澳台地區）",
+      "mediaId": 28234080,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38432,
+      "title": "佐賀偶像是傳奇 捲土重來（僅限港澳台地區）",
+      "mediaId": 28234116,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38440,
+      "title": "再見了，我的克拉默（僅限港澳台地區）",
+      "mediaId": 28234124,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38443,
+      "title": "SHADOWS HOUSE-影宅-（僅限港澳台地區）",
+      "mediaId": 28234127,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38444,
+      "title": "義呆利 World ☆ Stars（僅限港澳台地區）",
+      "mediaId": 28234128,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38445,
+      "title": "給不滅的你（僅限港澳台地區）",
+      "mediaId": 28234129,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39027,
+      "title": "月光下的異世界之旅（僅限港澳台地區）",
+      "mediaId": 28234719,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39030,
+      "title": "桃子男孩渡海而來（僅限港澳台地區）",
+      "mediaId": 28234722,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39086,
+      "title": "隱瞞之事 劇場版（僅限港澳台地區）",
+      "mediaId": 28234778,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39093,
+      "title": "戰翼的希格德莉法（僅限港澳台地區）",
+      "mediaId": 28234785,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39140,
+      "title": "咒術迴戰（僅限港澳台地區）",
+      "mediaId": 28234832,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39170,
+      "title": "TSUKIPRO 2（月野藝能事務所第二季）（僅限港澳台）",
+      "mediaId": 28234862,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39187,
+      "title": "魔法紀錄 魔法少女小圓外傳 第二季 -覺醒前夜-（僅限港澳台地區）",
+      "mediaId": 28234879,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39224,
+      "title": "憂國的莫里亞蒂（僅限港澳台地區）",
+      "mediaId": 28234916,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39419,
+      "title": "平家物語（僅限港澳台地區）",
+      "mediaId": 28235111,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39474,
+      "title": "加油吧同期醬（僅限港澳台地區）",
+      "mediaId": 28235166,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39476,
+      "title": "星期一的豐滿S2（僅限港澳台地區）",
+      "mediaId": 28235168,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39493,
+      "title": "星期一的豐滿（僅限港澳台地區）",
+      "mediaId": 28235185,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39523,
+      "title": "前輩有夠煩（僅限港澳台地區）",
+      "mediaId": 28235216,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39525,
+      "title": "吸血鬼馬上死（僅限港澳台地區）",
+      "mediaId": 28235218,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39526,
+      "title": "月與萊卡與吸血公主（僅限港澳台地區）",
+      "mediaId": 28235219,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39528,
+      "title": "世界頂尖的暗殺者轉生為異世界貴族（僅限港澳台地區）",
+      "mediaId": 28235221,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39538,
+      "title": "三角窗外是黑夜（僅限港澳台地區）",
+      "mediaId": 28235231,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39539,
+      "title": "宿命迴響：命運節拍（僅限港澳台地區）",
+      "mediaId": 28235232,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39540,
+      "title": "SAKUGAN（僅限港澳台地區）",
+      "mediaId": 28235233,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39541,
+      "title": "世界盡頭的聖騎士（僅限港澳台地區）",
+      "mediaId": 28235234,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39542,
+      "title": "女孩遇見男孩（僅限港澳台地區）",
+      "mediaId": 28235235,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39544,
+      "title": "半妖的夜叉姬 第二季（僅限港澳台地區）",
+      "mediaId": 28235237,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39545,
+      "title": "大正處女御伽話（僅限港澳台地區）",
+      "mediaId": 28235238,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39546,
+      "title": "結城友奈是勇者 大滿開之章（僅限港澳台地區）",
+      "mediaId": 28235239,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39547,
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK（僅限港澳台地區）",
+      "mediaId": 28235240,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39549,
+      "title": "逆轉世界的電池少女（僅限港澳台地區）",
+      "mediaId": 28235242,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39550,
+      "title": "進化果實～不知不覺踏上勝利的人生～（僅限港澳台地區）",
+      "mediaId": 28235243,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39551,
+      "title": "陰陽眼見子（僅限港澳台地區）",
+      "mediaId": 28235244,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39553,
+      "title": "VISUAL PRISON 視覺監獄（僅限港澳台地區）",
+      "mediaId": 28235246,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39554,
+      "title": "四季櫻（僅限港澳台地區）",
+      "mediaId": 28235247,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39568,
+      "title": "狂熱深淵-迷失的孩子（僅限港澳台地區）",
+      "mediaId": 28235261,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39569,
+      "title": "橘色榮耀！～PRIDE OF ORANGE～（僅限港澳台地區）",
+      "mediaId": 28235262,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39578,
+      "title": "鲁邦三世 part6（僅限港澳台地區）",
+      "mediaId": 28235272,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39605,
+      "title": "BanG Dream！少女樂團派對 小劇場狂歡！（僅限港澳台地區）",
+      "mediaId": 28235299,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39606,
+      "title": "鍵等（僅限港澳台地區）",
+      "mediaId": 28235300,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40329,
+      "title": "BanG Dream! Episode of Roselia Ⅰ：約定（僅限港澳台地區）",
+      "mediaId": 28236033,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40331,
+      "title": "BanG Dream! Episode of Roselia Ⅱ：Song I am.（僅限港澳台地區）",
+      "mediaId": 28236035,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40724,
+      "title": "魔法科高中的劣等生 追憶篇（僅限港澳台地區）",
+      "mediaId": 28236430,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41138,
+      "title": "銀魂 THE FINAL（僅限台灣地區）",
+      "mediaId": 28236844,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41152,
+      "title": "銀魂 THE FINAL（僅限港澳地區）",
+      "mediaId": 28236858,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41502,
+      "title": "鍵等 第二季（僅限港澳台地區）",
+      "mediaId": 28237211,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41503,
+      "title": "魔法紀錄 魔法少女小圓外傳 FINAL SEASON - 淺夢的黎明 -（僅限港澳台地區）",
+      "mediaId": 28237212,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41621,
+      "title": "Princess Principal 劇場版：皇冠密令 第一章（僅限港澳台地區）",
+      "mediaId": 28237330,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41999,
+      "title": "國王排名（僅限港澳台地區）",
+      "mediaId": 28338271,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    }
+  ],
+  "videos": [
+    {
+      "bvid": "BV1Jx411P7PM",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Lx411P7V1",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Hx411P7t3",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV16x411P7Jw",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1ex411P7zJ",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Dx411P7en",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1fx411P7Jc",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Rx411P7mX",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV13x411N7sN",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Kx411N7PE",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Gx411N7iR",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ux411w7gb",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1nx411P7oh",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV14x411P72H",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Wx411P7VH",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1rx411P7Tk",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1mx411P7u9",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1kx411P7ME",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Zx411P7Uu",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1ox411P7Ta",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1gx411N7UC",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV17x411N7e2",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Gx411N7TD",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV11s411Z7v4",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Us411Z7Hj",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1rs411Z7L8",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1rs411Z7kB",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV19s411Z7R5",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1os411Z7em",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ss411Z7zL",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Qs411Z7di",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ns411f7PQ",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ts411f7rg",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Fs411f7wK",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1ws411f75z",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1rs411Z7uZ",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1os411Z7Pm",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ss411Z7PH",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Qs411Z7Jd",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1us411f7Az",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Vs411D79y",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Hs411D7eb",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Es411D7fz",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1vs411D7FC",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Cs411D7Zv",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Qs411D7nS",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Us411D72R",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ls411U7xb",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ys411U7cW",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1ks411U7Fk",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ds411U7Bc",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    },
+    {
+      "bvid": "BV1Ss411U7Yz",
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+    }
+  ],
+  "media": [],
+  "cards": [
+    {
+      "id": 24567,
+      "title": "后街女孩",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/1a7403f11fc24c06ae8ed8323aecab8b8b26d2cd.png",
+      "indexShow": "限时免费 已完结, 全10话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 5558,
+      "title": "动画锻炼！XX 同一屋檐下",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/32b173fbb55ca90b39eb68d94492eed725d0c61e.jpg",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 25717,
+      "title": "我喜欢的是小说里的你",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/93800a3560fa26f3f63ea8ac0cd5c4bfa9e3d4ea.png",
+      "indexShow": "独家 已完结, 全10话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 26298,
+      "title": "笨拙之极的上野",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/406a17e27a7e8891196010e99400c85eb30626a9.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 1356,
+      "title": "萌单",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/4b12304c6d7f54c9fa339599f3bf195064c7bcef.jpg",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 1097,
+      "title": "空罐少女",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/e55b0044b3845cc476f36407636dd49edfb663cb.jpg",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 2029,
+      "title": "最终兵器彼女",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/2b56a8046b92dd25026bf1409f016a14c1c253f5.jpg",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 1146,
+      "title": "青之花",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/003019494b5446ca930ebcac6a352966f3e6eca0.jpg",
+      "indexShow": "已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 5125,
+      "title": "温暖的印记",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/c8b031d45d8e7c0e41a409e5e6093823aaccd5c5.jpg",
+      "indexShow": "已完结, 全10话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 47098,
+      "title": "异修罗",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/39479ace4e34d59f049db757d1e48612113304be.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 842,
+      "title": "笨蛋，测验，召唤兽",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/2615ddc493f755acf9013c865863060957ffb08b.jpg",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 3486,
+      "title": "笨蛋，测验，召唤兽 OVA",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/2615ddc493f755acf9013c865863060957ffb08b.jpg",
+      "indexShow": "已完结, 全2话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 843,
+      "title": "笨蛋，测验，召唤兽2",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/29c14469bd368a4c01882b465f0a74cb6f6ae496.jpg",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 23869,
+      "title": "踏切时间",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/6bd6ce0df539056bc199fc2b551dc9f215aa2fa6.jpg",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 2238,
+      "title": "麻辣教师GTO",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/1c2df84ec85e2dcd94e1decebd077c0600565178.jpg",
+      "indexShow": "已完结, 全43话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 142945,
+      "title": "超辉夜姬！",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e840f9073cae566f7bdc48bb41eca418617c93af.png",
+      "indexShow": "独家 已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43060,
+      "title": "鏈鋸人（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/300e6d42bbfa633f45d69bca6240f014c0d9de5b.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 44816,
+      "title": "鏈鋸人 粵配版（僅限港澳地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/01cebc96aae42b161086d38e0c1822f939827c2d.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43175,
+      "title": "我想成為影之強者！（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/f51209a66f693cd4964cf91a50d11924172e6121.png",
+      "indexShow": "已完结, 全20话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43177,
+      "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/4d5d9052290f78eac9e1e02507be5ee34608d797.png",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43281,
+      "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/ccacbb3392c5aee06768d38104794fab56e87ccd.png",
+      "indexShow": "大会员 已完结, 全52话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43061,
+      "title": "秋葉原冥途戰爭（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/e2f4aca725e4f90ab4f16a7c772e46cc9aff1f9b.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43174,
+      "title": "戀愛FLOPS（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b19fc8df9ea1df922bf1e0ed327425d6a9af3f9d.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43103,
+      "title": "轉生就是劍（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/500462758e6a1d6279e3f828d0729dd00c8517d2.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43171,
+      "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/2dd252cb48b59a4a8ce6ac606c78dd0a97ba758b.png",
+      "indexShow": "独家 已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43176,
+      "title": "不道德公會（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/df358e300a91d1aac7fea6f56d15cdef2ed99b6b.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43267,
+      "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/eddab327275e162d624da3fdd55ce4bcef6aef05.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43278,
+      "title": "後宮之烏",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/16e1a353eaa6a0af34860808b6be538e8cb35a06.png",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43772,
+      "title": "總之就是很可愛～制服～（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e62d2071d3c4436f3dfac397ffe0123b3904ca07.png",
+      "indexShow": "独家 已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43170,
+      "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/2d8f428cc21644363bbf1d62304588bf231dd05b.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43104,
+      "title": "我家師傅沒有尾巴（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/4a7072d0f4f6acb207f5b65a2f02b34cbd6eb452.png",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43184,
+      "title": "四人各有小秘密（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b04d43c6d5f985d64201541833d1d4ae8edbaf92.png",
+      "indexShow": "独家 已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 43064,
+      "title": "她來自煩星（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/4469f3f598d86ca20f454beb5a9c54fc1623ea8a.png",
+      "indexShow": "已完结, 全46话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 44952,
+      "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/2a9a51fc8ca1c57a9526f4008c408e5c56083d12.png",
+      "indexShow": "大会员 已完结, 全4话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    },
+    {
+      "id": 44862,
+      "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7be89bb6697261792a109028f2b13789c19d4b5a.png",
+      "indexShow": "大会员 已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "verification": "official-ogv-card"
+    }
+  ],
+  "legacyVideos": [
+    {
+      "aid": 862151601,
+      "expectedTitle": "1.不相信人类的冒险者们好像要去拯救世界（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 777359094,
+      "expectedTitle": "2.转生公主与天才千金的魔法革命（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 777362101,
+      "expectedTitle": "3.文豪野犬 第四季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 904666322,
+      "expectedTitle": "4.冰属性男子和酷酷女同事",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 222140153,
+      "expectedTitle": "5.弦音 -连结的一射-（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 522323654,
+      "expectedTitle": "6.阿鲁斯的巨兽",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 564782991,
+      "expectedTitle": "7.为了养老金去异世界存八万金（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 349762867,
+      "expectedTitle": "8.TRIGUN STAMPEDE（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 819820748,
+      "expectedTitle": "9.关于我在无意间被隔壁的天使变成废柴这件事（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 522368979,
+      "expectedTitle": "10.不当哥哥了（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 264810380,
+      "expectedTitle": "11.尼尔：自动人形 Ver1.1a（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 349836558,
+      "expectedTitle": "12.无意间变成狗，被喜欢的女生捡回家。（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 989869942,
+      "expectedTitle": "13.冰剑的魔术师将要统一世界（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 649887669,
+      "expectedTitle": "14.英雄传说：闪之轨迹",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 522578892,
+      "expectedTitle": "15.久保同学不放过我",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 435141414,
+      "expectedTitle": "16.真・进化之实 踏上胜利的人生",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 989813479,
+      "expectedTitle": "17.最强阴阳师的异世界转生记（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 265076499,
+      "expectedTitle": "18.拥有超常技能的异世界流浪美食家（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 392669169,
+      "expectedTitle": "19.因为太怕痛就全点防御力了 第二季",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 735102878,
+      "expectedTitle": "20.物之古物奇谭",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 649846705,
+      "expectedTitle": "21.魔王学院的不适合者 第二季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 519802803,
+      "expectedTitle": "22.虚构推理 第二季",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 862257590,
+      "expectedTitle": "23.傲娇反派千金莉洁洛特与实况主远藤同学及解说员小林同学（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 565000087,
+      "expectedTitle": "24.英雄王，为了穷尽武道而转生～然后，成为世界最强的见习骑士♀～（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 905079653,
+      "expectedTitle": "25.妖幻三重奏（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 777355938,
+      "expectedTitle": "26.间谍教室（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 777297114,
+      "expectedTitle": "27.被神捡到的男人 第二季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 264831286,
+      "expectedTitle": "28.不要欺负我，长瀞同学 2nd Attack（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 477310521,
+      "expectedTitle": "29.被解雇的暗黑士兵慢生活的第二人生",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 824473027,
+      "expectedTitle": "1.在异世界获得获得超强能力的我，在现实世界照样无敌（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 654493232,
+      "expectedTitle": "2.无神世界的神明活动（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 867086687,
+      "expectedTitle": "3.魔法使的新娘 第2季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 611902186,
+      "expectedTitle": "4.石纪元（第三季）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 439644678,
+      "expectedTitle": "5.物理魔法使-马修-",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 484675661,
+      "expectedTitle": "6.总之就是非常可爱 第二季",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 269536926,
+      "expectedTitle": "7.第二次被异世界召唤（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 312324574,
+      "expectedTitle": "8.鬼灭之刃 刀匠村篇",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 530423566,
+      "expectedTitle": "1.其实，我乃最强？（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 870525684,
+      "expectedTitle": "2.咒术回战 第二季",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 955635143,
+      "expectedTitle": "3.主宰七魔剑",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 230670933,
+      "expectedTitle": "4.死神少爷与黑女仆 第二季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 658173441,
+      "expectedTitle": "5.英雄教室（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 658350841,
+      "expectedTitle": "6.勇者赫鲁库",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 449139421,
+      "expectedTitle": "1.捡走被人悔婚的千金，教会她坏坏的幸福生活（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 959221355,
+      "expectedTitle": "2.想要成为影之实力者！第二季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 448941878,
+      "expectedTitle": "3.因想当冒险者而前往大都市的女儿已经升到了S级（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 364275474,
+      "expectedTitle": "4.盾之勇者成名录 第三季（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 704224789,
+      "expectedTitle": "5.世界尽头的圣骑士 第二季 铁锈之山的君王（独播）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "aid": 60437826,
+      "expectedTitle": "2013-01-02\t前進吧！登山少女（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 28136,
+      "expectedTitle": "2013-07-12\t魔法少女☆伊莉雅（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57103800,
+      "expectedTitle": "2013-10-08\t東京暗鴉（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 11745532,
+      "expectedTitle": "2014-01-15\t魔劍姬！通（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 625669555,
+      "expectedTitle": "2014-04-05 地球隊長（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15277592,
+      "expectedTitle": "2014-04-09\t風雲維新大將軍（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 11501084,
+      "expectedTitle": "2014-04-09\t棺姬嘉依卡（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 62462810,
+      "expectedTitle": "2014-04-10\t乒乓（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 9485931,
+      "expectedTitle": "2014-04-11\t約會大作戰 第二季 （僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 9743342,
+      "expectedTitle": "2014-04-12\t目隱都市的演繹者（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 59914973,
+      "expectedTitle": "2014-07-06\t月刊少女野崎君（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 40160148,
+      "expectedTitle": "2014-07-09\tLOVE STAGE!!（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 60455837,
+      "expectedTitle": "2014-07-09\t前進吧！登山少女  第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 40179906,
+      "expectedTitle": "2014-07-11\t東京ESP （僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58297697,
+      "expectedTitle": "2014-08-23\t頭文字D Legend1 -覺醒-（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 11668811,
+      "expectedTitle": "2014-10-08\t棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 795707356,
+      "expectedTitle": "2014-10-09 白箱（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 36382505,
+      "expectedTitle": "2015-04-05\tSHOW BY ROCK!! （僅限台湾地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 2524522,
+      "expectedTitle": "2015-07-04\t沒有黃段子的無聊世界（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 60467057,
+      "expectedTitle": "2015-07-07\tOVERLORD（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 2571373,
+      "expectedTitle": "2015-07-09\t純情羅曼史 第3季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 28737,
+      "expectedTitle": "2015-10-03\t排球少年！！第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 11288700,
+      "expectedTitle": "2015-10-09\t新妹魔王的契約者  BURST（僅限港澳台）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 68974429,
+      "expectedTitle": "2016-01-07\tActive Raid -機動強襲室第八課-（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 35891970,
+      "expectedTitle": "2016-01-08\t昭和元祿落語心中（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 55787308,
+      "expectedTitle": "2016-01-08\t告訴我！辣妹子醬（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 62540402,
+      "expectedTitle": "2016-03-31\tJOJO的奇妙冒險 不滅鉆石（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 55793302,
+      "expectedTitle": "2016-04-09\t田中君總是如此慵懶（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 8590289,
+      "expectedTitle": "2016-04-23\t吹響！上低音號 ~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57087699,
+      "expectedTitle": "2016-04-23\t遊戲王：次元的黑暗面（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 36322697,
+      "expectedTitle": "2016-07-01\t剑风传奇 新作（僅限台湾地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 5359849,
+      "expectedTitle": "2016-07-03\tB-PROJECT（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 5189980,
+      "expectedTitle": "2016-07-03\t不愉快的怪物庵（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 5251672,
+      "expectedTitle": "2016-07-08\t藍海少女（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70755192,
+      "expectedTitle": "2016-07-08\t91Days（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69126477,
+      "expectedTitle": "2016-07-10\tActive Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 5461943,
+      "expectedTitle": "2016-07-10\t心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 18373104,
+      "expectedTitle": "2016-09-10\t魔法使的新娘 等待繁星之人（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 6556317,
+      "expectedTitle": "2016-10-06\t吹響！上低音號 第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 36383482,
+      "expectedTitle": "2016-10-06\tALL OUT!!（僅限台湾地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 55798651,
+      "expectedTitle": "2016-10-06\tFLIP FLAPPERS（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57091324,
+      "expectedTitle": "2016-10-06\t竞女（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 35892366,
+      "expectedTitle": "2016-10-07\t漂流武士 （僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58563223,
+      "expectedTitle": "2016-10-07\t排球少年 烏野高校 VS 白鳥澤學園高校（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 36382931,
+      "expectedTitle": "2017-01-01\t碧藍幻想（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 5775,
+      "expectedTitle": "2017-01-05\t政宗君的复仇（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58297092,
+      "expectedTitle": "2017-01-06\t幼.女戰記（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 36383908,
+      "expectedTitle": "2017-01-06\t昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 40225226,
+      "expectedTitle": "2017-01-07\t亚人酱有话要说 （僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58299137,
+      "expectedTitle": "2017-01-08\t情熱傳說 the X 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 28137,
+      "expectedTitle": "2017-01-12\t为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 9540857,
+      "expectedTitle": "2017-04-02\t進擊的巨人 第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 11798212,
+      "expectedTitle": "2017-07-02\t活撃/刀剣乱舞（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15039192,
+      "expectedTitle": "2017-10-04\t品酒要在成為夫妻之後（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15044642,
+      "expectedTitle": "2017-10-04\tInfini-T Force（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15115443,
+      "expectedTitle": "2017-10-06\t國王遊戲 The Animation（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15146703,
+      "expectedTitle": "2017-10-07\tDies irae 神怒之日（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15180435,
+      "expectedTitle": "2017-10-08\t魔法使的新娘（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 15435842,
+      "expectedTitle": "2017-10-09\t干物妹!小埋R / 我家有個魚乾妹R（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 18044828,
+      "expectedTitle": "2018-01-07\tSlow Start（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 18102361,
+      "expectedTitle": "2018-01-07\t百變小櫻Clear咭（僅限港澳地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 18078599,
+      "expectedTitle": "2018-01-08\t續 刀劍亂舞 -花丸-（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 18281381,
+      "expectedTitle": "2018-01-14\tDARLING in the FRANXX（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21564143,
+      "expectedTitle": "2018-04-03\t蒼天之拳 REGENESIS（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21598677,
+      "expectedTitle": "2018-04-03\t銀河英雄傳說：全新命題 邂逅（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21598899,
+      "expectedTitle": "2018-04-03\tTokyo Guru: re (Part 1)（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21757061,
+      "expectedTitle": "2018-04-07\t失憶融合WIXOSS（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21951218,
+      "expectedTitle": "2018-04-07\t藍海少女～advance～（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 21829806,
+      "expectedTitle": "2018-04-08\t甜心戰士 Universe（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 23860,
+      "expectedTitle": "2018-04-13\t奴隸區 The Animation（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 26079528,
+      "expectedTitle": "2018-07-03\t千槍士（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 62380477,
+      "expectedTitle": "2018-07-05\t春原莊的管理員小姐（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 51073204,
+      "expectedTitle": "2018-07-08\t百鍊霸王與聖約女武神（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 26559937,
+      "expectedTitle": "2018-07-11\tAngolmois 元寇合戰記（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48095657,
+      "expectedTitle": "2018-07-13\t少女☆歌劇 Revue Starlight（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 33616321,
+      "expectedTitle": "2018-07-14\t搖曳莊的幽奈小姐（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 27501468,
+      "expectedTitle": "2018-07-23\t進擊的巨人 第三季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 32777654,
+      "expectedTitle": "2018-09-30\tDouble Decker! 道格&amp;基里爾（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 32848792,
+      "expectedTitle": "2018-10-02\t蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 33021084,
+      "expectedTitle": "2018-10-04\t天空與海洋之間（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 33128601,
+      "expectedTitle": "2018-10-05\t佐賀偶像是傳奇（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 33488613,
+      "expectedTitle": "2018-10-09\tTokyo Guru: re (Part 2)（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 34937632,
+      "expectedTitle": "2018-10-10\t產子救世錄（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 33579648,
+      "expectedTitle": "2018-10-11\t只要別西卜大小姐喜歡就好（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 51728459,
+      "expectedTitle": "2019-04-02\tYU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48377996,
+      "expectedTitle": "2019-04-06\t生肖奇缘 (2019)（僅限港澳地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48379841,
+      "expectedTitle": "2019-04-06\t滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48392619,
+      "expectedTitle": "2019-04-06\tMIX（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48354608,
+      "expectedTitle": "2019-04-07\t鬼滅之刃（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48391846,
+      "expectedTitle": "2019-04-07\t我們真的學不來！（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48531982,
+      "expectedTitle": "2019-04-07\t一弦定音！（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48628402,
+      "expectedTitle": "2019-04-08\t八月的棒球甜心（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 48806345,
+      "expectedTitle": "2019-04-10\t強襲魔女 501部隊出動!（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 50762638,
+      "expectedTitle": "2019-04-29\t進擊的巨人 第三季 Part.2（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57611295,
+      "expectedTitle": "2019-07-02\t你遭難了嗎？（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57616311,
+      "expectedTitle": "2019-07-02\t魔術學姐（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57730197,
+      "expectedTitle": "2019-07-03\t彼方的阿斯特拉（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57723995,
+      "expectedTitle": "2019-07-03\t流汗吧！健身少女（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57726890,
+      "expectedTitle": "2019-07-04\t魔王大人、RETRY！（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 668096206,
+      "expectedTitle": "2019-07-05 Free!-Road to the World-夢（僅限港澳及其他地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57990872,
+      "expectedTitle": "2019-07-05\t女高中生的虛度日常（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57984337,
+      "expectedTitle": "2019-07-05\tＤｒ．ＳＴＯＮＥ（新石紀）（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57990385,
+      "expectedTitle": "2019-07-06\t炎炎消防隊（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 57998601,
+      "expectedTitle": "2019-07-06\t騷亂時節的少女們。（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58092058,
+      "expectedTitle": "2019-07-07\t艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58209576,
+      "expectedTitle": "2019-07-07\t實況主的逃脫遊戲【直播中】（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58212949,
+      "expectedTitle": "2019-07-07\t偶像夢幻祭（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58365104,
+      "expectedTitle": "2019-07-08\t只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58356305,
+      "expectedTitle": "2019-07-08\t平凡職業造就世界最強（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58367425,
+      "expectedTitle": "2019-07-09\tCOP CRAFT（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58742142,
+      "expectedTitle": "2019-07-12\tGIVEN 被贈與的未來（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58910515,
+      "expectedTitle": "2019-07-13\t普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 58874800,
+      "expectedTitle": "2019-07-13\t科學一方通行（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 61430254,
+      "expectedTitle": "2019-07-31\tTRY KNIGHTS（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69171890,
+      "expectedTitle": "2019-09-27\t銀河英雄傳說：全新命題  星亂（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69497122,
+      "expectedTitle": "2019-10-01\t香蕉喵 不可思議的夥伴們（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69788434,
+      "expectedTitle": "2019-10-02\t浦島坂田船的日常（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69799007,
+      "expectedTitle": "2019-10-02\t這個勇者明明超TUEEE卻過度謹慎！（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69793261,
+      "expectedTitle": "2019-10-03\t小書痴的下剋上:為了成為圖書管理員不擇手段!（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69799741,
+      "expectedTitle": "2019-10-03\t喜歡本大爺的竟然就妳一個？（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69800677,
+      "expectedTitle": "2019-10-03\t放學後桌遊俱樂部（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 69914830,
+      "expectedTitle": "2019-10-03\t碧藍航線（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70073822,
+      "expectedTitle": "2019-10-04\t厨病激发BOY（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70075300,
+      "expectedTitle": "2019-10-05\t碧藍幻想 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70186897,
+      "expectedTitle": "2019-10-05\t入間同學入魔了（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70183619,
+      "expectedTitle": "2019-10-05\t戰×戀（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70231748,
+      "expectedTitle": "2019-10-06\tFate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70236283,
+      "expectedTitle": "2019-10-06\t刀劍神域 Alicization War of Underworld（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70173767,
+      "expectedTitle": "2019-10-06\t我們真的學不來！第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70233455,
+      "expectedTitle": "2019-10-06\t一弦定音！第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70455095,
+      "expectedTitle": "2019-10-07\t夢幻之星2 EPISODE ORACLE（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70459930,
+      "expectedTitle": "2019-10-07\t募戀英雄（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70474574,
+      "expectedTitle": "2019-10-07\t我不是說了能力要平均值嗎？（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70571226,
+      "expectedTitle": "2019-10-08\tZ/X Code reunion（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70583627,
+      "expectedTitle": "2019-10-09\t神田川JET GIRLS（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70776831,
+      "expectedTitle": "2019-10-10\t高達創戰潛行者 Re:RISE（僅限港澳地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70776781,
+      "expectedTitle": "2019-10-10\t鋼彈創鬥者潛網大戰 Re:RISE（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70795118,
+      "expectedTitle": "2019-10-10\t刺客守則（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70787829,
+      "expectedTitle": "2019-10-11\t非槍人生（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70857012,
+      "expectedTitle": "2019-10-11\t星合之空（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70867620,
+      "expectedTitle": "2019-10-12\t食戟之靈 神之皿（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70891395,
+      "expectedTitle": "2019-10-12\t歌舞伎町夏洛克（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 70872165,
+      "expectedTitle": "2019-10-12\t廚神小當家（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 71098083,
+      "expectedTitle": "2019-10-13\t美妙射擊部 / RIFLE IS BEAUTIFUL（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 73094209,
+      "expectedTitle": "2019-10-23\t花牌情緣 第三季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 73147884,
+      "expectedTitle": "2019-10-23\t眾神的逆鱗（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 82222439,
+      "expectedTitle": "2020-01-06\tID:INVADED（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 82559875,
+      "expectedTitle": "2020-01-09\t星掠者（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 82643678,
+      "expectedTitle": "2020-01-10\t理科生墜入情網，故嘗試證明。（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 82826601,
+      "expectedTitle": "2020-01-11\t科學超電磁砲T（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 370066080,
+      "expectedTitle": "2020.04\t昨日之歌（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 455078426,
+      "expectedTitle": "2020.04\t新櫻花大戰 the Animation（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 837637931,
+      "expectedTitle": "2020.04\t邪神與廚二病少女 第二季（僅限港澳台及其他地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 540074561,
+      "expectedTitle": "2020.04\t小書痴的下剋上:為了成為圖書管理員不擇手段! 第二部（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 925076431,
+      "expectedTitle": "2020.04\t聽我的電波吧（僅限港澳台及其他地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 752639653,
+      "expectedTitle": "2020.04\t生肖奇缘 第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 582573927,
+      "expectedTitle": "2020.04\t社長，戰鬥的時間到了！（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 582546669,
+      "expectedTitle": "2020.04\t球詠（僅限港澳台地区）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 667715682,
+      "expectedTitle": "2020.04\t噴嚏大魔王2020（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 710062138,
+      "expectedTitle": "2020.04\t辣妹與恐龍（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 540011313,
+      "expectedTitle": "2020.04\t繼怪怪守護神（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 497715774,
+      "expectedTitle": "2020.04\t輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 752589821,
+      "expectedTitle": "2020.04\t格萊普尼爾（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 667678569,
+      "expectedTitle": "2020.04\t高達創戰潛行者RE: RISE 2nd Season（僅限港澳地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 370204471,
+      "expectedTitle": "2020.04\t鋼彈創鬥者潛網大戰 Re:RISE 第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 840145520,
+      "expectedTitle": "2020.04\t放學後堤防日誌（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 837736319,
+      "expectedTitle": "2020.04\t超異域公主連結☆Re:Dive（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 882751136,
+      "expectedTitle": "2020.04\t別冊 奧林匹克之環（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 925173542,
+      "expectedTitle": "2020.04\t白貓 Project ZERO CHRONICLE（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 840117091,
+      "expectedTitle": "2020.04\t八男？別鬧了！（僅限港澳台及其他地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 667633346,
+      "expectedTitle": "2020.04\t闇影詩章（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 967558534,
+      "expectedTitle": "2020.04\t阿爾蒂（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 882544745,
+      "expectedTitle": "2020.04\tLISTENERS（僅限港澳台及其他地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 882578682,
+      "expectedTitle": "2020.04\tIDOLiSH7-偶像星願-Second Beat!（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 540154190,
+      "expectedTitle": "2020.04\tARGONAVIS from BanG Dream！（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 926359246,
+      "expectedTitle": "2020.07\t非槍人生 第二季 （僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 413682564,
+      "expectedTitle": "2020.07\t刀劍神域 Alicization War of Underworld 第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 752720959,
+      "expectedTitle": "2020.07\t富豪刑警 Balance:UNLIMITED（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 753775803,
+      "expectedTitle": "2020.07\t果然我的青春戀愛喜劇搞錯了。完（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 285139680,
+      "expectedTitle": "2020.07\t食戟之靈 豪之皿（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    }
+  ]
+}

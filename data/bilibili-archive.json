@@ -1,0 +1,3971 @@
+{
+  "meta": {
+    "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json",
+    "snapshotDate": "2025-01-03",
+    "scope": "仅为港澳台动画核查线索，不直接作为当前目录"
+  },
+  "items": [
+    {
+      "id": 189,
+      "mediaId": 10252,
+      "title": "風雲維新大將軍（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 197,
+      "mediaId": 197,
+      "title": "目隱都市的演繹者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 2586,
+      "mediaId": 2586,
+      "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 2628,
+      "mediaId": 2628,
+      "title": "純情羅曼史 第3季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 2701,
+      "mediaId": 4308942,
+      "title": "昭和元祿落語心中（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 3117,
+      "mediaId": 28221514,
+      "title": "告訴我！辣妹子醬（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 4187,
+      "mediaId": 4187,
+      "title": "約會大作戰 第二季 （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 4347,
+      "mediaId": 4347,
+      "title": "魔劍姬！通（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5014,
+      "mediaId": 5014,
+      "title": "不愉快的怪物庵（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5019,
+      "mediaId": 5019,
+      "title": "B-PROJECT（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5046,
+      "mediaId": 5046,
+      "title": "藍海少女（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5052,
+      "mediaId": 5052,
+      "title": "心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5531,
+      "mediaId": 4313102,
+      "title": "ALL OUT!!（僅限台湾地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5551,
+      "mediaId": 5551,
+      "title": "吹響！上低音號 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5771,
+      "mediaId": 4313002,
+      "title": "碧藍幻想（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5775,
+      "mediaId": 28221373,
+      "title": "政宗君的复仇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5782,
+      "mediaId": 28221622,
+      "title": "幼女戰記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5930,
+      "mediaId": 5930,
+      "title": "吹響！上低音號 ​~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 5970,
+      "mediaId": 5970,
+      "title": "進擊的巨人 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6286,
+      "mediaId": 6286,
+      "title": "新妹魔王的契約者（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6288,
+      "mediaId": 6288,
+      "title": "新妹魔王的契約者 BURST（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6302,
+      "mediaId": 6302,
+      "title": "活撃/刀剣乱舞（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6333,
+      "mediaId": 6333,
+      "title": "棺姬嘉依卡（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6361,
+      "mediaId": 6361,
+      "title": "棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6426,
+      "mediaId": 10592,
+      "title": "國王遊戲 The Animation（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6430,
+      "mediaId": 6430,
+      "title": "Dies irae 神怒之日（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6438,
+      "mediaId": 6438,
+      "title": "魔法使的新娘（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6494,
+      "mediaId": 10632,
+      "title": "品酒要在成為夫妻之後（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6496,
+      "mediaId": 10692,
+      "title": "Infini-T Force（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 6502,
+      "mediaId": 10772,
+      "title": "干物妹！小埋 R / 我家有個魚乾妹R（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 21680,
+      "mediaId": 9192,
+      "title": "DARLING in the FRANXX（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 21754,
+      "mediaId": 12572,
+      "title": "續 刀劍亂舞 -花丸-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 22843,
+      "mediaId": 41872,
+      "title": "百變小櫻Clear咭（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 22844,
+      "mediaId": 41912,
+      "title": "Slow Start（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23356,
+      "mediaId": 54992,
+      "title": "魔法使的新娘 等待繁星之人（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23819,
+      "mediaId": 77572,
+      "title": "甜心戰士 Universe（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23820,
+      "mediaId": 81512,
+      "title": "失憶融合WIXOSS（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23823,
+      "mediaId": 77652,
+      "title": "藍海少女～advance～（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23860,
+      "mediaId": 78592,
+      "title": "奴隸區 The Animation（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23863,
+      "mediaId": 78672,
+      "title": "Tokyo Guru: re (Part 1)（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23868,
+      "mediaId": 78772,
+      "title": "蒼天之拳 REGENESIS（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 23870,
+      "mediaId": 78812,
+      "title": "銀河英雄傳說：全新命題 邂逅（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 24593,
+      "mediaId": 141572,
+      "title": "搖曳莊的幽奈小姐（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 24595,
+      "mediaId": 102692,
+      "title": "Angolmois 元寇合戰記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 24629,
+      "mediaId": 117372,
+      "title": "進擊的巨人 第三季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 24960,
+      "mediaId": 113172,
+      "title": "千槍士（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25605,
+      "mediaId": 140652,
+      "title": "Double Decker! 道格&基里爾（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25687,
+      "mediaId": 140752,
+      "title": "天空與海洋之間（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25689,
+      "mediaId": 140772,
+      "title": "佐賀偶像是傳奇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25727,
+      "mediaId": 140692,
+      "title": "Tokyo Guru: re (Part 2)（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25836,
+      "mediaId": 140732,
+      "title": "只要別西卜大小姐喜歡就好（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25848,
+      "mediaId": 140972,
+      "title": "蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 25959,
+      "mediaId": 1363308,
+      "title": "產子救世錄（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26019,
+      "mediaId": 4308922,
+      "title": "漂流武士 （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26163,
+      "mediaId": 4312942,
+      "title": "剑风传奇 新作（僅限台湾地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26170,
+      "mediaId": 4313082,
+      "title": "昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26182,
+      "mediaId": 4313422,
+      "title": "SHOW BY ROCK!! （僅限台湾地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26468,
+      "mediaId": 11651971,
+      "title": "LOVE STAGE!!（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26473,
+      "mediaId": 11900440,
+      "title": "東京ESP （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26483,
+      "mediaId": 12169111,
+      "title": "亚人酱有话要说 （僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26841,
+      "mediaId": 23770586,
+      "title": "少女☆歌劇 Revue Starlight（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26941,
+      "mediaId": 25380076,
+      "title": "強襲魔女 501部隊出動!（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26953,
+      "mediaId": 25826974,
+      "title": "滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26954,
+      "mediaId": 25832466,
+      "title": "鬼滅之刃（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26957,
+      "mediaId": 26322046,
+      "title": "我們真的學不來！（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26958,
+      "mediaId": 26326796,
+      "title": "MIX（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26959,
+      "mediaId": 26334240,
+      "title": "一弦定音！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26960,
+      "mediaId": 26341584,
+      "title": "生肖奇缘 (2019)（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26962,
+      "mediaId": 26357482,
+      "title": "八月的棒球甜心（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 26963,
+      "mediaId": 26360655,
+      "title": "進擊的巨人 第三季 Part.2（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 27728,
+      "mediaId": 28220842,
+      "title": "YU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 27746,
+      "mediaId": 28220870,
+      "title": "百鍊霸王與聖約女武神（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28003,
+      "mediaId": 28221400,
+      "title": "普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28008,
+      "mediaId": 28221405,
+      "title": "GIVEN 被贈與的未來（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28012,
+      "mediaId": 28221411,
+      "title": "你遭難了嗎？（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28014,
+      "mediaId": 28221413,
+      "title": "TRY KNIGHTS（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28015,
+      "mediaId": 28221414,
+      "title": "只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28017,
+      "mediaId": 28221416,
+      "title": "彼方的阿斯特拉（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28019,
+      "mediaId": 28221418,
+      "title": "魔術學姐（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28022,
+      "mediaId": 28221421,
+      "title": "騷亂時節的少女們。（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28032,
+      "mediaId": 28221445,
+      "title": "田中君總是如此慵懶（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28033,
+      "mediaId": 28221446,
+      "title": "91Days（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28049,
+      "mediaId": 28221481,
+      "title": "平凡職業造就世界最強（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28050,
+      "mediaId": 28221482,
+      "title": "魔王大人、RETRY！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28055,
+      "mediaId": 28221492,
+      "title": "FLIP FLAPPERS（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28059,
+      "mediaId": 28221500,
+      "title": "炎炎消防隊（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28061,
+      "mediaId": 28221512,
+      "title": "竞女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28063,
+      "mediaId": 28221517,
+      "title": "流汗吧！健身少女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28065,
+      "mediaId": 28221521,
+      "title": "Ｄｒ．ＳＴＯＮＥ（新石紀）（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28066,
+      "mediaId": 28221522,
+      "title": "科學一方通行（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28067,
+      "mediaId": 28221523,
+      "title": "實況主的逃脫遊戲【直播中】（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28068,
+      "mediaId": 28221525,
+      "title": "女高中生的虛度日常（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28069,
+      "mediaId": 28221526,
+      "title": "COP CRAFT（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28071,
+      "mediaId": 28221531,
+      "title": "偶像夢幻祭（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28072,
+      "mediaId": 28221532,
+      "title": "艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28076,
+      "mediaId": 28221536,
+      "title": "東京暗鴉（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28077,
+      "mediaId": 28221539,
+      "title": "遊戲王：次元的黑暗面（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28115,
+      "mediaId": 28221589,
+      "title": "排球少年 烏野高校 VS 白鳥澤學園高校（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28136,
+      "mediaId": 28221610,
+      "title": "魔法少女☆伊莉雅（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28137,
+      "mediaId": 28221611,
+      "title": "为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28150,
+      "mediaId": 28221627,
+      "title": "頭文字D Legend1 -覺醒-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28155,
+      "mediaId": 28221632,
+      "title": "情熱傳說 the X 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28180,
+      "mediaId": 28221657,
+      "title": "月刊少女野崎君（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28181,
+      "mediaId": 28221658,
+      "title": "乒乓（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28182,
+      "mediaId": 28221659,
+      "title": "OVERLORD（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28184,
+      "mediaId": 28221661,
+      "title": "前進吧！登山少女（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28187,
+      "mediaId": 28221664,
+      "title": "前進吧！登山少女 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28199,
+      "mediaId": 28221676,
+      "title": "JOJO的奇妙冒險 不滅鑽石（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28321,
+      "mediaId": 28222067,
+      "title": "春原莊的管理員小姐（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28545,
+      "mediaId": 28222623,
+      "title": "戰×戀（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28575,
+      "mediaId": 28222669,
+      "title": "碧藍幻想 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28583,
+      "mediaId": 28222677,
+      "title": "一弦定音！第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28632,
+      "mediaId": 28222743,
+      "title": "神田川JET GIRLS（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28636,
+      "mediaId": 28222747,
+      "title": "食戟之靈 神之皿（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28648,
+      "mediaId": 28222792,
+      "title": "Active Raid -機動強襲室第八課-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28649,
+      "mediaId": 28222793,
+      "title": "Active Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28664,
+      "mediaId": 28222814,
+      "title": "銀河英雄傳說：全新命題 星亂（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28669,
+      "mediaId": 28222835,
+      "title": "香蕉喵 不可思議的夥伴們（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28673,
+      "mediaId": 28222839,
+      "title": "碧藍航線（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28674,
+      "mediaId": 28222840,
+      "title": "刺客守則（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28675,
+      "mediaId": 28222841,
+      "title": "非槍人生（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28676,
+      "mediaId": 28222842,
+      "title": "星合之空（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28677,
+      "mediaId": 28222843,
+      "title": "浦島坂田船的日常（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28678,
+      "mediaId": 28222844,
+      "title": "厨病激发BOY（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28679,
+      "mediaId": 28222845,
+      "title": "歌舞伎町夏洛克（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28680,
+      "mediaId": 28222846,
+      "title": "廚神小當家（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28682,
+      "mediaId": 28222848,
+      "title": "入間同學入魔了（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28685,
+      "mediaId": 28222851,
+      "title": "Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28686,
+      "mediaId": 28222853,
+      "title": "這個勇者明明超TUEEE卻過度謹慎！（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28687,
+      "mediaId": 28222854,
+      "title": "刀劍神域 Alicization War of Underworld（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28688,
+      "mediaId": 28222855,
+      "title": "我們真的學不來！第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28691,
+      "mediaId": 28222858,
+      "title": "美妙射擊部 / RIFLE IS BEAUTIFUL（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28693,
+      "mediaId": 28222860,
+      "title": "小書痴的下剋上:為了成為圖書管理員不擇手段!（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28695,
+      "mediaId": 28222862,
+      "title": "喜歡本大爺的竟然就妳一個？（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28699,
+      "mediaId": 28222866,
+      "title": "放學後桌遊俱樂部（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28710,
+      "mediaId": 28222941,
+      "title": "夢幻之星2 EPISODE ORACLE（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28711,
+      "mediaId": 28222942,
+      "title": "募戀英雄（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28712,
+      "mediaId": 28222949,
+      "title": "我不是說了能力要平均值嗎？（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28714,
+      "mediaId": 28222991,
+      "title": "Z/X Code reunion（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28715,
+      "mediaId": 28222992,
+      "title": "眾神的逆鱗（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28737,
+      "mediaId": 28223025,
+      "title": "排球少年！！第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28741,
+      "mediaId": 28223034,
+      "title": "花牌情緣 第三季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28743,
+      "mediaId": 28223036,
+      "title": "高達創戰潛行者 Re:RISE（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28744,
+      "mediaId": 28223037,
+      "title": "鋼彈創鬥者潛網大戰 Re:RISE（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 28876,
+      "mediaId": 28223280,
+      "title": "閃電十一人GO 銀河篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 31809,
+      "mediaId": 28226692,
+      "title": "星掠者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 31817,
+      "mediaId": 28226758,
+      "title": "科學超電磁砲T（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 31818,
+      "mediaId": 28226764,
+      "title": "ID:INVADED（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 31819,
+      "mediaId": 28226765,
+      "title": "理科生墜入情網，故嘗試證明。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 32990,
+      "mediaId": 28228375,
+      "title": "格萊普尼爾（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33072,
+      "mediaId": 28228461,
+      "title": "LISTENERS（僅限港澳台及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33079,
+      "mediaId": 28228469,
+      "title": "新櫻花大戰 the Animation（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33083,
+      "mediaId": 28228473,
+      "title": "富豪刑警 Balance:UNLIMITED（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33084,
+      "mediaId": 28228474,
+      "title": "果然我的青春戀愛喜劇搞錯了。完（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33085,
+      "mediaId": 28228475,
+      "title": "昨日之歌（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33086,
+      "mediaId": 28228476,
+      "title": "闇影詩章（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33088,
+      "mediaId": 28228478,
+      "title": "輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33089,
+      "mediaId": 28228479,
+      "title": "高達創戰潛行者RE: RISE 2nd Season（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33090,
+      "mediaId": 28228480,
+      "title": "IDOLiSH7-偶像星願-Second Beat!（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33091,
+      "mediaId": 28228481,
+      "title": "社長，戰鬥的時間到了！（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33092,
+      "mediaId": 28228482,
+      "title": "阿爾蒂（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33093,
+      "mediaId": 28228483,
+      "title": "白貓 Project ZERO CHRONICLE（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33094,
+      "mediaId": 28228484,
+      "title": "放學後堤防日誌（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33095,
+      "mediaId": 28228485,
+      "title": "超異域公主連結☆Re:Dive（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33096,
+      "mediaId": 28228486,
+      "title": "ARGONAVIS from BanG Dream！（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33097,
+      "mediaId": 28228487,
+      "title": "生肖奇缘 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33098,
+      "mediaId": 28228488,
+      "title": "聽我的電波吧（僅限港澳台及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33100,
+      "mediaId": 28228490,
+      "title": "八男？別鬧了！（僅限港澳台及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33101,
+      "mediaId": 28228491,
+      "title": "邪神與廚二病少女 第二季（僅限港澳台及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33109,
+      "mediaId": 28228499,
+      "title": "球詠（僅限港澳台地区）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33115,
+      "mediaId": 28228505,
+      "title": "辣妹與恐龍（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33117,
+      "mediaId": 28228507,
+      "title": "小書痴的下剋上:為了成為圖書管理員不擇手段! 第二部（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33118,
+      "mediaId": 28228508,
+      "title": "噴嚏大魔王2020（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33119,
+      "mediaId": 28228509,
+      "title": "繼怪怪守護神（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33120,
+      "mediaId": 28228510,
+      "title": "刀劍神域 Alicization War of Underworld 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33126,
+      "mediaId": 28228516,
+      "title": "食戟之靈 豪之皿（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33134,
+      "mediaId": 28228524,
+      "title": "非槍人生 第二季 （僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33144,
+      "mediaId": 28228534,
+      "title": "鋼彈創鬥者潛網大戰 Re:RISE 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33238,
+      "mediaId": 28228628,
+      "title": "別冊 奧林匹克之環（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33468,
+      "mediaId": 28228871,
+      "title": "Free!-Road to the World-夢（僅限港澳及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33498,
+      "mediaId": 28228902,
+      "title": "白箱（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33526,
+      "mediaId": 28228930,
+      "title": "地球隊長（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33577,
+      "mediaId": 28229002,
+      "title": "銀魂（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33701,
+      "mediaId": 28229130,
+      "title": "機動戰士高達 THE ORIGIN I：蒼瞳的卡斯巴爾（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33702,
+      "mediaId": 28229131,
+      "title": "機動戰士高達 THE ORIGIN II：悲哀的阿爾黛西亞（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33703,
+      "mediaId": 28229132,
+      "title": "機動戰士高達 THE ORIGIN III：破曉起義（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33705,
+      "mediaId": 28229134,
+      "title": "機動戰士高達 THE ORIGIN IV：命運的前夜（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33857,
+      "mediaId": 28229290,
+      "title": "高校之神（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33858,
+      "mediaId": 28229291,
+      "title": "DECA-DENCE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33859,
+      "mediaId": 28229292,
+      "title": "獵魔武士/GIBIATE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33860,
+      "mediaId": 28229293,
+      "title": "Re：從零開始的異世界生活 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33861,
+      "mediaId": 28229294,
+      "title": "魔法律事務所 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33862,
+      "mediaId": 28229295,
+      "title": "魔物娘的醫生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33864,
+      "mediaId": 28229297,
+      "title": "Lapis Re:LiGHTs（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33865,
+      "mediaId": 28229298,
+      "title": "出租女友（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33866,
+      "mediaId": 28229299,
+      "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33868,
+      "mediaId": 28229301,
+      "title": "弩級戰隊H×EROS（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33869,
+      "mediaId": 28229302,
+      "title": "彼得·格里爾的賢者時間（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33898,
+      "mediaId": 28229334,
+      "title": "炎炎消防隊 貳之章（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33912,
+      "mediaId": 28229348,
+      "title": "賽馬娘四格（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33913,
+      "mediaId": 28229349,
+      "title": "宇崎學妹想要玩！（僅限港澳台及其他地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33973,
+      "mediaId": 28229412,
+      "title": "遊戲王怪獸之決鬥(僅限港澳台地區)",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 33998,
+      "mediaId": 28229437,
+      "title": "迷糊餐廳（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37756,
+      "mediaId": 28233435,
+      "title": "弱角友崎同學（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37757,
+      "mediaId": 28233436,
+      "title": "進擊的巨人 The Final Season（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37758,
+      "mediaId": 28233437,
+      "title": "大人的防具店 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37759,
+      "mediaId": 28233438,
+      "title": "IDOLY PRIDE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37762,
+      "mediaId": 28233441,
+      "title": "無職轉生～到了異世界就拿出真本事～（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37763,
+      "mediaId": 28233442,
+      "title": "悠悠哉哉少女日和 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37764,
+      "mediaId": 28233443,
+      "title": "BACK ARROW（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37765,
+      "mediaId": 28233444,
+      "title": "Praeter之傷（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37766,
+      "mediaId": 28233445,
+      "title": "只有我能進入的隱藏迷宮（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37773,
+      "mediaId": 28233452,
+      "title": "闇芝居 第八季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37774,
+      "mediaId": 28233453,
+      "title": "比方說，這是個出身魔王關附近的少年在新手村生活的故事（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37776,
+      "mediaId": 28233455,
+      "title": "工作細胞 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37777,
+      "mediaId": 28233456,
+      "title": "工作細胞BLACK（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37779,
+      "mediaId": 28233458,
+      "title": "堀與宮村（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37780,
+      "mediaId": 28233459,
+      "title": "SK8 the Infinity（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37781,
+      "mediaId": 28233460,
+      "title": "怪病醫拉姆尼（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37782,
+      "mediaId": 28233461,
+      "title": "花樣滑冰Stars（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37783,
+      "mediaId": 28233462,
+      "title": "怪物事變（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37784,
+      "mediaId": 28233463,
+      "title": "世界魔女出動！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37786,
+      "mediaId": 28233465,
+      "title": "記錄的地平線 圓桌崩壞（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37787,
+      "mediaId": 28233466,
+      "title": "賽馬娘 Pretty Derby 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37788,
+      "mediaId": 28233467,
+      "title": "裏世界遠足（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37789,
+      "mediaId": 28233468,
+      "title": "魔術士歐菲 流浪之旅 基姆拉克篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37790,
+      "mediaId": 28233469,
+      "title": "廚神小當家 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37791,
+      "mediaId": 28233470,
+      "title": "WAVE!! ~來衝浪吧!!~（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37792,
+      "mediaId": 28233471,
+      "title": "演劇偶像（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37793,
+      "mediaId": 28233472,
+      "title": "奇蛋物語 Wonder Egg Priority（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37794,
+      "mediaId": 28233473,
+      "title": "Re：從零開始的異世界生活 第二季 Part2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37796,
+      "mediaId": 28233475,
+      "title": "關於我轉生變成史萊姆這檔事 第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37799,
+      "mediaId": 28233478,
+      "title": "裝甲娘戰機（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37800,
+      "mediaId": 28233479,
+      "title": "文豪野犬 汪！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37801,
+      "mediaId": 28233480,
+      "title": "蒼之騎士團(僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37802,
+      "mediaId": 28233481,
+      "title": "搖滾少女!! STARS!!（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37804,
+      "mediaId": 28233483,
+      "title": "搖曳露營△ 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37806,
+      "mediaId": 28233485,
+      "title": "天地創造設計部（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37807,
+      "mediaId": 28233486,
+      "title": "約定的夢幻島 第二季（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37808,
+      "mediaId": 28233487,
+      "title": "五等分的新娘∬（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37809,
+      "mediaId": 28233488,
+      "title": "2.43清陰高校男子排球部（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 37810,
+      "mediaId": 28233489,
+      "title": "轉生成蜘蛛又怎樣！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38091,
+      "mediaId": 28233772,
+      "title": "織田肉桂信長（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38092,
+      "mediaId": 28233773,
+      "title": "22/7（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38389,
+      "mediaId": 28234073,
+      "title": "入間同學入魔了！ 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38391,
+      "mediaId": 28234075,
+      "title": "關於我轉生變成史萊姆這檔事 轉生史萊姆日記（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38392,
+      "mediaId": 28234076,
+      "title": "憂國的莫里亞蒂 (下半)（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38393,
+      "mediaId": 28234077,
+      "title": "刮掉鬍子的我與撿到的女高中生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38394,
+      "mediaId": 28234078,
+      "title": "持續狩獵史萊姆三百年， 不知不覺就練到LV MAX（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38395,
+      "mediaId": 28234079,
+      "title": "戰鬥員派遣中！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38396,
+      "mediaId": 28234080,
+      "title": "青梅竹馬絕對不會輸的戀愛喜劇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38424,
+      "mediaId": 28234108,
+      "title": "聖女魔力無所不能（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38432,
+      "mediaId": 28234116,
+      "title": "佐賀偶像是傳奇 捲土重來（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38433,
+      "mediaId": 28234117,
+      "title": "東京復仇者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38440,
+      "mediaId": 28234124,
+      "title": "再見了，我的克拉默（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38441,
+      "mediaId": 28234125,
+      "title": "七騎士 革命 －英雄的繼承者－（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38442,
+      "mediaId": 28234126,
+      "title": "86－不存在的戰區－（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38443,
+      "mediaId": 28234127,
+      "title": "SHADOWS HOUSE-影宅-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38444,
+      "mediaId": 28234128,
+      "title": "義呆利 World ☆ Stars（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38445,
+      "mediaId": 28234129,
+      "title": "給不滅的你（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38446,
+      "mediaId": 28234130,
+      "title": "如果究極進化的完全沉浸RPG比現實還更像垃圾遊戲的話（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38447,
+      "mediaId": 28234131,
+      "title": "如果這叫愛情感覺會很噁心（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38448,
+      "mediaId": 28234132,
+      "title": "MEGALOBOX 機甲拳擊 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38449,
+      "mediaId": 28234133,
+      "title": "如果究極進化的完全沉浸RPG比現實還更像垃圾遊戲的話（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38450,
+      "mediaId": 28234134,
+      "title": "龍先生，想要買個家。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38451,
+      "mediaId": 28234135,
+      "title": "SSSS.DYNAZENON（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38452,
+      "mediaId": 28234136,
+      "title": "Fairy蘭丸（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38453,
+      "mediaId": 28234137,
+      "title": "美麗新世界 The Animation（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38454,
+      "mediaId": 28234138,
+      "title": "BLUE REFLECTION RAY/澪（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38455,
+      "mediaId": 28234139,
+      "title": "MARS RED（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38456,
+      "mediaId": 28234140,
+      "title": "美少年偵探團（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38457,
+      "mediaId": 28234141,
+      "title": "真白之音（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38458,
+      "mediaId": 28234142,
+      "title": "燒窯的話也要馬克杯（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38459,
+      "mediaId": 28234143,
+      "title": "舞伎家的料理人（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38460,
+      "mediaId": 28234144,
+      "title": "大運動會 ReSTART！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38461,
+      "mediaId": 28234145,
+      "title": "教教我吧 北齋！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38462,
+      "mediaId": 28234146,
+      "title": "擾亂 THE PRINCESS OF SNOW AND BLOOD（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38551,
+      "mediaId": 28234240,
+      "title": "約戰狂三外傳（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 38796,
+      "mediaId": 28234487,
+      "title": "夏目友人帳 喚石者與怪異的訪客（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39010,
+      "mediaId": 28234702,
+      "title": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39011,
+      "mediaId": 28234703,
+      "title": "闇芝居9（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39013,
+      "mediaId": 28234705,
+      "title": "瓦尼塔斯的手札（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39014,
+      "mediaId": 28234706,
+      "title": "白沙的Aquatope（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39015,
+      "mediaId": 28234707,
+      "title": "開掛藥師的異世界悠閒生活（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39017,
+      "mediaId": 28234709,
+      "title": "叫我對大哥（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39022,
+      "mediaId": 28234714,
+      "title": "死神少爺與黑女僕（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39023,
+      "mediaId": 28234715,
+      "title": "我們的重製人生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39024,
+      "mediaId": 28234716,
+      "title": "小林家的龍女僕S（小林家的龍女僕第二季）（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39026,
+      "mediaId": 28234718,
+      "title": "陰晴不定的體操哥哥（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39027,
+      "mediaId": 28234719,
+      "title": "月光下的異世界之旅（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39028,
+      "mediaId": 28234720,
+      "title": "精靈幻想記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39029,
+      "mediaId": 28234721,
+      "title": "異世界迷宮黑心企業（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39030,
+      "mediaId": 28234722,
+      "title": "桃子男孩渡海而來（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39031,
+      "mediaId": 28234723,
+      "title": "寒蟬鳴泣之時：卒（暮蟬悲鳴時卒）（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39035,
+      "mediaId": 28234727,
+      "title": "急戰5秒殊死鬥（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39038,
+      "mediaId": 28234730,
+      "title": "偵探已經，死了。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39039,
+      "mediaId": 28234731,
+      "title": "我立於百萬生命之上（第二季）（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39040,
+      "mediaId": 28234732,
+      "title": "女朋友and女朋友（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39041,
+      "mediaId": 28234733,
+      "title": "現實主義者的王國重建記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39042,
+      "mediaId": 28234734,
+      "title": "魔法科高中的優等生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39043,
+      "mediaId": 28234735,
+      "title": "漂流少年（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39044,
+      "mediaId": 28234736,
+      "title": "賈希大人不氣餒！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39045,
+      "mediaId": 28234737,
+      "title": "歌劇少女！！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39046,
+      "mediaId": 28234738,
+      "title": "IDOLiSH7-偶像星願-Third BEAT!（僅台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39048,
+      "mediaId": 28234740,
+      "title": "女神宿舍的管理員。【安全版】（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39086,
+      "mediaId": 28234778,
+      "title": "隱瞞之事 劇場版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39093,
+      "mediaId": 28234785,
+      "title": "戰翼的希格德莉法（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39140,
+      "mediaId": 28234832,
+      "title": "咒術迴戰（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39170,
+      "mediaId": 28234862,
+      "title": "TSUKIPRO 2（月野藝能事務所第二季）（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39187,
+      "mediaId": 28234879,
+      "title": "魔法紀錄 魔法少女小圓外傳 第二季 -覺醒前夜-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39200,
+      "mediaId": 28234892,
+      "title": "咒術迴戰 粵配版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39224,
+      "mediaId": 28234916,
+      "title": "憂國的莫里亞蒂（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39390,
+      "mediaId": 28235082,
+      "title": "鬼滅之刃劇場版 無限列車篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39391,
+      "mediaId": 28235083,
+      "title": "鬼滅之刃劇場版 無限列車篇 （台配）（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39419,
+      "mediaId": 28235111,
+      "title": "平家物語（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39474,
+      "mediaId": 28235166,
+      "title": "加油吧同期醬（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39476,
+      "mediaId": 28235168,
+      "title": "星期一的豐滿S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39493,
+      "mediaId": 28235185,
+      "title": "星期一的豐滿（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39523,
+      "mediaId": 28235216,
+      "title": "前輩有夠煩（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39525,
+      "mediaId": 28235218,
+      "title": "吸血鬼馬上死（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39526,
+      "mediaId": 28235219,
+      "title": "月與萊卡與吸血公主（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39528,
+      "mediaId": 28235221,
+      "title": "世界頂尖的暗殺者轉生為異世界貴族（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39538,
+      "mediaId": 28235231,
+      "title": "三角窗外是黑夜（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39539,
+      "mediaId": 28235232,
+      "title": "宿命迴響：命運節拍（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39540,
+      "mediaId": 28235233,
+      "title": "SAKUGAN（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39541,
+      "mediaId": 28235234,
+      "title": "世界盡頭的聖騎士（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39542,
+      "mediaId": 28235235,
+      "title": "女孩遇見男孩（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39544,
+      "mediaId": 28235237,
+      "title": "半妖的夜叉姬 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39545,
+      "mediaId": 28235238,
+      "title": "大正處女御伽話（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39546,
+      "mediaId": 28235239,
+      "title": "結城友奈是勇者 大滿開之章（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39547,
+      "mediaId": 28235240,
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39549,
+      "mediaId": 28235242,
+      "title": "逆轉世界的電池少女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39550,
+      "mediaId": 28235243,
+      "title": "進化果實～不知不覺踏上勝利的人生～（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39551,
+      "mediaId": 28235244,
+      "title": "陰陽眼見子（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39553,
+      "mediaId": 28235246,
+      "title": "VISUAL PRISON 視覺監獄（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39554,
+      "mediaId": 28235247,
+      "title": "四季櫻（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39568,
+      "mediaId": 28235261,
+      "title": "狂熱深淵-迷失的孩子（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39569,
+      "mediaId": 28235262,
+      "title": "橘色榮耀！～PRIDE OF ORANGE～（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39574,
+      "mediaId": 28235268,
+      "title": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39577,
+      "mediaId": 28235271,
+      "title": "燒窯的話也要馬克杯 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39578,
+      "mediaId": 28235272,
+      "title": "鲁邦三世 part6（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39593,
+      "mediaId": 28235287,
+      "title": "鬼滅之刃 無限列車篇（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39594,
+      "mediaId": 28235288,
+      "title": "鬼滅之刃 無限列車篇（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39602,
+      "mediaId": 28235296,
+      "title": "POP TEAM EPIC REPEAT（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39605,
+      "mediaId": 28235299,
+      "title": "BanG Dream！少女樂團派對 小劇場狂歡！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39606,
+      "mediaId": 28235300,
+      "title": "鍵等（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 39882,
+      "mediaId": 28235576,
+      "title": "進擊的巨人: Wall Sina,Goodbye（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40030,
+      "mediaId": 28235730,
+      "title": "進擊的巨人: 無悔的選擇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40031,
+      "mediaId": 28235731,
+      "title": "進擊的巨人: Lost Girls Lost in the Cruel World（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40083,
+      "mediaId": 28235787,
+      "title": "鬼滅之刃 遊郭篇（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40084,
+      "mediaId": 28235788,
+      "title": "鬼滅之刃 遊郭篇（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40329,
+      "mediaId": 28236033,
+      "title": "BanG Dream! Episode of Roselia Ⅰ：約定（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40331,
+      "mediaId": 28236035,
+      "title": "BanG Dream! Episode of Roselia Ⅱ：Song I am.（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40495,
+      "mediaId": 28236200,
+      "title": "進擊的巨人: 伊爾澤的筆記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40496,
+      "mediaId": 28236201,
+      "title": "進擊的巨人: 突然的來訪者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40497,
+      "mediaId": 28236202,
+      "title": "進擊的巨人: 困難（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40659,
+      "mediaId": 28236365,
+      "title": "天才王子的赤字國家重生術（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40661,
+      "mediaId": 28236367,
+      "title": "失格紋的最強賢者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40662,
+      "mediaId": 28236368,
+      "title": "里亞德錄大地（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40663,
+      "mediaId": 28236369,
+      "title": "超異域公主連結Re:Dive 與你重逢 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40664,
+      "mediaId": 28236370,
+      "title": "平凡職業造就世界最強S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40665,
+      "mediaId": 28236371,
+      "title": "自稱賢者弟子的賢者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40666,
+      "mediaId": 28236372,
+      "title": "夜街酷斗（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40667,
+      "mediaId": 28236373,
+      "title": "擅長捉弄的高木同學 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40668,
+      "mediaId": 28236374,
+      "title": "戀上換裝娃娃（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40669,
+      "mediaId": 28236375,
+      "title": "與變成了異世界美少女的好友一起冒險（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40670,
+      "mediaId": 28236376,
+      "title": "東方少年（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40671,
+      "mediaId": 28236377,
+      "title": "東京24區（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40672,
+      "mediaId": 28236378,
+      "title": "SLOW LOOP-女孩的釣魚慢活-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40673,
+      "mediaId": 28236379,
+      "title": "明日同學的水手服（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40676,
+      "mediaId": 28236382,
+      "title": "怪人開發部的黑井津小姐（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40679,
+      "mediaId": 28236385,
+      "title": "少女前線（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40688,
+      "mediaId": 28236394,
+      "title": "秘密內幕-女警的反擊（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40694,
+      "mediaId": 28236400,
+      "title": "鏽色鎧甲 黎明（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40705,
+      "mediaId": 28236411,
+      "title": "白領羽球部（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40710,
+      "mediaId": 28236416,
+      "title": "CUE!（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40712,
+      "mediaId": 28236418,
+      "title": "Futsal Boys!!!!!（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40713,
+      "mediaId": 28236419,
+      "title": "進擊的巨人 The Final Season Part 2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40714,
+      "mediaId": 28236420,
+      "title": "薔薇王的葬列（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40715,
+      "mediaId": 28236421,
+      "title": "食鏽末世錄（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40717,
+      "mediaId": 28236423,
+      "title": "最遊記RELOAD -ZEROIN-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40718,
+      "mediaId": 28236424,
+      "title": "相愛相殺（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40719,
+      "mediaId": 28236425,
+      "title": "佐佐木與宮野（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40723,
+      "mediaId": 28236429,
+      "title": "艾梅洛二世事件簿-魔眼蒐集列車 Grace note-特別篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40724,
+      "mediaId": 28236430,
+      "title": "魔法科高中的劣等生 追憶篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 40751,
+      "mediaId": 28236457,
+      "title": "闇芝居10（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41042,
+      "mediaId": 28236748,
+      "title": "干物妹！小埋 粵配版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41044,
+      "mediaId": 28236750,
+      "title": "干物妹！小埋 S2 粵配版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41048,
+      "mediaId": 28236754,
+      "title": "Ｄｒ．ＳＴＯＮＥ（新石紀）粵配版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41051,
+      "mediaId": 28236757,
+      "title": "約定的夢幻島 粵配版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41138,
+      "mediaId": 28236844,
+      "title": "銀魂 THE FINAL（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41152,
+      "mediaId": 28236858,
+      "title": "銀魂 THE FINAL（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41396,
+      "mediaId": 28237104,
+      "title": "銀河英雄傳說 Die Neue These 激突（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41456,
+      "mediaId": 28237165,
+      "title": "小書痴的下剋上:為了成為圖書管理員不擇手段! 第三部（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41458,
+      "mediaId": 28237167,
+      "title": "不會拿捏距離的阿波連同學（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41459,
+      "mediaId": 28237168,
+      "title": "派對咖孔明（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41460,
+      "mediaId": 28237169,
+      "title": "式守同學不只可愛而已（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41461,
+      "mediaId": 28237170,
+      "title": "史上最強大魔王轉生為村民A（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41463,
+      "mediaId": 28237172,
+      "title": "骸骨騎士大人異世界冒險中（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41469,
+      "mediaId": 28237178,
+      "title": "SPY×FAMILY 間諜家家酒（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41470,
+      "mediaId": 28237179,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41471,
+      "mediaId": 28237180,
+      "title": "盾之勇者成名錄 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41472,
+      "mediaId": 28237181,
+      "title": "辭職不做勇者了～下個職場是魔王城～（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41475,
+      "mediaId": 28237184,
+      "title": "愛在征服世界後（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41476,
+      "mediaId": 28237185,
+      "title": "魔法使黎明期（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41477,
+      "mediaId": 28237186,
+      "title": "杜鵑婚約（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41481,
+      "mediaId": 28237190,
+      "title": "約會大作戰 DATE A LIVE 第四季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41482,
+      "mediaId": 28237191,
+      "title": "RPG 不動產（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41483,
+      "mediaId": 28237192,
+      "title": "街角的魔族女孩 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41485,
+      "mediaId": 28237194,
+      "title": "這個僧侶有夠煩（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41486,
+      "mediaId": 28237195,
+      "title": "理科生墜入情網，故嘗試證明。r=1-sinθ（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41487,
+      "mediaId": 28237196,
+      "title": "處刑少女的生存之道（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41489,
+      "mediaId": 28237198,
+      "title": "社畜想被幼女幽靈療癒。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41491,
+      "mediaId": 28237200,
+      "title": "成為女主角！~被討厭的女主角和秘密的工作~（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41492,
+      "mediaId": 28237201,
+      "title": "Love Live！虹咲學園學園偶像同好會 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41493,
+      "mediaId": 28237202,
+      "title": "女忍者椿的心事（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41496,
+      "mediaId": 28237205,
+      "title": "女性向遊戲世界對路人角色很不友好（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41497,
+      "mediaId": 28237206,
+      "title": "Onipan！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41498,
+      "mediaId": 28237207,
+      "title": "相合之物（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41500,
+      "mediaId": 28237209,
+      "title": "Love all play（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41501,
+      "mediaId": 28237210,
+      "title": "Healer Girls 歌愈少女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41502,
+      "mediaId": 28237211,
+      "title": "鍵等 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41503,
+      "mediaId": 28237212,
+      "title": "魔法紀錄 魔法少女小圓外傳 FINAL SEASON - 淺夢的黎明 -（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41550,
+      "mediaId": 28237259,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41621,
+      "mediaId": 28237330,
+      "title": "Princess Principal 劇場版：皇冠密令 第一章（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41622,
+      "mediaId": 28237331,
+      "title": "魔法少女伊莉雅：Licht 無名的少女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 41999,
+      "mediaId": 28338271,
+      "title": "國王排名（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42068,
+      "mediaId": 28338419,
+      "title": "出租女友S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42082,
+      "mediaId": 28338447,
+      "title": "OVERLORD 第四季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42084,
+      "mediaId": 28338451,
+      "title": "轉生賢者的異世界生活（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42087,
+      "mediaId": 28338457,
+      "title": "綻放的阿爾斯諾特利亞（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42088,
+      "mediaId": 28338458,
+      "title": "東方少年 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42094,
+      "mediaId": 28338470,
+      "title": "受讚頌者 二人的白皇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42098,
+      "mediaId": 28338478,
+      "title": "RWBY 冰雪帝國（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42099,
+      "mediaId": 28338480,
+      "title": "頂點!!!!!!!!!!!!!!!（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42101,
+      "mediaId": 28338483,
+      "title": "卡片戰鬥!! 先導者 will+Dress（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42102,
+      "mediaId": 28338485,
+      "title": "Extreme Hearts（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42103,
+      "mediaId": 28338487,
+      "title": "即使如此依舊步步進逼（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42115,
+      "mediaId": 28338511,
+      "title": "幽零幻鏡（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42121,
+      "mediaId": 28338523,
+      "title": "繼母的拖油瓶是我的前女友（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42122,
+      "mediaId": 28338525,
+      "title": "契約之吻（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42124,
+      "mediaId": 28338528,
+      "title": "黑之召喚士（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42125,
+      "mediaId": 28338530,
+      "title": "組長女兒與保姆（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42135,
+      "mediaId": 28338550,
+      "title": "歡迎來到實力至上主義的教室S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42171,
+      "mediaId": 28338617,
+      "title": "東京喵喵 NEW ～♡（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42180,
+      "mediaId": 28338627,
+      "title": "打工吧！魔王大人 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42190,
+      "mediaId": 28338637,
+      "title": "來自深淵 烈日的黃金鄉（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42191,
+      "mediaId": 28338638,
+      "title": "惑星公主蜥蜴騎士（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42192,
+      "mediaId": 28338639,
+      "title": "幕末替身傳說（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42216,
+      "mediaId": 28338664,
+      "title": "異世界迷宮裡的後宮生活（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42291,
+      "mediaId": 28338740,
+      "title": "影宅S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42292,
+      "mediaId": 28338741,
+      "title": "世界末日柴犬為伴（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42341,
+      "mediaId": 28338796,
+      "title": "SPY×FAMILY 間諜家家酒 粵配版（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42342,
+      "mediaId": 28338797,
+      "title": "今晚有貓伴身邊（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42402,
+      "mediaId": 28338857,
+      "title": "POP TEAM EPIC 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42403,
+      "mediaId": 28338858,
+      "title": "死神 S1（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42409,
+      "mediaId": 28338867,
+      "title": "邪神與廚二病少女 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42513,
+      "mediaId": 28338980,
+      "title": "死神 S2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42514,
+      "mediaId": 28338981,
+      "title": "死神 S3（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42515,
+      "mediaId": 28338982,
+      "title": "死神 S4（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42516,
+      "mediaId": 28338983,
+      "title": "死神 S5（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42517,
+      "mediaId": 28338984,
+      "title": "死神 S6（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42518,
+      "mediaId": 28338985,
+      "title": "死神 S7（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42654,
+      "mediaId": 28339207,
+      "title": "犬夜叉劇場版 鏡中的夢幻城（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 42655,
+      "mediaId": 28339208,
+      "title": "犬夜叉劇場版 穿越時空的思念（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43060,
+      "mediaId": 28339623,
+      "title": "鏈鋸人（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43061,
+      "mediaId": 28339624,
+      "title": "秋葉原冥途戰爭（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43064,
+      "mediaId": 28339627,
+      "title": "她來自煩星（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43065,
+      "mediaId": 28339628,
+      "title": "忍之一刻（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43092,
+      "mediaId": 28339655,
+      "title": "劇場版 咒術迴戰 0（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43100,
+      "mediaId": 28339666,
+      "title": "被勇者隊伍開除的馭獸使、邂逅了最強種的貓耳少女（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43101,
+      "mediaId": 28339667,
+      "title": "入間同學入魔了 第3季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43102,
+      "mediaId": 28339668,
+      "title": "路人超能100 S3（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43103,
+      "mediaId": 28339671,
+      "title": "轉生就是劍（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43104,
+      "mediaId": 28339672,
+      "title": "我家師傅沒有尾巴（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43140,
+      "mediaId": 28339708,
+      "title": "因為是反派大小姐所以養了魔王（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43143,
+      "mediaId": 28339711,
+      "title": "點滿農民相關技能後，不知為何就變強了。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43168,
+      "mediaId": 28339740,
+      "title": "藍色監獄（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43170,
+      "mediaId": 28339742,
+      "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43171,
+      "mediaId": 28339743,
+      "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43172,
+      "mediaId": 28339744,
+      "title": "前進吧！登山少女  Next Summit（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43173,
+      "mediaId": 28339745,
+      "title": "書蟲公主（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43174,
+      "mediaId": 28339746,
+      "title": "戀愛FLOPS（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43175,
+      "mediaId": 28339747,
+      "title": "我想成為影之強者！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43176,
+      "mediaId": 28339748,
+      "title": "不道德公會（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43177,
+      "mediaId": 28339749,
+      "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43184,
+      "mediaId": 28339756,
+      "title": "四人各有小秘密（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43267,
+      "mediaId": 28339840,
+      "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43281,
+      "mediaId": 28339855,
+      "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43582,
+      "mediaId": 28340156,
+      "title": "給不滅的你 第二季（僅限港澳台地區",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43772,
+      "mediaId": 28340355,
+      "title": "總之就是很可愛～制服～（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43911,
+      "mediaId": 28340512,
+      "title": "關於我轉生變成史萊姆這檔事OAD5【外傳：利姆路華麗的教師生活 之三】（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 43912,
+      "mediaId": 28340513,
+      "title": "關於我轉生變成史萊姆這檔事（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44124,
+      "mediaId": 28408450,
+      "title": "阿魯斯的巨獸（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44125,
+      "mediaId": 28408767,
+      "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44217,
+      "mediaId": 28435373,
+      "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44218,
+      "mediaId": 28435374,
+      "title": "久保同學不放過我（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44223,
+      "mediaId": 28435387,
+      "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44365,
+      "mediaId": 28439664,
+      "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44465,
+      "mediaId": 28480893,
+      "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44466,
+      "mediaId": 28480894,
+      "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44467,
+      "mediaId": 28480895,
+      "title": "虛構推理 Season2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44468,
+      "mediaId": 28480896,
+      "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44471,
+      "mediaId": 28480899,
+      "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44477,
+      "mediaId": 28480905,
+      "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44484,
+      "mediaId": 28480912,
+      "title": "文豪野犬 第四季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44485,
+      "mediaId": 28480913,
+      "title": "間諜教室（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44490,
+      "mediaId": 28480918,
+      "title": "弦音 -連結的一射-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44493,
+      "mediaId": 28480920,
+      "title": "不當哥哥了！（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44494,
+      "mediaId": 28480921,
+      "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44495,
+      "mediaId": 28480922,
+      "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44502,
+      "mediaId": 28480928,
+      "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44503,
+      "mediaId": 28480929,
+      "title": "物之古物奇譚（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44504,
+      "mediaId": 28480930,
+      "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44505,
+      "mediaId": 28480931,
+      "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44506,
+      "mediaId": 28480932,
+      "title": "妖幻三重奏（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44508,
+      "mediaId": 28480934,
+      "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44509,
+      "mediaId": 28480935,
+      "title": "眾神眷顧的男人2（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44511,
+      "mediaId": 28480937,
+      "title": "魔術士歐菲 流浪之旅 阿邦拉馬篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44512,
+      "mediaId": 28480938,
+      "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44513,
+      "mediaId": 28480939,
+      "title": "大雪海的卡纳（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44514,
+      "mediaId": 28480940,
+      "title": "劇場版 擅長捉弄人的高木同學（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44616,
+      "mediaId": 28481018,
+      "title": "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44661,
+      "mediaId": 28481062,
+      "title": "黑子的籃球冬季杯總集篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44662,
+      "mediaId": 28481063,
+      "title": "黑子的籃球劇場版LAST GAME（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44664,
+      "mediaId": 28481065,
+      "title": "黑狐（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44779,
+      "mediaId": 28481167,
+      "title": "進擊的巨人 The Final Season完結篇 （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44816,
+      "mediaId": 20136566,
+      "title": "鏈鋸人 粵配版（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44836,
+      "mediaId": 20138339,
+      "title": "機動戰士高達- 庫克羅斯 德安之島（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44862,
+      "mediaId": 20140563,
+      "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44952,
+      "mediaId": 20149051,
+      "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44958,
+      "mediaId": 20161245,
+      "title": "鬼滅之刃 遊郭潛入篇（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44959,
+      "mediaId": 20164650,
+      "title": "第二次被異世界召喚（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44960,
+      "mediaId": 20197349,
+      "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44997,
+      "mediaId": 20197653,
+      "title": "無神世界的神明活動（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44998,
+      "mediaId": 20197734,
+      "title": "魔法使的新娘 第2季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45000,
+      "mediaId": 20202282,
+      "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45002,
+      "mediaId": 20206368,
+      "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45067,
+      "mediaId": 20244817,
+      "title": "總之就是非常可愛（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45070,
+      "mediaId": 20245143,
+      "title": "鬼滅之刃 刀匠村篇（僅港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45496,
+      "mediaId": 20290080,
+      "title": "其實，我是最強的？（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45497,
+      "mediaId": 20290147,
+      "title": "勇者赫魯庫（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45498,
+      "mediaId": 20290240,
+      "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45516,
+      "mediaId": 20307953,
+      "title": "七魔劍支配天下（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45555,
+      "mediaId": 20309584,
+      "title": "英雄教室（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45570,
+      "mediaId": 20310415,
+      "title": "咒術迴戰 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45838,
+      "mediaId": 20340706,
+      "title": "天官賜福 第二季（僅限港澳台地區）",
+      "type": 4,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 45849,
+      "mediaId": 20344514,
+      "title": "五等分的新娘∽特別篇（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46158,
+      "mediaId": 21093439,
+      "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46159,
+      "mediaId": 21093519,
+      "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46160,
+      "mediaId": 21093607,
+      "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46161,
+      "mediaId": 21093797,
+      "title": "我想成為影之強者！第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46176,
+      "mediaId": 21095592,
+      "title": "大雪海的卡那 星之賢者（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46180,
+      "mediaId": 21095909,
+      "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 46696,
+      "mediaId": 21135151,
+      "title": "特別篇 吹響吧！上低音號～合奏團競賽篇～（僅限港澳地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47097,
+      "mediaId": 21176171,
+      "title": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 第二季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47100,
+      "mediaId": 21176429,
+      "title": "METALLIC ROUGE（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47549,
+      "mediaId": 21230693,
+      "title": "神明渴求著遊戲。（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47567,
+      "mediaId": 21232815,
+      "title": "昏行者 & 炫目篝火（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47667,
+      "mediaId": 21241720,
+      "title": "死神少爺與黑女僕 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 47674,
+      "mediaId": 21243093,
+      "title": "吹響吧！上低音號 第三季（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 48033,
+      "mediaId": 22099155,
+      "title": "ATRI -My Dear Moments-（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 48133,
+      "mediaId": 22198701,
+      "title": "模擬後宮體驗（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 48144,
+      "mediaId": 22210277,
+      "title": "這是妳與我的最後戰場，或是開創世界的聖戰（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 48145,
+      "mediaId": 22210378,
+      "title": "這是妳與我的最後戰場，或是開創世界的聖戰 第二季（僅限港澳台）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 48689,
+      "mediaId": 22953753,
+      "title": "悲喜漁生（僅限港澳台地區）",
+      "type": 1,
+      "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    }
+  ]
+}

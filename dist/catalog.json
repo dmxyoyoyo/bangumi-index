@@ -41,9 +41,10 @@
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2215,
+      "confirmed": 2208,
       "not-found": 3,
-      "candidate-unavailable": 2
+      "candidate-unavailable": 2,
+      "domestic-edition": 7
     },
     "lastSuccessfulRefresh": "2026-10-21T02:11:09.873Z"
   },
@@ -25443,7 +25444,8 @@
       "officialTitle": "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
       "aliases": [
         "笑傲昙天〈外传〉前篇～诀别、豺之誓言～",
-        "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle"
+        "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
+        "曇天に笑う＜外伝＞～決別、犲の誓い～"
       ],
       "catalogCheckedAt": "2026-10-21",
       "regionCheckedAt": "2026-10-21",
@@ -25456,11 +25458,11 @@
       },
       "seaTitle": "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
       "seaTitleSource": "官方国际版",
-      "japaneseTitle": null,
-      "originalName": null,
+      "japaneseTitle": "曇天に笑う＜外伝＞～決別、犲の誓い～",
+      "originalName": "曇天に笑う＜外伝＞～決別、犲の誓い～",
       "originalNameStatus": "japanese",
       "nameSource": "B站国际版官方简体中文",
-      "bangumiId": null,
+      "bangumiId": 211142,
       "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35242&s_locale=zh_CN",
       "release": {
         "status": "aired",
@@ -139070,7 +139072,7 @@
         "CA"
       ],
       "regionSource": "official",
-      "cnId": 39668,
+      "cnId": null,
       "officialTitle": "Ringing Fate",
       "aliases": [
         "Ringing Fate",
@@ -139099,21 +139101,17 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss39668 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [],
+        "excludedCnIds": [
+          39668
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/734abcab855b7a34c894da2855d25230e8d753b3.png",
-      "mappingEvidence": {
-        "method": "Official title and synopsis verification; ambiguous titles further checked with official season/SP labels or official platform release date (allowing a one-day timezone difference)",
-        "checkedAt": "2026-10-10",
-        "checkedCandidateCount": 2584,
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=39668",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2096264"
-      },
       "classification": {
         "genres": [
           "Original",
@@ -143823,7 +143821,7 @@
         "GB"
       ],
       "regionSource": "official",
-      "cnId": 45957,
+      "cnId": null,
       "officialTitle": "Purgatory Walkers",
       "aliases": [
         "Purgatory Walkers",
@@ -143852,21 +143850,17 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss45957 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [],
+        "excludedCnIds": [
+          45957
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/4a16e7c44b39034035cbd9b7580d12409c54d6b7.png",
-      "mappingEvidence": {
-        "method": "Official title and synopsis verification; ambiguous titles further checked with official season/SP labels or official platform release date (allowing a one-day timezone difference)",
-        "checkedAt": "2026-10-10",
-        "checkedCandidateCount": 2584,
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=45957",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2105385"
-      },
       "classification": {
         "genres": [
           "Novel adaptation",
@@ -144294,7 +144288,7 @@
         "GB"
       ],
       "regionSource": "official",
-      "cnId": 45973,
+      "cnId": null,
       "officialTitle": "SUPER XIANG",
       "aliases": [
         "SUPER XIANG",
@@ -144323,21 +144317,17 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss45973 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [],
+        "excludedCnIds": [
+          45973
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/d986d48ff672737b43eaa3fd38a7b0f30c1c548d.png",
-      "mappingEvidence": {
-        "method": "Official title and synopsis verification; ambiguous titles further checked with official season/SP labels or official platform release date (allowing a one-day timezone difference)",
-        "checkedAt": "2026-10-10",
-        "checkedCandidateCount": 2584,
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=45973",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2105746"
-      },
       "classification": {
         "genres": [
           "Comic adaptation",
@@ -144413,7 +144403,7 @@
         "GB"
       ],
       "regionSource": "official",
-      "cnId": 43370,
+      "cnId": null,
       "officialTitle": "Mythical Creatures Are My Dinners",
       "aliases": [
         "Mythical Creatures Are My Dinners",
@@ -144443,21 +144433,17 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss43370 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [],
+        "excludedCnIds": [
+          43370
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/db160562f6a52fe19168de83fc7f380a8cd7de65.jpg",
-      "mappingEvidence": {
-        "method": "Official title and synopsis verification; ambiguous titles further checked with official season/SP labels or official platform release date (allowing a one-day timezone difference)",
-        "checkedAt": "2026-10-10",
-        "checkedCandidateCount": 2584,
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=43370",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2105814"
-      },
       "classification": {
         "genres": [
           "Comic adaptation",
@@ -156103,7 +156089,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": 119021,
+      "cnId": null,
       "regionSource": "official",
       "officialTitle": "RAKSHASA STREET 5",
       "aliases": [
@@ -156133,21 +156119,19 @@
         "note": "预计排期；提前配信及平台上线状态待核实"
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss119021 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。另有标题与简介匹配的候选，但尚缺两端正片结构与发布时间等版本证据，不自动确认为东南亚片源。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [
+          319704
+        ],
+        "excludedCnIds": [
+          119021
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/438e547d9ee4dea8cc616ee4278ad034.png",
-      "mappingEvidence": {
-        "method": "人工核对官方原名及第五季标签；两端简介均指曹焱兵、曹孙刘联合、群英殿与王国组织。中国版尚未开播，未来平台日期可不同。",
-        "checkedAt": "2026-10-11",
-        "verifiedAt": "2026-10-11",
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=119021",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433174"
-      },
       "classification": {
         "genres": [
           "Comic adaptation",
@@ -157609,7 +157593,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": 45964,
+      "cnId": null,
       "regionSource": "official",
       "officialTitle": "The Most Powerful Vendor",
       "aliases": [
@@ -157640,21 +157624,17 @@
         "note": null
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss45964 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [],
+        "excludedCnIds": [
+          45964
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/c8331e66781e5a0029e3b2c27db046700e26f478.jpg",
-      "mappingEvidence": {
-        "method": "人工核对官方中文作品名、制作地区与24集动画版本；两端简介均描述江南、灵州江城、空间系灵武者，介绍段落不同。",
-        "checkedAt": "2026-10-11",
-        "verifiedAt": "2026-10-11",
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=45964",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2129353"
-      },
       "classification": {
         "genres": [
           "Novel adaptation",
@@ -158714,7 +158694,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": 118958,
+      "cnId": null,
       "regionSource": "official",
       "officialTitle": "The First Order 2",
       "aliases": [
@@ -158745,21 +158725,19 @@
         "note": "预计排期；提前配信及平台上线状态待核实"
       },
       "mappingStatus": {
-        "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "code": "domestic-edition",
+        "reason": "ss118958 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。另有标题与简介匹配的候选，但尚缺两端正片结构与发布时间等版本证据，不自动确认为东南亚片源。",
         "checkedAt": "2026-10-21",
-        "candidateIds": []
+        "candidateIds": [
+          319896
+        ],
+        "excludedCnIds": [
+          118958
+        ]
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
       "cover": "https://pic.bstarstatic.com/ogv/50550bd7ffbb1ec7ceb112bd25388891.png",
-      "mappingEvidence": {
-        "method": "Official title and synopsis verification; ambiguous titles further checked with official season/SP labels or official platform release date (allowing a one-day timezone difference)",
-        "checkedAt": "2026-10-10",
-        "checkedCandidateCount": 2584,
-        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=118958",
-        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433235"
-      },
       "classification": {
         "genres": [
           "Novel adaptation",
@@ -167129,7 +167107,7 @@
     },
     {
       "intlId": 2247268,
-      "title": "弹珠汽水瓶里的千岁同学 第2部分",
+      "title": "弹珠汽水瓶里的千岁同学",
       "regions": [
         "ID",
         "TH",
@@ -167163,9 +167141,9 @@
       "japaneseTitle": "千歳くんはラムネ瓶のなか",
       "originalName": "千歳くんはラムネ瓶のなか",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "官方作品名（用户确认显示名称）",
       "bangumiId": 507634,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2247268&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.tv/en/play/2247268",
       "release": {
         "status": "aired",
         "confirmed": true,

@@ -1,1 +1,1 @@
-window.PLATFORM_COUNTS={"sea":2220,"gamer":1912};
+window.PLATFORM_COUNTS={"sea":2220,"gamer":1909,"bilibili":8085};
