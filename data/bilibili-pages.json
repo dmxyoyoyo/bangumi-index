@@ -1,10 +1,10 @@
 {
   "meta": {
-    "checkedAt": "2026-10-19",
-    "checked": 73,
+    "checkedAt": "2026-10-22",
+    "checked": 60,
     "partial": true,
     "rateLimited": false,
-    "pending": 33
+    "pending": 120
   },
   "checks": {
     "ep:279699": {
@@ -2533,6 +2533,306 @@
       "checkedAt": "2026-10-19",
       "status": "verified",
       "seasonId": 41999
+    },
+    "ss:189": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 189
+    },
+    "ss:197": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 197
+    },
+    "ss:2586": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 2586
+    },
+    "ss:2628": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 2628
+    },
+    "ss:3117": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 3117
+    },
+    "ss:4347": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 4347
+    },
+    "ss:5014": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 5014
+    },
+    "ss:5019": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 5019
+    },
+    "ss:5052": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 5052
+    },
+    "ss:6302": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 6302
+    },
+    "ss:6426": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 6426
+    },
+    "ss:6430": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 6430
+    },
+    "ss:6494": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 6494
+    },
+    "ss:6496": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 6496
+    },
+    "ss:21680": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 21680
+    },
+    "ss:21754": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 21754
+    },
+    "ss:22843": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 22843
+    },
+    "ss:22844": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 22844
+    },
+    "ss:23820": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 23820
+    },
+    "ss:24593": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 24593
+    },
+    "ss:24595": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 24595
+    },
+    "ss:24960": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 24960
+    },
+    "ss:25605": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 25605
+    },
+    "ss:25687": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 25687
+    },
+    "ss:25689": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 25689
+    },
+    "ss:25836": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 25836
+    },
+    "ss:25959": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 25959
+    },
+    "ss:26019": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26019
+    },
+    "ss:26163": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26163
+    },
+    "ss:26468": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26468
+    },
+    "ss:26473": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26473
+    },
+    "ss:26483": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26483
+    },
+    "ss:26841": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26841
+    },
+    "ss:26953": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26953
+    },
+    "ss:26958": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26958
+    },
+    "ss:26962": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 26962
+    },
+    "ss:27728": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 27728
+    },
+    "ss:27746": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 27746
+    },
+    "ss:28003": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28003
+    },
+    "ss:28008": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28008
+    },
+    "ss:28012": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28012
+    },
+    "ss:28014": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28014
+    },
+    "ss:28015": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28015
+    },
+    "ss:28017": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28017
+    },
+    "ss:28019": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28019
+    },
+    "ss:28022": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28022
+    },
+    "ss:28032": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28032
+    },
+    "ss:28033": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28033
+    },
+    "ss:28050": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28050
+    },
+    "ss:28055": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28055
+    },
+    "ss:28061": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28061
+    },
+    "ss:28063": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28063
+    },
+    "ss:28066": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28066
+    },
+    "ss:28067": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28067
+    },
+    "ss:28068": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28068
+    },
+    "ss:28069": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28069
+    },
+    "ss:28071": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28071
+    },
+    "ss:28076": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28076
+    },
+    "ss:28077": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28077
+    },
+    "ss:28150": {
+      "checkedAt": "2026-10-22",
+      "status": "verified",
+      "seasonId": 28150
     }
   },
   "items": [
@@ -2573,13 +2873,19 @@
       "title": "東京暗鴉（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/a71a3f7fe5aa75b2a982f2fe90fb5e15f6332c85.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2013-10-08",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277193",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28076",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277193
       ],
@@ -2591,13 +2897,19 @@
       "title": "魔劍姬！通（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/7934fdeacea311afeffa121c202aec4f06a22e56.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-01-15",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep113200",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=4347",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         113200
       ],
@@ -2627,13 +2939,19 @@
       "title": "風雲維新大將軍（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/943689e5980c0f7ca7a38900bca0bb42550e00ee.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-04-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep4406",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=189",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         4406
       ],
@@ -2717,13 +3035,19 @@
       "title": "目隱都市的演繹者（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/2a92ec3b6e0f230ce9286d483dfd13538b1ad41f.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-04-12",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep4499",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=197",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         4499
       ],
@@ -2753,13 +3077,19 @@
       "title": "LOVE STAGE!!（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/3ea8cbdcafdea74920a320bbe9c6b886436446e3.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-07-09",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep261446",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26468",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         261446
       ],
@@ -2802,13 +3132,19 @@
       "title": "東京ESP （僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/50da923a3a00c24cc476ad710e052669dde10c47.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-07-11",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep261491",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26473",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         261491
       ],
@@ -2820,13 +3156,19 @@
       "title": "頭文字D Legend1 -覺醒-（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/bf825d6fd9a00be9e67c636f4540cb6cc2f61f55.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-08-23",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep278572",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28150",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         278572
       ],
@@ -2910,13 +3252,19 @@
       "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/0bb9ea24a9ee6e14c36cb6678d1a4e5b8de44ae6.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2015-07-04",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep63842",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=2586",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         63842
       ],
@@ -2955,13 +3303,19 @@
       "title": "純情羅曼史 第3季（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/2fe9f6623a0c74c61e6675464d9fa4c10845d28d.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2015-07-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep63957",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=2628",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         63957
       ],
@@ -3054,13 +3408,19 @@
       "title": "告訴我！辣妹子醬（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/4edab1a0299719d19d21fc32bf345545506b0f85.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-01-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276747",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=3117",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276747
       ],
@@ -3090,13 +3450,19 @@
       "title": "田中君總是如此慵懶（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/af105bd1a89fe6e1a520fc0b46df5a940700ad39.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-04-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276003",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28032",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276003
       ],
@@ -3108,13 +3474,19 @@
       "title": "遊戲王：次元的黑暗面（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/96a4e6d7a8a15aa0aac917213401886f381f763c.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-04-23",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277178",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28077",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277178
       ],
@@ -3126,13 +3498,19 @@
       "title": "剑风传奇 新作（僅限台湾地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/cd67ce73805396aac5b7ded42c628e9caacce2b7.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-01",
       "indexShow": "已完结, 全25话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep257330",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26163",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         257330
       ],
@@ -3144,13 +3522,19 @@
       "title": "B-PROJECT（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/bed021aa3fa9e6353ce8ad379f6887aec106b4c1.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-03",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep92673",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5019",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         92673
       ],
@@ -3162,13 +3546,19 @@
       "title": "不愉快的怪物庵（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/1ff8a4a2eb8aa0274d3d4728eb66a9fce0c89f7c.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-03",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep90992",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5014",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         90992
       ],
@@ -3207,13 +3597,19 @@
       "title": "91Days（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/ad809a604478876400b80bbc584641c06fcec030.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep288501",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28033",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         288501
       ],
@@ -3252,13 +3648,19 @@
       "title": "心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/fd9fc76508d2bfd43cf522d18b69a8a8adcdc132.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-10",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep93095",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5052",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         93095
       ],
@@ -3301,13 +3703,19 @@
       "title": "FLIP FLAPPERS（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/64ca446c6b1d8959c91d47358a522c61b097ab53.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-10-06",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276459",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28055",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276459
       ],
@@ -3319,13 +3727,19 @@
       "title": "竞女（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/58a8710401b57b8d59bcab22309c5996ef41b0d6.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-10-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276712",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28061",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276712
       ],
@@ -3337,13 +3751,19 @@
       "title": "漂流武士 （僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/5010df55d63e21cdc4907ff221c98ede30cf5c05.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-10-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep255732",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26019",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         255732
       ],
@@ -3409,13 +3829,19 @@
       "title": "亚人酱有话要说 （僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/c4832286a65ccaa9f7f65e23fd50bfc0b2e1893d.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-01-07",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep261588",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26483",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         261588
       ],
@@ -3512,13 +3938,19 @@
       "title": "活撃/刀剣乱舞（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/2d66cd1745f53c61eb181518299b8b82dbc64313.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-07-02",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep113106",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=6302",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         113106
       ],
@@ -3530,13 +3962,19 @@
       "title": "品酒要在成為夫妻之後（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/b3aa44ce91b371fa2614e5bf617615210e325145.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-10-04",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep115063",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=6494",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         115063
       ],
@@ -3548,13 +3986,19 @@
       "title": "Infini-T Force（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/dd5b331172f5a99ccf295c31f79faf49eeeedcdf.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-10-04",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep115475",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=6496",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         115475
       ],
@@ -3566,13 +4010,19 @@
       "title": "國王遊戲 The Animation（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/0798d251de3ae5bfa6179e78da7db3e21eab900e.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-10-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep115172",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=6426",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         115172
       ],
@@ -3584,13 +4034,19 @@
       "title": "Dies irae 神怒之日（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/b2567ad0d6f0d5d1713ed5f030345fae32f933be.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2017-10-07",
       "indexShow": "已完结, 全19话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep115202",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=6430",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         115202
       ],
@@ -3664,13 +4120,19 @@
       "title": "Slow Start（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/c2f997dec796bae3979e6051035f625e932a103e.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-01-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep173366",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=22844",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         173366
       ],
@@ -3682,13 +4144,19 @@
       "title": "百變小櫻Clear咭（僅限港澳地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/d476946bff636d8e17ff59875581ba737992b475.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-01-07",
       "indexShow": "已完结, 全22话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep173305",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=22843",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         173305
       ],
@@ -3700,13 +4168,19 @@
       "title": "續 刀劍亂舞 -花丸-（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/192c6e933b304dd0ece1936855254754b67eed75.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-01-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep173155",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=21754",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         173155
       ],
@@ -3718,13 +4192,19 @@
       "title": "DARLING in the FRANXX（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/becda7a59d0fe317c51a6e357857cffca20fa0d4.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-01-14",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep183799",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=21680",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         183799
       ],
@@ -3798,13 +4278,19 @@
       "title": "失憶融合WIXOSS（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/3721dfa47e0b341c89fc618fb5ff5920c6631353.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-04-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep200307",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=23820",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         200307
       ],
@@ -3843,13 +4329,19 @@
       "title": "千槍士（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/067c41930ed0be6fac3882ddf37fe5a3702798b2.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-07-03",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep232156",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=24960",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         232156
       ],
@@ -3879,13 +4371,19 @@
       "title": "百鍊霸王與聖約女武神（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/a36c510217610bf3e8486b3b02c7d3db1a6b288c.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-07-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep272397",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=27746",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         272397
       ],
@@ -3897,13 +4395,19 @@
       "title": "Angolmois 元寇合戰記（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/14b24fa5424c431c70058eedb273204a59c228f9.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-07-11",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep232210",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=24595",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         232210
       ],
@@ -3915,13 +4419,19 @@
       "title": "少女☆歌劇 Revue Starlight（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/30d132d0f2cde198d123dda61c5f1a1861a710a0.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-07-13",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep267649",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26841",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         267649
       ],
@@ -3933,13 +4443,19 @@
       "title": "搖曳莊的幽奈小姐（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/584590e41ef0aed008fd4047fb2a2adc30e19099.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-07-14",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep251823",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=24593",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         251823
       ],
@@ -4018,13 +4534,19 @@
       "title": "Double Decker! 道格&基里爾（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/5558bfb6adbc41d636bf3285e169b798cffc6ee8.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-09-30",
       "indexShow": "已完结, 全16话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep251167",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=25605",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         251167
       ],
@@ -4036,13 +4558,19 @@
       "title": "天空與海洋之間（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/8f9d3245e8e9f49cfa604f55d1dff43c4b21b8eb.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-10-04",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep251231",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=25687",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         251231
       ],
@@ -4054,13 +4582,19 @@
       "title": "佐賀偶像是傳奇（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/2071c921ddc29050e61332379021a1b7b996a0c3.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-10-05",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep251255",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=25689",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         251255
       ],
@@ -4099,13 +4633,19 @@
       "title": "產子救世錄（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/855402f9e050262bee5644e6d0b1df663e613c22.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-10-10",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep253946",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=25959",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         253946
       ],
@@ -4117,13 +4657,19 @@
       "title": "只要別西卜大小姐喜歡就好（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/e2d6323738345e265ff07425cd4ed7c8a8fc715c.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2018-10-11",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep251243",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=25836",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         251243
       ],
@@ -4135,13 +4681,19 @@
       "title": "YU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/0731858af0efc0dd2af98213f7b264fc765259ce.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-04-02",
       "indexShow": "已完结, 全26话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep270945",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=27728",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         270945
       ],
@@ -4180,13 +4732,19 @@
       "title": "滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/5d3139f10d3eb2cb962932007287d23ef83d8995.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-04-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep267799",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26953",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         267799
       ],
@@ -4198,13 +4756,19 @@
       "title": "MIX（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/c810285bf6e2f40a5ab7c1662ac637670a9cac2f.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-04-06",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep268024",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26958",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         268024
       ],
@@ -4333,13 +4897,19 @@
       "title": "八月的棒球甜心（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/6351a8acf68bfcc112b7d0358df6f97ba26d59dc.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-04-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep268164",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26962",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         268164
       ],
@@ -4445,13 +5015,19 @@
       "title": "你遭難了嗎？（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/915de9f9abf630b2e966b8a0607f6703c9b05cfb.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-02",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276588",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28012",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276588
       ],
@@ -4463,13 +5039,19 @@
       "title": "魔術學姐（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/38f844e6cbb356d8c9e4ff60a046b94adf9e7148.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-02",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276601",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28019",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276601
       ],
@@ -4481,13 +5063,19 @@
       "title": "彼方的阿斯特拉（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/fd52ad4c90cc656fb7b32db42dd1d00d8ccb88b3.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-03",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276761",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28017",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276761
       ],
@@ -4499,13 +5087,19 @@
       "title": "流汗吧！健身少女（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/e329237ec515bc78aaef42e1544d407f43e111d9.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-03",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276727",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28063",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276727
       ],
@@ -4517,13 +5111,19 @@
       "title": "魔王大人、RETRY！（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/7ecb25e2cd662a6e80d5f512e2176f380b0622bc.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-04",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276348",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28050",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276348
       ],
@@ -4553,13 +5153,19 @@
       "title": "女高中生的虛度日常（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/19b84ba0b957da02d7a0f7832141a627c9512c0f.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-05",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276958",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28068",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276958
       ],
@@ -4622,13 +5228,19 @@
       "title": "騷亂時節的少女們。（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/83fd82451506a2282d394d3937a8255e614825c7.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276932",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28022",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276932
       ],
@@ -4667,13 +5279,19 @@
       "title": "實況主的逃脫遊戲【直播中】（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/a2f7eed0ebe1a672bb8f8b171fa0df34b1067715.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-07",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276945",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28067",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276945
       ],
@@ -4685,13 +5303,19 @@
       "title": "偶像夢幻祭（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/aa375261cda59fa281f3b209f5b15442c858be90.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-07",
       "indexShow": "已完结, 全25话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277117",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28071",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277117
       ],
@@ -4703,13 +5327,19 @@
       "title": "只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/d30a33ef58a0ab6dbe02f229e454525f2867454e.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276970",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28015",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276970
       ],
@@ -4748,13 +5378,19 @@
       "title": "COP CRAFT（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/fb27390d4f300e0b7afea4ec20e4d5c664863e66.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-09",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep276982",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28069",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         276982
       ],
@@ -4766,13 +5402,19 @@
       "title": "GIVEN 被贈與的未來（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/c1f94c71c1264b0be9f8fd3474df3a9657de373d.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-12",
       "indexShow": "已完结, 全11话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277955",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28008",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277955
       ],
@@ -4784,13 +5426,19 @@
       "title": "普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/7c2613e4beb83fc1207ca096faf3330036446af3.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-13",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277968",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28003",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277968
       ],
@@ -4802,13 +5450,19 @@
       "title": "科學一方通行（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/e9ef9ac470662176dd5fd9b558aa838bf0fb621b.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-13",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep277003",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28066",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         277003
       ],
@@ -4820,13 +5474,19 @@
       "title": "TRY KNIGHTS（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/4b722352adf7e6261e779fb59ab8e6bdb3939777.png",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2019-07-31",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep278867",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28014",
+      "checkedAt": "2026-10-22",
+      "verification": "official-simple-season",
       "episodeIds": [
         278867
       ],

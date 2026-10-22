@@ -1,9 +1,9 @@
 {
   "meta": {
-    "checkedAt": "2026-10-19",
+    "checkedAt": "2026-10-22",
     "partial": true,
     "rateLimited": false,
-    "failedSources": 6
+    "failedSources": 3
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -455,7 +455,7 @@
         "https://www.bilibili.com/read/cv6295997?from=articleDetail",
         "https://www.bilibili.com/opus/611440172852572855"
       ],
-      "checkedAt": "2026-10-19"
+      "checkedAt": "2026-10-22"
     },
     "https://www.bilibili.com/opus/984809853218193431": {
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
@@ -735,7 +735,7 @@
       ],
       "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-10-19"
+      "checkedAt": "2026-10-22"
     },
     "https://www.bilibili.com/opus/862025538638708793": {
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
@@ -988,7 +988,7 @@
         }
       ],
       "relatedArticles": [],
-      "checkedAt": "2026-10-19"
+      "checkedAt": "2026-10-22"
     },
     "https://www.bilibili.com/read/mobile?id=6211078": {
       "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078",
@@ -2219,6 +2219,181 @@
         "//www.bilibili.com/read/cv13619922/"
       ],
       "checkedAt": "2026-10-19"
+    },
+    "https://www.bilibili.com/read/cv7314822": {
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822",
+      "opusId": "428417885360651517",
+      "title": "B站隐藏番剧第二期",
+      "seasons": [],
+      "videos": [
+        {
+          "bvid": "BV1Jx411P7PM",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Lx411P7V1",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Hx411P7t3",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV16x411P7Jw",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1ex411P7zJ",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Dx411P7en",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1fx411P7Jc",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Rx411P7mX",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV13x411N7sN",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Kx411N7PE",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Gx411N7iR",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Ux411w7gb",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1nx411P7oh",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV14x411P72H",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Wx411P7VH",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1rx411P7Tk",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1mx411P7u9",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1kx411P7ME",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Zx411P7Uu",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1ox411P7Ta",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1gx411N7UC",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV17x411N7e2",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Gx411N7TD",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV11s411Z7v4",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Us411Z7Hj",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1rs411Z7L8",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1rs411Z7kB",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV19s411Z7R5",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1os411Z7em",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Ss411Z7zL",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Qs411Z7di",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Ns411f7PQ",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Ts411f7rg",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Fs411f7wK",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1ws411f75z",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1rs411Z7uZ",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1os411Z7Pm",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Ss411Z7PH",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1Qs411Z7Jd",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        },
+        {
+          "bvid": "BV1us411f7Az",
+          "sourceUrl": "https://www.bilibili.com/read/cv7314822"
+        }
+      ],
+      "media": [],
+      "cards": [],
+      "legacyVideos": [],
+      "relatedArticles": [
+        "//www.bilibili.com/read/cv6295997/"
+      ],
+      "checkedAt": "2026-10-22"
     }
   },
   "seasons": [
@@ -2971,163 +3146,163 @@
   "videos": [
     {
       "bvid": "BV1Jx411P7PM",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Lx411P7V1",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Hx411P7t3",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV16x411P7Jw",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1ex411P7zJ",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Dx411P7en",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1fx411P7Jc",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Rx411P7mX",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV13x411N7sN",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Kx411N7PE",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Gx411N7iR",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Ux411w7gb",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1nx411P7oh",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV14x411P72H",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Wx411P7VH",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1rx411P7Tk",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1mx411P7u9",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1kx411P7ME",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Zx411P7Uu",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1ox411P7Ta",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1gx411N7UC",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV17x411N7e2",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Gx411N7TD",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV11s411Z7v4",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Us411Z7Hj",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1rs411Z7L8",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1rs411Z7kB",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV19s411Z7R5",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1os411Z7em",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Ss411Z7zL",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Qs411Z7di",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Ns411f7PQ",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Ts411f7rg",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Fs411f7wK",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1ws411f75z",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1rs411Z7uZ",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1os411Z7Pm",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Ss411Z7PH",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Qs411Z7Jd",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1us411f7Az",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv7314822"
     },
     {
       "bvid": "BV1Vs411D79y",
@@ -3187,7 +3362,8 @@
       "indexShow": "限时免费 已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 5558,
@@ -3196,7 +3372,8 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 25717,
@@ -3205,7 +3382,8 @@
       "indexShow": "独家 已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 26298,
@@ -3214,7 +3392,8 @@
       "indexShow": "独家 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 1356,
@@ -3223,7 +3402,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 1097,
@@ -3232,7 +3412,8 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 2029,
@@ -3241,7 +3422,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 1146,
@@ -3250,7 +3432,8 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 5125,
@@ -3259,7 +3442,8 @@
       "indexShow": "已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 47098,
@@ -3268,7 +3452,8 @@
       "indexShow": "独家 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 842,
@@ -3277,7 +3462,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 3486,
@@ -3286,7 +3472,8 @@
       "indexShow": "已完结, 全2话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 843,
@@ -3295,7 +3482,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 23869,
@@ -3304,7 +3492,8 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 2238,
@@ -3313,7 +3502,8 @@
       "indexShow": "已完结, 全43话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 142945,
@@ -3322,7 +3512,8 @@
       "indexShow": "独家 已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43060,
@@ -3331,7 +3522,8 @@
       "indexShow": "大会员 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 44816,
@@ -3340,7 +3532,8 @@
       "indexShow": "大会员 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43175,
@@ -3349,7 +3542,8 @@
       "indexShow": "已完结, 全20话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43177,
@@ -3358,7 +3552,8 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43281,
@@ -3367,7 +3562,8 @@
       "indexShow": "大会员 已完结, 全52话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43061,
@@ -3376,7 +3572,8 @@
       "indexShow": "独家 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43174,
@@ -3385,7 +3582,8 @@
       "indexShow": "独家 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43103,
@@ -3394,7 +3592,8 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43171,
@@ -3403,7 +3602,8 @@
       "indexShow": "独家 已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43176,
@@ -3412,7 +3612,8 @@
       "indexShow": "大会员 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43267,
@@ -3421,7 +3622,8 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43278,
@@ -3430,7 +3632,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43772,
@@ -3439,7 +3642,8 @@
       "indexShow": "独家 已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43170,
@@ -3448,7 +3652,8 @@
       "indexShow": "大会员 已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43104,
@@ -3457,7 +3662,8 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43184,
@@ -3466,7 +3672,8 @@
       "indexShow": "独家 已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 43064,
@@ -3475,7 +3682,8 @@
       "indexShow": "已完结, 全46话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 44952,
@@ -3484,7 +3692,8 @@
       "indexShow": "大会员 已完结, 全4话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     },
     {
       "id": 44862,
@@ -3493,7 +3702,8 @@
       "indexShow": "大会员 已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card"
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-22"
     }
   ],
   "legacyVideos": [

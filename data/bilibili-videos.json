@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checkedAt": "2026-10-17",
+    "checkedAt": "2026-10-22",
     "sources": [
       {
         "id": 962219,
@@ -15,12 +15,14 @@
         "complete": true
       }
     ],
-    "partial": false,
+    "partial": true,
     "checked": 0,
-    "warning": null,
+    "warning": "官方视频核查中断，保留已确认结果，下次继续",
     "officialAccount": "https://space.bilibili.com/928123",
     "scope": "官方公开合集、专栏视频线索与已确认正片链接；投稿总目录仍可能遗漏隐藏视频",
-    "legacyPartial": false
+    "legacyPartial": false,
+    "legacyRateLimited": false,
+    "rateLimited": true
   },
   "checks": {
     "BV1Jx411P7PM": {
