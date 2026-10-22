@@ -3,7 +3,7 @@ import {resolve} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import OpenCC from 'opencc-js';
 import {readJson,writeJson,root,today} from './shared.mjs';
-import {collectDirectory} from './bilibili-directory.mjs';
+import {collectDirectory,preserveDirectoryHistory} from './bilibili-directory.mjs';
 import {collectOfficialVideos,collectLegacyVideos} from './bilibili-videos.mjs';
 import {collectHistory,getMediaPage} from './bilibili-history.mjs';
 import {collectOrigins} from './bilibili-origins.mjs';
@@ -51,10 +51,10 @@ export function buildBilibili({directory,videos,chinese,subjects,countries={},or
 }
 export async function build({offline=false}={}){
  let directory=await readJson('data/bilibili-directory.json',null),videos=await readJson('data/bilibili-videos.json',{items:{}}),history=await readJson('data/bilibili-history.json',{items:[],checks:{}}),discovery=await readJson('data/bilibili-discovery.json',{}),linked=await readJson('data/bilibili-linked.json',{items:[],checks:{}}),pages=await readJson('data/bilibili-pages.json',{items:[],checks:{}}),origins=await readJson('data/bilibili-origins.json',{items:{}});const seeds=await readJson('data/bilibili-video-seeds.json',[]),archive=await readJson('data/bilibili-archive.json',{items:[]});
- if(!offline){directory=await collectDirectory();
+ if(!offline){const previous=directory;directory=await collectDirectory();history=preserveDirectoryHistory(previous,directory,history);
   try{discovery=await collectArticleLeads(discovery,await readJson('data/bilibili-discovery-sources.json',[]));if(discovery.meta.partial)console.warn('部分专栏未能刷新，沿用已保存的线索。');}catch{console.warn('专栏线索刷新失败，保留已确认记录。');}
   let limited=discovery.meta?.rateLimited;
-  if(!limited)try{pages=await collectSeasonPages(pages,videos,{seeds:[...linked.items.filter(x=>x.verification!=='official-season'),...discovery.seasons||[],...archive.items,...history.items.flatMap(x=>x.seasons||[])],knownSeasonIds:[...directory.items,...history.items].map(x=>x.id)});limited=pages.meta.rateLimited;if(pages.meta.partial)console.warn('部分旧入口仍待恢复番剧页，保留线索供下次继续。');}catch{console.warn('官方番剧网页暂未有效返回，保留上次已核验结果。');}
+  if(!limited)try{pages=await collectSeasonPages(pages,videos,{seeds:[...seeds.filter(x=>Number.isSafeInteger(x.seasonId)).map(x=>({id:x.seasonId})),...linked.items.filter(x=>x.verification!=='official-season'),...discovery.seasons||[],...archive.items,...history.items.flatMap(x=>x.seasons||[])],knownSeasonIds:[...directory.items,...history.items].map(x=>x.id)});limited=pages.meta.rateLimited;if(pages.meta.partial)console.warn('部分旧入口仍待恢复番剧页，保留线索供下次继续。');}catch{console.warn('官方番剧网页暂未有效返回，保留上次已核验结果。');}
   if(!limited)try{linked=await collectLinkedSeasons(linked,discovery.seasons||[],directory,{cards:discovery.cards||[]});limited=linked.meta.rateLimited;if(linked.meta.warning)console.warn(linked.meta.warning);}catch{console.warn('关联季度暂未核查完成，保留上次结果。');}
   if(!limited)try{videos=await collectLegacyVideos(videos,discovery.legacyVideos||[]);limited=videos.meta.legacyRateLimited;if(!limited)videos=await collectOfficialVideos(videos,[...seeds,...discovery.videos||[]]);limited=limited||videos.meta.rateLimited;if(videos.meta.warning)console.warn(videos.meta.warning);}catch{if(!Object.keys(videos.items).length)throw new Error('官方视频缓存缺失且接口未能读取');console.warn('官方账号合集暂未返回，保留上次已核验视频。');}
   if(!limited)try{history=await collectHistory(history,directory,{pageRequest:getMediaPage,knownItems:[...linked.items,...pages.items],extraSeeds:archive.items});limited=history.meta.rateLimited;if(history.meta.warning)console.warn(history.meta.warning);}catch{console.warn('历史与港澳台条目核查暂未完成，保留上次已核验记录，下次继续。');}

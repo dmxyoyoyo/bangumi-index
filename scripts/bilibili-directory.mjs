@@ -1,5 +1,10 @@
 import {getJson,today} from './shared.mjs';
 import {setTimeout as delay} from 'node:timers/promises';
+export function preserveDirectoryHistory(previous,current,history){
+ const active=new Set(current.items.map(x=>x.id)),saved=new Map(history.items.map(x=>[x.id,x]));
+ for(const entry of previous?.items||[])if(!active.has(entry.id)&&!saved.has(entry.id))saved.set(entry.id,{...entry,historical:true,sourceUrl:previous.meta?.source||'https://api.bilibili.com/pgc/season/index/result',checkedAt:entry.checkedAt||previous.meta?.checkedAt,verification:'official-index-history'});
+ return {...history,items:[...saved.values()]};
+}
 export async function collectDirectory({request=getJson,pause=delay}={}){
  const items=new Map(),sources=[];
  for(const type of [1,4]){

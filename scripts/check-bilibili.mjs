@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {createRequire} from 'node:module';
 import {buildBilibili,videoWorkTitle,regionalLabel,stripRegion} from './bilibili.mjs';
-import {collectDirectory} from './bilibili-directory.mjs';
+import {collectDirectory,preserveDirectoryHistory} from './bilibili-directory.mjs';
 import {collectHistory,historySeeds,historyOriginals,mediaFromPage} from './bilibili-history.mjs';
 import {regionalTitles} from './bilibili-titles.mjs';
 import {fillBilibiliOriginals} from './bilibili-originals.mjs';
@@ -18,6 +18,14 @@ assert.equal(videoWorkTitle('【10月/完结】临时女友 12'),'临时女友')
 assert.equal(stripRegion('給不滅的你 第二季（僅限港澳台地區'),'給不滅的你 第二季');assert.equal(regionalLabel('給不滅的你 第二季（僅限港澳台地區'),'仅限港澳台地区');assert.equal(Model.primaryTitle({title:'给不灭的你 第二季（仅限港澳台地区',officialTitle:'給不滅的你 第二季（僅限港澳台地區'}),'给不灭的你 第二季（仅限港澳台地区）');
 const directory={meta:{checkedAt:'2026-10-17',sources:[]},items:[{id:10,title:'作品',cover:'',indexShow:'全12话'}]},video={bvid:'BV1kx411P7ME',title:'【10月】日常系的异能战斗 07',ownerId:928123,publishedAt:1416297600,available:true},videos={items:{[video.bvid]:video}};
 const built=buildBilibili({directory,videos,chinese:{},subjects:{}}),hidden=built.items.find(x=>!x.id);assert(hidden);assert.equal(hidden.url,'https://www.bilibili.com/video/BV1kx411P7ME/');
+const previousIndex={meta:{checkedAt:'2026-10-17',source:'https://api.bilibili.com/pgc/season/index/result'},items:[...directory.items,{id:3389,title:'×××HOLiC 继',type:1},{id:1239,title:'×××HOLiC',type:1}]};
+const reducedIndex={meta:{checkedAt:'2026-10-22'},items:[{...directory.items[0],title:'作品新版资料'}]},knownHistory={items:[{id:3389,title:'×××HOLiC 继',japaneseTitle:'×××HOLiC◆継',verification:'official-season-page',checkedAt:'2026-10-20'}],checks:{}};
+const indexInputs=structuredClone({previousIndex,reducedIndex,knownHistory}),preservedIndexHistory=preserveDirectoryHistory(previousIndex,reducedIndex,knownHistory);
+assert.deepEqual({previousIndex,reducedIndex,knownHistory},indexInputs,'Index-history preservation must not mutate its inputs');
+assert.equal(preservedIndexHistory.items.find(x=>x.id===3389).japaneseTitle,'×××HOLiC◆継');assert.equal(preservedIndexHistory.items.find(x=>x.id===1239).checkedAt,'2026-10-17','A missing index entry retains its actual verification date');assert.equal(preservedIndexHistory.items.find(x=>x.id===1239).verification,'official-index-history');
+const savedIndex=preserveDirectoryHistory(previousIndex,reducedIndex,{items:[],checks:{}});
+const holicVideos={items:{BV1xW411f7Co:{...video,bvid:'BV1xW411f7Co',title:'【合集】×××HOLiC◆继'},BV1VW411d7SM:{...video,bvid:'BV1VW411d7SM',title:'【合集】xxxHOLiC'}}},holicOverrides={BV1xW411f7Co:{seasonId:3389,seasonTitle:'×××HOLiC 继'},BV1VW411d7SM:{seasonId:1239,seasonTitle:'×××HOLiC'}};
+for(const history of [savedIndex,preserveDirectoryHistory(reducedIndex,reducedIndex,savedIndex)]){const result=buildBilibili({directory:reducedIndex,extras:history,videos:holicVideos,overrides:holicOverrides,chinese:{},subjects:{}});assert.equal(result.items.find(x=>x.id===10).officialTitle,'作品新版资料');for(const [bvid,id] of [['BV1xW411f7Co',3389],['BV1VW411d7SM',1239]]){const found=Model.filter(result.items,{query:bvid});assert.equal(found.length,1);assert.equal(found[0].id,id,'A reduced live index must not turn a verified season back into a BV-only entry');}assert.equal(new Set(history.items.map(x=>x.id)).size,history.items.length);}
 for(const query of ['日常系','BV1kx411P7ME','https://www.bilibili.com/video/BV1kx411P7ME/'])assert.equal(Model.filter(built.items,{query}).length,1);assert.equal(Model.filter(built.items,{query:'ss10'}).length,1);assert.equal(Model.filter(built.items,{query:'no-such-work-99231'}).length,0);
 const regionalItems=['僅限港澳台地區','僅限香港地區','僅限澳門地區','僅限台灣地區','僅限臺灣地區','仅限港澳地区','僅臺灣地區','仅台湾地区'].map((label,i)=>({...built.items[0],id:100+i,officialTitle:'作品（'+label+'）'}));
 assert.equal(Model.filter([...regionalItems,...built.items],{region:'hmt'}).length,regionalItems.length);assert.equal(Model.filter(regionalItems,{region:'hmt',query:'ss102'})[0].id,102);assert.equal(Model.filter(built.items,{region:'hmt',query:'ss10'}).length,0);assert.equal(Model.filter(built.items,{region:'hmt',query:video.bvid}).length,0);for(const item of regionalItems)assert.equal(Model.displayTitle(item.officialTitle),'作品');assert(!Model.isRegional({officialTitle:'作品（仅限大会员）'}));
