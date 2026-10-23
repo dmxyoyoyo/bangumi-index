@@ -193284,6 +193284,21 @@
       "sourceUrl": "https://api.bilibili.com/pgc/season/index/result",
       "checkedAt": "2026-10-17",
       "verification": "official-index-history"
+    },
+    {
+      "id": 158213,
+      "title": "我的因果反转了",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b7f4762ccfc2b8661bd3a84aeaf72a0069e66f0b.png",
+      "type": 4,
+      "sourceType": 4,
+      "mediaId": 321130129,
+      "indexShow": "全29话",
+      "firstEpisode": 3057267,
+      "isFinish": true,
+      "historical": true,
+      "sourceUrl": "https://api.bilibili.com/pgc/season/index/result",
+      "checkedAt": "2026-10-23",
+      "verification": "official-index-history"
     }
   ]
 }

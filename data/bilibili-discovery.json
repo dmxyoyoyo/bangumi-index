@@ -1,9 +1,9 @@
 {
   "meta": {
-    "checkedAt": "2026-10-23",
+    "checkedAt": "2026-10-24",
     "partial": true,
     "rateLimited": false,
-    "failedSources": 7
+    "failedSources": 2
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -735,260 +735,693 @@
       ],
       "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     "https://www.bilibili.com/opus/862025538638708793": {
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "opusId": "862025538638708793",
       "title": "2023年仅限港澳台番剧统计",
-      "seasons": [],
-      "videos": [],
-      "media": [],
-      "cards": [],
-      "legacyVideos": [
+      "seasons": [
         {
-          "aid": 862151601,
-          "expectedTitle": "1.不相信人类的冒险者们好像要去拯救世界（独播）",
+          "id": 44466,
+          "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 777359094,
-          "expectedTitle": "2.转生公主与天才千金的魔法革命（独播）",
+          "id": 44468,
+          "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 777362101,
-          "expectedTitle": "3.文豪野犬 第四季（独播）",
+          "id": 44484,
+          "title": "文豪野犬 第四季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 904666322,
-          "expectedTitle": "4.冰属性男子和酷酷女同事",
+          "id": 44477,
+          "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 222140153,
-          "expectedTitle": "5.弦音 -连结的一射-（独播）",
+          "id": 44490,
+          "title": "弦音 -連結的一射-（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 522323654,
-          "expectedTitle": "6.阿鲁斯的巨兽",
+          "id": 44124,
+          "title": "阿魯斯的巨獸（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 564782991,
-          "expectedTitle": "7.为了养老金去异世界存八万金（独播）",
+          "id": 44223,
+          "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 349762867,
-          "expectedTitle": "8.TRIGUN STAMPEDE（独播）",
+          "id": 44504,
+          "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 819820748,
-          "expectedTitle": "9.关于我在无意间被隔壁的天使变成废柴这件事（独播）",
+          "id": 44502,
+          "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 522368979,
-          "expectedTitle": "10.不当哥哥了（独播）",
+          "id": 44493,
+          "title": "不當哥哥了！（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 264810380,
-          "expectedTitle": "11.尼尔：自动人形 Ver1.1a（独播）",
+          "id": 44508,
+          "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 349836558,
-          "expectedTitle": "12.无意间变成狗，被喜欢的女生捡回家。（独播）",
+          "id": 44494,
+          "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 989869942,
-          "expectedTitle": "13.冰剑的魔术师将要统一世界（独播）",
+          "id": 44505,
+          "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 649887669,
-          "expectedTitle": "14.英雄传说：闪之轨迹",
+          "id": 44495,
+          "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 522578892,
-          "expectedTitle": "15.久保同学不放过我",
+          "id": 44218,
+          "title": "久保同學不放過我（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 435141414,
-          "expectedTitle": "16.真・进化之实 踏上胜利的人生",
+          "id": 44217,
+          "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 989813479,
-          "expectedTitle": "17.最强阴阳师的异世界转生记（独播）",
+          "id": 44125,
+          "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 265076499,
-          "expectedTitle": "18.拥有超常技能的异世界流浪美食家（独播）",
+          "id": 44471,
+          "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 392669169,
-          "expectedTitle": "19.因为太怕痛就全点防御力了 第二季",
+          "id": 44465,
+          "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 735102878,
-          "expectedTitle": "20.物之古物奇谭",
+          "id": 44503,
+          "title": "物之古物奇譚（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 649846705,
-          "expectedTitle": "21.魔王学院的不适合者 第二季（独播）",
+          "id": 44464,
+          "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 519802803,
-          "expectedTitle": "22.虚构推理 第二季",
+          "id": 44467,
+          "title": "虛構推理 Season2（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 862257590,
-          "expectedTitle": "23.傲娇反派千金莉洁洛特与实况主远藤同学及解说员小林同学（独播）",
+          "id": 44221,
+          "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 565000087,
-          "expectedTitle": "24.英雄王，为了穷尽武道而转生～然后，成为世界最强的见习骑士♀～（独播）",
+          "id": 44470,
+          "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 905079653,
-          "expectedTitle": "25.妖幻三重奏（独播）",
+          "id": 44506,
+          "title": "妖幻三重奏（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 777355938,
-          "expectedTitle": "26.间谍教室（独播）",
+          "id": 44485,
+          "title": "間諜教室（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 777297114,
-          "expectedTitle": "27.被神捡到的男人 第二季（独播）",
+          "id": 44509,
+          "title": "眾神眷顧的男人2（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 264831286,
-          "expectedTitle": "28.不要欺负我，长瀞同学 2nd Attack（独播）",
+          "id": 44512,
+          "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 477310521,
-          "expectedTitle": "29.被解雇的暗黑士兵慢生活的第二人生",
+          "id": 44365,
+          "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 824473027,
-          "expectedTitle": "1.在异世界获得获得超强能力的我，在现实世界照样无敌（独播）",
+          "id": 44999,
+          "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 654493232,
-          "expectedTitle": "2.无神世界的神明活动（独播）",
+          "id": 44997,
+          "title": "無神世界的神明活動（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 867086687,
-          "expectedTitle": "3.魔法使的新娘 第2季（独播）",
+          "id": 44998,
+          "title": "魔法使的新娘 第2季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 611902186,
-          "expectedTitle": "4.石纪元（第三季）",
+          "id": 45008,
+          "title": "Dr. STONE 新石紀（第三季）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 439644678,
-          "expectedTitle": "5.物理魔法使-马修-",
+          "id": 45000,
+          "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 484675661,
-          "expectedTitle": "6.总之就是非常可爱 第二季",
+          "id": 44960,
+          "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 269536926,
-          "expectedTitle": "7.第二次被异世界召唤（独播）",
+          "id": 44959,
+          "title": "第二次被異世界召喚（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 312324574,
-          "expectedTitle": "8.鬼灭之刃 刀匠村篇",
+          "id": 45002,
+          "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 530423566,
-          "expectedTitle": "1.其实，我乃最强？（独播）",
+          "id": 45496,
+          "title": "其實，我是最強的？（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 870525684,
-          "expectedTitle": "2.咒术回战 第二季",
+          "id": 45570,
+          "title": "咒術迴戰 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 955635143,
-          "expectedTitle": "3.主宰七魔剑",
+          "id": 45516,
+          "title": "七魔劍支配天下（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 230670933,
-          "expectedTitle": "4.死神少爷与黑女仆 第二季（独播）",
+          "id": 45498,
+          "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 658173441,
-          "expectedTitle": "5.英雄教室（独播）",
+          "id": 45555,
+          "title": "英雄教室（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 658350841,
-          "expectedTitle": "6.勇者赫鲁库",
+          "id": 45497,
+          "title": "勇者赫魯庫（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 449139421,
-          "expectedTitle": "1.捡走被人悔婚的千金，教会她坏坏的幸福生活（独播）",
+          "id": 46159,
+          "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 959221355,
-          "expectedTitle": "2.想要成为影之实力者！第二季（独播）",
+          "id": 46161,
+          "title": "我想成為影之強者！第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 448941878,
-          "expectedTitle": "3.因想当冒险者而前往大都市的女儿已经升到了S级（独播）",
+          "id": 46158,
+          "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 364275474,
-          "expectedTitle": "4.盾之勇者成名录 第三季（独播）",
+          "id": 46180,
+          "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         },
         {
-          "aid": 704224789,
-          "expectedTitle": "5.世界尽头的圣骑士 第二季 铁锈之山的君王（独播）",
+          "id": 46160,
+          "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
         }
       ],
+      "videos": [],
+      "media": [],
+      "cards": [
+        {
+          "id": 44466,
+          "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/054db74be242a093dfd07ec7ec8c06fb6d9a309b.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44468,
+          "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3f8c0696dcbb4bb0aeb78263c7065370fef7ef8.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44484,
+          "title": "文豪野犬 第四季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/66fa26b02e48b49d6d5d656192aaae8db6d17393.png",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44477,
+          "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/a2196c42b45c30806d5a64778baa935b3d8a5090.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44490,
+          "title": "弦音 -連結的一射-（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/57ef79cef3309825777a4c6d1be920382332f71b.png",
+          "indexShow": "独家 已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44124,
+          "title": "阿魯斯的巨獸（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/5af917af9a21b75bd4b937f4a5a2378d58933bb9.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44223,
+          "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/b520cabe14401188c17c89dfe9d902386a0ae707.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44504,
+          "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/9283ba7129670c062640d111ec26c1d3c26aac5d.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44502,
+          "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/dde375a2daad02eb034b0a3bdaa0c8fb0abb0359.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44493,
+          "title": "不當哥哥了！（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/3306e7aba7938a91631d137cf7b2c2fb23d8157d.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44508,
+          "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/241326ac25f78fb51defdce587115a312adc0372.png",
+          "indexShow": "大会员 已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44494,
+          "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/954f11f578e4bf3721413a087a2f1ac72f65c19f.png",
+          "indexShow": "大会员 已完结, 全14话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44505,
+          "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/307b623bcc2fce9d472b6c8600975576557c6512.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44495,
+          "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/35dc18766b049ad4002b2d820d2aa4fcb83ebc2d.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44218,
+          "title": "久保同學不放過我（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/624e0e0c9ff9a1d0bad075fe3b3c16cfffdbac15.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44217,
+          "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/21cf5521a8e759cac04ad5d79a876d2abc98d7b6.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44125,
+          "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/7ada5eba46ebfdb657c8bfb20c0eab716d57cf75.png",
+          "indexShow": "大会员 已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44471,
+          "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/cfa557d1ff951c9038b6cf42d335a6bdac499033.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44465,
+          "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/4a035054dcab0c39c9b17122a8bcce6fd82fb150.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44503,
+          "title": "物之古物奇譚（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/7b6e361dc3753a4b92702964afa5b9360c7fba97.png",
+          "indexShow": "已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44464,
+          "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/b59aebd75757a088983a407ddda3d16cef086bdf.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44467,
+          "title": "虛構推理 Season2（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/36b9f8536a539b4755d12990faac21cc65b84d47.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44221,
+          "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/792bc8bc2accb10a859f6cad4dfa00709e667b8f.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44470,
+          "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/b224b4c93b155607d3df4d2a9d4162541dcb3807.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44506,
+          "title": "妖幻三重奏（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/059a43a957f97c13b4ba9b60668f64f6397f976e.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44485,
+          "title": "間諜教室（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/d2abd2359695b8ee8c2f17bbf8cdc3148e68f71c.png",
+          "indexShow": "已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44509,
+          "title": "眾神眷顧的男人2（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a368c62ea20422db4769afee7d0de8387bcb1a9.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44512,
+          "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/8ed6c16491f5a1ec3f100c5ac83bc9e3d74254a0.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44365,
+          "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/b30cbcfb3650f7ef5bda915b6664da2e616e73e2.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44999,
+          "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/6ce7cb0e556190b3c7201388c3b4255fcbd59043.png",
+          "indexShow": "大会员 已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44997,
+          "title": "無神世界的神明活動（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/d922518b9a8c6d6b2549d24b63d178320ae3b410.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44998,
+          "title": "魔法使的新娘 第2季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/cec04eff9df1a0d0b3dbc93d47bea6b1ba634ce5.png",
+          "indexShow": "已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45008,
+          "title": "Dr. STONE 新石紀（第三季）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/60168b7a8644c7d8176fd13fab916fa2da6ba9d6.png",
+          "indexShow": "已完结, 全11话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45000,
+          "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/e3b55cdb79726702806a84aa21a31d9fde325da0.png",
+          "indexShow": "大会员 已完结, 全24话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44960,
+          "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/2e25791e780cfbc683a2d4d812614711a5731a3e.png",
+          "indexShow": "独家 已完结, 全16话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 44959,
+          "title": "第二次被異世界召喚（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/99d798078abf414f572c7c6656f70c08b91ebb92.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45002,
+          "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/962267541c86b340ee323c01acb444a9367c65e2.png",
+          "indexShow": "大会员 已完结, 全11话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45496,
+          "title": "其實，我是最強的？（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/bafa54b972e339cce740347668b4aa3ef01466f1.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45570,
+          "title": "咒術迴戰 第二季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/62d10d37337fc2c975a40c4fdd188eae58ebfd47.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45516,
+          "title": "七魔劍支配天下（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/ce568f29ec121984bd02fb0c109a632d96b9966d.png",
+          "indexShow": "已完结, 全15话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45498,
+          "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/98a06cbaf4150a6b16a64fea6b931074aa0ee0d1.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45555,
+          "title": "英雄教室（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/c4af9a47a66fd01fcbe2fbf5a3c01d646780cbc1.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 45497,
+          "title": "勇者赫魯庫（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/8dee1526d1f7cc886de3b1d46de68cbfd14dc290.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 46159,
+          "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/5e63ee77b57e0c31030a2ee31b777fed96b613bc.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 46161,
+          "title": "我想成為影之強者！第二季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/f6cf88d5d750422a1c2852d333e5cfe77bbd38f3.png",
+          "indexShow": "大会员 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 46158,
+          "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/048cf05bb9f990b5da26d64668ea610852fc4eac.png",
+          "indexShow": "已完结, 全13话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 46180,
+          "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/3a4ba47126f6ab9c2eee1b9bb8d47b4a5c542af2.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 46160,
+          "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
+          "cover": "https://i0.hdslb.com/bfs/bangumi/image/bc3769e52f3f8d9605f9a97e47e5021456bb0510.png",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+          "verification": "official-ogv-card"
+        }
+      ],
+      "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     "https://www.bilibili.com/read/mobile?id=6211078": {
       "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078",
@@ -2083,7 +2516,7 @@
         "https://www.bilibili.com/read/cv6122972",
         "https://www.bilibili.com/read/cv6163122"
       ],
-      "checkedAt": "2026-10-19"
+      "checkedAt": "2026-10-24"
     },
     "https://www.bilibili.com/read/cv14794306": {
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
@@ -2092,6 +2525,10 @@
       "seasons": [
         {
           "id": 40667,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40156,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2115,11 +2552,23 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40242,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40694,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40258,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40710,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40264,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2131,7 +2580,15 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40516,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40679,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40246,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2139,11 +2596,23 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40142,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40661,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40140,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 39041,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 38952,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2155,11 +2624,19 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40154,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40664,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
           "id": 40712,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40272,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2183,6 +2660,10 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40116,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40717,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
@@ -2199,11 +2680,19 @@
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
+          "id": 40257,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
           "id": 40666,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
           "id": 40663,
+          "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+        },
+        {
+          "id": 40153,
           "sourceUrl": "https://www.bilibili.com/read/cv14794306"
         },
         {
@@ -2216,9 +2705,9 @@
       "cards": [],
       "legacyVideos": [],
       "relatedArticles": [
-        "//www.bilibili.com/read/cv13619922/"
+        "https://www.bilibili.com/opus/582496164902494207"
       ],
-      "checkedAt": "2026-10-19"
+      "checkedAt": "2026-10-24"
     },
     "https://www.bilibili.com/read/cv7314822": {
       "sourceUrl": "https://www.bilibili.com/read/cv7314822",
@@ -2393,7 +2882,7 @@
       "relatedArticles": [
         "//www.bilibili.com/read/cv6295997/"
       ],
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     }
   },
   "seasons": [
@@ -3141,6 +3630,302 @@
       "title": "國王排名（僅限港澳台地區）",
       "mediaId": 28338271,
       "sourceUrl": "https://github.com/JasonKhew96/bangumi/blob/master/src/data/bilibili.json"
+    },
+    {
+      "id": 44466,
+      "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44468,
+      "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44484,
+      "title": "文豪野犬 第四季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44477,
+      "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44490,
+      "title": "弦音 -連結的一射-（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44124,
+      "title": "阿魯斯的巨獸（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44223,
+      "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44504,
+      "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44502,
+      "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44493,
+      "title": "不當哥哥了！（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44508,
+      "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44494,
+      "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44505,
+      "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44495,
+      "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44218,
+      "title": "久保同學不放過我（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44217,
+      "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44125,
+      "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44471,
+      "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44465,
+      "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44503,
+      "title": "物之古物奇譚（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44464,
+      "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44467,
+      "title": "虛構推理 Season2（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44221,
+      "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44470,
+      "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44506,
+      "title": "妖幻三重奏（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44485,
+      "title": "間諜教室（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44509,
+      "title": "眾神眷顧的男人2（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44512,
+      "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44365,
+      "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44999,
+      "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44997,
+      "title": "無神世界的神明活動（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44998,
+      "title": "魔法使的新娘 第2季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45008,
+      "title": "Dr. STONE 新石紀（第三季）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45000,
+      "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44960,
+      "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 44959,
+      "title": "第二次被異世界召喚（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45002,
+      "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45496,
+      "title": "其實，我是最強的？（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45570,
+      "title": "咒術迴戰 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45516,
+      "title": "七魔劍支配天下（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45498,
+      "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45555,
+      "title": "英雄教室（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 45497,
+      "title": "勇者赫魯庫（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 46159,
+      "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 46161,
+      "title": "我想成為影之強者！第二季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 46158,
+      "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 46180,
+      "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 46160,
+      "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793"
+    },
+    {
+      "id": 40156,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40242,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40258,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40264,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40516,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40246,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40142,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40140,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 38952,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40154,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40272,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40116,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40257,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 40153,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306"
     }
   ],
   "videos": [
@@ -3523,7 +4308,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 44816,
@@ -3533,7 +4318,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43175,
@@ -3543,7 +4328,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43177,
@@ -3553,7 +4338,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43281,
@@ -3563,7 +4348,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43061,
@@ -3573,7 +4358,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43174,
@@ -3583,7 +4368,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43103,
@@ -3593,7 +4378,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43171,
@@ -3603,7 +4388,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43176,
@@ -3613,7 +4398,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43267,
@@ -3623,7 +4408,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43278,
@@ -3633,7 +4418,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43772,
@@ -3643,7 +4428,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43170,
@@ -3653,7 +4438,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43104,
@@ -3663,7 +4448,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43184,
@@ -3673,7 +4458,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 43064,
@@ -3683,7 +4468,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 44952,
@@ -3693,7 +4478,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 44862,
@@ -3703,7 +4488,487 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44466,
+      "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/054db74be242a093dfd07ec7ec8c06fb6d9a309b.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44468,
+      "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3f8c0696dcbb4bb0aeb78263c7065370fef7ef8.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44484,
+      "title": "文豪野犬 第四季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/66fa26b02e48b49d6d5d656192aaae8db6d17393.png",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44477,
+      "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/a2196c42b45c30806d5a64778baa935b3d8a5090.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44490,
+      "title": "弦音 -連結的一射-（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/57ef79cef3309825777a4c6d1be920382332f71b.png",
+      "indexShow": "独家 已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44124,
+      "title": "阿魯斯的巨獸（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/5af917af9a21b75bd4b937f4a5a2378d58933bb9.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44223,
+      "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b520cabe14401188c17c89dfe9d902386a0ae707.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44504,
+      "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/9283ba7129670c062640d111ec26c1d3c26aac5d.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44502,
+      "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/dde375a2daad02eb034b0a3bdaa0c8fb0abb0359.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44493,
+      "title": "不當哥哥了！（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3306e7aba7938a91631d137cf7b2c2fb23d8157d.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44508,
+      "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/241326ac25f78fb51defdce587115a312adc0372.png",
+      "indexShow": "大会员 已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44494,
+      "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/954f11f578e4bf3721413a087a2f1ac72f65c19f.png",
+      "indexShow": "大会员 已完结, 全14话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44505,
+      "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/307b623bcc2fce9d472b6c8600975576557c6512.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44495,
+      "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/35dc18766b049ad4002b2d820d2aa4fcb83ebc2d.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44218,
+      "title": "久保同學不放過我（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/624e0e0c9ff9a1d0bad075fe3b3c16cfffdbac15.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44217,
+      "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/21cf5521a8e759cac04ad5d79a876d2abc98d7b6.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44125,
+      "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7ada5eba46ebfdb657c8bfb20c0eab716d57cf75.png",
+      "indexShow": "大会员 已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44471,
+      "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/cfa557d1ff951c9038b6cf42d335a6bdac499033.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44465,
+      "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/4a035054dcab0c39c9b17122a8bcce6fd82fb150.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44503,
+      "title": "物之古物奇譚（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7b6e361dc3753a4b92702964afa5b9360c7fba97.png",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44464,
+      "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b59aebd75757a088983a407ddda3d16cef086bdf.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44467,
+      "title": "虛構推理 Season2（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/36b9f8536a539b4755d12990faac21cc65b84d47.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44221,
+      "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/792bc8bc2accb10a859f6cad4dfa00709e667b8f.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44470,
+      "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b224b4c93b155607d3df4d2a9d4162541dcb3807.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44506,
+      "title": "妖幻三重奏（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/059a43a957f97c13b4ba9b60668f64f6397f976e.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44485,
+      "title": "間諜教室（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d2abd2359695b8ee8c2f17bbf8cdc3148e68f71c.png",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44509,
+      "title": "眾神眷顧的男人2（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a368c62ea20422db4769afee7d0de8387bcb1a9.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44512,
+      "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8ed6c16491f5a1ec3f100c5ac83bc9e3d74254a0.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44365,
+      "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b30cbcfb3650f7ef5bda915b6664da2e616e73e2.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44999,
+      "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/6ce7cb0e556190b3c7201388c3b4255fcbd59043.png",
+      "indexShow": "大会员 已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44997,
+      "title": "無神世界的神明活動（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d922518b9a8c6d6b2549d24b63d178320ae3b410.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44998,
+      "title": "魔法使的新娘 第2季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/cec04eff9df1a0d0b3dbc93d47bea6b1ba634ce5.png",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45008,
+      "title": "Dr. STONE 新石紀（第三季）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/60168b7a8644c7d8176fd13fab916fa2da6ba9d6.png",
+      "indexShow": "已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45000,
+      "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e3b55cdb79726702806a84aa21a31d9fde325da0.png",
+      "indexShow": "大会员 已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44960,
+      "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/2e25791e780cfbc683a2d4d812614711a5731a3e.png",
+      "indexShow": "独家 已完结, 全16话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 44959,
+      "title": "第二次被異世界召喚（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/99d798078abf414f572c7c6656f70c08b91ebb92.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45002,
+      "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/962267541c86b340ee323c01acb444a9367c65e2.png",
+      "indexShow": "大会员 已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45496,
+      "title": "其實，我是最強的？（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/bafa54b972e339cce740347668b4aa3ef01466f1.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45570,
+      "title": "咒術迴戰 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/62d10d37337fc2c975a40c4fdd188eae58ebfd47.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45516,
+      "title": "七魔劍支配天下（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/ce568f29ec121984bd02fb0c109a632d96b9966d.png",
+      "indexShow": "已完结, 全15话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45498,
+      "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/98a06cbaf4150a6b16a64fea6b931074aa0ee0d1.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45555,
+      "title": "英雄教室（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/c4af9a47a66fd01fcbe2fbf5a3c01d646780cbc1.png",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 45497,
+      "title": "勇者赫魯庫（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8dee1526d1f7cc886de3b1d46de68cbfd14dc290.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 46159,
+      "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/5e63ee77b57e0c31030a2ee31b777fed96b613bc.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 46161,
+      "title": "我想成為影之強者！第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/f6cf88d5d750422a1c2852d333e5cfe77bbd38f3.png",
+      "indexShow": "大会员 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 46158,
+      "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/048cf05bb9f990b5da26d64668ea610852fc4eac.png",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 46180,
+      "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3a4ba47126f6ab9c2eee1b9bb8d47b4a5c542af2.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 46160,
+      "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/bc3769e52f3f8d9605f9a97e47e5021456bb0510.png",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
     }
   ],
   "legacyVideos": [

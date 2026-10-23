@@ -1,48 +1,48 @@
 {
   "meta": {
-    "checkedAt": "2026-10-23",
-    "checked": 0,
+    "checkedAt": "2026-10-24",
+    "checked": 148,
     "partial": false,
     "rateLimited": false,
     "pending": 0,
     "warning": null,
-    "supplementary": 117
+    "supplementary": 230
   },
   "checks": {
     "842": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "843": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "1097": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "1146": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "1356": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "2029": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "2238": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "3486": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "5125": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "5531": {
@@ -56,7 +56,7 @@
       "code": -404
     },
     "5558": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "5775": {
@@ -78,6 +78,14 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "6438": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "23356": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "23860": {
       "checkedAt": "2026-10-22",
       "available": false,
@@ -89,11 +97,11 @@
       "code": -404
     },
     "23869": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "24567": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "24629": {
@@ -101,7 +109,7 @@
       "available": true
     },
     "25717": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "25848": {
@@ -110,11 +118,27 @@
       "code": -404
     },
     "26298": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "26954": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "26963": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "27933": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "27935": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "28006": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "28049": {
@@ -136,6 +160,14 @@
       "available": false,
       "code": -404
     },
+    "32963": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "33088": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "33095": {
       "checkedAt": "2026-10-22",
       "available": false,
@@ -145,14 +177,42 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "33701": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "33702": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "33703": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "33705": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "33862": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "33866": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "33913": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "33998": {
       "checkedAt": "2026-10-22",
       "available": false,
       "code": -404
+    },
+    "34426": {
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "37757": {
       "checkedAt": "2026-10-22",
@@ -186,6 +246,10 @@
       "available": false,
       "code": -404
     },
+    "37800": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "37806": {
       "checkedAt": "2026-10-22",
       "available": false,
@@ -202,6 +266,10 @@
     },
     "38092": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "38280": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "38392": {
@@ -243,12 +311,20 @@
       "available": false,
       "code": -404
     },
+    "38952": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "39011": {
       "checkedAt": "2026-10-22",
       "available": true
     },
     "39013": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "39022": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "39027": {
@@ -286,8 +362,20 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "39200": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "39224": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "39390": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "39391": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "39419": {
@@ -395,6 +483,14 @@
       "available": false,
       "code": -404
     },
+    "39593": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "39594": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "39605": {
       "checkedAt": "2026-10-22",
       "available": true
@@ -415,6 +511,62 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "40083": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40084": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40116": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40140": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40142": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40153": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40154": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40156": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40242": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40246": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40257": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40258": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40264": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "40272": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "40329": {
       "checkedAt": "2026-10-22",
       "available": true
@@ -433,6 +585,10 @@
     },
     "40497": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "40516": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "40659": {
@@ -551,12 +707,24 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "41048": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "41138": {
       "checkedAt": "2026-10-22",
       "available": true
     },
     "41152": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "41470": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "41471": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "41502": {
@@ -567,8 +735,16 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "41550": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "41621": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "41833": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "41999": {
@@ -579,85 +755,237 @@
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "42303": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42304": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42305": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42306": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42403": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42513": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42514": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42515": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42516": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42517": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "42518": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "43060": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43061": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43064": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "43092": {
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43103": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43104": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43170": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43171": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43174": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43175": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43176": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43177": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43184": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43267": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43278": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43281": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "43772": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44124": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44125": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44217": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44218": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44219": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44221": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44223": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44365": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44464": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44465": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44466": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44467": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44468": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44470": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44471": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44477": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44484": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44485": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44490": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44493": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44494": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44495": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44502": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44503": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44504": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44505": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44506": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44508": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44509": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44512": {
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "44514": {
       "checkedAt": "2026-10-22",
@@ -668,30 +996,135 @@
       "available": true
     },
     "44816": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44836": {
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "44862": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "44952": {
-      "checkedAt": "2026-10-17",
-      "available": false,
-      "code": -404
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44958": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44959": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44960": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44997": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44998": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "44999": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45000": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45001": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45002": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45008": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45067": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45070": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45496": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45497": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45498": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45516": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45555": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "45570": {
+      "checkedAt": "2026-10-24",
+      "available": true
     },
     "45838": {
       "checkedAt": "2026-10-22",
       "available": true
     },
+    "46158": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "46159": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "46160": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "46161": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "46180": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "47098": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "47388": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "47667": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "103646": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "142945": {
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "162127": {
@@ -711,7 +1144,7 @@
       "indexShow": "已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 24567,
@@ -731,7 +1164,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 5558,
@@ -751,7 +1184,7 @@
       "indexShow": "已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 25717,
@@ -771,7 +1204,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 26298,
@@ -791,7 +1224,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 1356,
@@ -811,7 +1244,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 1097,
@@ -831,7 +1264,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 2029,
@@ -851,7 +1284,7 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 1146,
@@ -871,7 +1304,7 @@
       "indexShow": "已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 5125,
@@ -891,7 +1324,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 47098,
@@ -911,7 +1344,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 842,
@@ -939,7 +1372,7 @@
       "indexShow": "已完结, 全2话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 842,
@@ -967,7 +1400,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 842,
@@ -995,7 +1428,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 23869,
@@ -1015,7 +1448,7 @@
       "indexShow": "已完结, 全43话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 2238,
@@ -1035,7 +1468,7 @@
       "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-17",
+      "checkedAt": "2026-10-24",
       "seasons": [
         {
           "id": 142945,
@@ -1046,212 +1479,483 @@
     },
     {
       "id": 43060,
+      "mediaId": 28339623,
       "title": "鏈鋸人（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/300e6d42bbfa633f45d69bca6240f014c0d9de5b.png",
-      "indexShow": "大会员 已完结, 全12话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-12",
+      "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43060,
+          "title": "日配版"
+        },
+        {
+          "id": 44816,
+          "title": "粵配版"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 44816,
+      "mediaId": 20136566,
       "title": "鏈鋸人 粵配版（僅限港澳地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/01cebc96aae42b161086d38e0c1822f939827c2d.png",
-      "indexShow": "大会员 已完结, 全12话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-03-10",
+      "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43060,
+          "title": "日配版"
+        },
+        {
+          "id": 44816,
+          "title": "粵配版"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43175,
+      "mediaId": 28339747,
       "title": "我想成為影之強者！（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/f51209a66f693cd4964cf91a50d11924172e6121.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-05",
       "indexShow": "已完结, 全20话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43175,
+          "title": "TV"
+        },
+        {
+          "id": 46161,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43177,
+      "mediaId": 28339749,
       "title": "機動戰士鋼彈 水星的魔女（僅限港澳台地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/4d5d9052290f78eac9e1e02507be5ee34608d797.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-02",
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43281,
+      "mediaId": 28339855,
       "title": "BLEACH 死神 千年血戰篇（僅限港澳台地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/ccacbb3392c5aee06768d38104794fab56e87ccd.png",
-      "indexShow": "大会员 已完结, 全52话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-11",
+      "indexShow": "已完结, 全52话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43061,
+      "mediaId": 28339624,
       "title": "秋葉原冥途戰爭（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/e2f4aca725e4f90ab4f16a7c772e46cc9aff1f9b.png",
-      "indexShow": "独家 已完结, 全12话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-06",
+      "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43061,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43174,
+      "mediaId": 28339746,
       "title": "戀愛FLOPS（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/b19fc8df9ea1df922bf1e0ed327425d6a9af3f9d.png",
-      "indexShow": "独家 已完结, 全12话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-13",
+      "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43174,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43103,
+      "mediaId": 28339671,
       "title": "轉生就是劍（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/500462758e6a1d6279e3f828d0729dd00c8517d2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-28",
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43103,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43171,
+      "mediaId": 28339743,
       "title": "宇崎學妹想要玩！第二季（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/2dd252cb48b59a4a8ce6ac606c78dd0a97ba758b.png",
-      "indexShow": "独家 已完结, 全13话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-01",
+      "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33913,
+          "title": "第一季"
+        },
+        {
+          "id": 43171,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43176,
+      "mediaId": 28339748,
       "title": "不道德公會（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/df358e300a91d1aac7fea6f56d15cdef2ed99b6b.png",
-      "indexShow": "大会员 已完结, 全12话",
-      "historical": true,
-      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
-    },
-    {
-      "id": 43267,
-      "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
-      "cover": "http://i0.hdslb.com/bfs/bangumi/image/eddab327275e162d624da3fdd55ce4bcef6aef05.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43176,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 43267,
+      "mediaId": 28339840,
+      "title": "夫婦以上，戀人未滿。（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/eddab327275e162d624da3fdd55ce4bcef6aef05.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43267,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43278,
+      "mediaId": 28339851,
       "title": "後宮之烏",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/16e1a353eaa6a0af34860808b6be538e8cb35a06.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-02",
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43278,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43772,
+      "mediaId": 28340355,
       "title": "總之就是很可愛～制服～（僅限港澳台地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/e62d2071d3c4436f3dfac397ffe0123b3904ca07.png",
-      "indexShow": "独家 已完结, 全1话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-11-22",
+      "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44960,
+          "title": "第二季"
+        },
+        {
+          "id": 45067,
+          "title": "第一季"
+        },
+        {
+          "id": 43772,
+          "title": "OVA~制服～"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43170,
+      "mediaId": 28339742,
       "title": "菜鳥鍊金術師開店營業中（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/2d8f428cc21644363bbf1d62304588bf231dd05b.png",
-      "indexShow": "大会员 已完结, 全12话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-03",
+      "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43170,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43104,
+      "mediaId": 28339672,
       "title": "我家師傅沒有尾巴（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/4a7072d0f4f6acb207f5b65a2f02b34cbd6eb452.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-30",
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43104,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43184,
+      "mediaId": 28339756,
       "title": "四人各有小秘密（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/b04d43c6d5f985d64201541833d1d4ae8edbaf92.png",
-      "indexShow": "独家 已完结, 全11话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-16",
+      "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43184,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 43064,
+      "mediaId": 28339627,
       "title": "她來自煩星（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/image/4469f3f598d86ca20f454beb5a9c54fc1623ea8a.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-10-14",
       "indexShow": "已完结, 全46话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43064,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 44952,
+      "mediaId": 20149051,
       "title": "輝夜姬想讓人告白-永不結束的初吻 - （僅限港澳台地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/2a9a51fc8ca1c57a9526f4008c408e5c56083d12.png",
-      "indexShow": "大会员 已完结, 全4话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-01",
+      "indexShow": "已完结, 全4话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33088,
+          "title": "第二季"
+        },
+        {
+          "id": 41470,
+          "title": "第三季"
+        },
+        {
+          "id": 41550,
+          "title": "第三季"
+        },
+        {
+          "id": 44952,
+          "title": "永不結束的初吻 "
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 44862,
+      "mediaId": 20140563,
       "title": "天使降臨我身邊 劇場版（僅限港澳台地區）",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/7be89bb6697261792a109028f2b13789c19d4b5a.png",
-      "indexShow": "大会员 已完结, 全1话",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-03-24",
+      "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "verification": "official-ogv-card",
-      "checkedAt": "2026-10-17",
-      "seasons": []
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44862,
+          "title": " 劇場版"
+        }
+      ],
+      "verification": "official-season"
     },
     {
       "id": 45838,
@@ -3709,6 +4413,3614 @@
         {
           "id": 41152,
           "title": "銀魂THE FINAL"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44466,
+      "mediaId": 28480894,
+      "title": "不相信人類的冒險者們好像要去拯救世界（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/054db74be242a093dfd07ec7ec8c06fb6d9a309b.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-03",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44466,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44468,
+      "mediaId": 28480896,
+      "title": "轉生公主與天才千金的魔法革命（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3f8c0696dcbb4bb0aeb78263c7065370fef7ef8.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-04",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44468,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44484,
+      "mediaId": 28480912,
+      "title": "文豪野犬 第四季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/66fa26b02e48b49d6d5d656192aaae8db6d17393.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-04",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 37800,
+          "title": "Q版（僅港澳台）"
+        },
+        {
+          "id": 44484,
+          "title": "第四季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44477,
+      "mediaId": 28480905,
+      "title": "冰屬性男子與無表情女子（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/a2196c42b45c30806d5a64778baa935b3d8a5090.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-04",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44477,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44490,
+      "mediaId": 28480918,
+      "title": "弦音 -連結的一射-（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/57ef79cef3309825777a4c6d1be920382332f71b.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-05",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44490,
+          "title": "第二部"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44124,
+      "mediaId": 28408450,
+      "title": "阿魯斯的巨獸（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/5af917af9a21b75bd4b937f4a5a2378d58933bb9.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44124,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44223,
+      "mediaId": 28435387,
+      "title": "為了養老金去異界存八萬金（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b520cabe14401188c17c89dfe9d902386a0ae707.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44223,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44504,
+      "mediaId": 28480930,
+      "title": "TRIGUN STAMPEDE（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/9283ba7129670c062640d111ec26c1d3c26aac5d.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44504,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44502,
+      "mediaId": 28480928,
+      "title": "關於我在無意間被隔壁的天使變成廢柴這件事（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/dde375a2daad02eb034b0a3bdaa0c8fb0abb0359.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44502,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44493,
+      "mediaId": 28480920,
+      "title": "不當哥哥了！（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3306e7aba7938a91631d137cf7b2c2fb23d8157d.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-05",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44493,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44508,
+      "mediaId": 28480934,
+      "title": "尼爾：自動人形 Ver1.1a（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/241326ac25f78fb51defdce587115a312adc0372.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44508,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44494,
+      "mediaId": 28480921,
+      "title": "無意間變成狗,被喜歡的女生撿回家。（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/954f11f578e4bf3721413a087a2f1ac72f65c19f.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-05",
+      "indexShow": "已完结, 全14话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44494,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44505,
+      "mediaId": 28480931,
+      "title": "冰劍的魔術師將要統一世界（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/307b623bcc2fce9d472b6c8600975576557c6512.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-06",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44505,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44495,
+      "mediaId": 28480922,
+      "title": "英雄傳說 閃之軌跡：北方戰役（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/35dc18766b049ad4002b2d820d2aa4fcb83ebc2d.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-06",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44495,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44218,
+      "mediaId": 28435374,
+      "title": "久保同學不放過我（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/624e0e0c9ff9a1d0bad075fe3b3c16cfffdbac15.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-10",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44218,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44217,
+      "mediaId": 28435373,
+      "title": "真・進化果實 ~不知不覺踏上勝利的人生~（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/21cf5521a8e759cac04ad5d79a876d2abc98d7b6.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-14",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44217,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44125,
+      "mediaId": 28408767,
+      "title": "最強陰陽師的異世界轉生記（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7ada5eba46ebfdb657c8bfb20c0eab716d57cf75.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44125,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44471,
+      "mediaId": 28480899,
+      "title": "擁有超常技能的異世界流浪美食家（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/cfa557d1ff951c9038b6cf42d335a6bdac499033.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-11",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44471,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44465,
+      "mediaId": 28480893,
+      "title": "怕痛的我，把防禦力點滿就對了第二季（僅限台灣地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/4a035054dcab0c39c9b17122a8bcce6fd82fb150.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-11",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44465,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44503,
+      "mediaId": 28480929,
+      "title": "物之古物奇譚（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7b6e361dc3753a4b92702964afa5b9360c7fba97.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-10",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44503,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44464,
+      "mediaId": 28480892,
+      "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b59aebd75757a088983a407ddda3d16cef086bdf.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44464,
+          "title": "第二季"
+        },
+        {
+          "id": 33866,
+          "title": "第一季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44467,
+      "mediaId": 28480895,
+      "title": "虛構推理 Season2（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/36b9f8536a539b4755d12990faac21cc65b84d47.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44467,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44221,
+      "mediaId": 28435384,
+      "title": "傲嬌反派千金莉潔洛特與實況主遠藤同學及解說員小林同學",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/792bc8bc2accb10a859f6cad4dfa00709e667b8f.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44221,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44470,
+      "mediaId": 28480898,
+      "title": "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b224b4c93b155607d3df4d2a9d4162541dcb3807.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-10",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44470,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44506,
+      "mediaId": 28480932,
+      "title": "妖幻三重奏（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/059a43a957f97c13b4ba9b60668f64f6397f976e.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-10",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44506,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44485,
+      "mediaId": 28480913,
+      "title": "間諜教室（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d2abd2359695b8ee8c2f17bbf8cdc3148e68f71c.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-05",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44485,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44509,
+      "mediaId": 28480935,
+      "title": "眾神眷顧的男人2（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a368c62ea20422db4769afee7d0de8387bcb1a9.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44509,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44512,
+      "mediaId": 28480938,
+      "title": "不要欺負我，長瀞同學 2nd Attack（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8ed6c16491f5a1ec3f100c5ac83bc9e3d74254a0.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44512,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44365,
+      "mediaId": 28439664,
+      "title": "被解雇的暗黑士兵（30多歲）開始了慢生活的第二人生（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b30cbcfb3650f7ef5bda915b6664da2e616e73e2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44365,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44999,
+      "mediaId": 20197835,
+      "title": "在異世界獲得超強能力的我，在現實世界照樣無敵",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/6ce7cb0e556190b3c7201388c3b4255fcbd59043.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-04",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44999,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44997,
+      "mediaId": 20197653,
+      "title": "無神世界的神明活動（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d922518b9a8c6d6b2549d24b63d178320ae3b410.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-06",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44997,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44998,
+      "mediaId": 20197734,
+      "title": "魔法使的新娘 第2季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/cec04eff9df1a0d0b3dbc93d47bea6b1ba634ce5.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-06",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 6438,
+          "title": "第一季"
+        },
+        {
+          "id": 23356,
+          "title": "OAD"
+        },
+        {
+          "id": 44998,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45008,
+      "mediaId": 20221961,
+      "title": "Dr. STONE 新石紀（第三季）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/60168b7a8644c7d8176fd13fab916fa2da6ba9d6.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-06",
+      "indexShow": "已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 41048,
+          "title": "粵配版"
+        },
+        {
+          "id": 45008,
+          "title": "第三季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45000,
+      "mediaId": 20202282,
+      "title": "肌肉魔法使-MASHLE-（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e3b55cdb79726702806a84aa21a31d9fde325da0.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-08",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 45000,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44960,
+      "mediaId": 20197349,
+      "title": "總之就是非常可愛 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/2e25791e780cfbc683a2d4d812614711a5731a3e.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-08",
+      "indexShow": "已完结, 全16话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44960,
+          "title": "第二季"
+        },
+        {
+          "id": 45067,
+          "title": "第一季"
+        },
+        {
+          "id": 43772,
+          "title": "OVA~制服～"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44959,
+      "mediaId": 20164650,
+      "title": "第二次被異世界召喚（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/99d798078abf414f572c7c6656f70c08b91ebb92.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44959,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45002,
+      "mediaId": 20206368,
+      "title": "鬼滅之刃 刀匠村篇（僅限台灣地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/962267541c86b340ee323c01acb444a9367c65e2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-10",
+      "indexShow": "已完结, 全11话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45496,
+      "mediaId": 20290080,
+      "title": "其實，我是最強的？（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/bafa54b972e339cce740347668b4aa3ef01466f1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-02",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 45496,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45570,
+      "mediaId": 20310415,
+      "title": "咒術迴戰 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/62d10d37337fc2c975a40c4fdd188eae58ebfd47.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-06",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39200,
+          "title": "粵語配音"
+        },
+        {
+          "id": 43092,
+          "title": "劇場版"
+        },
+        {
+          "id": 45570,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45516,
+      "mediaId": 20307953,
+      "title": "七魔劍支配天下（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/ce568f29ec121984bd02fb0c109a632d96b9966d.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-08",
+      "indexShow": "已完结, 全15话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 45516,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45498,
+      "mediaId": 20290240,
+      "title": "死神少爺與黑女僕 第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/98a06cbaf4150a6b16a64fea6b931074aa0ee0d1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39022,
+          "title": "第一季"
+        },
+        {
+          "id": 45498,
+          "title": "第二季"
+        },
+        {
+          "id": 47667,
+          "title": "第三季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45555,
+      "mediaId": 20309584,
+      "title": "英雄教室（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/c4af9a47a66fd01fcbe2fbf5a3c01d646780cbc1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 45555,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45497,
+      "mediaId": 20290147,
+      "title": "勇者赫魯庫（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8dee1526d1f7cc886de3b1d46de68cbfd14dc290.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-07-12",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 45497,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 46159,
+      "mediaId": 21093519,
+      "title": "撿走被人悔婚的千金，教會她壞壞的幸福生活（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/5e63ee77b57e0c31030a2ee31b777fed96b613bc.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-10-04",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 46159,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 46161,
+      "mediaId": 21093797,
+      "title": "我想成為影之強者！第二季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/f6cf88d5d750422a1c2852d333e5cfe77bbd38f3.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-10-04",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 43175,
+          "title": "TV"
+        },
+        {
+          "id": 46161,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 46158,
+      "mediaId": 21093439,
+      "title": "想當冒險者前往都市的女兒成為S級（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/048cf05bb9f990b5da26d64668ea610852fc4eac.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-09-28",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 46158,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 46180,
+      "mediaId": 21095909,
+      "title": "盾之勇者成名錄 第三季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3a4ba47126f6ab9c2eee1b9bb8d47b4a5c542af2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-10-06",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 41471,
+          "title": "第二季"
+        },
+        {
+          "id": 46180,
+          "title": "第三季"
+        },
+        {
+          "id": 103646,
+          "title": "第四季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 46160,
+      "mediaId": 21093607,
+      "title": "世界盡頭的聖騎士 鐵鏽之山的君王（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/bc3769e52f3f8d9605f9a97e47e5021456bb0510.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-10-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 46160,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40156,
+      "mediaId": 28235860,
+      "title": "擅长捉弄的高木同学 第三季",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b56ed5170780b398a545fa0e142af678b90bfda8.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 47388,
+          "title": "第一季"
+        },
+        {
+          "id": 28006,
+          "title": "第二季"
+        },
+        {
+          "id": 40156,
+          "title": "第三季"
+        },
+        {
+          "id": 44219,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40242,
+      "mediaId": 28235946,
+      "title": "女孩的钓鱼慢活",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/22c33e1ecb7b8ddd4d1bc1e51c7763966b5b9023.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40242,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40258,
+      "mediaId": 28235962,
+      "title": "锈色铠甲 黎明",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/5355e44d9c94715ff92c34088483215411ea0825.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40258,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40264,
+      "mediaId": 28235968,
+      "title": "指名！",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/403674a2f66c9a50943f841dac43a9a022631f72.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-08",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40264,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40516,
+      "mediaId": 28236221,
+      "title": "与变成了异世界美少女的好友一起冒险",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/314c9855b31b9acb35663598755243b87629a9f9.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-11",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40516,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40246,
+      "mediaId": 28235950,
+      "title": "少女前线",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/09fdebda5164860b6e169f7ae144c603f95a472b.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27933,
+          "title": "少女前线 人形小剧场"
+        },
+        {
+          "id": 34426,
+          "title": "治愈篇2"
+        },
+        {
+          "id": 27935,
+          "title": "少女前线 人形小剧场 日语版"
+        },
+        {
+          "id": 38280,
+          "title": "治愈篇2 日语版"
+        },
+        {
+          "id": 40246,
+          "title": "TV动画"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40142,
+      "mediaId": 28235846,
+      "title": "天才王子的赤字国家振兴术",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/ac2bf4cf0a0e661f0d497229f112470572240bb6.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-11",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40142,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40140,
+      "mediaId": 28235844,
+      "title": "失格纹的最强贤者～世界最强的贤者为了变得更强而转生了～",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/edfd41e777b1339e8698c355eea6c3b66248f9cd.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-08",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40140,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 38952,
+      "mediaId": 28234644,
+      "title": "现实主义勇者的王国再建记",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/ddfeb0782515b3af39fb12818273b9ced5850f34.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-07-04",
+      "indexShow": "已完结, 全26话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 38952,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40154,
+      "mediaId": 28235858,
+      "title": "自称贤者弟子的贤者",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/876063fff133eff35b98d1e4fc8da104d135d26a.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-11",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40154,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40272,
+      "mediaId": 28235976,
+      "title": "室内足球少年!!!!!",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/8e8aa0d7baedef32a4491166aca34324c39d7485.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40272,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40116,
+      "mediaId": 28235820,
+      "title": "东方少年",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/2b8fa0e1d4e15442adbe6085a01d7f6b22c003da.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-05",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40116,
+          "title": "第一季"
+        },
+        {
+          "id": 41833,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40257,
+      "mediaId": 28235961,
+      "title": "秘密内幕 女警的反击",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b0a9e6fdf83b41f228ed15e755a7e963dedb500e.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-05",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40257,
+          "title": "TV"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40153,
+      "mediaId": 28235857,
+      "title": "公主连结 与你重逢 第二季",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/60d9685ebae04a4e2092857d5ee41a4de7316652.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-10",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 32963,
+          "title": "第一季"
+        },
+        {
+          "id": 40153,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33701,
+      "mediaId": 28229130,
+      "title": "機動戰士高達 THE ORIGIN I：蒼瞳的卡斯巴爾（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/ab907329f6b514716cfde3ce918bf05f14514806.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-06-08",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33702,
+      "mediaId": 28229131,
+      "title": "機動戰士高達 THE ORIGIN II：悲哀的阿爾黛西亞（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/36cd30821f8714fd4b555f534d029fed3051c964.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-06-08",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33703,
+      "mediaId": 28229132,
+      "title": "機動戰士高達 THE ORIGIN III：破曉起義（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/d931d26829853cd77df3da55bb2b71f24d985fe5.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-06-08",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33705,
+      "mediaId": 28229134,
+      "title": "機動戰士高達 THE ORIGIN IV：命運的前夜（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/42e1f401c6a5dafe732b1cf105b4793ed4601895.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-06-08",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44836,
+      "mediaId": 20138339,
+      "title": "機動戰士高達- 庫克羅斯 德安之島（僅限港澳地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/cbb21378adb5d2f97834ec9d91152428e9757c8b.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-03-10",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33701,
+          "title": "OVA01"
+        },
+        {
+          "id": 33702,
+          "title": "OVA02"
+        },
+        {
+          "id": 33703,
+          "title": "OVA03"
+        },
+        {
+          "id": 33705,
+          "title": "OVA04"
+        },
+        {
+          "id": 43177,
+          "title": "水星的魔女"
+        },
+        {
+          "id": 44836,
+          "title": "庫克羅斯 德安之島"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42403,
+      "mediaId": 28338858,
+      "title": "死神 S1（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/da64253f26b4a95aff43a9c84482ccf2f5b5fdc1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-07-23",
+      "indexShow": "已完结, 全51话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42513,
+      "mediaId": 28338980,
+      "title": "死神 S2（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/da64253f26b4a95aff43a9c84482ccf2f5b5fdc1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-07-29",
+      "indexShow": "已完结, 全58话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42514,
+      "mediaId": 28338981,
+      "title": "死神 S3（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/a1a98c60c2295ed19ae0bbfdaea4a3f702b701c8.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-08-05",
+      "indexShow": "已完结, 全58话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42515,
+      "mediaId": 28338982,
+      "title": "死神 S4（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/9d88c349a201999cb96d6b9e16ec4a9356b1d142.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-08-12",
+      "indexShow": "已完结, 全62话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42516,
+      "mediaId": 28338983,
+      "title": "死神 S5（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/83f69ffe851f7d8a5cd54d3685247a5b0548333e.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-08-19",
+      "indexShow": "已完结, 全36话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42517,
+      "mediaId": 28338984,
+      "title": "死神 S6（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/3c57de6937e60cb8697d849ed1f01831907864d2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-08-26",
+      "indexShow": "已完结, 全46话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42518,
+      "mediaId": 28338985,
+      "title": " 死神 S7（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/d48b7f224009893aefad71b90f6f576a588a214a.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-02",
+      "indexShow": "已完结, 全55话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42303,
+      "mediaId": 28338751,
+      "title": "死神劇場版 MEMORIES OF NOBODY",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/56338e58fcebd767eca6d958479497fd327318b1.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-09",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42304,
+      "mediaId": 28338752,
+      "title": "死神劇場版 鑽石星塵的反叛",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/3fca4a2f1b5ab3c8e1076585c7808c3a23a176b0.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-09",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42305,
+      "mediaId": 28338753,
+      "title": "死神劇場版 呼喚你的名字",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b7e702ca88b025364ae74154aef7b05094b557a3.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-09",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 42306,
+      "mediaId": 28338754,
+      "title": "死神劇場版 地獄篇",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/12a4eb0f5fe3818803265ce1ba124e576a827ea2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-09",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 42403,
+          "title": "第一季"
+        },
+        {
+          "id": 42513,
+          "title": "第二季"
+        },
+        {
+          "id": 42514,
+          "title": "第三季"
+        },
+        {
+          "id": 42515,
+          "title": "第四季"
+        },
+        {
+          "id": 42516,
+          "title": "第五季"
+        },
+        {
+          "id": 42517,
+          "title": "第六季"
+        },
+        {
+          "id": 42518,
+          "title": "第七季"
+        },
+        {
+          "id": 42303,
+          "title": "劇場版1"
+        },
+        {
+          "id": 42304,
+          "title": "劇場版2"
+        },
+        {
+          "id": 42305,
+          "title": "劇場版3"
+        },
+        {
+          "id": 42306,
+          "title": "劇場版4"
+        },
+        {
+          "id": 43281,
+          "title": "千年血戰"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33913,
+      "mediaId": 28229349,
+      "title": "宇崎學妹想要玩！（僅限港澳台及其他地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/b2ad34f555f2cdb4f04432cb511c7cd8ac243d67.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-07-10",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43171",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33913,
+          "title": "第一季"
+        },
+        {
+          "id": 43171,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45067,
+      "mediaId": 20244817,
+      "title": "總之就是非常可愛（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7c58c4ea3f1f0c2d73f1c788ae72148236836369.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-21",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43772",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44960,
+          "title": "第二季"
+        },
+        {
+          "id": 45067,
+          "title": "第一季"
+        },
+        {
+          "id": 43772,
+          "title": "OVA~制服～"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33088,
+      "mediaId": 28228478,
+      "title": "輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/22382bc1aa825683bd47c85ce373120b24a9651e.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-04-12",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33088,
+          "title": "第二季"
+        },
+        {
+          "id": 41470,
+          "title": "第三季"
+        },
+        {
+          "id": 41550,
+          "title": "第三季"
+        },
+        {
+          "id": 44952,
+          "title": "永不結束的初吻 "
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 41470,
+      "mediaId": 28237179,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/a7bf2212eb47fdfb2dac15caa9c08a4d9cd780e4.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-04-09",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33088,
+          "title": "第二季"
+        },
+        {
+          "id": 41470,
+          "title": "第三季"
+        },
+        {
+          "id": 41550,
+          "title": "第三季"
+        },
+        {
+          "id": 44952,
+          "title": "永不結束的初吻 "
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 41550,
+      "mediaId": 28237259,
+      "title": "輝夜姬想讓人告白ー超級浪漫ー（僅限港澳地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/a7bf2212eb47fdfb2dac15caa9c08a4d9cd780e4.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-04-23",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 33088,
+          "title": "第二季"
+        },
+        {
+          "id": 41470,
+          "title": "第三季"
+        },
+        {
+          "id": 41550,
+          "title": "第三季"
+        },
+        {
+          "id": 44952,
+          "title": "永不結束的初吻 "
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 37800,
+      "mediaId": 28233479,
+      "title": "文豪野犬 汪！（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/1b6e4c86b2da0b2cb8810509b534ecbc10b5b5eb.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-01-13",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44484",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 37800,
+          "title": "Q版（僅港澳台）"
+        },
+        {
+          "id": 44484,
+          "title": "第四季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 33866,
+      "mediaId": 28229299,
+      "title": "魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/8e0473261c426c453a0a1bc5cc0d836a4e985a0c.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-07-05",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44464",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 44464,
+          "title": "第二季"
+        },
+        {
+          "id": 33866,
+          "title": "第一季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 6438,
+      "mediaId": 6438,
+      "title": "魔法使的新娘（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/0f9ab51ef5033eadad06628e98ee70d06a115fec.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2017-10-08",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44998",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 6438,
+          "title": "第一季"
+        },
+        {
+          "id": 23356,
+          "title": "OAD"
+        },
+        {
+          "id": 44998,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 23356,
+      "mediaId": 54992,
+      "title": "魔法使的新娘 等待繁星之人（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/afb560a8aa9f0d6885dd83f4943029d5ff314ae4.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2016-09-10",
+      "indexShow": "已完结, 全3话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44998",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 6438,
+          "title": "第一季"
+        },
+        {
+          "id": 23356,
+          "title": "OAD"
+        },
+        {
+          "id": 44998,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 41048,
+      "mediaId": 28236754,
+      "title": "Ｄｒ．ＳＴＯＮＥ（新石紀）粵配版（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/ae05a72b11d7f409bbff9475afb13dfca081ffd1.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-01-31",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45008",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 41048,
+          "title": "粵配版"
+        },
+        {
+          "id": 45008,
+          "title": "第三季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 26954,
+      "mediaId": 25832466,
+      "title": "鬼滅之刃（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/edbdecd451315bc573ed22009f68efdd4ab91bed.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2019-04-07",
+      "indexShow": "已完结, 全26话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40083,
+      "mediaId": 28235787,
+      "title": "鬼滅之刃 遊郭篇（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/45ca2a90f714e1fb2a23d52f415a43530940e069.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-12-05",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 40084,
+      "mediaId": 28235788,
+      "title": "鬼滅之刃 遊郭篇（僅限港澳地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/26c01c6b093c18d8428df18530d39177fcb75f07.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-12-19",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39593,
+      "mediaId": 28235287,
+      "title": "鬼滅之刃 無限列車篇（僅限台灣地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/bba9479870651f75795d525bf482a0ebfb860a77.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-10-10",
+      "indexShow": "已完结, 全7话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39594,
+      "mediaId": 28235288,
+      "title": "鬼滅之刃 無限列車篇（僅限港澳地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/2bbdf7374b78ed3f6641f65a744ab6f079bb5d29.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-10-24",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39390,
+      "mediaId": 28235082,
+      "title": "鬼滅之刃劇場版 無限列車篇（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/1a4040208c941342a3eb26a8af41c2a49b18821a.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-09-10",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39391,
+      "mediaId": 28235083,
+      "title": "鬼滅之刃劇場版 無限列車篇 （台配）（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/0a998c37086788070f5c5b121e82981091d9903b.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-09-10",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44958,
+      "mediaId": 20161245,
+      "title": "鬼滅之刃 遊郭潛入篇（僅限台灣地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/90a686471534c5800d9eb64c748c2707980972f2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-01",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45001,
+      "mediaId": 20203323,
+      "title": "鬼滅之刃 遊郭決戰篇",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3551ca7462ee55495e5f67d0d05677999cc8b88c.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-08",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 45070,
+      "mediaId": 20245143,
+      "title": "鬼滅之刃 刀匠村篇（僅港澳地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/962267541c86b340ee323c01acb444a9367c65e2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-04-24",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 26954,
+          "title": "第一季(僅台灣)"
+        },
+        {
+          "id": 40083,
+          "title": "遊郭篇（僅台灣）"
+        },
+        {
+          "id": 40084,
+          "title": "遊郭篇（僅港澳）"
+        },
+        {
+          "id": 39593,
+          "title": "無限列車篇（僅台灣）"
+        },
+        {
+          "id": 39594,
+          "title": "無限列車篇（僅港澳）"
+        },
+        {
+          "id": 39390,
+          "title": "劇場版"
+        },
+        {
+          "id": 39391,
+          "title": "劇場版(台配)"
+        },
+        {
+          "id": 44958,
+          "title": "遊郭潛入篇（僅台灣）"
+        },
+        {
+          "id": 45002,
+          "title": "刀匠村篇（台灣區）"
+        },
+        {
+          "id": 45001,
+          "title": "遊郭決戰篇（台灣）"
+        },
+        {
+          "id": 45070,
+          "title": "刀匠村篇（港澳地區）"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39200,
+      "mediaId": 28234892,
+      "title": "咒術迴戰 粵配版（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/a337c5d9ca68048d7ea2ed3f1fe5087a7d605449.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-08-02",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45570",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39200,
+          "title": "粵語配音"
+        },
+        {
+          "id": 43092,
+          "title": "劇場版"
+        },
+        {
+          "id": 45570,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 43092,
+      "mediaId": 28339655,
+      "title": "劇場版 咒術迴戰 0（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/5daecdbf0486cf54d7d97665f60e2deaf68c9093.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-09-21",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45570",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39200,
+          "title": "粵語配音"
+        },
+        {
+          "id": 43092,
+          "title": "劇場版"
+        },
+        {
+          "id": 45570,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 39022,
+      "mediaId": 28234714,
+      "title": "死神少爺與黑女僕（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/d97828a4b07f116e94c6528f7ce77462d0a9ceb5.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2021-07-04",
+      "indexShow": "已完结",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45498",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39022,
+          "title": "第一季"
+        },
+        {
+          "id": 45498,
+          "title": "第二季"
+        },
+        {
+          "id": 47667,
+          "title": "第三季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 47667,
+      "mediaId": 21241720,
+      "title": "死神少爺與黑女僕 第三季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/17b5c37ad6bd9ba9cced9b2a93e7d029d1dd95d2.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2024-04-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45498",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 39022,
+          "title": "第一季"
+        },
+        {
+          "id": 45498,
+          "title": "第二季"
+        },
+        {
+          "id": 47667,
+          "title": "第三季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 41471,
+      "mediaId": 28237180,
+      "title": "盾之勇者成名錄 第二季（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/547f497809eba7d1427d6d4effcaf8d443656261.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-04-06",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss46180",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 41471,
+          "title": "第二季"
+        },
+        {
+          "id": 46180,
+          "title": "第三季"
+        },
+        {
+          "id": 103646,
+          "title": "第四季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 103646,
+      "mediaId": 26790107,
+      "title": "盾之勇者成名錄 第四季（僅限港澳台地區）",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0c0a68d252b7d5d406dcb3f9dc9539ad9f063c81.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2025-07-09",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss46180",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 41471,
+          "title": "第二季"
+        },
+        {
+          "id": 46180,
+          "title": "第三季"
+        },
+        {
+          "id": 103646,
+          "title": "第四季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 47388,
+      "mediaId": 21214905,
+      "title": "擅长捉弄的高木同学",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/27cf3257e5072bc389855636f97a801a66eee267.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2024-03-02",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 47388,
+          "title": "第一季"
+        },
+        {
+          "id": 28006,
+          "title": "第二季"
+        },
+        {
+          "id": 40156,
+          "title": "第三季"
+        },
+        {
+          "id": 44219,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 28006,
+      "mediaId": 28221403,
+      "title": "擅长捉弄的高木同学 第二季",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/4c7324327dd9ae035007c3e9bc40cd2ce08635b1.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2019-07-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 47388,
+          "title": "第一季"
+        },
+        {
+          "id": 28006,
+          "title": "第二季"
+        },
+        {
+          "id": 40156,
+          "title": "第三季"
+        },
+        {
+          "id": 44219,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 44219,
+      "mediaId": 28435376,
+      "title": "擅长捉弄的高木同学 剧场版",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8494b0785550977b99cd8bf94b11bec208baccca.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2023-01-11",
+      "indexShow": "已完结, 全1话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 47388,
+          "title": "第一季"
+        },
+        {
+          "id": 28006,
+          "title": "第二季"
+        },
+        {
+          "id": 40156,
+          "title": "第三季"
+        },
+        {
+          "id": 44219,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 27933,
+      "mediaId": 28221280,
+      "title": "少女前线 人形小剧场",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/6c48ab5eb293218daf369f6c6763ca4c8770a0c2.jpg",
+      "type": 4,
+      "japaneseTitle": "",
+      "date": "2019-07-28",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27933,
+          "title": "少女前线 人形小剧场"
+        },
+        {
+          "id": 34426,
+          "title": "治愈篇2"
+        },
+        {
+          "id": 27935,
+          "title": "少女前线 人形小剧场 日语版"
+        },
+        {
+          "id": 38280,
+          "title": "治愈篇2 日语版"
+        },
+        {
+          "id": 40246,
+          "title": "TV动画"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 34426,
+      "mediaId": 28229895,
+      "title": "少女前线 人形小剧场 第二季",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/fae516fdf12666852efc715cd6896e0ed107c20e.jpg",
+      "type": 4,
+      "japaneseTitle": "",
+      "date": "2020-10-07",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27933,
+          "title": "少女前线 人形小剧场"
+        },
+        {
+          "id": 34426,
+          "title": "治愈篇2"
+        },
+        {
+          "id": 27935,
+          "title": "少女前线 人形小剧场 日语版"
+        },
+        {
+          "id": 38280,
+          "title": "治愈篇2 日语版"
+        },
+        {
+          "id": 40246,
+          "title": "TV动画"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 27935,
+      "mediaId": 28221282,
+      "title": "少女前线 人形小剧场 日语版",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/ce49356bc2563091278397c88b069977abadf1e6.jpg",
+      "type": 4,
+      "japaneseTitle": "",
+      "date": "2019-10-05",
+      "indexShow": "已完结, 全24话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27933,
+          "title": "少女前线 人形小剧场"
+        },
+        {
+          "id": 34426,
+          "title": "治愈篇2"
+        },
+        {
+          "id": 27935,
+          "title": "少女前线 人形小剧场 日语版"
+        },
+        {
+          "id": 38280,
+          "title": "治愈篇2 日语版"
+        },
+        {
+          "id": 40246,
+          "title": "TV动画"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 38280,
+      "mediaId": 28233962,
+      "title": "少女前线 人形小剧场 第二季 日语版",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/50edf51c6ec17f5539b1d9efa82b7ec32a94a680.png",
+      "type": 4,
+      "japaneseTitle": "",
+      "date": "2021-03-17",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27933,
+          "title": "少女前线 人形小剧场"
+        },
+        {
+          "id": 34426,
+          "title": "治愈篇2"
+        },
+        {
+          "id": 27935,
+          "title": "少女前线 人形小剧场 日语版"
+        },
+        {
+          "id": 38280,
+          "title": "治愈篇2 日语版"
+        },
+        {
+          "id": 40246,
+          "title": "TV动画"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 41833,
+      "mediaId": 28337640,
+      "title": "东方少年 第二季",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/0e9e9cb2dc7bf69750bf76d9f868035cf7bd4005.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2022-07-12",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40116",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 40116,
+          "title": "第一季"
+        },
+        {
+          "id": 41833,
+          "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 32963,
+      "mediaId": 28228339,
+      "title": "公主连结Re:Dive",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/d8a6884c2f839a5ffe5a0637608eec7910763411.png",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2020-04-06",
+      "indexShow": "已完结, 全13话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40153",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 32963,
+          "title": "第一季"
+        },
+        {
+          "id": 40153,
+          "title": "第二季"
         }
       ],
       "verification": "official-season"
