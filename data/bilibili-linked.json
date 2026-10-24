@@ -1,12 +1,12 @@
 {
   "meta": {
     "checkedAt": "2026-10-24",
-    "checked": 148,
+    "checked": 3,
     "partial": false,
     "rateLimited": false,
     "pending": 0,
     "warning": null,
-    "supplementary": 230
+    "supplementary": 233
   },
   "checks": {
     "842": {
@@ -25,6 +25,10 @@
       "checkedAt": "2026-10-24",
       "available": true
     },
+    "1292": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
     "1356": {
       "checkedAt": "2026-10-24",
       "available": true
@@ -34,6 +38,10 @@
       "available": true
     },
     "2238": {
+      "checkedAt": "2026-10-24",
+      "available": true
+    },
+    "2586": {
       "checkedAt": "2026-10-24",
       "available": true
     },
@@ -127,6 +135,10 @@
     },
     "26963": {
       "checkedAt": "2026-10-22",
+      "available": true
+    },
+    "27014": {
+      "checkedAt": "2026-10-24",
       "available": true
     },
     "27933": {
@@ -8021,6 +8033,74 @@
         {
           "id": 40153,
           "title": "第二季"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 27014,
+      "mediaId": 27059477,
+      "title": "天元突破红莲螺岩",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/4009b0b6118687baa964b288088197f1db58e28c.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2007-04-01",
+      "indexShow": "已完结, 全27话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27014,
+          "title": "TV"
+        },
+        {
+          "id": 1292,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 1292,
+      "mediaId": 24789198,
+      "title": "天元突破 红莲螺岩 剧场版",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/0da573ae0222bfdbeed1123c340bbaefe0f18aca.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2008-09-06",
+      "indexShow": "已完结, 全2话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 27014,
+          "title": "TV"
+        },
+        {
+          "id": 1292,
+          "title": "剧场版"
+        }
+      ],
+      "verification": "official-season"
+    },
+    {
+      "id": 2586,
+      "mediaId": 2586,
+      "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/0bb9ea24a9ee6e14c36cb6678d1a4e5b8de44ae6.jpg",
+      "type": 1,
+      "japaneseTitle": "",
+      "date": "2015-07-04",
+      "indexShow": "已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-24",
+      "seasons": [
+        {
+          "id": 2586,
+          "title": "TV版"
         }
       ],
       "verification": "official-season"

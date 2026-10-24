@@ -2883,6 +2883,121 @@
         "//www.bilibili.com/read/cv6295997/"
       ],
       "checkedAt": "2026-10-24"
+    },
+    "https://www.bilibili.com/read/cv6295997": {
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "opusId": "396511775907740710",
+      "title": "B站隐藏番剧第一期",
+      "seasons": [
+        {
+          "id": 24567,
+          "title": "后街女孩",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 5558,
+          "title": "动画锻炼！XX 同一屋檐下",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 25717,
+          "title": "我喜欢的是小说里的你",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 26298,
+          "title": "笨拙之极的上野",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 27014,
+          "title": "天元突破红莲螺岩",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 1292,
+          "title": "天元突破 红莲螺岩 剧场版",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        },
+        {
+          "id": 2586,
+          "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+        }
+      ],
+      "videos": [],
+      "media": [],
+      "cards": [
+        {
+          "id": 24567,
+          "title": "后街女孩",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/1a7403f11fc24c06ae8ed8323aecab8b8b26d2cd.png",
+          "indexShow": "限时免费 已完结, 全10话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 5558,
+          "title": "动画锻炼！XX 同一屋檐下",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/32b173fbb55ca90b39eb68d94492eed725d0c61e.jpg",
+          "indexShow": "已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 25717,
+          "title": "我喜欢的是小说里的你",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/93800a3560fa26f3f63ea8ac0cd5c4bfa9e3d4ea.png",
+          "indexShow": "独家 已完结, 全10话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 26298,
+          "title": "笨拙之极的上野",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/406a17e27a7e8891196010e99400c85eb30626a9.png",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 27014,
+          "title": "天元突破红莲螺岩",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/image/4009b0b6118687baa964b288088197f1db58e28c.jpg",
+          "indexShow": "已完结, 全27话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 1292,
+          "title": "天元突破 红莲螺岩 剧场版",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/0da573ae0222bfdbeed1123c340bbaefe0f18aca.jpg",
+          "indexShow": "已完结, 全2话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        },
+        {
+          "id": 2586,
+          "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+          "cover": "http://i0.hdslb.com/bfs/bangumi/0bb9ea24a9ee6e14c36cb6678d1a4e5b8de44ae6.jpg",
+          "indexShow": "独家 已完结, 全12话",
+          "historical": true,
+          "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+          "verification": "official-ogv-card"
+        }
+      ],
+      "legacyVideos": [],
+      "relatedArticles": [
+        "//www.bilibili.com/read/cv14759616/",
+        "//www.bilibili.com/read/cv7314822/"
+      ],
+      "checkedAt": "2026-10-24"
     }
   },
   "seasons": [
@@ -2901,22 +3016,22 @@
     {
       "id": 24567,
       "title": "后街女孩",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
     },
     {
       "id": 5558,
       "title": "动画锻炼！XX 同一屋檐下",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
     },
     {
       "id": 25717,
       "title": "我喜欢的是小说里的你",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
     },
     {
       "id": 26298,
       "title": "笨拙之极的上野",
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616"
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
     },
     {
       "id": 1356,
@@ -3926,6 +4041,21 @@
     {
       "id": 40153,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306"
+    },
+    {
+      "id": 27014,
+      "title": "天元突破红莲螺岩",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+    },
+    {
+      "id": 1292,
+      "title": "天元突破 红莲螺岩 剧场版",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
+    },
+    {
+      "id": 2586,
+      "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997"
     }
   ],
   "videos": [
@@ -4146,9 +4276,9 @@
       "cover": "http://i0.hdslb.com/bfs/bangumi/1a7403f11fc24c06ae8ed8323aecab8b8b26d2cd.png",
       "indexShow": "限时免费 已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 5558,
@@ -4156,9 +4286,9 @@
       "cover": "http://i0.hdslb.com/bfs/bangumi/32b173fbb55ca90b39eb68d94492eed725d0c61e.jpg",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 25717,
@@ -4166,9 +4296,9 @@
       "cover": "http://i0.hdslb.com/bfs/bangumi/93800a3560fa26f3f63ea8ac0cd5c4bfa9e3d4ea.png",
       "indexShow": "独家 已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 26298,
@@ -4176,9 +4306,9 @@
       "cover": "http://i0.hdslb.com/bfs/bangumi/406a17e27a7e8891196010e99400c85eb30626a9.png",
       "indexShow": "独家 已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-24"
     },
     {
       "id": 1356,
@@ -4967,6 +5097,36 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 27014,
+      "title": "天元突破红莲螺岩",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/4009b0b6118687baa964b288088197f1db58e28c.jpg",
+      "indexShow": "已完结, 全27话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 1292,
+      "title": "天元突破 红莲螺岩 剧场版",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/0da573ae0222bfdbeed1123c340bbaefe0f18aca.jpg",
+      "indexShow": "已完结, 全2话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "verification": "official-ogv-card",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": 2586,
+      "title": "沒有黃段子的無聊世界（僅限港澳台地區）",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/0bb9ea24a9ee6e14c36cb6678d1a4e5b8de44ae6.jpg",
+      "indexShow": "独家 已完结, 全12话",
+      "historical": true,
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
       "checkedAt": "2026-10-24"
     }
