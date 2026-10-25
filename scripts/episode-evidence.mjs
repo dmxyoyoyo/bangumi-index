@@ -3,7 +3,7 @@ import {readJson,writeJson,getJson,today} from './shared.mjs';
 import {setTimeout as delay} from 'node:timers/promises';
 import {fileURLToPath} from 'node:url';
 import {resolve} from 'node:path';
-export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:{}},day=today(),request=getJson,pause=delay}){
+export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:{}},day=today(),request=getJson,pause=delay,skipChinese=false}){
  const next={intl:{...cache.intl},cn:{...cache.cn}},pending=catalog.items.filter(x=>!x.cnId&&Number.isSafeInteger(x.intlId));
  const names=new Set(pending.flatMap(x=>[x.title,x.seaTitle,...(x.aliases||[])]).map(nameKey).filter(Boolean));
  for(const item of pending){const id=item.intlId;
@@ -18,7 +18,7 @@ export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:
   }
   await pause(1200);
  }
- for(const candidate of Object.values(chinese).filter(x=>x.available!==false&&names.has(nameKey(x.title)))){const id=candidate.season_id;
+ for(const candidate of (skipChinese?[]:Object.values(chinese)).filter(x=>x.available!==false&&names.has(nameKey(x.title)))){const id=candidate.season_id;
   const j=await request('https://api.bilibili.com/pgc/web/season/section?season_id='+id);
   if(j.code===-412)throw new Error('Chinese episode source rate-limited');
   if(j.code!==0)next.cn[id]={available:false,code:j.code,checkedAt:day};
@@ -34,7 +34,9 @@ export async function collectEpisodeEvidence({catalog,chinese,cache={intl:{},cn:
 }
 if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  if(!process.argv.includes('--offline')){
-  const result=await collectEpisodeEvidence({catalog:await readJson('dist/catalog.json'),chinese:await readJson('data/cn-metadata.json',{}),cache:await readJson('data/mapping-episodes.json',{intl:{},cn:{}})});
+  const skipChinese=process.argv.includes('--skip-chinese');
+  if(skipChinese)console.warn('本轮中国版接口异常，保留中国版分集证据，不再继续请求该来源。');
+  const result=await collectEpisodeEvidence({catalog:await readJson('dist/catalog.json'),chinese:await readJson('data/cn-metadata.json',{}),cache:await readJson('data/mapping-episodes.json',{intl:{},cn:{}}),skipChinese});
   await writeJson('data/mapping-episodes.json',result);
   console.log(JSON.stringify({phase:'episode-evidence-complete',international:Object.keys(result.intl).length,chinese:Object.keys(result.cn).length}));
  }

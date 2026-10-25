@@ -30,9 +30,12 @@ const discovered=await collectChinese({cache:{323926:{season_id:323926,checkedAt
 assert.equal(discovered.cache[39668].title,'命运拳台','Public-directory IDs must feed the actual metadata collector');
 assert.equal(discovered.cache[39669].title,'Example sequel','Official related-season IDs must be followed outside the numeric window');
 const secondBefore=structuredClone(second);
-await assert.rejects(collectChinese({cache:second.cache,discovery:second.discovery,catalog:{items:[]},seeds,day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:({code:-412})}),/rate-limited/);
+const stopped=await collectChinese({cache:second.cache,discovery:second.discovery,catalog:{items:[]},seeds,day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:({code:-412})});
+assert.deepEqual(stopped.cache,second.cache);assert.equal(stopped.discovery.refreshStatus,'cached');assert.equal(stopped.discovery.forwardNext,second.discovery.forwardNext);assert.equal(stopped.discovery.backfillNext,second.discovery.backfillNext);assert.equal(stopped.discovery.checkedAt,second.discovery.checkedAt);
 await assert.rejects(collectChinese({cache:second.cache,discovery:second.discovery,catalog:{items:[]},seeds,day,pause:async()=>{},request:async()=>{throw new Error('Source HTTP 429');}}),/429/);
-await assert.rejects(collectChinese({cache:second.cache,discovery:second.discovery,catalog:{items:[]},seeds,day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:({code:0,result:{season_id:1}})}),/invalid season/);
+const invalidSeason=await collectChinese({cache:second.cache,discovery:second.discovery,catalog:{items:[]},seeds,day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:({code:0,result:{season_id:1}})});
+assert.deepEqual(invalidSeason.cache,second.cache);assert.equal(invalidSeason.discovery.refreshStatus,'cached');assert.match(invalidSeason.discovery.refreshWarning,/invalid season/);
+await assert.rejects(collectChinese({cache:{},discovery:{},catalog:{items:[]},day,pause:async()=>{},request:async()=>({code:-412})}),/rate-limited/,'Without a usable cache a source failure must still fail');
 assert.deepEqual(second,secondBefore,'Source failures must leave the previous cache and scan progress unchanged');
 assert.equal(normalizeOfficialDate('May 22, 2026'),'2026-05-22');assert.equal(normalizeOfficialDate('Apr 7, 2023'),'2023-04-07');
 assert.equal(normalizeOfficialDate('2026/10/05'),'2026-10-05');assert.equal(normalizeOfficialDate('2026-10'),'2026-10');

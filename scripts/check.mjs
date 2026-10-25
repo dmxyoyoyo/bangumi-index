@@ -68,6 +68,7 @@ await import('./check-gamer-filters.mjs');
 await import('./check-cn.mjs');
 await import('./check-mapping-exclusions.mjs');
 await import('./check-update-failure.mjs');
+await import('./check-stability.mjs');
 await import('./check-gamer.mjs');
 await import('./check-bilibili.mjs');
 console.log(JSON.stringify({checks:'passed',records:catalog.items.length,mappings:catalog.items.filter(x=>x.cnId).length,scope:'Excluded short dramas, country categories and combined filters, titles/original names, date precision and advance broadcasts, ambiguous editions, source failure preservation, unique IDs, search, filters and local assets'}));

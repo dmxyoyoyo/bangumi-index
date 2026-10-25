@@ -47,11 +47,15 @@ export function buildBilibili({directory,videos,chinese,subjects,countries={},or
  fillBilibiliOriginals([...items.values()],[...extras.items,...directory.items],extras.originals||[],{references:originalReferences,overrides:originalOverrides});
  fillBilibiliDates([...items.values()],{entries:[...extras.items,...directory.items],chinese,originals:extras.originals||[],saved:premieres});
  for(const item of items.values()){item.cover=item.cover.replace(/^http:/,'https:');item.videos.sort((a,b)=>a.publishedAt-b.publishedAt);if(!item.id)item.url=item.videos.find(x=>x.available)?.url||item.url;}
- return {meta:{updatedAt:today(),lastSuccessfulRefresh:directory.meta.checkedAt,sourceCounts:directory.meta.sources,records:items.size,coverage:'收录当前请求地区的官方番剧与国创索引，并补充官方作品卡片、历史媒体资料、关联季度及官方账号视频。部分公开接口仍受限，隐藏及港澳台内容尚不能保证全量；收录不代表当前网络可播放。'},items:[...items.values()]};
+ return {meta:{updatedAt:today(),lastSuccessfulRefresh:directory.meta.checkedAt,refreshStatus:directory.meta.refreshStatus||'updated',refreshWarning:directory.meta.refreshWarning||null,sourceCounts:directory.meta.sources,records:items.size,coverage:'收录当前请求地区的官方番剧与国创索引，并补充官方作品卡片、历史媒体资料、关联季度及官方账号视频。部分公开接口仍受限，隐藏及港澳台内容尚不能保证全量；收录不代表当前网络可播放。'},items:[...items.values()]};
 }
-export async function build({offline=false}={}){
+export async function build({offline=false,skipChinese=false}={}){
  let directory=await readJson('data/bilibili-directory.json',null),videos=await readJson('data/bilibili-videos.json',{items:{}}),history=await readJson('data/bilibili-history.json',{items:[],checks:{}}),discovery=await readJson('data/bilibili-discovery.json',{}),linked=await readJson('data/bilibili-linked.json',{items:[],checks:{}}),pages=await readJson('data/bilibili-pages.json',{items:[],checks:{}}),origins=await readJson('data/bilibili-origins.json',{items:{}});const seeds=await readJson('data/bilibili-video-seeds.json',[]),archive=await readJson('data/bilibili-archive.json',{items:[]});
- if(!offline){const previous=directory;directory=await collectDirectory();history=preserveDirectoryHistory(previous,directory,history);
+ if(!offline){const previous=directory;
+  if(skipChinese){if(!directory?.items?.length)throw new Error('国区目录缓存缺失，需先完成在线同步');directory={...directory,meta:{...directory.meta,refreshStatus:'cached',lastAttemptAt:new Date().toISOString(),refreshWarning:'本轮中国版接口异常，沿用上次完整目录'}};console.warn('::warning::本轮中国版接口异常，哔哩哔哩板块沿用上次完整目录，下次继续。');}
+  else directory=await collectDirectory({previous});
+  history=preserveDirectoryHistory(previous,directory,history);
+  if(directory.meta.refreshStatus!=='cached'){
   try{discovery=await collectArticleLeads(discovery,await readJson('data/bilibili-discovery-sources.json',[]));if(discovery.meta.partial)console.warn('部分专栏未能刷新，沿用已保存的线索。');}catch{console.warn('专栏线索刷新失败，保留已确认记录。');}
   let limited=discovery.meta?.rateLimited;
   if(!limited)try{pages=await collectSeasonPages(pages,videos,{seeds:[...seeds.filter(x=>Number.isSafeInteger(x.seasonId)).map(x=>({id:x.seasonId})),...linked.items.filter(x=>x.verification!=='official-season'),...discovery.seasons||[],...archive.items,...history.items.flatMap(x=>x.seasons||[])],knownSeasonIds:[...directory.items,...history.items].map(x=>x.id)});limited=pages.meta.rateLimited;if(pages.meta.partial)console.warn('部分旧入口仍待恢复番剧页，保留线索供下次继续。');}catch{console.warn('官方番剧网页暂未有效返回，保留上次已核验结果。');}
@@ -59,6 +63,7 @@ export async function build({offline=false}={}){
   if(!limited)try{videos=await collectLegacyVideos(videos,discovery.legacyVideos||[]);limited=videos.meta.legacyRateLimited;if(!limited)videos=await collectOfficialVideos(videos,[...seeds,...discovery.videos||[]]);limited=limited||videos.meta.rateLimited;if(videos.meta.warning)console.warn(videos.meta.warning);}catch{if(!Object.keys(videos.items).length)throw new Error('官方视频缓存缺失且接口未能读取');console.warn('官方账号合集暂未返回，保留上次已核验视频。');}
   if(!limited)try{history=await collectHistory(history,directory,{pageRequest:getMediaPage,knownItems:[...linked.items,...pages.items],extraSeeds:archive.items});limited=history.meta.rateLimited;if(history.meta.warning)console.warn(history.meta.warning);}catch{console.warn('历史与港澳台条目核查暂未完成，保留上次已核验记录，下次继续。');}
   if(!limited)try{origins=await collectOrigins();}catch{console.warn('制作地区筛选未能完整刷新，保留原有分类依据。');}
+  }
   for(const [path,data] of [['directory',directory],['videos',videos],['history',history],['discovery',discovery],['linked',linked],['pages',pages],['origins',origins]])await writeJson('data/bilibili-'+path+'.json',data);
  }
  if(!directory?.items?.length)throw new Error('国区目录缓存缺失，需先完成在线同步');
@@ -70,4 +75,4 @@ export async function build({offline=false}={}){
  await fs.writeFile(new URL('dist/home-data.js',root),'window.PLATFORM_COUNTS='+JSON.stringify({sea:sea.items.length,gamer:gamer.items.length,bilibili:catalog.items.length})+';\n');
  console.log(JSON.stringify({phase:'bilibili-complete',records:catalog.items.length,officialVideos:Object.keys(videos.items).length,regional:catalog.items.filter(x=>/[港澳台臺]/.test(x.region)).length}));
 }
-if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url))await build({offline:process.argv.includes('--offline')});
+if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url))await build({offline:process.argv.includes('--offline'),skipChinese:process.argv.includes('--skip-chinese')});
