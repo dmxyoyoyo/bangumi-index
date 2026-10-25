@@ -1,6 +1,7 @@
 {
   "meta": {
-    "checkedAt": "2026-10-24",
+    "checkedAt": "2026-10-25",
+    "refreshStatus": "updated",
     "sources": [
       {
         "type": 1,
@@ -11,7 +12,7 @@
       {
         "type": 4,
         "pages": 39,
-        "total": 1942,
+        "total": 1943,
         "complete": true
       }
     ],
@@ -10465,7 +10466,7 @@
       "sourceType": 4,
       "mediaId": 23774654,
       "indexShow": "即将开播",
-      "firstEpisode": 2375291,
+      "firstEpisode": 7156287,
       "isFinish": false
     },
     {
@@ -10502,6 +10503,17 @@
       "isFinish": false
     },
     {
+      "id": 311286,
+      "title": "我是烂尾世界造物主",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/3af4caf6dc5115b3a2e7c2ab0f312e8929e56003.jpg",
+      "type": 12,
+      "sourceType": 4,
+      "mediaId": 475726070,
+      "indexShow": "更新至第9话",
+      "firstEpisode": 6363900,
+      "isFinish": false
+    },
+    {
       "id": 300307,
       "title": "掌门今天又在装高深",
       "cover": "https://i0.hdslb.com/bfs/bangumi/image/d57e1842beccc5fade0133a747f500119927bfa6.jpg",
@@ -10519,7 +10531,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 462462837,
-      "indexShow": "更新至第11话",
+      "indexShow": "更新至第12话",
       "firstEpisode": 5879994,
       "isFinish": false
     },
@@ -10552,7 +10564,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 448048589,
-      "indexShow": "更新至第14话",
+      "indexShow": "更新至第15话",
       "firstEpisode": 5441272,
       "isFinish": false
     },
@@ -11201,7 +11213,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 27397570,
-      "indexShow": "更新至第13话",
+      "indexShow": "更新至第14话",
       "firstEpisode": 2096152,
       "isFinish": false
     },
@@ -13863,7 +13875,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 21082961,
-      "indexShow": "更新至第105话",
+      "indexShow": "更新至第106话",
       "firstEpisode": 836727,
       "isFinish": false
     },
@@ -21706,7 +21718,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 28236256,
-      "indexShow": "更新至第233话",
+      "indexShow": "更新至第235话",
       "firstEpisode": 453031,
       "isFinish": false
     },
@@ -22674,7 +22686,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 28235000,
-      "indexShow": "更新至第1513话",
+      "indexShow": "更新至第1515话",
       "firstEpisode": 416234,
       "isFinish": false
     },
@@ -24225,7 +24237,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 28223043,
-      "indexShow": "更新至第196话",
+      "indexShow": "更新至第197话",
       "firstEpisode": 733316,
       "isFinish": false
     },
@@ -25622,7 +25634,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 28229591,
-      "indexShow": "更新至第1095话",
+      "indexShow": "更新至第1096话",
       "firstEpisode": 334570,
       "isFinish": false
     },
