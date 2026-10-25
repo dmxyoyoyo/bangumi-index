@@ -36,7 +36,7 @@
       "uniqueIds": 349,
       "sitemapIds": 4817,
       "metadataChecked": 4658,
-      "unavailable": 1,
+      "unavailable": 0,
       "checkedAt": "2026-10-25"
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-10-25T11:44:31.900Z",
-    "lastRefreshAttempt": "2026-10-25T11:44:31.900Z",
+    "lastSuccessfulRefresh": "2026-10-25T15:34:04.611Z",
+    "lastRefreshAttempt": "2026-10-25T15:34:04.611Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },

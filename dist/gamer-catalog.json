@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-10-25T11:40:05.972Z",
+    "lastSuccessfulRefresh": "2026-10-25T15:30:01.118Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -57,7 +57,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114217",
       "date": "2026/10",
-      "episodes": 2,
+      "episodes": 3,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114217"
@@ -847,7 +847,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114212",
       "date": "2026/10",
-      "episodes": 3,
+      "episodes": 4,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114212"
@@ -876,7 +876,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114214",
       "date": "2026/10",
-      "episodes": 3,
+      "episodes": 4,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114214"
@@ -931,7 +931,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114211",
       "date": "2026/10",
-      "episodes": 3,
+      "episodes": 4,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114211"
@@ -1182,7 +1182,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/530104",
       "date": "2026/09",
-      "episodes": 4,
+      "episodes": 5,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114215"
@@ -3811,7 +3811,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114028",
       "date": "2026/04",
-      "episodes": 16,
+      "episodes": 17,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114028"
@@ -4734,32 +4734,6 @@
     {
       "classification": {
         "attributes": [
-          "運動",
-          "競技"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113983,
-      "title": "卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」",
-      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第五季「幻真星戰篇」",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000148375.JPG",
-      "japaneseTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-      "originalTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/591584",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113983",
-      "date": "2026/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113983"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "喜劇",
           "青春",
@@ -4784,6 +4758,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113958"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "運動",
+          "競技"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113983,
+      "title": "卡片战斗!! 先导者 Divinez 第五季「幻真星战篇」",
+      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第五季「幻真星戰篇」",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000148375.JPG",
+      "japaneseTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "originalTitle": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/591584",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113983",
+      "date": "2026/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113983"
     },
     {
       "classification": {
@@ -6335,32 +6335,6 @@
     {
       "classification": {
         "attributes": [
-          "勵志",
-          "特攝"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113888,
-      "title": "东岛丹三郎想成为假面骑士",
-      "officialTitle": "東島丹三郎想成為假面騎士",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000144141.JPG",
-      "japaneseTitle": "東島丹三郎は仮面ライダーになりたい",
-      "originalTitle": "東島丹三郎は仮面ライダーになりたい",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/542203",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/542203",
-      "date": "2025/10",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113888"
-    },
-    {
-      "classification": {
-        "attributes": [
           "奇幻",
           "推理",
           "懸疑",
@@ -6783,35 +6757,6 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "懸疑",
-          "靈異神怪",
-          "黑暗",
-          "GL"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113882,
-      "title": "对我垂涎欲滴的非人少女",
-      "officialTitle": "對我垂涎欲滴的非人少女",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/27/0000142027.JPG",
-      "japaneseTitle": "私を喰べたい、ひとでなし",
-      "originalTitle": "私を喰べたい、ひとでなし",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/520842",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113882",
-      "date": "2025/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113882"
-    },
-    {
-      "classification": {
-        "attributes": [
           "溫馨"
         ],
         "types": [
@@ -6837,6 +6782,35 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113922"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "懸疑",
+          "靈異神怪",
+          "黑暗",
+          "GL"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113882,
+      "title": "对我垂涎欲滴的非人少女",
+      "officialTitle": "對我垂涎欲滴的非人少女",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/27/0000142027.JPG",
+      "japaneseTitle": "私を喰べたい、ひとでなし",
+      "originalTitle": "私を喰べたい、ひとでなし",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/520842",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113882",
+      "date": "2025/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113882"
     },
     {
       "classification": {
@@ -11662,34 +11636,6 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "喜劇",
-          "戀愛",
-          "悠閒"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113669,
-      "title": "噗妮露是可爱史莱姆",
-      "officialTitle": "噗妮露是可愛史萊姆",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000136938.JPG",
-      "japaneseTitle": "ぷにるはかわいいスライム",
-      "originalTitle": "ぷにるはかわいいスライム",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/470045",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113669",
-      "date": "2024/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113669"
-    },
-    {
-      "classification": {
-        "attributes": [
           "冒險",
           "奇幻",
           "校園",
@@ -11714,6 +11660,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113663"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "喜劇",
+          "戀愛",
+          "悠閒"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113669,
+      "title": "噗妮露是可爱史莱姆",
+      "officialTitle": "噗妮露是可愛史萊姆",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000136938.JPG",
+      "japaneseTitle": "ぷにるはかわいいスライム",
+      "originalTitle": "ぷにるはかわいいスライム",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/470045",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113669",
+      "date": "2024/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113669"
     },
     {
       "classification": {
@@ -14141,35 +14115,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "異世界",
-          "魔法",
-          "奇幻",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113517,
-      "title": "为美好的世界献上祝福！3",
-      "officialTitle": "為美好的世界獻上祝福！3",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/19/0000118719.JPG",
-      "japaneseTitle": "この素晴らしい世界に祝福を！3",
-      "originalTitle": "この素晴らしい世界に祝福を！3",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=118719",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113517",
-      "date": "2024/04",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113517"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "奇幻",
           "校園",
@@ -14195,6 +14140,35 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113499"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "異世界",
+          "魔法",
+          "奇幻",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113517,
+      "title": "为美好的世界献上祝福！3",
+      "officialTitle": "為美好的世界獻上祝福！3",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/19/0000118719.JPG",
+      "japaneseTitle": "この素晴らしい世界に祝福を！3",
+      "originalTitle": "この素晴らしい世界に祝福を！3",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=118719",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113517",
+      "date": "2024/04",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113517"
     },
     {
       "classification": {
@@ -17925,6 +17899,32 @@
     {
       "classification": {
         "attributes": [
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113378,
+      "title": "狩龙人拉格纳",
+      "officialTitle": "狩龍人拉格納",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000123490.JPG",
+      "japaneseTitle": "ラグナクリムゾン",
+      "originalTitle": "ラグナクリムゾン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/374648",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/374648",
+      "date": "2023/10",
+      "episodes": 25,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113378"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "奇幻"
@@ -17950,32 +17950,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113380"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113378,
-      "title": "狩龙人拉格纳",
-      "officialTitle": "狩龍人拉格納",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000123490.JPG",
-      "japaneseTitle": "ラグナクリムゾン",
-      "originalTitle": "ラグナクリムゾン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/374648",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/374648",
-      "date": "2023/10",
-      "episodes": 25,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113378"
     },
     {
       "classification": {
@@ -20367,34 +20341,6 @@
     {
       "classification": {
         "attributes": [
-          "魔法",
-          "奇幻",
-          "校園",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113238,
-      "title": "为美好的世界献上爆焰！",
-      "officialTitle": "為美好的世界獻上爆焰！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000129014.JPG",
-      "japaneseTitle": "この素晴らしい世界に爆焔を！",
-      "originalTitle": "この素晴らしい世界に爆焔を！",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/385209",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/385209",
-      "date": "2023/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113238"
-    },
-    {
-      "classification": {
-        "attributes": [
           "冒險",
           "魔法",
           "奇幻",
@@ -20449,6 +20395,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113251"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "魔法",
+          "奇幻",
+          "校園",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113238,
+      "title": "为美好的世界献上爆焰！",
+      "officialTitle": "為美好的世界獻上爆焰！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000129014.JPG",
+      "japaneseTitle": "この素晴らしい世界に爆焔を！",
+      "originalTitle": "この素晴らしい世界に爆焔を！",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/385209",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/385209",
+      "date": "2023/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113238"
     },
     {
       "classification": {
@@ -34720,32 +34694,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "超能力"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113066,
-      "title": "炎炎消防队",
-      "officialTitle": "炎炎消防隊",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
-      "japaneseTitle": "炎炎ノ消防隊",
-      "originalTitle": "炎炎ノ消防隊",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/266372",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/266372",
-      "date": "2019/07",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "喜劇"
         ],
@@ -34797,6 +34745,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=102494"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "超能力"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113066,
+      "title": "炎炎消防队",
+      "officialTitle": "炎炎消防隊",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
+      "japaneseTitle": "炎炎ノ消防隊",
+      "originalTitle": "炎炎ノ消防隊",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/266372",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/266372",
+      "date": "2019/07",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
     },
     {
       "classification": {
@@ -36002,6 +35976,34 @@
     {
       "classification": {
         "attributes": [
+          "冒險",
+          "奇幻",
+          "血腥暴力",
+          "黑暗"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 94032,
+      "title": "哥布林杀手",
+      "officialTitle": "哥布林殺手",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
+      "japaneseTitle": "ゴブリンスレイヤー",
+      "originalTitle": "ゴブリンスレイヤー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/238006",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/238006",
+      "date": "2018/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "異世界",
@@ -36029,34 +36031,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112438"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
-          "奇幻",
-          "血腥暴力",
-          "黑暗"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 94032,
-      "title": "哥布林杀手",
-      "officialTitle": "哥布林殺手",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
-      "japaneseTitle": "ゴブリンスレイヤー",
-      "originalTitle": "ゴブリンスレイヤー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/238006",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/238006",
-      "date": "2018/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
     },
     {
       "classification": {
@@ -37083,34 +37057,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "超能力",
-          "校園",
-          "勵志"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 91866,
-      "title": "我的英雄学院 第三季",
-      "officialTitle": "我的英雄學院 第三季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000091866.JPG",
-      "japaneseTitle": "僕のヒーローアカデミア 第3期",
-      "originalTitle": "僕のヒーローアカデミア 第3期",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/226677",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/226677",
-      "date": "2018/04",
-      "episodes": 25,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=91866"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "冒險",
           "科幻"
         ],
@@ -37139,29 +37085,30 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
+          "動作",
+          "超能力",
+          "校園",
           "勵志"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 113726,
-      "title": "女神异闻录 5 the Animation",
-      "officialTitle": "女神異聞錄 5 the Animation",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000090675.JPG",
-      "japaneseTitle": "ペルソナ 5 the Animation",
-      "originalTitle": "ペルソナ 5 the Animation",
+      "id": 91866,
+      "title": "我的英雄学院 第三季",
+      "officialTitle": "我的英雄學院 第三季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000091866.JPG",
+      "japaneseTitle": "僕のヒーローアカデミア 第3期",
+      "originalTitle": "僕のヒーローアカデミア 第3期",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=90675",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113726",
+      "originalSourceUrl": "https://bgm.tv/subject/226677",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/226677",
       "date": "2018/04",
-      "episodes": 26,
+      "episodes": 25,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113726"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=91866"
     },
     {
       "classification": {
@@ -37188,6 +37135,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112709"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "勵志"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113726,
+      "title": "女神异闻录 5 the Animation",
+      "officialTitle": "女神異聞錄 5 the Animation",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/75/0000090675.JPG",
+      "japaneseTitle": "ペルソナ 5 the Animation",
+      "originalTitle": "ペルソナ 5 the Animation",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=90675",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113726",
+      "date": "2018/04",
+      "episodes": 26,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113726"
     },
     {
       "classification": {
@@ -54333,6 +54307,32 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114003"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "勵志",
+          "特攝"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113888,
+      "title": "东岛丹三郎想成为假面骑士",
+      "officialTitle": "東島丹三郎想成為假面騎士",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/41/0000144141.JPG",
+      "japaneseTitle": "東島丹三郎は仮面ライダーになりたい",
+      "originalTitle": "東島丹三郎は仮面ライダーになりたい",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/542203",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/542203",
+      "date": "2025/10",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113888"
     }
   ]
 }
