@@ -1,9 +1,9 @@
 {
   "meta": {
-    "checkedAt": "2026-10-25",
-    "checked": 0,
+    "checkedAt": "2026-10-26",
+    "checked": 2,
     "partial": true,
-    "rateLimited": false,
+    "rateLimited": true,
     "pending": 33
   },
   "checks": {
@@ -2203,11 +2203,11 @@
       "seasonId": 162127
     },
     "ss:5531": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-26",
       "status": "unresolved"
     },
     "ss:5551": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-26",
       "status": "unresolved"
     },
     "ss:5775": {
