@@ -1,9 +1,9 @@
 {
   "meta": {
-    "checkedAt": "2026-10-26",
+    "checkedAt": "2026-10-27",
     "partial": true,
     "rateLimited": false,
-    "failedSources": 5
+    "failedSources": 3
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -455,7 +455,7 @@
         "https://www.bilibili.com/read/cv6295997?from=articleDetail",
         "https://www.bilibili.com/opus/611440172852572855"
       ],
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     "https://www.bilibili.com/opus/984809853218193431": {
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
@@ -735,7 +735,7 @@
       ],
       "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     "https://www.bilibili.com/opus/862025538638708793": {
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
@@ -1421,7 +1421,7 @@
       ],
       "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     "https://www.bilibili.com/read/mobile?id=6211078": {
       "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078",
@@ -1433,903 +1433,903 @@
       "cards": [],
       "legacyVideos": [
         {
-          "aid": 60437826,
-          "expectedTitle": "2013-01-02\t前進吧！登山少女（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2013-01-02 前進吧！登山少女（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 28136,
-          "expectedTitle": "2013-07-12\t魔法少女☆伊莉雅（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2013-07-12 魔法少女☆伊莉雅（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57103800,
-          "expectedTitle": "2013-10-08\t東京暗鴉（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2013-10-08 東京暗鴉（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 11745532,
-          "expectedTitle": "2014-01-15\t魔劍姬！通（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-01-15 魔劍姬！通（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 625669555,
+          "aid": 0,
           "expectedTitle": "2014-04-05 地球隊長（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15277592,
-          "expectedTitle": "2014-04-09\t風雲維新大將軍（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-04-09 風雲維新大將軍（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 11501084,
-          "expectedTitle": "2014-04-09\t棺姬嘉依卡（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-04-09 棺姬嘉依卡（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 62462810,
-          "expectedTitle": "2014-04-10\t乒乓（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-04-10 乒乓（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 9485931,
-          "expectedTitle": "2014-04-11\t約會大作戰 第二季 （僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-04-11 約會大作戰 第二季 （僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 9743342,
-          "expectedTitle": "2014-04-12\t目隱都市的演繹者（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-04-12 目隱都市的演繹者（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 59914973,
-          "expectedTitle": "2014-07-06\t月刊少女野崎君（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-07-06 月刊少女野崎君（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 40160148,
-          "expectedTitle": "2014-07-09\tLOVE STAGE!!（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-07-09 LOVE STAGE!!（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 60455837,
-          "expectedTitle": "2014-07-09\t前進吧！登山少女  第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-07-09 前進吧！登山少女  第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 40179906,
-          "expectedTitle": "2014-07-11\t東京ESP （僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-07-11 東京ESP （僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58297697,
-          "expectedTitle": "2014-08-23\t頭文字D Legend1 -覺醒-（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-08-23 頭文字D Legend1 -覺醒-（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 11668811,
-          "expectedTitle": "2014-10-08\t棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2014-10-08 棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 795707356,
+          "aid": 0,
           "expectedTitle": "2014-10-09 白箱（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 36382505,
-          "expectedTitle": "2015-04-05\tSHOW BY ROCK!! （僅限台湾地區）",
+          "aid": 0,
+          "expectedTitle": "2015-04-05 SHOW BY ROCK!! （僅限台湾地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 2524522,
-          "expectedTitle": "2015-07-04\t沒有黃段子的無聊世界（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2015-07-04 沒有黃段子的無聊世界（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 60467057,
-          "expectedTitle": "2015-07-07\tOVERLORD（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2015-07-07 OVERLORD（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 2571373,
-          "expectedTitle": "2015-07-09\t純情羅曼史 第3季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2015-07-09 純情羅曼史 第3季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 28737,
-          "expectedTitle": "2015-10-03\t排球少年！！第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2015-10-03 排球少年！！第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 11288700,
-          "expectedTitle": "2015-10-09\t新妹魔王的契約者  BURST（僅限港澳台）",
+          "aid": 0,
+          "expectedTitle": "2015-10-09 新妹魔王的契約者  BURST（僅限港澳台）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 68974429,
-          "expectedTitle": "2016-01-07\tActive Raid -機動強襲室第八課-（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-01-07 Active Raid -機動強襲室第八課-（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 35891970,
-          "expectedTitle": "2016-01-08\t昭和元祿落語心中（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-01-08 昭和元祿落語心中（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 55787308,
-          "expectedTitle": "2016-01-08\t告訴我！辣妹子醬（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-01-08 告訴我！辣妹子醬（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 62540402,
-          "expectedTitle": "2016-03-31\tJOJO的奇妙冒險 不滅鉆石（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-03-31 JOJO的奇妙冒險 不滅鉆石（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 55793302,
-          "expectedTitle": "2016-04-09\t田中君總是如此慵懶（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-04-09 田中君總是如此慵懶（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 8590289,
-          "expectedTitle": "2016-04-23\t吹響！上低音號 ~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2016-04-23 吹響！上低音號 ~歡迎來到北宇治高校吹奏樂部~（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57087699,
-          "expectedTitle": "2016-04-23\t遊戲王：次元的黑暗面（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-04-23 遊戲王：次元的黑暗面（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 36322697,
-          "expectedTitle": "2016-07-01\t剑风传奇 新作（僅限台湾地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-01 剑风传奇 新作（僅限台湾地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 5359849,
-          "expectedTitle": "2016-07-03\tB-PROJECT（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-03 B-PROJECT（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 5189980,
-          "expectedTitle": "2016-07-03\t不愉快的怪物庵（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-03 不愉快的怪物庵（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 5251672,
-          "expectedTitle": "2016-07-08\t藍海少女（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-08 藍海少女（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70755192,
-          "expectedTitle": "2016-07-08\t91Days（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-08 91Days（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69126477,
-          "expectedTitle": "2016-07-10\tActive Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-10 Active Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 5461943,
-          "expectedTitle": "2016-07-10\t心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-07-10 心靈代碼 QUALIDEA CODE（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 18373104,
-          "expectedTitle": "2016-09-10\t魔法使的新娘 等待繁星之人（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2016-09-10 魔法使的新娘 等待繁星之人（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 6556317,
-          "expectedTitle": "2016-10-06\t吹響！上低音號 第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-06 吹響！上低音號 第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 36383482,
-          "expectedTitle": "2016-10-06\tALL OUT!!（僅限台湾地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-06 ALL OUT!!（僅限台湾地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 55798651,
-          "expectedTitle": "2016-10-06\tFLIP FLAPPERS（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-06 FLIP FLAPPERS（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57091324,
-          "expectedTitle": "2016-10-06\t竞女（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-06 竞女（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 35892366,
-          "expectedTitle": "2016-10-07\t漂流武士 （僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-07 漂流武士 （僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58563223,
-          "expectedTitle": "2016-10-07\t排球少年 烏野高校 VS 白鳥澤學園高校（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2016-10-07 排球少年 烏野高校 VS 白鳥澤學園高校（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 36382931,
-          "expectedTitle": "2017-01-01\t碧藍幻想（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-01 碧藍幻想（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 5775,
-          "expectedTitle": "2017-01-05\t政宗君的复仇（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-05 政宗君的复仇（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58297092,
-          "expectedTitle": "2017-01-06\t幼.女戰記（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-06 幼.女戰記（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 36383908,
-          "expectedTitle": "2017-01-06\t昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-06 昭和元祿落語心中-助六再臨篇（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 40225226,
-          "expectedTitle": "2017-01-07\t亚人酱有话要说 （僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-07 亚人酱有话要说 （僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58299137,
-          "expectedTitle": "2017-01-08\t情熱傳說 the X 第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-08 情熱傳說 the X 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 28137,
-          "expectedTitle": "2017-01-12\t为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-01-12 为美好的世界献上祝福！ 第二季 （僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 9540857,
-          "expectedTitle": "2017-04-02\t進擊的巨人 第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-04-02 進擊的巨人 第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 11798212,
-          "expectedTitle": "2017-07-02\t活撃/刀剣乱舞（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-07-02 活撃/刀剣乱舞（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15039192,
-          "expectedTitle": "2017-10-04\t品酒要在成為夫妻之後（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-04 品酒要在成為夫妻之後（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15044642,
-          "expectedTitle": "2017-10-04\tInfini-T Force（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-04 Infini-T Force（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15115443,
-          "expectedTitle": "2017-10-06\t國王遊戲 The Animation（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-06 國王遊戲 The Animation（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15146703,
-          "expectedTitle": "2017-10-07\tDies irae 神怒之日（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-07 Dies irae 神怒之日（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15180435,
-          "expectedTitle": "2017-10-08\t魔法使的新娘（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-08 魔法使的新娘（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 15435842,
-          "expectedTitle": "2017-10-09\t干物妹!小埋R / 我家有個魚乾妹R（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2017-10-09 干物妹!小埋R / 我家有個魚乾妹R（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 18044828,
-          "expectedTitle": "2018-01-07\tSlow Start（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-01-07 Slow Start（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 18102361,
-          "expectedTitle": "2018-01-07\t百變小櫻Clear咭（僅限港澳地區）",
+          "aid": 0,
+          "expectedTitle": "2018-01-07 百變小櫻Clear咭（僅限港澳地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 18078599,
-          "expectedTitle": "2018-01-08\t續 刀劍亂舞 -花丸-（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-01-08 續 刀劍亂舞 -花丸-（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 18281381,
-          "expectedTitle": "2018-01-14\tDARLING in the FRANXX（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-01-14 DARLING in the FRANXX（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21564143,
-          "expectedTitle": "2018-04-03\t蒼天之拳 REGENESIS（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-03 蒼天之拳 REGENESIS（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21598677,
-          "expectedTitle": "2018-04-03\t銀河英雄傳說：全新命題 邂逅（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-03 銀河英雄傳說：全新命題 邂逅（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21598899,
-          "expectedTitle": "2018-04-03\tTokyo Guru: re (Part 1)（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-03 Tokyo Guru: re (Part 1)（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21757061,
-          "expectedTitle": "2018-04-07\t失憶融合WIXOSS（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-07 失憶融合WIXOSS（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21951218,
-          "expectedTitle": "2018-04-07\t藍海少女～advance～（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-07 藍海少女～advance～（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 21829806,
-          "expectedTitle": "2018-04-08\t甜心戰士 Universe（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-08 甜心戰士 Universe（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 23860,
-          "expectedTitle": "2018-04-13\t奴隸區 The Animation（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-04-13 奴隸區 The Animation（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 26079528,
-          "expectedTitle": "2018-07-03\t千槍士（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-03 千槍士（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 62380477,
-          "expectedTitle": "2018-07-05\t春原莊的管理員小姐（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-05 春原莊的管理員小姐（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 51073204,
-          "expectedTitle": "2018-07-08\t百鍊霸王與聖約女武神（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-08 百鍊霸王與聖約女武神（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 26559937,
-          "expectedTitle": "2018-07-11\tAngolmois 元寇合戰記（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-11 Angolmois 元寇合戰記（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48095657,
-          "expectedTitle": "2018-07-13\t少女☆歌劇 Revue Starlight（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-13 少女☆歌劇 Revue Starlight（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 33616321,
-          "expectedTitle": "2018-07-14\t搖曳莊的幽奈小姐（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-14 搖曳莊的幽奈小姐（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 27501468,
-          "expectedTitle": "2018-07-23\t進擊的巨人 第三季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2018-07-23 進擊的巨人 第三季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 32777654,
-          "expectedTitle": "2018-09-30\tDouble Decker! 道格&amp;基里爾（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-09-30 Double Decker! 道格&基里爾（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 32848792,
-          "expectedTitle": "2018-10-02\t蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-02 蒼天之拳 REGENESIS 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 33021084,
-          "expectedTitle": "2018-10-04\t天空與海洋之間（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-04 天空與海洋之間（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 33128601,
-          "expectedTitle": "2018-10-05\t佐賀偶像是傳奇（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-05 佐賀偶像是傳奇（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 33488613,
-          "expectedTitle": "2018-10-09\tTokyo Guru: re (Part 2)（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-09 Tokyo Guru: re (Part 2)（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 34937632,
-          "expectedTitle": "2018-10-10\t產子救世錄（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-10 產子救世錄（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 33579648,
-          "expectedTitle": "2018-10-11\t只要別西卜大小姐喜歡就好（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2018-10-11 只要別西卜大小姐喜歡就好（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 51728459,
-          "expectedTitle": "2019-04-02\tYU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-02 YU-NO 在這世界盡頭詠唱愛的少女（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48377996,
-          "expectedTitle": "2019-04-06\t生肖奇缘 (2019)（僅限港澳地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-06 生肖奇缘 (2019)（僅限港澳地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48379841,
-          "expectedTitle": "2019-04-06\t滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-06 滿腦都是○○的我沒辦法談戀愛（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48392619,
-          "expectedTitle": "2019-04-06\tMIX（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-06 MIX（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48354608,
-          "expectedTitle": "2019-04-07\t鬼滅之刃（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-07 鬼滅之刃（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48391846,
-          "expectedTitle": "2019-04-07\t我們真的學不來！（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-07 我們真的學不來！（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48531982,
-          "expectedTitle": "2019-04-07\t一弦定音！（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-07 一弦定音！（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48628402,
-          "expectedTitle": "2019-04-08\t八月的棒球甜心（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-08 八月的棒球甜心（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 48806345,
-          "expectedTitle": "2019-04-10\t強襲魔女 501部隊出動!（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-10 強襲魔女 501部隊出動!（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 50762638,
-          "expectedTitle": "2019-04-29\t進擊的巨人 第三季 Part.2（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-04-29 進擊的巨人 第三季 Part.2（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57611295,
-          "expectedTitle": "2019-07-02\t你遭難了嗎？（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-02 你遭難了嗎？（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57616311,
-          "expectedTitle": "2019-07-02\t魔術學姐（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-02 魔術學姐（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57730197,
-          "expectedTitle": "2019-07-03\t彼方的阿斯特拉（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-03 彼方的阿斯特拉（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57723995,
-          "expectedTitle": "2019-07-03\t流汗吧！健身少女（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-03 流汗吧！健身少女（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57726890,
-          "expectedTitle": "2019-07-04\t魔王大人、RETRY！（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-04 魔王大人、RETRY！（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 668096206,
+          "aid": 0,
           "expectedTitle": "2019-07-05 Free!-Road to the World-夢（僅限港澳及其他地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57990872,
-          "expectedTitle": "2019-07-05\t女高中生的虛度日常（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-05 女高中生的虛度日常（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57984337,
-          "expectedTitle": "2019-07-05\tＤｒ．ＳＴＯＮＥ（新石紀）（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-05 Ｄｒ．ＳＴＯＮＥ（新石紀）（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57990385,
-          "expectedTitle": "2019-07-06\t炎炎消防隊（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-06 炎炎消防隊（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 57998601,
-          "expectedTitle": "2019-07-06\t騷亂時節的少女們。（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-06 騷亂時節的少女們。（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58092058,
-          "expectedTitle": "2019-07-07\t艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-07 艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58209576,
-          "expectedTitle": "2019-07-07\t實況主的逃脫遊戲【直播中】（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-07 實況主的逃脫遊戲【直播中】（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58212949,
-          "expectedTitle": "2019-07-07\t偶像夢幻祭（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-07 偶像夢幻祭（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58365104,
-          "expectedTitle": "2019-07-08\t只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-08 只要長得可愛，即使是變態你也喜歡嗎？（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58356305,
-          "expectedTitle": "2019-07-08\t平凡職業造就世界最強（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-08 平凡職業造就世界最強（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58367425,
-          "expectedTitle": "2019-07-09\tCOP CRAFT（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-09 COP CRAFT（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58742142,
-          "expectedTitle": "2019-07-12\tGIVEN 被贈與的未來（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-12 GIVEN 被贈與的未來（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58910515,
-          "expectedTitle": "2019-07-13\t普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-13 普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 58874800,
-          "expectedTitle": "2019-07-13\t科學一方通行（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-13 科學一方通行（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 61430254,
-          "expectedTitle": "2019-07-31\tTRY KNIGHTS（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-07-31 TRY KNIGHTS（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69171890,
-          "expectedTitle": "2019-09-27\t銀河英雄傳說：全新命題  星亂（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-09-27 銀河英雄傳說：全新命題  星亂（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69497122,
-          "expectedTitle": "2019-10-01\t香蕉喵 不可思議的夥伴們（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-01 香蕉喵 不可思議的夥伴們（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69788434,
-          "expectedTitle": "2019-10-02\t浦島坂田船的日常（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-02 浦島坂田船的日常（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69799007,
-          "expectedTitle": "2019-10-02\t這個勇者明明超TUEEE卻過度謹慎！（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-02 這個勇者明明超TUEEE卻過度謹慎！（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69793261,
-          "expectedTitle": "2019-10-03\t小書痴的下剋上:為了成為圖書管理員不擇手段!（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-03 小書痴的下剋上:為了成為圖書管理員不擇手段!（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69799741,
-          "expectedTitle": "2019-10-03\t喜歡本大爺的竟然就妳一個？（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-03 喜歡本大爺的竟然就妳一個？（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69800677,
-          "expectedTitle": "2019-10-03\t放學後桌遊俱樂部（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-03 放學後桌遊俱樂部（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 69914830,
-          "expectedTitle": "2019-10-03\t碧藍航線（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-03 碧藍航線（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70073822,
-          "expectedTitle": "2019-10-04\t厨病激发BOY（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-04 厨病激发BOY（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70075300,
-          "expectedTitle": "2019-10-05\t碧藍幻想 第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-05 碧藍幻想 第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70186897,
-          "expectedTitle": "2019-10-05\t入間同學入魔了（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-05 入間同學入魔了（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70183619,
-          "expectedTitle": "2019-10-05\t戰×戀（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-05 戰×戀（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70231748,
-          "expectedTitle": "2019-10-06\tFate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-06 Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70236283,
-          "expectedTitle": "2019-10-06\t刀劍神域 Alicization War of Underworld（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-06 刀劍神域 Alicization War of Underworld（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70173767,
-          "expectedTitle": "2019-10-06\t我們真的學不來！第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-06 我們真的學不來！第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70233455,
-          "expectedTitle": "2019-10-06\t一弦定音！第二季（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-06 一弦定音！第二季（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70455095,
-          "expectedTitle": "2019-10-07\t夢幻之星2 EPISODE ORACLE（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-07 夢幻之星2 EPISODE ORACLE（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70459930,
-          "expectedTitle": "2019-10-07\t募戀英雄（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-07 募戀英雄（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70474574,
-          "expectedTitle": "2019-10-07\t我不是說了能力要平均值嗎？（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-07 我不是說了能力要平均值嗎？（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70571226,
-          "expectedTitle": "2019-10-08\tZ/X Code reunion（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-08 Z/X Code reunion（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70583627,
-          "expectedTitle": "2019-10-09\t神田川JET GIRLS（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-09 神田川JET GIRLS（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70776831,
-          "expectedTitle": "2019-10-10\t高達創戰潛行者 Re:RISE（僅限港澳地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-10 高達創戰潛行者 Re:RISE（僅限港澳地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70776781,
-          "expectedTitle": "2019-10-10\t鋼彈創鬥者潛網大戰 Re:RISE（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-10 鋼彈創鬥者潛網大戰 Re:RISE（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70795118,
-          "expectedTitle": "2019-10-10\t刺客守則（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-10 刺客守則（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70787829,
-          "expectedTitle": "2019-10-11\t非槍人生（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-11 非槍人生（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70857012,
-          "expectedTitle": "2019-10-11\t星合之空（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-11 星合之空（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70867620,
-          "expectedTitle": "2019-10-12\t食戟之靈 神之皿（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-12 食戟之靈 神之皿（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70891395,
-          "expectedTitle": "2019-10-12\t歌舞伎町夏洛克（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-12 歌舞伎町夏洛克（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 70872165,
-          "expectedTitle": "2019-10-12\t廚神小當家（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-12 廚神小當家（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 71098083,
-          "expectedTitle": "2019-10-13\t美妙射擊部 / RIFLE IS BEAUTIFUL（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-13 美妙射擊部 / RIFLE IS BEAUTIFUL（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 73094209,
-          "expectedTitle": "2019-10-23\t花牌情緣 第三季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-23 花牌情緣 第三季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 73147884,
-          "expectedTitle": "2019-10-23\t眾神的逆鱗（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2019-10-23 眾神的逆鱗（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 82222439,
-          "expectedTitle": "2020-01-06\tID:INVADED（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020-01-06 ID:INVADED（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 82559875,
-          "expectedTitle": "2020-01-09\t星掠者（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020-01-09 星掠者（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 82643678,
-          "expectedTitle": "2020-01-10\t理科生墜入情網，故嘗試證明。（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020-01-10 理科生墜入情網，故嘗試證明。（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 82826601,
-          "expectedTitle": "2020-01-11\t科學超電磁砲T（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020-01-11 科學超電磁砲T（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 370066080,
-          "expectedTitle": "2020.04\t昨日之歌（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 昨日之歌（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 455078426,
-          "expectedTitle": "2020.04\t新櫻花大戰 the Animation（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 新櫻花大戰 the Animation（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 837637931,
-          "expectedTitle": "2020.04\t邪神與廚二病少女 第二季（僅限港澳台及其他地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 邪神與廚二病少女 第二季（僅限港澳台及其他地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 540074561,
-          "expectedTitle": "2020.04\t小書痴的下剋上:為了成為圖書管理員不擇手段! 第二部（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 小書痴的下剋上:為了成為圖書管理員不擇手段! 第二部（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 925076431,
-          "expectedTitle": "2020.04\t聽我的電波吧（僅限港澳台及其他地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 聽我的電波吧（僅限港澳台及其他地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 752639653,
-          "expectedTitle": "2020.04\t生肖奇缘 第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 生肖奇缘 第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 582573927,
-          "expectedTitle": "2020.04\t社長，戰鬥的時間到了！（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 社長，戰鬥的時間到了！（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 582546669,
-          "expectedTitle": "2020.04\t球詠（僅限港澳台地区）",
+          "aid": 0,
+          "expectedTitle": "2020.04 球詠（僅限港澳台地区）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 667715682,
-          "expectedTitle": "2020.04\t噴嚏大魔王2020（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 噴嚏大魔王2020（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 710062138,
-          "expectedTitle": "2020.04\t辣妹與恐龍（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 辣妹與恐龍（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 540011313,
-          "expectedTitle": "2020.04\t繼怪怪守護神（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 繼怪怪守護神（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 497715774,
-          "expectedTitle": "2020.04\t輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 輝夜姬想讓人告白？~天才們的戀愛頭腦戰~（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 752589821,
-          "expectedTitle": "2020.04\t格萊普尼爾（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 格萊普尼爾（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 667678569,
-          "expectedTitle": "2020.04\t高達創戰潛行者RE: RISE 2nd Season（僅限港澳地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 高達創戰潛行者RE: RISE 2nd Season（僅限港澳地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 370204471,
-          "expectedTitle": "2020.04\t鋼彈創鬥者潛網大戰 Re:RISE 第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 鋼彈創鬥者潛網大戰 Re:RISE 第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 840145520,
-          "expectedTitle": "2020.04\t放學後堤防日誌（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 放學後堤防日誌（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 837736319,
-          "expectedTitle": "2020.04\t超異域公主連結☆Re:Dive（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 超異域公主連結☆Re:Dive（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 882751136,
-          "expectedTitle": "2020.04\t別冊 奧林匹克之環（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 別冊 奧林匹克之環（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 925173542,
-          "expectedTitle": "2020.04\t白貓 Project ZERO CHRONICLE（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 白貓 Project ZERO CHRONICLE（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 840117091,
-          "expectedTitle": "2020.04\t八男？別鬧了！（僅限港澳台及其他地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 八男？別鬧了！（僅限港澳台及其他地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 667633346,
-          "expectedTitle": "2020.04\t闇影詩章（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 闇影詩章（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 967558534,
-          "expectedTitle": "2020.04\t阿爾蒂（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 阿爾蒂（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 882544745,
-          "expectedTitle": "2020.04\tLISTENERS（僅限港澳台及其他地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 LISTENERS（僅限港澳台及其他地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 882578682,
-          "expectedTitle": "2020.04\tIDOLiSH7-偶像星願-Second Beat!（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 IDOLiSH7-偶像星願-Second Beat!（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 540154190,
-          "expectedTitle": "2020.04\tARGONAVIS from BanG Dream！（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.04 ARGONAVIS from BanG Dream！（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 926359246,
-          "expectedTitle": "2020.07\t非槍人生 第二季 （僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.07 非槍人生 第二季 （僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 413682564,
-          "expectedTitle": "2020.07\t刀劍神域 Alicization War of Underworld 第二季（僅限台灣地區）",
+          "aid": 0,
+          "expectedTitle": "2020.07 刀劍神域 Alicization War of Underworld 第二季（僅限台灣地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 752720959,
-          "expectedTitle": "2020.07\t富豪刑警 Balance:UNLIMITED（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.07 富豪刑警 Balance:UNLIMITED（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 753775803,
-          "expectedTitle": "2020.07\t果然我的青春戀愛喜劇搞錯了。完（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.07 果然我的青春戀愛喜劇搞錯了。完（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         },
         {
-          "aid": 285139680,
-          "expectedTitle": "2020.07\t食戟之靈 豪之皿（僅限港澳台地區）",
+          "aid": 0,
+          "expectedTitle": "2020.07 食戟之靈 豪之皿（僅限港澳台地區）",
           "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
         }
       ],
@@ -2516,7 +2516,7 @@
         "https://www.bilibili.com/read/cv6122972",
         "https://www.bilibili.com/read/cv6163122"
       ],
-      "checkedAt": "2026-10-24"
+      "checkedAt": "2026-10-27"
     },
     "https://www.bilibili.com/read/cv14794306": {
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
@@ -4318,7 +4318,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 1097,
@@ -4328,7 +4328,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 2029,
@@ -4338,7 +4338,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 1146,
@@ -4348,7 +4348,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 5125,
@@ -4358,7 +4358,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 47098,
@@ -4368,7 +4368,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 842,
@@ -4378,7 +4378,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 3486,
@@ -4388,7 +4388,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 843,
@@ -4398,7 +4398,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 23869,
@@ -4408,7 +4408,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 2238,
@@ -4418,7 +4418,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 142945,
@@ -4428,7 +4428,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-22"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43060,
@@ -4438,7 +4438,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44816,
@@ -4448,7 +4448,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43175,
@@ -4458,7 +4458,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43177,
@@ -4468,7 +4468,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43281,
@@ -4478,7 +4478,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43061,
@@ -4488,7 +4488,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43174,
@@ -4498,7 +4498,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43103,
@@ -4508,7 +4508,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43171,
@@ -4518,7 +4518,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43176,
@@ -4528,7 +4528,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43267,
@@ -4538,7 +4538,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43278,
@@ -4548,7 +4548,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43772,
@@ -4558,7 +4558,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43170,
@@ -4568,7 +4568,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43104,
@@ -4578,7 +4578,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43184,
@@ -4588,7 +4588,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 43064,
@@ -4598,7 +4598,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44952,
@@ -4608,7 +4608,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44862,
@@ -4618,7 +4618,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44466,
@@ -4628,7 +4628,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44468,
@@ -4638,7 +4638,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44484,
@@ -4648,7 +4648,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44477,
@@ -4658,7 +4658,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44490,
@@ -4668,7 +4668,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44124,
@@ -4678,7 +4678,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44223,
@@ -4688,7 +4688,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44504,
@@ -4698,7 +4698,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44502,
@@ -4708,7 +4708,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44493,
@@ -4718,7 +4718,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44508,
@@ -4728,7 +4728,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44494,
@@ -4738,7 +4738,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44505,
@@ -4748,7 +4748,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44495,
@@ -4758,7 +4758,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44218,
@@ -4768,7 +4768,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44217,
@@ -4778,7 +4778,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44125,
@@ -4788,7 +4788,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44471,
@@ -4798,7 +4798,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44465,
@@ -4808,7 +4808,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44503,
@@ -4818,7 +4818,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44464,
@@ -4828,7 +4828,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44467,
@@ -4838,7 +4838,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44221,
@@ -4848,7 +4848,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44470,
@@ -4858,7 +4858,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44506,
@@ -4868,7 +4868,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44485,
@@ -4878,7 +4878,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44509,
@@ -4888,7 +4888,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44512,
@@ -4898,7 +4898,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44365,
@@ -4908,7 +4908,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44999,
@@ -4918,7 +4918,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44997,
@@ -4928,7 +4928,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44998,
@@ -4938,7 +4938,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45008,
@@ -4948,7 +4948,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45000,
@@ -4958,7 +4958,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44960,
@@ -4968,7 +4968,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 44959,
@@ -4978,7 +4978,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45002,
@@ -4988,7 +4988,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45496,
@@ -4998,7 +4998,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45570,
@@ -5008,7 +5008,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45516,
@@ -5018,7 +5018,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45498,
@@ -5028,7 +5028,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45555,
@@ -5038,7 +5038,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 45497,
@@ -5048,7 +5048,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 46159,
@@ -5058,7 +5058,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 46161,
@@ -5068,7 +5068,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 46158,
@@ -5078,7 +5078,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 46180,
@@ -5088,7 +5088,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 46160,
@@ -5098,7 +5098,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-10-26"
+      "checkedAt": "2026-10-27"
     },
     {
       "id": 27014,
@@ -6270,6 +6270,11 @@
     {
       "aid": 285139680,
       "expectedTitle": "2020.07\t食戟之靈 豪之皿（僅限港澳台地區）",
+      "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
+    },
+    {
+      "aid": 0,
+      "expectedTitle": "2020.07 食戟之靈 豪之皿（僅限港澳台地區）",
       "sourceUrl": "https://www.bilibili.com/read/mobile?id=6211078"
     }
   ]
