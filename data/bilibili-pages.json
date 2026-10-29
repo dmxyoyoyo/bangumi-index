@@ -1,199 +1,199 @@
 {
   "meta": {
-    "checkedAt": "2026-10-29",
-    "checked": 3,
+    "checkedAt": "2026-10-30",
+    "checked": 60,
     "partial": true,
-    "rateLimited": true,
+    "rateLimited": false,
     "pending": 33
   },
   "checks": {
     "ep:279699": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28184
     },
     "ep:277193": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28076
     },
     "ep:113200": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 4347
     },
     "ep:325604": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 33526
     },
     "ep:4406": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 189
     },
     "ep:112965": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 6333
     },
     "ep:280824": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28181
     },
     "ep:103130": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 4187
     },
     "ep:4499": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 197
     },
     "ep:279682": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28180
     },
     "ep:261446": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 26468
     },
     "ep:280724": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28187
     },
     "ep:261491": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 26473
     },
     "ep:278572": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28150
     },
     "ep:113170": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 6361
     },
     "ep:325253": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 33498
     },
     "ep:257626": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 26182
     },
     "ep:63842": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 2586
     },
     "ep:280748": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28182
     },
     "ep:63957": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 2628
     },
     "ep:112487": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 6288
     },
     "ep:284780": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28648
     },
     "ep:256595": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 2701
     },
     "ep:276747": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 3117
     },
     "ep:281301": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28199
     },
     "ep:276003": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28032
     },
     "ep:277178": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28077
     },
     "ep:257330": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 26163
     },
     "ep:92673": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 5019
     },
     "ep:90992": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 5014
     },
     "ep:94459": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 5046
     },
     "ep:288501": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28033
     },
     "ep:286855": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28649
     },
     "ep:93095": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 5052
     },
     "ep:187713": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 23356
     },
     "ep:276459": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28055
     },
     "ep:276712": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 28061
     },
     "ep:255732": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "verified",
       "seasonId": 26019
     },
@@ -2252,31 +2252,31 @@
       "seasonId": 33862
     },
     "ss:33998": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37758": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37765": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37780": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37783": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37806": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:37810": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38091": {
@@ -2295,39 +2295,39 @@
       "seasonId": 38392
     },
     "ss:38394": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38396": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38432": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38440": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38443": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38444": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:38445": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39027": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39030": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39086": {
@@ -2341,7 +2341,7 @@
       "seasonId": 39093
     },
     "ss:39140": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39170": {
@@ -2405,7 +2405,7 @@
       "seasonId": 39538
     },
     "ss:39539": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39540": {
@@ -2424,7 +2424,7 @@
       "seasonId": 39542
     },
     "ss:39544": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39545": {
@@ -2438,7 +2438,7 @@
       "seasonId": 39546
     },
     "ss:39547": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39549": {
@@ -2472,11 +2472,11 @@
       "seasonId": 39568
     },
     "ss:39569": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39578": {
-      "checkedAt": "2026-10-19",
+      "checkedAt": "2026-10-30",
       "status": "unresolved"
     },
     "ss:39605": {
@@ -3292,13 +3292,19 @@
       "title": "前進吧！登山少女（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/0df6bbc18bc855d3d44985a4e82adbfec6b3e6e8.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2013-01-02",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep279699",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=279699",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         279699
       ],
@@ -3333,8 +3339,8 @@
       "date": "2013-10-08",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28076",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=277193",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         277193
@@ -3357,8 +3363,8 @@
       "date": "2014-01-15",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=4347",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=113200",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         113200
@@ -3381,8 +3387,8 @@
       "date": "2014-04-05",
       "indexShow": "已完结, 全25话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=33526",
-      "checkedAt": "2026-10-23",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=325604",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         325604
@@ -3405,8 +3411,8 @@
       "date": "2014-04-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=189",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=4406",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         4406
@@ -3419,13 +3425,19 @@
       "title": "棺姬嘉依卡（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/a4038a0576ccde8d31f592a29050203c1fc85236.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-04-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep112965",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=112965",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         112965
       ],
@@ -3456,8 +3468,8 @@
       "date": "2014-04-10",
       "indexShow": "已完结, 全11话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28181",
-      "checkedAt": "2026-10-23",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=280824",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         280824
@@ -3470,13 +3482,19 @@
       "title": "約會大作戰 第二季 （僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/e4bcaeae56eee78a72319a2e28f119665c12e590.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-04-11",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep103130",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=103130",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         103130
       ],
@@ -3507,8 +3525,8 @@
       "date": "2014-04-12",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=197",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=4499",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         4499
@@ -3531,8 +3549,8 @@
       "date": "2014-07-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28180",
-      "checkedAt": "2026-10-23",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=279682",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         279682
@@ -3555,8 +3573,8 @@
       "date": "2014-07-09",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26468",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=261446",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         261446
@@ -3569,13 +3587,19 @@
       "title": "前進吧！登山少女 第二季（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/ef27bb6dacf15fd35eaff2d3aa86175451f35101.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-07-09",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep280724",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=280724",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         280724
       ],
@@ -3610,8 +3634,8 @@
       "date": "2014-07-11",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26473",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=261491",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         261491
@@ -3634,8 +3658,8 @@
       "date": "2014-08-23",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28150",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=278572",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         278572
@@ -3648,13 +3672,19 @@
       "title": "棺姬嘉依卡 AVENGING BATTLE（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/16165798288bae35a45b8930b3c3875f00b40d07.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2014-10-08",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep113170",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=113170",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         113170
       ],
@@ -3685,8 +3715,8 @@
       "date": "2014-10-09",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=33498",
-      "checkedAt": "2026-10-23",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=325253",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         325253
@@ -3699,13 +3729,19 @@
       "title": "SHOW BY ROCK!! （僅限台湾地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/69592c2cec1737cb014b616e922323f286959968.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2015-04-05",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep257626",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=257626",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         257626
       ],
@@ -3736,8 +3772,8 @@
       "date": "2015-07-04",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=2586",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=63842",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         63842
@@ -3750,13 +3786,19 @@
       "title": "OVERLORD（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/b238b41415d4bff4edb1b7d09aaefcf84bc7dceb.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2015-07-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep280748",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=280748",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         280748
       ],
@@ -3787,8 +3829,8 @@
       "date": "2015-07-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=2628",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=63957",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         63957
@@ -3801,13 +3843,19 @@
       "title": "新妹魔王的契約者 BURST（僅限港澳台）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/c759a4497380eab427a0d3c2956a04db8b2258b1.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2015-10-09",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep112487",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=112487",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         112487
       ],
@@ -3828,13 +3876,19 @@
       "title": "Active Raid -機動強襲室第八課-（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/6c467205aab0954e00254e04716e806477e76e3e.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-01-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep284780",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=284780",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         284780
       ],
@@ -3855,13 +3909,19 @@
       "title": "昭和元祿落語心中（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/94846de87bd2d26b1d47f5e5187250781e05ad87.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-01-08",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep256595",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=256595",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         256595
       ],
@@ -3892,8 +3952,8 @@
       "date": "2016-01-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=3117",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=276747",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         276747
@@ -3916,8 +3976,8 @@
       "date": "2016-03-31",
       "indexShow": "已完结, 全39话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28199",
-      "checkedAt": "2026-10-23",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=281301",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         281301
@@ -3940,8 +4000,8 @@
       "date": "2016-04-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28032",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=276003",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         276003
@@ -3964,8 +4024,8 @@
       "date": "2016-04-23",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28077",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=277178",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         277178
@@ -3988,8 +4048,8 @@
       "date": "2016-07-01",
       "indexShow": "已完结, 全25话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26163",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=257330",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         257330
@@ -4012,8 +4072,8 @@
       "date": "2016-07-03",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5019",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=92673",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         92673
@@ -4036,8 +4096,8 @@
       "date": "2016-07-03",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5014",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=90992",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         90992
@@ -4050,13 +4110,19 @@
       "title": "藍海少女（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/4edab54e9db126fa3b3a81e3960e292ccd22a31b.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-08",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep94459",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=94459",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         94459
       ],
@@ -4087,8 +4153,8 @@
       "date": "2016-07-08",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28033",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=288501",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         288501
@@ -4101,13 +4167,19 @@
       "title": "Active Raid -機動強襲室第八課- 2nd（僅限港澳台地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/8d5144aa1e5581491674115d9ec70485386ae57a.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-07-10",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep286855",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=286855",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         286855
       ],
@@ -4138,8 +4210,8 @@
       "date": "2016-07-10",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=5052",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=93095",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         93095
@@ -4152,13 +4224,19 @@
       "title": "魔法使的新娘 等待繁星之人（僅限台灣地區）",
       "cover": "http://i0.hdslb.com/bfs/bangumi/afb560a8aa9f0d6885dd83f4943029d5ff314ae4.jpg",
       "type": 1,
+      "areas": [
+        {
+          "id": 2,
+          "name": "日本"
+        }
+      ],
       "japaneseTitle": "",
       "date": "2016-09-10",
       "indexShow": "已完结, 全3话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ep187713",
-      "checkedAt": "2026-10-19",
-      "verification": "official-season-page",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=187713",
+      "checkedAt": "2026-10-30",
+      "verification": "official-simple-season",
       "episodeIds": [
         187713
       ],
@@ -4193,8 +4271,8 @@
       "date": "2016-10-06",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28055",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=276459",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         276459
@@ -4217,8 +4295,8 @@
       "date": "2016-10-06",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=28061",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=276712",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         276712
@@ -4241,8 +4319,8 @@
       "date": "2016-10-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?season_id=26019",
-      "checkedAt": "2026-10-22",
+      "sourceUrl": "https://api.bilibili.com/pgc/view/web/simple/season?ep_id=255732",
+      "checkedAt": "2026-10-30",
       "verification": "official-simple-season",
       "episodeIds": [
         255732
