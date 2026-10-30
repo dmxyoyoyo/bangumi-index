@@ -1,7 +1,7 @@
 {
   "meta": {
-    "checkedAt": "2026-10-30",
-    "checked": 0,
+    "checkedAt": "2026-10-31",
+    "checked": 150,
     "partial": false,
     "rateLimited": false,
     "pending": 0,
@@ -10,47 +10,47 @@
   },
   "checks": {
     "842": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "843": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "1097": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "1146": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "1292": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "1356": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "2029": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "2238": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "2586": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "3486": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "5125": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "5531": {
@@ -64,7 +64,7 @@
       "code": -404
     },
     "5558": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "5775": {
@@ -87,11 +87,11 @@
       "available": true
     },
     "6438": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "23356": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "23860": {
@@ -105,11 +105,11 @@
       "code": -404
     },
     "23869": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "24567": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "24629": {
@@ -117,7 +117,7 @@
       "available": true
     },
     "25717": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "25848": {
@@ -126,11 +126,11 @@
       "code": -404
     },
     "26298": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "26954": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "26963": {
@@ -138,19 +138,19 @@
       "available": true
     },
     "27014": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "27933": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "27935": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "28006": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "28049": {
@@ -177,7 +177,7 @@
       "available": true
     },
     "33088": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33095": {
@@ -190,19 +190,19 @@
       "available": true
     },
     "33701": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33702": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33703": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33705": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33862": {
@@ -210,11 +210,11 @@
       "available": true
     },
     "33866": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33913": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33998": {
@@ -223,7 +223,7 @@
       "code": -404
     },
     "34426": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "37757": {
@@ -259,7 +259,7 @@
       "code": -404
     },
     "37800": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "37806": {
@@ -281,7 +281,7 @@
       "available": true
     },
     "38280": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "38392": {
@@ -324,7 +324,7 @@
       "code": -404
     },
     "38952": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39011": {
@@ -336,7 +336,7 @@
       "available": true
     },
     "39022": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39027": {
@@ -375,7 +375,7 @@
       "available": true
     },
     "39200": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39224": {
@@ -383,11 +383,11 @@
       "available": true
     },
     "39390": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39391": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39419": {
@@ -496,11 +496,11 @@
       "code": -404
     },
     "39593": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39594": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "39605": {
@@ -524,59 +524,59 @@
       "available": true
     },
     "40083": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40084": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40116": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40140": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40142": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40153": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40154": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40156": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40242": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40246": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40257": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40258": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40264": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40272": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40329": {
@@ -600,7 +600,7 @@
       "available": true
     },
     "40516": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "40659": {
@@ -720,7 +720,7 @@
       "available": true
     },
     "41048": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "41138": {
@@ -732,11 +732,11 @@
       "available": true
     },
     "41470": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "41471": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "41502": {
@@ -748,7 +748,7 @@
       "available": true
     },
     "41550": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "41621": {
@@ -756,7 +756,7 @@
       "available": true
     },
     "41833": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "41999": {
@@ -768,235 +768,235 @@
       "available": true
     },
     "42303": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42304": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42305": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42306": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42403": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42513": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42514": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42515": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42516": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42517": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "42518": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43060": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43061": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43064": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43092": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43103": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43104": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43170": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43171": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43174": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43175": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43176": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43177": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43184": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43267": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43278": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43281": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "43772": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44124": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44125": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44217": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44218": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44219": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44221": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44223": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44365": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44464": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44465": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44466": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44467": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44468": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44470": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44471": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44477": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44484": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44485": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44490": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44493": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44494": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44495": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44502": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44503": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44504": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44505": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44506": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44508": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44509": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44512": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44514": {
@@ -1008,91 +1008,91 @@
       "available": true
     },
     "44816": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44836": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44862": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44952": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44958": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44959": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44960": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44997": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44998": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "44999": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45000": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45001": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45002": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45008": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45067": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45070": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45496": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45497": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45498": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45516": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45555": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45570": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "45838": {
@@ -1100,43 +1100,43 @@
       "available": true
     },
     "46158": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "46159": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "46160": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "46161": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "46180": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "47098": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "47388": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "47667": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "103646": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "142945": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "162127": {
@@ -1155,8 +1155,8 @@
       "date": "2018-07-04",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 24567,
@@ -1175,8 +1175,8 @@
       "date": "2016-10-05",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 5558,
@@ -1195,8 +1195,8 @@
       "date": "2018-10-10",
       "indexShow": "已完结, 全10话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 25717,
@@ -1215,8 +1215,8 @@
       "date": "2019-01-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv6295997",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26298,
@@ -1236,7 +1236,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 1356,
@@ -1256,7 +1256,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 1097,
@@ -1276,7 +1276,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 2029,
@@ -1296,7 +1296,7 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 1146,
@@ -1316,7 +1316,7 @@
       "indexShow": "已完结, 全10话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 5125,
@@ -1336,7 +1336,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 47098,
@@ -1356,7 +1356,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 842,
@@ -1384,7 +1384,7 @@
       "indexShow": "已完结, 全2话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 842,
@@ -1412,7 +1412,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 842,
@@ -1440,7 +1440,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 23869,
@@ -1460,7 +1460,7 @@
       "indexShow": "已完结, 全43话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 2238,
@@ -1480,7 +1480,7 @@
       "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14759616",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 142945,
@@ -1500,7 +1500,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43060,
@@ -1524,7 +1524,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43060,
@@ -1548,7 +1548,7 @@
       "indexShow": "已完结, 全20话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43175,
@@ -1572,7 +1572,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -1612,7 +1612,7 @@
       "indexShow": "已完结, 全52话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -1676,7 +1676,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43061,
@@ -1696,7 +1696,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43174,
@@ -1716,7 +1716,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43103,
@@ -1736,7 +1736,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33913,
@@ -1760,7 +1760,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43176,
@@ -1780,7 +1780,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43267,
@@ -1800,7 +1800,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43278,
@@ -1820,7 +1820,7 @@
       "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44960,
@@ -1848,7 +1848,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43170,
@@ -1868,7 +1868,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43104,
@@ -1888,7 +1888,7 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43184,
@@ -1908,7 +1908,7 @@
       "indexShow": "已完结, 全46话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43064,
@@ -1928,7 +1928,7 @@
       "indexShow": "已完结, 全4话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33088,
@@ -1960,7 +1960,7 @@
       "indexShow": "已完结, 全1话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44862,
@@ -4440,7 +4440,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44466,
@@ -4460,7 +4460,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44468,
@@ -4480,7 +4480,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 37800,
@@ -4504,7 +4504,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44477,
@@ -4524,7 +4524,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44490,
@@ -4544,7 +4544,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44124,
@@ -4564,7 +4564,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44223,
@@ -4584,7 +4584,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44504,
@@ -4604,7 +4604,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44502,
@@ -4624,7 +4624,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44493,
@@ -4644,7 +4644,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44508,
@@ -4664,7 +4664,7 @@
       "indexShow": "已完结, 全14话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44494,
@@ -4684,7 +4684,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44505,
@@ -4704,7 +4704,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44495,
@@ -4724,7 +4724,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44218,
@@ -4744,7 +4744,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44217,
@@ -4764,7 +4764,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44125,
@@ -4784,7 +4784,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44471,
@@ -4804,7 +4804,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44465,
@@ -4824,7 +4824,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44503,
@@ -4844,7 +4844,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44464,
@@ -4868,7 +4868,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44467,
@@ -4888,7 +4888,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44221,
@@ -4908,7 +4908,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44470,
@@ -4928,7 +4928,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44506,
@@ -4948,7 +4948,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44485,
@@ -4968,7 +4968,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44509,
@@ -4988,7 +4988,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44512,
@@ -5008,7 +5008,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44365,
@@ -5028,7 +5028,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44999,
@@ -5048,7 +5048,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44997,
@@ -5068,7 +5068,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 6438,
@@ -5096,7 +5096,7 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 41048,
@@ -5120,7 +5120,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 45000,
@@ -5140,7 +5140,7 @@
       "indexShow": "已完结, 全16话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44960,
@@ -5168,7 +5168,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44959,
@@ -5188,7 +5188,7 @@
       "indexShow": "已完结, 全11话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -5248,7 +5248,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 45496,
@@ -5268,7 +5268,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39200,
@@ -5296,7 +5296,7 @@
       "indexShow": "已完结, 全15话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 45516,
@@ -5316,7 +5316,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39022,
@@ -5344,7 +5344,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 45555,
@@ -5364,7 +5364,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 45497,
@@ -5384,7 +5384,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 46159,
@@ -5404,7 +5404,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 43175,
@@ -5428,7 +5428,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 46158,
@@ -5448,7 +5448,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 41471,
@@ -5476,7 +5476,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 46160,
@@ -5496,7 +5496,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 47388,
@@ -5528,7 +5528,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40242,
@@ -5548,7 +5548,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40258,
@@ -5568,7 +5568,7 @@
       "indexShow": "已完结, 全24话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40264,
@@ -5588,7 +5588,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40516,
@@ -5608,7 +5608,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27933,
@@ -5644,7 +5644,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40142,
@@ -5664,7 +5664,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40140,
@@ -5684,7 +5684,7 @@
       "indexShow": "已完结, 全26话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 38952,
@@ -5704,7 +5704,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40154,
@@ -5724,7 +5724,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40272,
@@ -5744,7 +5744,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40116,
@@ -5768,7 +5768,7 @@
       "indexShow": "已完结, 全13话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40257,
@@ -5788,7 +5788,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 32963,
@@ -5811,8 +5811,8 @@
       "date": "2020-06-08",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -5851,8 +5851,8 @@
       "date": "2020-06-08",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -5891,8 +5891,8 @@
       "date": "2020-06-08",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -5931,8 +5931,8 @@
       "date": "2020-06-08",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -5971,8 +5971,8 @@
       "date": "2023-03-10",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43177",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33701,
@@ -6011,8 +6011,8 @@
       "date": "2022-07-23",
       "indexShow": "已完结, 全51话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6075,8 +6075,8 @@
       "date": "2022-07-29",
       "indexShow": "已完结, 全58话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6139,8 +6139,8 @@
       "date": "2022-08-05",
       "indexShow": "已完结, 全58话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6203,8 +6203,8 @@
       "date": "2022-08-12",
       "indexShow": "已完结, 全62话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6267,8 +6267,8 @@
       "date": "2022-08-19",
       "indexShow": "已完结, 全36话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6331,8 +6331,8 @@
       "date": "2022-08-26",
       "indexShow": "已完结, 全46话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6395,8 +6395,8 @@
       "date": "2022-09-02",
       "indexShow": "已完结, 全55话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6459,8 +6459,8 @@
       "date": "2022-09-09",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6523,8 +6523,8 @@
       "date": "2022-09-09",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6587,8 +6587,8 @@
       "date": "2022-09-09",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6651,8 +6651,8 @@
       "date": "2022-09-09",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43281",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 42403,
@@ -6715,8 +6715,8 @@
       "date": "2020-07-10",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43171",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33913,
@@ -6739,8 +6739,8 @@
       "date": "2023-04-21",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss43772",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44960,
@@ -6767,8 +6767,8 @@
       "date": "2020-04-12",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33088,
@@ -6799,8 +6799,8 @@
       "date": "2022-04-09",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33088,
@@ -6831,8 +6831,8 @@
       "date": "2022-04-23",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44952",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 33088,
@@ -6863,8 +6863,8 @@
       "date": "2021-01-13",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44484",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 37800,
@@ -6887,8 +6887,8 @@
       "date": "2020-07-05",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44464",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 44464,
@@ -6911,8 +6911,8 @@
       "date": "2017-10-08",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44998",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 6438,
@@ -6939,8 +6939,8 @@
       "date": "2016-09-10",
       "indexShow": "已完结, 全3话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss44998",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 6438,
@@ -6967,8 +6967,8 @@
       "date": "2022-01-31",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45008",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 41048,
@@ -6991,8 +6991,8 @@
       "date": "2019-04-07",
       "indexShow": "已完结, 全26话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7051,8 +7051,8 @@
       "date": "2021-12-05",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7111,8 +7111,8 @@
       "date": "2021-12-19",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7171,8 +7171,8 @@
       "date": "2021-10-10",
       "indexShow": "已完结, 全7话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7231,8 +7231,8 @@
       "date": "2021-10-24",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7291,8 +7291,8 @@
       "date": "2021-09-10",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7351,8 +7351,8 @@
       "date": "2021-09-10",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7411,8 +7411,8 @@
       "date": "2023-04-01",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7471,8 +7471,8 @@
       "date": "2023-04-08",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7531,8 +7531,8 @@
       "date": "2023-04-24",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45002",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 26954,
@@ -7591,8 +7591,8 @@
       "date": "2021-08-02",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45570",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39200,
@@ -7619,8 +7619,8 @@
       "date": "2022-09-21",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45570",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39200,
@@ -7647,8 +7647,8 @@
       "date": "2021-07-04",
       "indexShow": "已完结",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45498",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39022,
@@ -7675,8 +7675,8 @@
       "date": "2024-04-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss45498",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 39022,
@@ -7703,8 +7703,8 @@
       "date": "2022-04-06",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss46180",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 41471,
@@ -7731,8 +7731,8 @@
       "date": "2025-07-09",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss46180",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 41471,
@@ -7759,8 +7759,8 @@
       "date": "2024-03-02",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 47388,
@@ -7791,8 +7791,8 @@
       "date": "2019-07-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 47388,
@@ -7823,8 +7823,8 @@
       "date": "2023-01-11",
       "indexShow": "已完结, 全1话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40156",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 47388,
@@ -7855,8 +7855,8 @@
       "date": "2019-07-28",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27933,
@@ -7891,8 +7891,8 @@
       "date": "2020-10-07",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27933,
@@ -7927,8 +7927,8 @@
       "date": "2019-10-05",
       "indexShow": "已完结, 全24话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27933,
@@ -7963,8 +7963,8 @@
       "date": "2021-03-17",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40246",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27933,
@@ -7999,8 +7999,8 @@
       "date": "2022-07-12",
       "indexShow": "已完结, 全12话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40116",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 40116,
@@ -8048,7 +8048,7 @@
       "indexShow": "已完结, 全27话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27014,
@@ -8072,7 +8072,7 @@
       "indexShow": "已完结, 全2话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 27014,
@@ -8096,7 +8096,7 @@
       "indexShow": "已完结, 全12话",
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 2586,
