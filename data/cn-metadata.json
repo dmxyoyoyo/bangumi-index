@@ -185117,5 +185117,73 @@
     "code": 0,
     "checkedAt": "2026-10-30",
     "richCheckedAt": "2026-10-30"
+  },
+  "348754": {
+    "season_id": 348754,
+    "title": "【NCAA】默西赫斯特大学 VS 路易斯维尔大学 26-27赛季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/80ed9e72f5129833d429d555f596d111c6303b9e.jpg",
+    "areas": [],
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "【NCAA】默西赫斯特大学 VS 路易斯维尔大学 26-27赛季",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-29 07:00:00",
+      "pub_time_show": "10月29日07:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7329276,
+    "firstEpisodePublishedAt": 1793261660000,
+    "type": 9,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-30",
+    "richCheckedAt": "2026-10-30"
+  },
+  "349230": {
+    "season_id": 349230,
+    "title": "赴昆仑",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b04c1da09ea984633c7d0adfdbe9efb58e367c04.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "退役中校何苦因为《最后的棒棒》一片成名之后，被“铁粉”以投资记录“德都蒙古”游牧人的名义，诱骗到昆仑山下一个叫诺木洪的地方。在一片戈壁荒原、一座废弃监狱和一个无法开业的酒店之间，颠沛沉浮整整三年，阴差阳错的拍出了《最后的棒棒》姊妹篇——《赴昆仑》。\n这是一个由导演亲历讲述的十万只羊和十万个人奔赴宿命的故事：\n戈壁荒原，空旷而绝望。17岁的德都蒙古牧羊少女“玉花”，正在懵懂的憧憬羊圈外面的世界，她的18岁生日还有240天，她梦想着长大成年之后，可以撞破居无定所世代游牧的宿命，头也不回的去城里打工。240天之后，玉花终于迎来了自己的18岁生日。成年人的世界，令她始料未及，令人瞠目结舌。",
+    "jpTitle": "",
+    "seasonTitle": "赴昆仑",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-10-29 20:00:00",
+      "pub_time_show": "10月29日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7302011,
+    "firstEpisodePublishedAt": 1793275200000,
+    "type": 3,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "遥望昆仑",
+      "第八监区"
+    ],
+    "total": 23,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-10-30",
+    "richCheckedAt": "2026-10-30"
   }
 }
