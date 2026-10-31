@@ -20,8 +20,8 @@
     "warning": "官方视频核查中断，保留已确认结果，下次继续",
     "officialAccount": "https://space.bilibili.com/928123",
     "scope": "官方公开合集、专栏视频线索与已确认正片链接；投稿总目录仍可能遗漏隐藏视频",
-    "legacyPartial": false,
-    "legacyRateLimited": false,
+    "legacyPartial": true,
+    "legacyRateLimited": true,
     "rateLimited": true
   },
   "checks": {
