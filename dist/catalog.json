@@ -41,13 +41,13 @@
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2208,
-      "not-found": 4,
+      "confirmed": 2209,
+      "not-found": 3,
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-10-31T02:30:22.682Z",
-    "lastRefreshAttempt": "2026-10-31T02:30:22.682Z",
+    "lastSuccessfulRefresh": "2026-10-31T12:35:07.169Z",
+    "lastRefreshAttempt": "2026-10-31T12:35:07.169Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -174787,7 +174787,7 @@
     },
     {
       "intlId": 2447573,
-      "cnId": null,
+      "cnId": 350617,
       "title": "转生成哥布林但有疑问吗？（泰语配音版）",
       "regions": [
         "TH"
@@ -174838,10 +174838,19 @@
         "quarter": "autumn"
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-10-31",
-        "candidateIds": []
+        "candidateIds": [
+          350617
+        ]
+      },
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-10-31",
+        "checkedCandidateCount": 4781,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=350617",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2447573"
       }
     }
   ]
