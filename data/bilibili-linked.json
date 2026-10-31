@@ -1,7 +1,7 @@
 {
   "meta": {
     "checkedAt": "2026-10-31",
-    "checked": 150,
+    "checked": 1,
     "partial": false,
     "rateLimited": false,
     "pending": 0,
@@ -173,7 +173,7 @@
       "code": -404
     },
     "32963": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-31",
       "available": true
     },
     "33088": {
@@ -8023,8 +8023,8 @@
       "date": "2020-04-06",
       "indexShow": "已完结, 全13话",
       "historical": true,
-      "sourceUrl": "https://www.bilibili.com/bangumi/play/ss40153",
-      "checkedAt": "2026-10-24",
+      "sourceUrl": "https://www.bilibili.com/read/cv14794306",
+      "checkedAt": "2026-10-31",
       "seasons": [
         {
           "id": 32963,
