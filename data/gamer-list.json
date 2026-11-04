@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1903,
-    "lastSuccessfulRefresh": "2026-11-03T18:47:27.662Z"
+    "lastSuccessfulRefresh": "2026-11-04T03:14:53.894Z"
   },
   "items": [
     {
@@ -3387,7 +3387,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.4
+      "score": 4.3
     },
     {
       "acgSn": 21623,
@@ -21991,25 +21991,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 106466,
-      "animeSn": 106466,
-      "videoSn": 16176,
-      "title": "DECA - DENCE",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000106466.JPG",
-      "dateInfo": "年份：2020/06",
-      "totalEpisode": 13,
-      "popular": 962,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 122564,
       "animeSn": 113156,
       "videoSn": 31628,
@@ -22027,6 +22008,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 106466,
+      "animeSn": 106466,
+      "videoSn": 16176,
+      "title": "DECA - DENCE",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/66/0000106466.JPG",
+      "dateInfo": "年份：2020/06",
+      "totalEpisode": 13,
+      "popular": 962,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 139603,
@@ -28717,25 +28717,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 116929,
-      "animeSn": 113870,
-      "videoSn": 45412,
-      "title": "勇者動畫系列",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000116929.JPG",
-      "dateInfo": "年份：2021/07",
-      "totalEpisode": 6,
-      "popular": 339,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 152938,
       "animeSn": 114148,
       "videoSn": 50093,
@@ -28753,6 +28734,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 116929,
+      "animeSn": 113870,
+      "videoSn": 45412,
+      "title": "勇者動畫系列",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000116929.JPG",
+      "dateInfo": "年份：2021/07",
+      "totalEpisode": 6,
+      "popular": 339,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 76535,

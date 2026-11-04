@@ -34,9 +34,9 @@
         }
       ],
       "uniqueIds": 349,
-      "sitemapIds": 4889,
-      "metadataChecked": 4730,
-      "unavailable": 0,
+      "sitemapIds": 4897,
+      "metadataChecked": 4738,
+      "unavailable": 1,
       "checkedAt": "2026-11-04"
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-11-03T18:54:58.396Z",
-    "lastRefreshAttempt": "2026-11-03T18:54:58.396Z",
+    "lastSuccessfulRefresh": "2026-11-04T03:18:53.510Z",
+    "lastRefreshAttempt": "2026-11-04T03:18:53.510Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -47031,8 +47031,8 @@
         "Toki o Kakeru Shōjo",
         "The Girl Who Leapt Through Time"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "The girl who travels through time",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "時をかける少女",
@@ -47353,8 +47353,8 @@
         "Haiyore! Nyaruko san",
         "伏行吧！奈亚子"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "Nyaruko: Crawling with Love!",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "這いよれ! ニャル子さん",
@@ -85124,8 +85124,8 @@
         "cheat药师的休闲生活～异世界里开药店～",
         "开挂药师的奇幻世界悠闲生活"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "Drugstore in Another World: The Slow Life of a Cheat Pharmacist",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
@@ -99390,7 +99390,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-01",
+        "date": "2022-01-02",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1042773&s_locale=zh_CN",
         "checkedAt": "2026-11-04",
@@ -124730,8 +124730,8 @@
         "盾娘 2",
         "因为太怕痛就全点防御力了。2（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2(Dub Indo)",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "痛いのは嫌なので防御力に極振りしたいと思います。2",
@@ -132948,8 +132948,8 @@
         "CODE GEASS Lelouchi of the Re;surrection",
         "コードギアス 復活のルルーシュ 復活/Re;surrection"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "Code Geass Lelouch of the Re;surrection",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "コードギアス 復活のルルーシュ",
@@ -157608,8 +157608,8 @@
         "Bermula Dengan Gerai Tepi Jalan Menjual Kuasa Super",
         "开局地摊卖大力"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "The Most Powerful Vendor",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": null,
@@ -158709,8 +158709,8 @@
         "第一序列2",
         "第一序列 第二季"
       ],
-      "catalogCheckedAt": "2026-11-03",
-      "regionCheckedAt": "2026-11-03",
+      "catalogCheckedAt": "2026-11-04",
+      "regionCheckedAt": "2026-11-04",
       "seaTitle": "The First Order 2",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": null,

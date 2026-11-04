@@ -15608,9 +15608,13 @@
       "unknow_pub_date": 0,
       "weekday": 0
     },
-    "firstEpisode": null,
-    "episodeCount": 0,
-    "episodeTitles": [],
+    "firstEpisode": 820899,
+    "episodeCount": 31,
+    "episodeTitles": [
+      "河间瘦虎",
+      "初入龙城",
+      "擂台扬名"
+    ],
     "total": 16,
     "seasons": [
       {
@@ -15621,7 +15625,7 @@
     "available": true,
     "checkedAt": "2026-11-04",
     "richCheckedAt": "2026-11-04",
-    "firstEpisodePublishedAt": null,
+    "firstEpisodePublishedAt": 1717819200000,
     "type": 4,
     "code": 0,
     "areas": [

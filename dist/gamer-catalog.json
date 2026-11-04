@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 68,
     "records": 1903,
-    "lastSuccessfulRefresh": "2026-11-03T18:47:27.662Z",
+    "lastSuccessfulRefresh": "2026-11-04T03:14:53.894Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -32728,6 +32728,31 @@
     {
       "classification": {
         "attributes": [
+          "戀愛"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113156,
+      "title": "书虫公主",
+      "officialTitle": "書蟲公主",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000122564.JPG",
+      "japaneseTitle": "虫かぶり姫",
+      "originalTitle": "虫かぶり姫",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/366695",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/366695",
+      "date": "2022/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113156"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "科幻"
@@ -32751,31 +32776,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=106466"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113156,
-      "title": "书虫公主",
-      "officialTitle": "書蟲公主",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000122564.JPG",
-      "japaneseTitle": "虫かぶり姫",
-      "originalTitle": "虫かぶり姫",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/366695",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/366695",
-      "date": "2022/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113156"
     },
     {
       "classification": {
@@ -42803,32 +42803,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113870,
-      "title": "勇者动画系列",
-      "officialTitle": "勇者動畫系列",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000116929.JPG",
-      "japaneseTitle": "",
-      "originalTitle": "Brave Animated Series",
-      "originalStatus": "non-japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=116929",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113870",
-      "date": "2021/07",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113870"
-    },
-    {
-      "classification": {
-        "attributes": [
           "推理",
           "懸疑",
           "黑暗"
@@ -42852,6 +42826,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114148"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113870,
+      "title": "勇者动画系列",
+      "officialTitle": "勇者動畫系列",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/29/0000116929.JPG",
+      "japaneseTitle": "",
+      "originalTitle": "Brave Animated Series",
+      "originalStatus": "non-japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=116929",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113870",
+      "date": "2021/07",
+      "episodes": 6,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113870"
     },
     {
       "classification": {
