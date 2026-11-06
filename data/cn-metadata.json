@@ -14833,6 +14833,60 @@
       }
     ]
   },
+  "45357": {
+    "season_id": 45357,
+    "title": "霸王龙雷奇",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/c09d555915f2173ca25065992593a2517a165e40.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "动画原型来自于知名绘本《你看起来好像很好吃》恐龙系列。\n这是发生在恐龙们之间温馨且治愈的故事，关于亲情、友情、勇气和爱。\n在遥远的白垩纪时代，生活着许多不同种类、性格各异的恐龙，故事主角霸王龙雷奇，他外表凶悍，内心温柔，热心肠的他，总是努力帮助小伙伴们化解各种危机。\n年复一年，雷奇和小伙伴们相互理解扶持，在恐龙世界里快乐生活，慢慢长大…",
+    "jpTitle": "",
+    "seasonTitle": "霸王龙雷奇",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-08-24 17:30:00",
+      "pub_time_show": "2023年08月24日17:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 770147,
+    "firstEpisodePublishedAt": 1692869400000,
+    "type": 4,
+    "episodeCount": 52,
+    "episodeTitles": [
+      "完美画作",
+      "滚个大雪球",
+      "再见小可爱"
+    ],
+    "total": 52,
+    "seasons": [
+      {
+        "id": 45357,
+        "title": "第一季"
+      },
+      {
+        "id": 355686,
+        "title": "第一季 英文版"
+      },
+      {
+        "id": 73403,
+        "title": "第二季"
+      },
+      {
+        "id": 270683,
+        "title": "雷奇知多少"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-06"
+  },
   "45426": {
     "season_id": 45426,
     "title": "蜘蛛侠：纵横宇宙",
@@ -17815,6 +17869,60 @@
     "checkedAt": "2026-11-06",
     "richCheckedAt": "2026-11-06",
     "areas": []
+  },
+  "73403": {
+    "season_id": 73403,
+    "title": "霸王龙雷奇 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e471f45facb6f5ff071ed9a71090ae72597316a3.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "史前世界的快乐生活还在继续，霸王龙雷奇和小伙伴们，在日常的生活和有趣的冒险中，学会良好的行为习惯，也了解到了更多的史前世界知识，收获爱与勇气，在彼此的陪伴和友爱中，不断成长。",
+    "jpTitle": "",
+    "seasonTitle": "霸王龙雷奇 第二季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-12-05 00:00:01",
+      "pub_time_show": "2024年12月5日",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 1188495,
+    "firstEpisodePublishedAt": 1733391001000,
+    "type": 4,
+    "episodeCount": 52,
+    "episodeTitles": [
+      "天生我材必有用",
+      "沼泽历险",
+      "爱心晚餐"
+    ],
+    "total": 52,
+    "seasons": [
+      {
+        "id": 45357,
+        "title": "第一季"
+      },
+      {
+        "id": 355686,
+        "title": "第一季 英文版"
+      },
+      {
+        "id": 73403,
+        "title": "第二季"
+      },
+      {
+        "id": 270683,
+        "title": "雷奇知多少"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-06"
   },
   "74497": {
     "season_id": 74497,
@@ -31861,6 +31969,60 @@
     "code": 0,
     "checkedAt": "2026-11-05",
     "richCheckedAt": "2026-11-05"
+  },
+  "270683": {
+    "season_id": 270683,
+    "title": "霸王龙雷奇之雷奇知多少",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4a9f6fd3bd67aee186166be9fbad965c221449ba.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "《霸王龙雷奇之雷奇知多少》是一部面向少年儿童的古生物科普系列动画，依托中国丰富且具有代表性的古生物化石资源，带领观众认识不同地质时期的中国本土古生物。",
+    "jpTitle": "",
+    "seasonTitle": "霸王龙雷奇之雷奇知多少",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-08-06 17:30:00",
+      "pub_time_show": "08月06日17:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 5133109,
+    "firstEpisodePublishedAt": 1786008600000,
+    "type": 4,
+    "episodeCount": 52,
+    "episodeTitles": [
+      "寐龙",
+      "凌源潜龙",
+      "贵州始杯海绵"
+    ],
+    "total": 52,
+    "seasons": [
+      {
+        "id": 45357,
+        "title": "第一季"
+      },
+      {
+        "id": 355686,
+        "title": "第一季 英文版"
+      },
+      {
+        "id": 73403,
+        "title": "第二季"
+      },
+      {
+        "id": 270683,
+        "title": "雷奇知多少"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-06"
   },
   "271430": {
     "season_id": 271430,
@@ -200350,6 +200512,60 @@
     "checkedAt": "2026-11-06",
     "richCheckedAt": "2026-11-06"
   },
+  "355686": {
+    "season_id": 355686,
+    "title": "霸王龙雷奇 英文版",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/779102e08f21e400bac29ec39a4c239f67611d93.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "这是发生在恐龙们之间温馨且治愈的故事，关于亲情、友情、勇气和爱。\n在遥远的白垩纪时代，生活着许多不同种类、性格各异的恐龙，故事主角霸王龙雷奇，他外表凶悍，内心温柔，热心肠的他，总是努力帮助小伙伴们化解各种危机。\n年复一年，雷奇和小伙伴们相互理解扶持，在恐龙世界里快乐生活，慢慢长大…",
+    "jpTitle": "",
+    "seasonTitle": "霸王龙雷奇 英文版",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-11-06 10:30:00",
+      "pub_time_show": "11月06日10:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7556245,
+    "firstEpisodePublishedAt": 1793932200000,
+    "type": 4,
+    "episodeCount": 52,
+    "episodeTitles": [
+      "完美画作",
+      "滚个大雪球",
+      "再见小可爱"
+    ],
+    "total": 52,
+    "seasons": [
+      {
+        "id": 45357,
+        "title": "第一季"
+      },
+      {
+        "id": 355686,
+        "title": "第一季 英文版"
+      },
+      {
+        "id": 73403,
+        "title": "第二季"
+      },
+      {
+        "id": 270683,
+        "title": "雷奇知多少"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-06"
+  },
   "355844": {
     "season_id": 355844,
     "title": "守护龙门",
@@ -200436,6 +200652,38 @@
         "title": "第五季"
       }
     ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-06"
+  },
+  "356099": {
+    "season_id": 356099,
+    "title": "Martial Spirit Sword Master",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/6eb5813faa68760f2f34b618af891260.png",
+    "areas": [],
+    "evaluate": "Mu Yuan, once the revered Sword Sovereign, stood at the pinnacle of glory—until a single night shattered everything.\nBetrayed by his closest friend and beloved, his wedding feast became a bloodbath. A flash of cold steel severed not just his sword, but all bonds of trust. He fell, not to a mighty foe, but to the gentlest of traps.\nYet fate is fickle.\nHis soul, though shattered, refused to fade. A wisp of his spirit escaped, tumbling into the mortal realm like a dying ember—only to ignite anew. Now, reborn from the ashes of his past life, the fallen swordmaster walks the earth again.",
+    "jpTitle": "",
+    "seasonTitle": "Martial Spirit Sword Master",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-06-24 00:00:00",
+      "pub_time_show": "2025年06月24日00:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7516627,
+    "firstEpisodePublishedAt": 1750694400000,
+    "type": 5,
+    "episodeCount": 43,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 43,
+    "seasons": [],
     "available": true,
     "code": 0,
     "checkedAt": "2026-11-06",
