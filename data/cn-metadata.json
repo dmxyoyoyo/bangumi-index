@@ -189,8 +189,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1461898620000,
     "type": 4,
     "code": 0,
@@ -387,8 +387,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1577534400000,
     "type": 4,
     "code": 0,
@@ -9339,8 +9339,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1568883660000,
     "type": 3,
     "code": 0,
@@ -11048,8 +11048,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 1,
@@ -12291,8 +12291,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1689739200000,
     "type": 4,
     "code": 0,
@@ -12333,8 +12333,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1703210400000,
     "type": 4,
     "code": 0,
@@ -13557,8 +13557,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1661769000000,
     "type": 3,
     "code": 0,
@@ -14029,8 +14029,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1717556400000,
     "type": 4,
     "code": 0,
@@ -14087,8 +14087,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1690632001000,
     "type": 4,
     "code": 0,
@@ -14832,6 +14832,52 @@
         "name": "中国大陆"
       }
     ]
+  },
+  "45210": {
+    "season_id": 45210,
+    "title": "文物守护人",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/928e1b777f4361096f61e85ed45fad90c6aa6e66.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "《文物守护人》由哔哩哔哩出品，山西省文物局联合出品。讲述山西从北到南八组不可移动文物与文物守护人彼此的故事，这些守护人的故事将替我们连线古今，拉进与历史、文化的距离。不可移动文物是前人智慧的结晶，是中华民族传统文化的重要载体。守护人们用时间倾诉的故事，传递出文物保护的意义与文物的价值，加强人们对文物保护工作的理解，让中华民族传统文化得以保留和延续。",
+    "jpTitle": "",
+    "seasonTitle": "文物守护人",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-06-16 20:00:00",
+      "pub_time_show": "2024年06月16日20:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 826525,
+    "firstEpisodePublishedAt": 1718539200000,
+    "type": 3,
+    "episodeCount": 8,
+    "episodeTitles": [
+      "孤山守石窟",
+      "开个隐藏款",
+      "住在佛光寺"
+    ],
+    "total": 8,
+    "seasons": [
+      {
+        "id": 45210,
+        "title": "文物守护人"
+      },
+      {
+        "id": 355844,
+        "title": "守护龙门"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "45357": {
     "season_id": 45357,
@@ -15821,8 +15867,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1717819200000,
     "type": 4,
     "code": 0,
@@ -15863,8 +15909,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1753754401000,
     "type": 4,
     "code": 0,
@@ -15905,8 +15951,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1712545200000,
     "type": 4,
     "code": 0,
@@ -17387,8 +17433,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1732276800000,
     "type": 4,
     "code": 0,
@@ -20210,8 +20256,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0,
@@ -20264,8 +20310,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": null,
     "type": 4,
     "code": 0,
@@ -22290,8 +22336,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 3,
@@ -34032,7 +34078,7 @@
     "title": "One Piece",
     "evaluate": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n",
     "userTitle": "海贼王",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "One Piece",
@@ -34162,7 +34208,7 @@
         "title": "SP11"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/75312378c7c86827c23df7004bc55fc8.png",
     "available": true,
     "firstEpisodePublishedAt": 1630429200000,
@@ -60770,13 +60816,13 @@
     "season_id": 274247,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-11-06"
+    "checkedAt": "2026-11-07"
   },
   "274249": {
     "season_id": 274249,
     "title": "Nyaruko: Crawling With Love! Second Season",
     "evaluate": "No info available",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "jpTitle": "",
     "seasonTitle": "Nyaruko: Crawling With Love! Second Season",
     "publish": {
@@ -60805,7 +60851,7 @@
         "title": "S2"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/f2b748e3b9ca7614b5b449718db704c3.png",
     "firstEpisodePublishedAt": 1608830220000,
     "type": 1,
@@ -68989,7 +69035,7 @@
     "title": "Redo of Healer",
     "evaluate": "\"Healing magicians cannot fight alone.\"\n\nKeare, who was bound by this common knowledge, was exploited again and again by others. One day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything.\n\nThis is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic. ",
     "userTitle": "回复术士的重启人生",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Redo of Healer",
@@ -69010,7 +69056,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7467fd827f1588446546b472617cc260.png",
     "available": true,
     "firstEpisodePublishedAt": 1613121192000,
@@ -79167,7 +79213,7 @@
     "title": "Combatants Will Be Dispatched!",
     "evaluate": "Always bring a gun to a sword fight!\n\nWith world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation—an underground criminal group turned evil megacorp—have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of.\n\nBut evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the \"Demon Lord's Army\" or whatever. After all, this world doesn't need two evil organizations!\n",
     "userTitle": "战斗员派遣中",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Combatants Will Be Dispatched!",
@@ -79188,7 +79234,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/ed5a921e5c76cf391e729fc6e26baa18.png",
     "available": true,
     "firstEpisodePublishedAt": 1617543000000,
@@ -81240,7 +81286,7 @@
     "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
     "evaluate": "Keiki Kiryu, an ordinary high school student who didn't have a girlfriend during his lifetime, suddenly receives a love letter, and a romantic comedy begins. The letter does not contain the sender's name, but the letter does contain white panties. In addition to finding the pervert peculiar, Keiki was desperate to have him participate in the perverted behavior of these several girls who surround him...",
     "userTitle": "只要可爱即使是变态你也会喜欢我吧？",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
@@ -81261,7 +81307,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/63210b9ba75550316a6dfce015f0cc6f.png",
     "available": true,
     "firstEpisodePublishedAt": 1623168000000,
@@ -86876,7 +86922,7 @@
     "title": "Strike the Blood",
     "evaluate": "The Fourth Primogenitor, who is the world's strongest vampire that only exists in legends. Accompanied by twelve Kenjuu and spreading calamity, rumor says that this phantom vampire appeared in Japan finally. For the purpose of observation and obliteration, the government and Lion King organization decided to dispatch an attack mage known as a Sword Shaman. However, for some reason, the one chosen for the observation was an apprentice Sword Shaman girl, Himegari Yukina. Wielding the strongest anti-primogenitor spirit spear, Yukina arrived at Demon District, Itogami City. So what is the true identity of Akatsuki Kojou, the 4th Progenitor she meets!?",
     "userTitle": "噬血狂袭",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Strike the Blood",
@@ -86897,7 +86943,7 @@
     ],
     "total": 24,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/32b6695dd15e1679a0a98f428acbfdef.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1640358000000,
@@ -96765,7 +96811,7 @@
     "title": "Chainsaw Man",
     "evaluate": "To spend quality time with the girl he likes and lead a contented life is Denji's simple and ordinary dream. This, however, is far from the truth because Denji's fate is to be made to kill demons by the gang in order to settle his enormous debt. Turning his pet demon Pochita into a weapon, Denji will use any means necessary to make money.\n\nUnfortunately, the demon who had a deal with the gang killed him because he was no longer needed. Pochita, in a shocking turn of events, fuses with Denji's corpse and grants him the abilities of a chainsaw demon. The revived Denji uses his newfound abilities to swiftly and mercilessly eliminate his enemies. Denji gains the ability to transform certain parts of his body into a chainsaw. When the official witcher arrived on the scene, this attracted his attention, and the witcher hired Denji to work as one of them in the Public Security Bureau. Denji now has a strategy for defeating any foe, no matter how formidable, and he will go to any lengths to fulfill his simple teenage dream.",
     "userTitle": "电锯人",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Chainsaw Man",
@@ -96786,7 +96832,7 @@
     ],
     "total": 13,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a121bed910cfeb9c89cd7dfb9c304b04.png",
     "available": true,
     "firstEpisodePublishedAt": 1665504000000,
@@ -98064,7 +98110,7 @@
     "season_id": 278052,
     "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "evaluate": "Second season of BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.\n\nAfter an enthusiastic invitation from her friend, Kaede Honjou reluctantly agrees to try New World Online: a very popular VRMMO played by thousands of people across Japan. Naming her in-game character Maple, she sets out on her journey. As a complete novice to such games, she allocates all of her stat points into vitality, desiring to not get hurt. With not a single point in any other stat, Maple has extraordinarily high defense, but she can't move quickly or hit hard.\n\nDespite her overpowered character, Kaede has much to learn. As she progresses through the game, she meets new friends and acquaintances, helping her complete new levels and events. Through all of her adventures, she may even pick up some other crazy skills that exceed all expectations.",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "jpTitle": "",
     "seasonTitle": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
     "publish": {
@@ -98109,7 +98155,7 @@
         "title": "S2 Dub Indo"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/8640eef8c452869a6cc753383033cc4a.png",
     "firstEpisodePublishedAt": 1673451000000,
     "type": 1,
@@ -98825,7 +98871,7 @@
     "title": "Onimai: I'm Now Your Sister!",
     "evaluate": "Mahiro Oyama was just a normal erotic-game-loving dude...until he woke up one morning as a girl! Turns out his mad-scientist little sister, Mihari, tried out one of her new experiments on him. But Mihari is as determined to study him as he wanted to go back to his shut-in and game-playing life... Life is going to get a whole lot weirder from here on out!",
     "userTitle": "别当欧尼酱了",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Onimai: I'm Now Your Sister!",
@@ -98846,7 +98892,7 @@
     ],
     "total": 12,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/b36fb6930131950a28d87a778b890ce3.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1672932600000,
@@ -99400,7 +99446,7 @@
     "season_id": 278092,
     "available": false,
     "code": -404,
-    "checkedAt": "2026-11-06"
+    "checkedAt": "2026-11-07"
   },
   "278093": {
     "season_id": 278093,
@@ -100508,7 +100554,7 @@
     "season_id": 278118,
     "title": "【Oshi No Ko】",
     "evaluate": "In the entertainment industry, lying is the weapon.\nEvery day, Goro, an obstetrician and gynecologist who works in a small city, leads a life unrelated to the entertainment business.\nYet, the idol Hoshino Ai that he \"followed\" started to move up the list of stars.\nSuch two realized their worst-case scenario, and from that point on, the wheels of fate started to turn.",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "userTitle": "我推的孩子",
     "jpTitle": "",
@@ -100539,7 +100585,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/6ead07faf8ec6f63c18ed3f3eafddaa5.png",
     "available": true,
     "firstEpisodePublishedAt": 1681311600000,
@@ -104535,7 +104581,7 @@
     "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "evaluate": "Aijou Rentarou has an excellent reputation among females but has never been able to find a girlfriend because every lady he had a crush on has categorically rejected him. Since junior high, he has gone through 100 heartbreaks. The other day, the Love God appears while Aijou prays in a shrine and predicts that she will meet 100 soulmates in high school. All the girls would pass away due to various bad circumstances if their connection with him fails. Aijou must now make the choice between love and death.",
     "userTitle": "超超超喜欢你的100个女朋友",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
@@ -104565,7 +104611,7 @@
         "title": "Thai Dub"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/2e52d207ca673a017cbb0d97cb129cf5.png",
     "available": true,
     "firstEpisodePublishedAt": 1696773600000,
@@ -111470,7 +111516,7 @@
     "season_id": 278723,
     "title": "Into the Mortal World",
     "evaluate": "The anime tells the tale of a god who is in charge of \"herding stars\" and his mischievous sister. This anime creatively connects weaving with the celestial bodies above, retaining the mythological aspects of traditional Chinese culture while also introducing some new ideas.",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "jpTitle": "",
     "seasonTitle": "Into the Mortal World",
     "publish": {
@@ -111486,7 +111532,7 @@
     "episodeTitles": [],
     "total": 0,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/e62c9d5614cb2f3cb99fdea7b2c5f310.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -120013,7 +120059,7 @@
     "title": "MARRIAGETOXIN",
     "evaluate": "For centuries, the \"Users\" have honed the art of killing. Among them, the most powerful and influential are the Five Great Families—most notably, the \"Poison Users.\" Hikaru Gero, a young man born into this lineage, lives as a professional assassin, having spent his life avoiding any ties to women. To him, marriage has always been a distant concept.\nBut when the head of the Gero family declares that his sister will be forced to bear an heir to preserve their bloodline, everything changes.\nAmidst this crisis, Hikaru encounters Mei Kinosaki, a brilliant marriage swindler—and his latest target.\n\nDetermined to protect his sister and resolve the succession issue, Hikaru comes up with an unexpected solution: he will marry himself. On the spot, he asks Mei to help him find a wife.\n\"That’s the first time I’ve ever heard a proposal like that.\"\nThus begins an unlikely partnership: an elite assassin and a master con artist. With Mei as his advisor, Hikaru embarks on the most difficult mission of his life—finding a bride.\n\nHis goal: the perfect marriage. A high-stakes “marriage-hunting” battle action unfolds, as this deadly duo takes on the toughest mission in the world!",
     "userTitle": "婚姻剧毒",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "MARRIAGETOXIN",
@@ -120034,7 +120080,7 @@
     ],
     "total": 14,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/234016115bd0b52c428f9e9a6f40cb1e.png",
     "available": true,
     "firstEpisodePublishedAt": 1775572200000,
@@ -120713,7 +120759,7 @@
     "title": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
     "evaluate": "A concept proposed by Shimahara (40hara) of the doujin circle “Animal Machine,” later developed into a series of situational illustrations.\n\nThe works center on various character archetypes—such as maids, gyaru, office ladies, nurses, and shrine maidens—often portraying a contrast between aloof or disdainful expressions and provocative, teasing presentation. By blending these seemingly opposing elements, the series establishes a highly niche style that delivers a strong, distinctive appeal.\n\nFirst published as doujin works in 2015, the series will celebrate its 10th anniversary in 2025.\nAn anime adaptation debuted in 2018, with this title marking the fourth installment in the animated series.",
     "userTitle": "一脸嫌弃表情的妹子给你看胖次",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
@@ -120734,7 +120780,7 @@
     ],
     "total": 6,
     "seasons": [],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/9cd34c9bc5cb208ac8c4e345986926ef.png",
     "available": true,
     "firstEpisodePublishedAt": 1777554000000,
@@ -122024,7 +122070,7 @@
     "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
     "evaluate": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his previous life retained, Rudeus vows to lead a fulfilling life and not repeat his past mistakes.\n\nNow gifted with a tremendous amount of magical power as well as the mind of a grown adult, Rudeus is seen as a genius in the making by his new parents. Soon, he finds himself studying under powerful warriors, such as his swordsman father and a mage named Roxy Migurdia—all in order to hone his apparent talents. But despite his innocent exterior, Rudeus is still a perverted otaku, who uses his wealth of knowledge to make moves on women whom he could never make in his previous life.",
     "userTitle": "无职转生第三季",
-    "checkedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
     "userProvided": true,
     "jpTitle": "",
     "seasonTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
@@ -122074,7 +122120,7 @@
         "title": "S3 (Thai ver.)"
       }
     ],
-    "richCheckedAt": "2026-11-06",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/a26759023f03d311f05a0410f913407e.png",
     "available": true,
     "firstEpisodePublishedAt": 1783162800000,
@@ -126161,8 +126207,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 2,
@@ -127144,8 +127190,8 @@
         "title": "2026年"
       }
     ],
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "available": true,
     "firstEpisodePublishedAt": null,
     "type": 7,
@@ -127212,8 +127258,8 @@
         "title": "第7季"
       }
     ],
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "available": true,
     "firstEpisodePublishedAt": 1787313660000,
     "type": 3,
@@ -127433,8 +127479,8 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787562000000,
     "type": 1,
     "available": true,
@@ -127474,8 +127520,8 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787562000000,
     "type": 1,
     "available": true,
@@ -127515,8 +127561,8 @@
         "title": "第二季"
       }
     ],
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787734800000,
     "type": 4,
     "available": true,
@@ -127683,8 +127729,8 @@
         "title": "乔丹比赛系列"
       }
     ],
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/1b5c5d8aae9427928855974d5526a0b79b8730a7.jpg",
     "firstEpisodePublishedAt": 1788167133000,
     "type": 9,
@@ -127716,8 +127762,8 @@
     ],
     "total": 3,
     "seasons": [],
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787187600000,
     "type": 3,
     "available": true,
@@ -127763,8 +127809,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787576374000,
     "type": 3,
     "code": 0,
@@ -127809,8 +127855,8 @@
       }
     ],
     "available": true,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1787889600000,
     "type": 3,
     "code": 0,
@@ -129422,8 +129468,8 @@
         "title": "Thai Dub"
       }
     ],
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/7cbd6f657d8696500140f023a5f3056f.jpg",
     "available": true,
     "firstEpisodePublishedAt": 1787493600000,
@@ -129710,8 +129756,8 @@
     "episodeTitles": [],
     "total": 1,
     "seasons": [],
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/d3ae035fa0e7f6b4f3269fe6aa69f2d92ebd13d4.png",
     "available": true,
     "firstEpisodePublishedAt": null,
@@ -134278,8 +134324,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "303935": {
@@ -136008,8 +136054,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 1,
@@ -136044,8 +136090,8 @@
     "total": 12,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "code": 0,
     "areas": []
   },
@@ -137049,8 +137095,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 3,
@@ -137084,8 +137130,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 3,
@@ -148432,8 +148478,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 1,
@@ -148468,8 +148514,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317887": {
@@ -148499,8 +148545,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317888": {
@@ -148531,8 +148577,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317889": {
@@ -148562,8 +148608,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317890": {
@@ -148593,8 +148639,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317891": {
@@ -148624,8 +148670,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317892": {
@@ -148655,8 +148701,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317893": {
@@ -148686,8 +148732,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317894": {
@@ -148717,8 +148763,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317895": {
@@ -148749,8 +148795,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317896": {
@@ -148780,8 +148826,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317897": {
@@ -148811,8 +148857,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317898": {
@@ -148842,8 +148888,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317899": {
@@ -148873,8 +148919,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317900": {
@@ -148905,8 +148951,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317901": {
@@ -148936,8 +148982,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317902": {
@@ -148966,8 +149012,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317903": {
@@ -148997,8 +149043,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317904": {
@@ -149028,8 +149074,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317905": {
@@ -149059,8 +149105,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317906": {
@@ -149091,8 +149137,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317907": {
@@ -149123,8 +149169,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317908": {
@@ -149154,8 +149200,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317909": {
@@ -149185,8 +149231,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317910": {
@@ -149216,8 +149262,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317911": {
@@ -149247,8 +149293,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317912": {
@@ -149278,8 +149324,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317913": {
@@ -149309,8 +149355,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317914": {
@@ -149340,8 +149386,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317915": {
@@ -149371,8 +149417,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317916": {
@@ -149402,8 +149448,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317917": {
@@ -149434,8 +149480,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317918": {
@@ -149465,8 +149511,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317919": {
@@ -149496,8 +149542,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317920": {
@@ -149527,8 +149573,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317921": {
@@ -149558,8 +149604,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317922": {
@@ -149589,8 +149635,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317923": {
@@ -149621,8 +149667,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317924": {
@@ -149652,8 +149698,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317925": {
@@ -149683,8 +149729,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317926": {
@@ -149714,8 +149760,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317927": {
@@ -149746,8 +149792,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317928": {
@@ -149777,8 +149823,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317929": {
@@ -149808,8 +149854,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317930": {
@@ -149839,8 +149885,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317931": {
@@ -149870,8 +149916,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317932": {
@@ -149901,8 +149947,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317933": {
@@ -149932,8 +149978,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317934": {
@@ -149963,8 +150009,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317935": {
@@ -149994,8 +150040,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317936": {
@@ -150025,8 +150071,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317937": {
@@ -150055,8 +150101,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317938": {
@@ -150087,8 +150133,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317939": {
@@ -150118,8 +150164,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317940": {
@@ -150150,8 +150196,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317942": {
@@ -150181,8 +150227,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317943": {
@@ -150213,8 +150259,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317944": {
@@ -150245,8 +150291,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317945": {
@@ -150276,8 +150322,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317946": {
@@ -150307,8 +150353,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317947": {
@@ -150339,8 +150385,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317948": {
@@ -150371,8 +150417,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317949": {
@@ -150403,8 +150449,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317950": {
@@ -150434,8 +150480,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317951": {
@@ -150466,8 +150512,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317952": {
@@ -150498,8 +150544,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317953": {
@@ -150530,8 +150576,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317954": {
@@ -150562,8 +150608,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317955": {
@@ -150594,8 +150640,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317956": {
@@ -150626,8 +150672,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317957": {
@@ -150658,8 +150704,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317958": {
@@ -150690,8 +150736,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317959": {
@@ -150722,8 +150768,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317960": {
@@ -150754,8 +150800,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317961": {
@@ -150786,8 +150832,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317962": {
@@ -150818,8 +150864,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317963": {
@@ -150850,8 +150896,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317964": {
@@ -150882,8 +150928,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317965": {
@@ -150914,8 +150960,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317966": {
@@ -150946,8 +150992,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317967": {
@@ -150978,8 +151024,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317968": {
@@ -151010,8 +151056,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317969": {
@@ -151042,8 +151088,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317970": {
@@ -151074,8 +151120,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317971": {
@@ -151106,8 +151152,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317972": {
@@ -151138,8 +151184,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317973": {
@@ -151170,8 +151216,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317974": {
@@ -151202,8 +151248,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317975": {
@@ -151234,8 +151280,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317976": {
@@ -151266,8 +151312,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317977": {
@@ -151298,8 +151344,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317978": {
@@ -151330,8 +151376,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317979": {
@@ -151362,8 +151408,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317980": {
@@ -151394,8 +151440,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317981": {
@@ -151426,8 +151472,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317982": {
@@ -151458,8 +151504,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317983": {
@@ -151490,8 +151536,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317984": {
@@ -151522,8 +151568,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317985": {
@@ -151554,8 +151600,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317986": {
@@ -151586,8 +151632,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317987": {
@@ -151618,8 +151664,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "317988": {
@@ -151650,8 +151696,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "318214": {
@@ -151672,7 +151718,7 @@
     "firstEpisode": 6574377,
     "firstEpisodePublishedAt": 1791277200000,
     "type": 3,
-    "episodeCount": 4,
+    "episodeCount": 5,
     "episodeTitles": [
       "门捷列夫不知道",
       "遇事不决 量子力学",
@@ -151691,8 +151737,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 1,
@@ -151728,8 +151774,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "318671": {
@@ -152285,8 +152331,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "319896": {
@@ -152313,8 +152359,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "319942": {
@@ -152361,7 +152407,7 @@
   "319971": {
     "season_id": 319971,
     "title": "Kaiju No. 8 Original Short Anime \"Narumi's Week at Work\"",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/893e984ecd214229f4add383a0c9ee10.png",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/4301276181f042cdb019a810feeb7d48.png",
     "evaluate": "Kafka has been chasing his dream to join the Defense Force. The captain of the Defense Force, Gen Narumi, has a very different kind of daily battle. Between skipping meetings, dodging paperwork, and getting caught up in unexpected trouble, even the strongest warrior can't escape the chaos of everyday life. Get ready to see a whole new side of Narumi in this hilarious new chapter of Kaiju No.8!",
     "jpTitle": "",
     "seasonTitle": "Kaiju No. 8 Original Short Anime \"Narumi's Week at Work\"",
@@ -152385,8 +152431,8 @@
     "total": 4,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "code": 0,
     "areas": []
   },
@@ -157829,8 +157875,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "322316": {
@@ -161921,11 +161967,11 @@
   },
   "324706": {
     "season_id": 324706,
-    "title": "好奇心俱乐部",
+    "title": "好奇心俱乐部（ Question Club）",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/b362c3987cdfa12ba8c503e7a0f3702fe91f7483.jpg",
     "evaluate": "科学探索，本身就是一场大冒险！\n在每一集中，主角团会收到来自小观众的提问，冒险也就此展开。好奇心俱乐部会提出各种“天马行空”的假设，并通过实验加以验证。最终，这支研究小队总能找到正确答案。\n学习的过程，是世界上最奇妙的探险之一。这部系列动画旨在激 发孩子们主动探索世界的热情，鼓励他们大胆实验、积极思考，哪怕没有好奇心俱乐部的陪伴，也能勇敢寻找属于自己的答案。",
     "jpTitle": "",
-    "seasonTitle": "好奇心俱乐部",
+    "seasonTitle": "好奇心俱乐部（ Question Club）",
     "publish": {
       "is_finish": 0,
       "is_started": 1,
@@ -161937,7 +161983,7 @@
     "firstEpisode": 7332806,
     "firstEpisodePublishedAt": 1793350800000,
     "type": 1,
-    "episodeCount": 10,
+    "episodeCount": 13,
     "episodeTitles": [
       "为什么橙子里会有籽儿",
       "怎样才能交到朋友",
@@ -161956,8 +162002,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 14,
@@ -161967,11 +162013,11 @@
   },
   "324710": {
     "season_id": 324710,
-    "title": "好奇心俱乐部 中文配音",
+    "title": "好奇心俱乐部（ Question Club）中文配音",
     "cover": "https://i0.hdslb.com/bfs/bangumi/image/c5940db72f8c1eb230f1e1c4fee65dc4e722e90e.jpg",
     "evaluate": "科学探索，本身就是一场大冒险！\n在每一集中，主角团会收到来自小观众的提问，冒险也就此展开。好奇心俱乐部会提出各种“天马行空”的假设，并通过实验加以验证。最终，这支研究小队总能找到正确答案。\n学习的过程，是世界上最奇妙的探险之一。这部系列动画旨在激 发孩子们主动探索世界的热情，鼓励他们大胆实验、积极思考，哪怕没有好奇心俱乐部的陪伴，也能勇敢寻找属于自己的答案。",
     "jpTitle": "",
-    "seasonTitle": "好奇心俱乐部 中文配音",
+    "seasonTitle": "好奇心俱乐部（ Question Club）中文配音",
     "publish": {
       "is_finish": 0,
       "is_started": 1,
@@ -161983,7 +162029,7 @@
     "firstEpisode": 7333140,
     "firstEpisodePublishedAt": 1793350800000,
     "type": 1,
-    "episodeCount": 10,
+    "episodeCount": 13,
     "episodeTitles": [
       "为什么橙子里会有籽儿",
       "怎样才能交到朋友",
@@ -162002,8 +162048,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 14,
@@ -162014,7 +162060,7 @@
   "324723": {
     "season_id": 324723,
     "title": "The Iceblade Sorcerer Shall Rule the World II",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/f2ec61bbf1d7ea20525218ff95e2049f.png",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/a8d8bccf781d9011974622c09cefc376.png",
     "evaluate": "Ray White is the Iceblade Sorcerer who is one of the Seven Grand Sorcerers. He vanished from the battlefield after struggling with his overwhelming power and deep emotional scars. Three years later, he enrolls at Arnold Academy of Magical Arts and wants to live an ordinary life. Initially looked down upon by nobles, Ray gradually proves his abilities and earns the trust of his classmates while confronting a mysterious organization targeting elite mages. Having found true friends and a place to belong, Ray now faces a new challenge…",
     "jpTitle": "",
     "seasonTitle": "The Iceblade Sorcerer Shall Rule the World II",
@@ -162039,14 +162085,14 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "324859": {
     "season_id": 324859,
     "title": "Nia Liston: The Merciless Maiden",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/d2fb211485cc1e818b44a19015a26d78.png",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/213be70e151f73683772bc63069827d4.png",
     "evaluate": "“If I had to die anyway, I would have rather died fighting.”\n\nOnce a great hero who even accomplished the slaying of a god, he dreams of meeting an opponent powerful enough to kill him at the moment of his death. But what awaits him is reincarnation as a frail noblewoman.\n\nReborn as the beautiful yet sickly noble lady, she seeks out the strong and throws herself joyfully into battle in her second life!",
     "jpTitle": "",
     "seasonTitle": "Nia Liston: The Merciless Maiden",
@@ -162068,8 +162114,8 @@
     "total": 25,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1791291300000,
     "type": 1,
     "code": 0,
@@ -162078,7 +162124,7 @@
   "326551": {
     "season_id": 326551,
     "title": "Even the Student Council Has Its Holes!",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/eb8e2ca12eb890cdd2bbc9f470e6d220.png",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/a650342f2c60d4fe8363358a316fe2a8.png",
     "evaluate": "On the outskirts of town stands a prestigious private school, Fujinari Academy.\n\nFirst-year high school student Ume Mizunoe excels in literature, having won numerous literary awards and the like. However, his grades in science and mathematics are so abysmal that they could actually prevent him from advancing to the next year. In order to avoid repeating a year and improve his school record, he decides to join the student council.\n\nHowever, the student council he joins is filled with some rather unusual characters. With such a wonderfully odd assortment of personalities all gathered in one place, what kind of story will unfold...?",
     "jpTitle": "",
     "seasonTitle": "Even the Student Council Has Its Holes!",
@@ -162100,8 +162146,8 @@
     "total": 13,
     "seasons": [],
     "available": true,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "firstEpisodePublishedAt": 1791208800000,
     "type": 1,
     "code": 0,
@@ -162208,10 +162254,11 @@
     "firstEpisode": 7273713,
     "firstEpisodePublishedAt": 1793350800000,
     "type": 3,
-    "episodeCount": 2,
+    "episodeCount": 4,
     "episodeTitles": [
       "布朗不服输",
-      "亚历山大当爸"
+      "亚历山大当爸",
+      "杜兰特的中投"
     ],
     "total": 8,
     "seasons": [
@@ -162226,8 +162273,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": [
       {
         "id": 3,
@@ -175425,8 +175472,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338019": {
     "season_id": 338019,
@@ -175457,8 +175504,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338024": {
     "season_id": 338024,
@@ -175489,8 +175536,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338025": {
     "season_id": 338025,
@@ -175521,8 +175568,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338027": {
     "season_id": 338027,
@@ -175553,8 +175600,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338028": {
     "season_id": 338028,
@@ -175585,8 +175632,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338029": {
     "season_id": 338029,
@@ -175617,8 +175664,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338031": {
     "season_id": 338031,
@@ -175649,8 +175696,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338032": {
     "season_id": 338032,
@@ -175681,8 +175728,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338033": {
     "season_id": 338033,
@@ -175713,8 +175760,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338035": {
     "season_id": 338035,
@@ -175745,8 +175792,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338036": {
     "season_id": 338036,
@@ -175777,8 +175824,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338037": {
     "season_id": 338037,
@@ -175809,8 +175856,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338040": {
     "season_id": 338040,
@@ -175841,8 +175888,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338041": {
     "season_id": 338041,
@@ -175873,8 +175920,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338043": {
     "season_id": 338043,
@@ -175905,8 +175952,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338044": {
     "season_id": 338044,
@@ -175937,8 +175984,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338045": {
     "season_id": 338045,
@@ -175969,8 +176016,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338046": {
     "season_id": 338046,
@@ -176001,8 +176048,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338048": {
     "season_id": 338048,
@@ -176033,8 +176080,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338049": {
     "season_id": 338049,
@@ -176065,8 +176112,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338050": {
     "season_id": 338050,
@@ -176097,8 +176144,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338052": {
     "season_id": 338052,
@@ -176129,8 +176176,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338055": {
     "season_id": 338055,
@@ -176161,8 +176208,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338057": {
     "season_id": 338057,
@@ -176193,8 +176240,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338058": {
     "season_id": 338058,
@@ -176225,8 +176272,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338059": {
     "season_id": 338059,
@@ -176257,8 +176304,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338060": {
     "season_id": 338060,
@@ -176289,8 +176336,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338062": {
     "season_id": 338062,
@@ -176321,8 +176368,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338064": {
     "season_id": 338064,
@@ -176353,8 +176400,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338065": {
     "season_id": 338065,
@@ -176385,8 +176432,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338067": {
     "season_id": 338067,
@@ -176417,8 +176464,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338069": {
     "season_id": 338069,
@@ -176449,8 +176496,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338070": {
     "season_id": 338070,
@@ -176481,8 +176528,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338071": {
     "season_id": 338071,
@@ -176513,8 +176560,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338072": {
     "season_id": 338072,
@@ -176545,8 +176592,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338073": {
     "season_id": 338073,
@@ -176577,8 +176624,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338074": {
     "season_id": 338074,
@@ -176609,8 +176656,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338075": {
     "season_id": 338075,
@@ -176641,8 +176688,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338076": {
     "season_id": 338076,
@@ -176673,8 +176720,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338078": {
     "season_id": 338078,
@@ -176705,8 +176752,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338079": {
     "season_id": 338079,
@@ -176737,8 +176784,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338080": {
     "season_id": 338080,
@@ -176769,8 +176816,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338081": {
     "season_id": 338081,
@@ -176801,8 +176848,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338083": {
     "season_id": 338083,
@@ -176833,8 +176880,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338084": {
     "season_id": 338084,
@@ -176865,8 +176912,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338085": {
     "season_id": 338085,
@@ -176897,8 +176944,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338086": {
     "season_id": 338086,
@@ -176929,8 +176976,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338087": {
     "season_id": 338087,
@@ -176961,8 +177008,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338089": {
     "season_id": 338089,
@@ -176993,8 +177040,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338090": {
     "season_id": 338090,
@@ -177025,8 +177072,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338091": {
     "season_id": 338091,
@@ -177057,8 +177104,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338092": {
     "season_id": 338092,
@@ -177089,8 +177136,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338093": {
     "season_id": 338093,
@@ -177121,8 +177168,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338094": {
     "season_id": 338094,
@@ -177153,8 +177200,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338095": {
     "season_id": 338095,
@@ -177185,8 +177232,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338096": {
     "season_id": 338096,
@@ -177217,8 +177264,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338097": {
     "season_id": 338097,
@@ -177249,8 +177296,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338098": {
     "season_id": 338098,
@@ -177281,8 +177328,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338099": {
     "season_id": 338099,
@@ -177313,8 +177360,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338100": {
     "season_id": 338100,
@@ -177345,8 +177392,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338101": {
     "season_id": 338101,
@@ -177377,8 +177424,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338102": {
     "season_id": 338102,
@@ -177409,8 +177456,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338103": {
     "season_id": 338103,
@@ -177441,8 +177488,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338104": {
     "season_id": 338104,
@@ -177473,8 +177520,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338105": {
     "season_id": 338105,
@@ -177505,8 +177552,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338106": {
     "season_id": 338106,
@@ -177537,8 +177584,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338107": {
     "season_id": 338107,
@@ -177569,8 +177616,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338108": {
     "season_id": 338108,
@@ -177601,8 +177648,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338109": {
     "season_id": 338109,
@@ -177633,8 +177680,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338110": {
     "season_id": 338110,
@@ -177665,8 +177712,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338111": {
     "season_id": 338111,
@@ -177697,8 +177744,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338112": {
     "season_id": 338112,
@@ -177729,8 +177776,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338113": {
     "season_id": 338113,
@@ -177761,8 +177808,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338114": {
     "season_id": 338114,
@@ -177793,8 +177840,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338115": {
     "season_id": 338115,
@@ -177825,8 +177872,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338116": {
     "season_id": 338116,
@@ -177857,8 +177904,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338117": {
     "season_id": 338117,
@@ -177889,8 +177936,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338118": {
     "season_id": 338118,
@@ -177921,8 +177968,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338119": {
     "season_id": 338119,
@@ -177953,8 +178000,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338120": {
     "season_id": 338120,
@@ -177985,8 +178032,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338121": {
     "season_id": 338121,
@@ -178017,8 +178064,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338122": {
     "season_id": 338122,
@@ -178049,8 +178096,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338123": {
     "season_id": 338123,
@@ -178081,8 +178128,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338124": {
     "season_id": 338124,
@@ -178113,8 +178160,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338125": {
     "season_id": 338125,
@@ -178145,8 +178192,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338126": {
     "season_id": 338126,
@@ -178177,8 +178224,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338127": {
     "season_id": 338127,
@@ -178209,8 +178256,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338128": {
     "season_id": 338128,
@@ -178241,8 +178288,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338129": {
     "season_id": 338129,
@@ -178273,8 +178320,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338130": {
     "season_id": 338130,
@@ -178305,8 +178352,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338131": {
     "season_id": 338131,
@@ -178337,8 +178384,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338132": {
     "season_id": 338132,
@@ -178369,8 +178416,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338133": {
     "season_id": 338133,
@@ -178401,8 +178448,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338134": {
     "season_id": 338134,
@@ -178433,8 +178480,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338135": {
     "season_id": 338135,
@@ -178465,8 +178512,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338136": {
     "season_id": 338136,
@@ -178497,8 +178544,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338137": {
     "season_id": 338137,
@@ -178529,8 +178576,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338138": {
     "season_id": 338138,
@@ -178561,8 +178608,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338139": {
     "season_id": 338139,
@@ -178593,8 +178640,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338140": {
     "season_id": 338140,
@@ -178625,8 +178672,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338141": {
     "season_id": 338141,
@@ -178657,8 +178704,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338142": {
     "season_id": 338142,
@@ -178689,8 +178736,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338143": {
     "season_id": 338143,
@@ -178721,8 +178768,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338145": {
     "season_id": 338145,
@@ -178753,8 +178800,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338146": {
     "season_id": 338146,
@@ -178785,8 +178832,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338147": {
     "season_id": 338147,
@@ -178817,8 +178864,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338148": {
     "season_id": 338148,
@@ -178849,8 +178896,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338149": {
     "season_id": 338149,
@@ -178881,8 +178928,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338150": {
     "season_id": 338150,
@@ -178913,8 +178960,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338151": {
     "season_id": 338151,
@@ -178945,8 +178992,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338152": {
     "season_id": 338152,
@@ -178977,8 +179024,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338153": {
     "season_id": 338153,
@@ -179009,8 +179056,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338154": {
     "season_id": 338154,
@@ -179041,8 +179088,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338155": {
     "season_id": 338155,
@@ -179073,8 +179120,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338156": {
     "season_id": 338156,
@@ -179105,8 +179152,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338157": {
     "season_id": 338157,
@@ -179137,8 +179184,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338158": {
     "season_id": 338158,
@@ -179169,8 +179216,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338159": {
     "season_id": 338159,
@@ -179201,8 +179248,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338160": {
     "season_id": 338160,
@@ -179233,8 +179280,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338161": {
     "season_id": 338161,
@@ -179265,8 +179312,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338162": {
     "season_id": 338162,
@@ -179297,8 +179344,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338163": {
     "season_id": 338163,
@@ -179329,8 +179376,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338164": {
     "season_id": 338164,
@@ -179361,8 +179408,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338165": {
     "season_id": 338165,
@@ -179393,8 +179440,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338166": {
     "season_id": 338166,
@@ -179425,8 +179472,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338167": {
     "season_id": 338167,
@@ -179457,8 +179504,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338168": {
     "season_id": 338168,
@@ -179489,8 +179536,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338169": {
     "season_id": 338169,
@@ -179521,8 +179568,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338170": {
     "season_id": 338170,
@@ -179553,8 +179600,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338171": {
     "season_id": 338171,
@@ -179585,8 +179632,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338172": {
     "season_id": 338172,
@@ -179617,8 +179664,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338173": {
     "season_id": 338173,
@@ -179649,8 +179696,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338174": {
     "season_id": 338174,
@@ -179681,8 +179728,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338175": {
     "season_id": 338175,
@@ -179713,8 +179760,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338176": {
     "season_id": 338176,
@@ -179745,8 +179792,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338177": {
     "season_id": 338177,
@@ -179777,8 +179824,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338178": {
     "season_id": 338178,
@@ -179809,8 +179856,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338179": {
     "season_id": 338179,
@@ -179841,8 +179888,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338180": {
     "season_id": 338180,
@@ -179873,8 +179920,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338181": {
     "season_id": 338181,
@@ -179905,8 +179952,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338182": {
     "season_id": 338182,
@@ -179937,8 +179984,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338183": {
     "season_id": 338183,
@@ -179969,8 +180016,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338184": {
     "season_id": 338184,
@@ -180001,8 +180048,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338185": {
     "season_id": 338185,
@@ -180033,8 +180080,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338186": {
     "season_id": 338186,
@@ -180065,8 +180112,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338187": {
     "season_id": 338187,
@@ -180097,8 +180144,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338188": {
     "season_id": 338188,
@@ -180129,8 +180176,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338189": {
     "season_id": 338189,
@@ -180161,8 +180208,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338190": {
     "season_id": 338190,
@@ -180193,8 +180240,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338191": {
     "season_id": 338191,
@@ -180225,8 +180272,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338192": {
     "season_id": 338192,
@@ -180257,8 +180304,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338193": {
     "season_id": 338193,
@@ -180289,8 +180336,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338194": {
     "season_id": 338194,
@@ -180321,8 +180368,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338195": {
     "season_id": 338195,
@@ -180353,8 +180400,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338196": {
     "season_id": 338196,
@@ -180385,8 +180432,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338197": {
     "season_id": 338197,
@@ -180417,8 +180464,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338198": {
     "season_id": 338198,
@@ -180449,8 +180496,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338199": {
     "season_id": 338199,
@@ -180481,8 +180528,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338200": {
     "season_id": 338200,
@@ -180513,8 +180560,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338201": {
     "season_id": 338201,
@@ -180545,8 +180592,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338202": {
     "season_id": 338202,
@@ -180577,8 +180624,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338203": {
     "season_id": 338203,
@@ -180609,8 +180656,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338204": {
     "season_id": 338204,
@@ -180641,8 +180688,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338205": {
     "season_id": 338205,
@@ -180673,8 +180720,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338206": {
     "season_id": 338206,
@@ -180705,8 +180752,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338207": {
     "season_id": 338207,
@@ -180737,8 +180784,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338208": {
     "season_id": 338208,
@@ -180769,8 +180816,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338209": {
     "season_id": 338209,
@@ -180801,8 +180848,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338210": {
     "season_id": 338210,
@@ -180833,8 +180880,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338211": {
     "season_id": 338211,
@@ -180865,8 +180912,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338212": {
     "season_id": 338212,
@@ -180897,8 +180944,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338213": {
     "season_id": 338213,
@@ -180929,8 +180976,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338214": {
     "season_id": 338214,
@@ -180961,8 +181008,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338216": {
     "season_id": 338216,
@@ -180993,8 +181040,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338229": {
     "season_id": 338229,
@@ -181030,8 +181077,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338387": {
     "season_id": 338387,
@@ -181106,8 +181153,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "338960": {
     "season_id": 338960,
@@ -181178,8 +181225,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31",
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07",
     "areas": []
   },
   "341400": {
@@ -185548,8 +185595,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "347270": {
     "season_id": 347270,
@@ -185681,8 +185728,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "348190": {
     "season_id": 348190,
@@ -185705,13 +185752,11 @@
       "unknow_pub_date": 1,
       "weekday": 0
     },
-    "firstEpisode": 7296019,
-    "firstEpisodePublishedAt": 1793172000000,
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
     "type": 1,
-    "episodeCount": 1,
-    "episodeTitles": [
-      ""
-    ],
+    "episodeCount": 0,
+    "episodeTitles": [],
     "total": 24,
     "seasons": [
       {
@@ -185749,8 +185794,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "348754": {
     "season_id": 348754,
@@ -185781,8 +185826,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "349230": {
     "season_id": 349230,
@@ -185808,17 +185853,18 @@
     "firstEpisode": 7302011,
     "firstEpisodePublishedAt": 1793275200000,
     "type": 3,
-    "episodeCount": 2,
+    "episodeCount": 4,
     "episodeTitles": [
       "遥望昆仑",
-      "第八监区"
+      "第八监区",
+      "谁是骗子"
     ],
     "total": 23,
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350222": {
     "season_id": 350222,
@@ -185849,8 +185895,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350223": {
     "season_id": 350223,
@@ -185879,8 +185925,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350225": {
     "season_id": 350225,
@@ -185911,8 +185957,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350226": {
     "season_id": 350226,
@@ -185941,8 +185987,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350227": {
     "season_id": 350227,
@@ -185973,8 +186019,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350228": {
     "season_id": 350228,
@@ -186005,8 +186051,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350229": {
     "season_id": 350229,
@@ -186037,8 +186083,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350230": {
     "season_id": 350230,
@@ -186069,8 +186115,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350231": {
     "season_id": 350231,
@@ -186101,8 +186147,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350232": {
     "season_id": 350232,
@@ -186133,8 +186179,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350233": {
     "season_id": 350233,
@@ -186165,8 +186211,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350234": {
     "season_id": 350234,
@@ -186197,8 +186243,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350235": {
     "season_id": 350235,
@@ -186229,8 +186275,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350236": {
     "season_id": 350236,
@@ -186261,8 +186307,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350237": {
     "season_id": 350237,
@@ -186293,8 +186339,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350238": {
     "season_id": 350238,
@@ -186325,8 +186371,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350239": {
     "season_id": 350239,
@@ -186357,8 +186403,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350240": {
     "season_id": 350240,
@@ -186389,8 +186435,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350241": {
     "season_id": 350241,
@@ -186421,8 +186467,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350242": {
     "season_id": 350242,
@@ -186453,8 +186499,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350243": {
     "season_id": 350243,
@@ -186485,8 +186531,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350244": {
     "season_id": 350244,
@@ -186517,8 +186563,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350245": {
     "season_id": 350245,
@@ -186549,8 +186595,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350246": {
     "season_id": 350246,
@@ -186581,8 +186627,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350247": {
     "season_id": 350247,
@@ -186613,8 +186659,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350248": {
     "season_id": 350248,
@@ -186645,8 +186691,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350249": {
     "season_id": 350249,
@@ -186677,8 +186723,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350250": {
     "season_id": 350250,
@@ -186709,8 +186755,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350252": {
     "season_id": 350252,
@@ -186741,8 +186787,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350253": {
     "season_id": 350253,
@@ -186773,8 +186819,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350255": {
     "season_id": 350255,
@@ -186805,8 +186851,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350256": {
     "season_id": 350256,
@@ -186837,8 +186883,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350257": {
     "season_id": 350257,
@@ -186869,8 +186915,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350258": {
     "season_id": 350258,
@@ -186901,8 +186947,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350259": {
     "season_id": 350259,
@@ -186933,8 +186979,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350260": {
     "season_id": 350260,
@@ -186965,8 +187011,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350261": {
     "season_id": 350261,
@@ -186997,8 +187043,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350262": {
     "season_id": 350262,
@@ -187027,8 +187073,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350263": {
     "season_id": 350263,
@@ -187059,8 +187105,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350264": {
     "season_id": 350264,
@@ -187091,8 +187137,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350265": {
     "season_id": 350265,
@@ -187123,8 +187169,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350266": {
     "season_id": 350266,
@@ -187155,8 +187201,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350267": {
     "season_id": 350267,
@@ -187187,8 +187233,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350268": {
     "season_id": 350268,
@@ -187219,8 +187265,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350269": {
     "season_id": 350269,
@@ -187251,8 +187297,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350270": {
     "season_id": 350270,
@@ -187283,8 +187329,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350271": {
     "season_id": 350271,
@@ -187315,8 +187361,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350272": {
     "season_id": 350272,
@@ -187347,8 +187393,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350273": {
     "season_id": 350273,
@@ -187379,8 +187425,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350274": {
     "season_id": 350274,
@@ -187411,8 +187457,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350275": {
     "season_id": 350275,
@@ -187443,8 +187489,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350276": {
     "season_id": 350276,
@@ -187475,8 +187521,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350277": {
     "season_id": 350277,
@@ -187507,8 +187553,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350278": {
     "season_id": 350278,
@@ -187539,8 +187585,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350279": {
     "season_id": 350279,
@@ -187571,8 +187617,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350280": {
     "season_id": 350280,
@@ -187603,8 +187649,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350281": {
     "season_id": 350281,
@@ -187635,8 +187681,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350282": {
     "season_id": 350282,
@@ -187667,8 +187713,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350283": {
     "season_id": 350283,
@@ -187699,8 +187745,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350284": {
     "season_id": 350284,
@@ -187731,8 +187777,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350285": {
     "season_id": 350285,
@@ -187763,8 +187809,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350286": {
     "season_id": 350286,
@@ -187795,8 +187841,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350287": {
     "season_id": 350287,
@@ -187827,8 +187873,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350288": {
     "season_id": 350288,
@@ -187859,8 +187905,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350289": {
     "season_id": 350289,
@@ -187891,8 +187937,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350290": {
     "season_id": 350290,
@@ -187923,8 +187969,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350291": {
     "season_id": 350291,
@@ -187955,8 +188001,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350292": {
     "season_id": 350292,
@@ -187987,8 +188033,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350293": {
     "season_id": 350293,
@@ -188019,8 +188065,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350294": {
     "season_id": 350294,
@@ -188051,8 +188097,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350295": {
     "season_id": 350295,
@@ -188083,8 +188129,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350296": {
     "season_id": 350296,
@@ -188115,8 +188161,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350297": {
     "season_id": 350297,
@@ -188147,8 +188193,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350298": {
     "season_id": 350298,
@@ -188179,8 +188225,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350299": {
     "season_id": 350299,
@@ -188211,8 +188257,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350300": {
     "season_id": 350300,
@@ -188243,8 +188289,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350301": {
     "season_id": 350301,
@@ -188275,8 +188321,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350302": {
     "season_id": 350302,
@@ -188307,8 +188353,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350303": {
     "season_id": 350303,
@@ -188339,8 +188385,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350304": {
     "season_id": 350304,
@@ -188371,8 +188417,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350305": {
     "season_id": 350305,
@@ -188403,8 +188449,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350306": {
     "season_id": 350306,
@@ -188435,8 +188481,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350307": {
     "season_id": 350307,
@@ -188467,8 +188513,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350308": {
     "season_id": 350308,
@@ -188497,8 +188543,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350309": {
     "season_id": 350309,
@@ -188529,8 +188575,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350310": {
     "season_id": 350310,
@@ -188561,8 +188607,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350311": {
     "season_id": 350311,
@@ -188593,8 +188639,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350313": {
     "season_id": 350313,
@@ -188625,8 +188671,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350314": {
     "season_id": 350314,
@@ -188657,8 +188703,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350315": {
     "season_id": 350315,
@@ -188689,8 +188735,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350316": {
     "season_id": 350316,
@@ -188721,8 +188767,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350317": {
     "season_id": 350317,
@@ -188753,8 +188799,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350318": {
     "season_id": 350318,
@@ -188783,8 +188829,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350319": {
     "season_id": 350319,
@@ -188813,8 +188859,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350320": {
     "season_id": 350320,
@@ -188843,8 +188889,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350321": {
     "season_id": 350321,
@@ -188875,8 +188921,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350322": {
     "season_id": 350322,
@@ -188905,8 +188951,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350323": {
     "season_id": 350323,
@@ -188935,8 +188981,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350324": {
     "season_id": 350324,
@@ -188965,8 +189011,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350325": {
     "season_id": 350325,
@@ -188995,8 +189041,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350326": {
     "season_id": 350326,
@@ -189025,8 +189071,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350327": {
     "season_id": 350327,
@@ -189057,8 +189103,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350328": {
     "season_id": 350328,
@@ -189087,8 +189133,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350329": {
     "season_id": 350329,
@@ -189119,8 +189165,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350330": {
     "season_id": 350330,
@@ -189149,8 +189195,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350331": {
     "season_id": 350331,
@@ -189179,8 +189225,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350332": {
     "season_id": 350332,
@@ -189211,8 +189257,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350333": {
     "season_id": 350333,
@@ -189241,8 +189287,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350334": {
     "season_id": 350334,
@@ -189271,8 +189317,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350335": {
     "season_id": 350335,
@@ -189301,8 +189347,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350336": {
     "season_id": 350336,
@@ -189333,8 +189379,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350337": {
     "season_id": 350337,
@@ -189363,8 +189409,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350338": {
     "season_id": 350338,
@@ -189393,8 +189439,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350339": {
     "season_id": 350339,
@@ -189425,8 +189471,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350340": {
     "season_id": 350340,
@@ -189457,8 +189503,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350341": {
     "season_id": 350341,
@@ -189489,8 +189535,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350342": {
     "season_id": 350342,
@@ -189521,8 +189567,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350343": {
     "season_id": 350343,
@@ -189553,8 +189599,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350344": {
     "season_id": 350344,
@@ -189585,8 +189631,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350345": {
     "season_id": 350345,
@@ -189617,8 +189663,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350346": {
     "season_id": 350346,
@@ -189649,8 +189695,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350347": {
     "season_id": 350347,
@@ -189681,8 +189727,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350348": {
     "season_id": 350348,
@@ -189713,8 +189759,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350349": {
     "season_id": 350349,
@@ -189745,8 +189791,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350350": {
     "season_id": 350350,
@@ -189777,8 +189823,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350351": {
     "season_id": 350351,
@@ -189809,8 +189855,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350352": {
     "season_id": 350352,
@@ -189841,8 +189887,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350353": {
     "season_id": 350353,
@@ -189873,8 +189919,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350354": {
     "season_id": 350354,
@@ -189903,8 +189949,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350355": {
     "season_id": 350355,
@@ -189935,8 +189981,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350356": {
     "season_id": 350356,
@@ -189965,8 +190011,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350357": {
     "season_id": 350357,
@@ -189995,8 +190041,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350358": {
     "season_id": 350358,
@@ -190025,8 +190071,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350359": {
     "season_id": 350359,
@@ -190055,8 +190101,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350360": {
     "season_id": 350360,
@@ -190085,8 +190131,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350361": {
     "season_id": 350361,
@@ -190117,8 +190163,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350362": {
     "season_id": 350362,
@@ -190149,8 +190195,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350365": {
     "season_id": 350365,
@@ -190179,8 +190225,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350366": {
     "season_id": 350366,
@@ -190209,8 +190255,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350367": {
     "season_id": 350367,
@@ -190239,8 +190285,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350368": {
     "season_id": 350368,
@@ -190269,8 +190315,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350369": {
     "season_id": 350369,
@@ -190301,8 +190347,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350370": {
     "season_id": 350370,
@@ -190331,8 +190377,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350371": {
     "season_id": 350371,
@@ -190361,8 +190407,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350372": {
     "season_id": 350372,
@@ -190393,8 +190439,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350373": {
     "season_id": 350373,
@@ -190423,8 +190469,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350374": {
     "season_id": 350374,
@@ -190453,8 +190499,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350375": {
     "season_id": 350375,
@@ -190485,8 +190531,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350376": {
     "season_id": 350376,
@@ -190517,8 +190563,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350377": {
     "season_id": 350377,
@@ -190549,8 +190595,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350378": {
     "season_id": 350378,
@@ -190581,8 +190627,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350379": {
     "season_id": 350379,
@@ -190611,8 +190657,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350380": {
     "season_id": 350380,
@@ -190643,8 +190689,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350381": {
     "season_id": 350381,
@@ -190673,8 +190719,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350382": {
     "season_id": 350382,
@@ -190705,8 +190751,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350383": {
     "season_id": 350383,
@@ -190735,8 +190781,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350385": {
     "season_id": 350385,
@@ -190765,8 +190811,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350386": {
     "season_id": 350386,
@@ -190797,8 +190843,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350387": {
     "season_id": 350387,
@@ -190829,8 +190875,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350388": {
     "season_id": 350388,
@@ -190861,8 +190907,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350389": {
     "season_id": 350389,
@@ -190893,8 +190939,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350390": {
     "season_id": 350390,
@@ -190925,8 +190971,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350391": {
     "season_id": 350391,
@@ -190957,8 +191003,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350392": {
     "season_id": 350392,
@@ -190989,8 +191035,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350393": {
     "season_id": 350393,
@@ -191021,8 +191067,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350394": {
     "season_id": 350394,
@@ -191053,8 +191099,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350395": {
     "season_id": 350395,
@@ -191085,8 +191131,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350396": {
     "season_id": 350396,
@@ -191117,8 +191163,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350397": {
     "season_id": 350397,
@@ -191149,8 +191195,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350398": {
     "season_id": 350398,
@@ -191181,8 +191227,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350399": {
     "season_id": 350399,
@@ -191213,8 +191259,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350400": {
     "season_id": 350400,
@@ -191245,8 +191291,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350401": {
     "season_id": 350401,
@@ -191277,8 +191323,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350402": {
     "season_id": 350402,
@@ -191309,8 +191355,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350403": {
     "season_id": 350403,
@@ -191341,8 +191387,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350404": {
     "season_id": 350404,
@@ -191371,8 +191417,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350405": {
     "season_id": 350405,
@@ -191403,8 +191449,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350406": {
     "season_id": 350406,
@@ -191435,8 +191481,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350407": {
     "season_id": 350407,
@@ -191467,8 +191513,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350408": {
     "season_id": 350408,
@@ -191499,8 +191545,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350409": {
     "season_id": 350409,
@@ -191531,8 +191577,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350410": {
     "season_id": 350410,
@@ -191563,8 +191609,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350411": {
     "season_id": 350411,
@@ -191595,8 +191641,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350412": {
     "season_id": 350412,
@@ -191627,8 +191673,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350413": {
     "season_id": 350413,
@@ -191659,8 +191705,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350414": {
     "season_id": 350414,
@@ -191691,8 +191737,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350415": {
     "season_id": 350415,
@@ -191723,8 +191769,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350416": {
     "season_id": 350416,
@@ -191755,8 +191801,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350417": {
     "season_id": 350417,
@@ -191785,8 +191831,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350418": {
     "season_id": 350418,
@@ -191817,8 +191863,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350419": {
     "season_id": 350419,
@@ -191849,8 +191895,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350420": {
     "season_id": 350420,
@@ -191879,8 +191925,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350421": {
     "season_id": 350421,
@@ -191909,8 +191955,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350422": {
     "season_id": 350422,
@@ -191941,8 +191987,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350423": {
     "season_id": 350423,
@@ -191973,8 +192019,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350424": {
     "season_id": 350424,
@@ -192003,8 +192049,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350425": {
     "season_id": 350425,
@@ -192035,8 +192081,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350426": {
     "season_id": 350426,
@@ -192067,8 +192113,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350427": {
     "season_id": 350427,
@@ -192099,8 +192145,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350428": {
     "season_id": 350428,
@@ -192131,8 +192177,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350429": {
     "season_id": 350429,
@@ -192161,8 +192207,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350430": {
     "season_id": 350430,
@@ -192193,8 +192239,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350431": {
     "season_id": 350431,
@@ -192225,8 +192271,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350432": {
     "season_id": 350432,
@@ -192257,8 +192303,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350433": {
     "season_id": 350433,
@@ -192289,8 +192335,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350434": {
     "season_id": 350434,
@@ -192321,8 +192367,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350435": {
     "season_id": 350435,
@@ -192353,8 +192399,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350436": {
     "season_id": 350436,
@@ -192385,8 +192431,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350437": {
     "season_id": 350437,
@@ -192417,8 +192463,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350438": {
     "season_id": 350438,
@@ -192449,8 +192495,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350439": {
     "season_id": 350439,
@@ -192481,8 +192527,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350440": {
     "season_id": 350440,
@@ -192513,8 +192559,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350441": {
     "season_id": 350441,
@@ -192543,8 +192589,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350442": {
     "season_id": 350442,
@@ -192575,8 +192621,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350443": {
     "season_id": 350443,
@@ -192605,8 +192651,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350444": {
     "season_id": 350444,
@@ -192637,8 +192683,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350445": {
     "season_id": 350445,
@@ -192669,8 +192715,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350446": {
     "season_id": 350446,
@@ -192701,8 +192747,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350447": {
     "season_id": 350447,
@@ -192731,8 +192777,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350448": {
     "season_id": 350448,
@@ -192762,8 +192808,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350449": {
     "season_id": 350449,
@@ -192794,8 +192840,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350450": {
     "season_id": 350450,
@@ -192826,8 +192872,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350451": {
     "season_id": 350451,
@@ -192857,8 +192903,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350452": {
     "season_id": 350452,
@@ -192889,8 +192935,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350453": {
     "season_id": 350453,
@@ -192921,8 +192967,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350454": {
     "season_id": 350454,
@@ -192953,8 +192999,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350455": {
     "season_id": 350455,
@@ -192985,8 +193031,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350456": {
     "season_id": 350456,
@@ -193017,8 +193063,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350457": {
     "season_id": 350457,
@@ -193049,8 +193095,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350458": {
     "season_id": 350458,
@@ -193081,8 +193127,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350459": {
     "season_id": 350459,
@@ -193113,8 +193159,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350460": {
     "season_id": 350460,
@@ -193145,8 +193191,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350461": {
     "season_id": 350461,
@@ -193175,8 +193221,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350462": {
     "season_id": 350462,
@@ -193205,8 +193251,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350463": {
     "season_id": 350463,
@@ -193237,8 +193283,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350464": {
     "season_id": 350464,
@@ -193269,8 +193315,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350465": {
     "season_id": 350465,
@@ -193301,8 +193347,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350466": {
     "season_id": 350466,
@@ -193333,8 +193379,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350467": {
     "season_id": 350467,
@@ -193365,8 +193411,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350468": {
     "season_id": 350468,
@@ -193397,8 +193443,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350469": {
     "season_id": 350469,
@@ -193429,8 +193475,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350470": {
     "season_id": 350470,
@@ -193459,8 +193505,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350471": {
     "season_id": 350471,
@@ -193491,8 +193537,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350472": {
     "season_id": 350472,
@@ -193521,8 +193567,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350473": {
     "season_id": 350473,
@@ -193551,8 +193597,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350474": {
     "season_id": 350474,
@@ -193581,8 +193627,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350475": {
     "season_id": 350475,
@@ -193613,8 +193659,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350476": {
     "season_id": 350476,
@@ -193645,8 +193691,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350477": {
     "season_id": 350477,
@@ -193675,8 +193721,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350478": {
     "season_id": 350478,
@@ -193705,8 +193751,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350479": {
     "season_id": 350479,
@@ -193737,8 +193783,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350480": {
     "season_id": 350480,
@@ -193767,8 +193813,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350481": {
     "season_id": 350481,
@@ -193799,8 +193845,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350482": {
     "season_id": 350482,
@@ -193829,8 +193875,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350483": {
     "season_id": 350483,
@@ -193861,8 +193907,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350484": {
     "season_id": 350484,
@@ -193893,8 +193939,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350485": {
     "season_id": 350485,
@@ -193923,8 +193969,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350486": {
     "season_id": 350486,
@@ -193955,8 +194001,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350487": {
     "season_id": 350487,
@@ -193985,8 +194031,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350488": {
     "season_id": 350488,
@@ -194015,8 +194061,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350489": {
     "season_id": 350489,
@@ -194047,8 +194093,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350490": {
     "season_id": 350490,
@@ -194077,8 +194123,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350491": {
     "season_id": 350491,
@@ -194108,8 +194154,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350492": {
     "season_id": 350492,
@@ -194138,8 +194184,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350493": {
     "season_id": 350493,
@@ -194168,8 +194214,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350494": {
     "season_id": 350494,
@@ -194198,8 +194244,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350495": {
     "season_id": 350495,
@@ -194228,8 +194274,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350496": {
     "season_id": 350496,
@@ -194258,8 +194304,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350497": {
     "season_id": 350497,
@@ -194290,8 +194336,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350498": {
     "season_id": 350498,
@@ -194322,8 +194368,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350499": {
     "season_id": 350499,
@@ -194352,8 +194398,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350500": {
     "season_id": 350500,
@@ -194384,8 +194430,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350501": {
     "season_id": 350501,
@@ -194416,8 +194462,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350502": {
     "season_id": 350502,
@@ -194446,8 +194492,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350503": {
     "season_id": 350503,
@@ -194478,8 +194524,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350504": {
     "season_id": 350504,
@@ -194510,8 +194556,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350505": {
     "season_id": 350505,
@@ -194540,8 +194586,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350506": {
     "season_id": 350506,
@@ -194570,8 +194616,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350507": {
     "season_id": 350507,
@@ -194600,8 +194646,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350508": {
     "season_id": 350508,
@@ -194630,8 +194676,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350509": {
     "season_id": 350509,
@@ -194660,8 +194706,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350510": {
     "season_id": 350510,
@@ -194692,8 +194738,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350511": {
     "season_id": 350511,
@@ -194724,8 +194770,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350512": {
     "season_id": 350512,
@@ -194756,8 +194802,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350513": {
     "season_id": 350513,
@@ -194786,8 +194832,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350514": {
     "season_id": 350514,
@@ -194816,8 +194862,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350515": {
     "season_id": 350515,
@@ -194848,8 +194894,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350516": {
     "season_id": 350516,
@@ -194880,8 +194926,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-10-31",
-    "richCheckedAt": "2026-10-31"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350517": {
     "season_id": 350517,
@@ -197814,7 +197860,7 @@
     "firstEpisode": 7330518,
     "firstEpisodePublishedAt": 1793365200000,
     "type": 1,
-    "episodeCount": 3,
+    "episodeCount": 5,
     "episodeTitles": [
       "",
       "",
@@ -197824,8 +197870,8 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "350651": {
     "season_id": 350651,
@@ -200593,11 +200639,20 @@
     "episodeCount": 0,
     "episodeTitles": [],
     "total": 1,
-    "seasons": [],
+    "seasons": [
+      {
+        "id": 45210,
+        "title": "文物守护人"
+      },
+      {
+        "id": 355844,
+        "title": "守护龙门"
+      }
+    ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "355946": {
     "season_id": 355946,
@@ -200654,8 +200709,8 @@
     ],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   },
   "356099": {
     "season_id": 356099,
@@ -200686,7 +200741,39 @@
     "seasons": [],
     "available": true,
     "code": 0,
-    "checkedAt": "2026-11-06",
-    "richCheckedAt": "2026-11-06"
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
+  },
+  "356598": {
+    "season_id": 356598,
+    "title": "穿梭两界，老头我是最强供货商",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/3c214b9c4a631606614f474fa13133b5f55fb3ab.png",
+    "areas": [],
+    "evaluate": "为了给老伴凑手术费，55岁的张建华卖了城里的房子，回老家种菜去卖。奇怪的是，每次出门他都迷路——一会一脚踏进末世废墟，再一转身又闯进修仙古街。他更不知道，自己筐里两毛一斤的白菜，在末世是救命的宝贝；随手掏出的泡菜罐子，在修仙界是失传的琉璃神器。末世大汉跪地哭喊\"老神仙赐菜\"，修仙门派尊他为\"隐世前辈\"。\n当两界为他疯狂时，他还在愁：今天这菜咋还没卖完呢？一个只想给老伴治病的老头子，稀里糊涂成了两界传说。",
+    "jpTitle": "",
+    "seasonTitle": "穿梭两界，老头我是最强供货商",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-08-12 18:46:50",
+      "pub_time_show": "08月12日18:46",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7529870,
+    "firstEpisodePublishedAt": 1793854321000,
+    "type": 11,
+    "episodeCount": 4,
+    "episodeTitles": [
+      "【已完结】一口气看完~《穿梭两界，老头我是最强供货商》55岁老头卖菜，不小心成了两界传说",
+      "【已完结】一口气看完~《穿梭两界，老头我是最强供货商》 55岁老头误入末世，随手扔的烂菜叶被抢疯？反派：他是隐世大能！",
+      "【已完结】一口气看完~《穿梭两界，老头我是最强供货商》卖房救妻的老头，一不小心征服两界"
+    ],
+    "total": 4,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-07",
+    "richCheckedAt": "2026-11-07"
   }
 }
