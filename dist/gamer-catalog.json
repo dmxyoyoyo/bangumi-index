@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-11-06T18:23:55.820Z",
+    "lastSuccessfulRefresh": "2026-11-07T02:53:03.629Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -65,33 +65,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114203,
-      "title": "朱色假面",
-      "officialTitle": "朱色假面",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000146157.JPG",
-      "japaneseTitle": "朱色の仮面",
-      "originalTitle": "朱色の仮面",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=146157",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114203",
-      "date": "2026/10",
-      "episodes": 4,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114203"
-    },
-    {
-      "classification": {
-        "attributes": [
           "戀愛",
           "歷史",
           "黑暗"
@@ -115,6 +88,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114200"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114203,
+      "title": "朱色假面",
+      "officialTitle": "朱色假面",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/57/0000146157.JPG",
+      "japaneseTitle": "朱色の仮面",
+      "originalTitle": "朱色の仮面",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=146157",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114203",
+      "date": "2026/10",
+      "episodes": 4,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114203"
     },
     {
       "classification": {
@@ -830,33 +830,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "魔法",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114210,
-      "title": "用【循环利息】强制收回借出的魔力",
-      "officialTitle": "用【循環利息】強制收回借出的魔力",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
-      "japaneseTitle": "貸した魔力は【リボ払い】で強制徴収",
-      "originalTitle": "貸した魔力は【リボ払い】で強制徴収",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/606716",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/606716",
-      "date": "2026/10",
-      "episodes": 5,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114210"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "機甲",
           "科幻"
@@ -880,6 +853,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "魔法",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114210,
+      "title": "用【循环利息】强制收回借出的魔力",
+      "officialTitle": "用【循環利息】強制收回借出的魔力",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
+      "japaneseTitle": "貸した魔力は【リボ払い】で強制徴収",
+      "originalTitle": "貸した魔力は【リボ払い】で強制徴収",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/606716",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/606716",
+      "date": "2026/10",
+      "episodes": 5,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114210"
     },
     {
       "classification": {
@@ -966,34 +966,6 @@
     {
       "classification": {
         "attributes": [
-          "科幻",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 114201,
-      "title": "KERORO 军曹☆",
-      "officialTitle": "KERORO 軍曹☆",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/12/0000149012.JPG",
-      "japaneseTitle": "ケロロ軍曹 ☆",
-      "originalTitle": "ケロロ軍曹 ☆",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=149012",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114201",
-      "date": "2026/10",
-      "episodes": 5,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114201"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "冒險",
           "奇幻"
@@ -1017,6 +989,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114206"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "科幻",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 114201,
+      "title": "KERORO 军曹☆",
+      "officialTitle": "KERORO 軍曹☆",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/12/0000149012.JPG",
+      "japaneseTitle": "ケロロ軍曹 ☆",
+      "originalTitle": "ケロロ軍曹 ☆",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=149012",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114201",
+      "date": "2026/10",
+      "episodes": 6,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114201"
     },
     {
       "classification": {
@@ -2234,37 +2234,6 @@
     {
       "classification": {
         "attributes": [
-          "科幻",
-          "特攝"
-        ],
-        "types": [
-          "真人演出"
-        ],
-        "audiences": [
-          "付費會員",
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "non-animation",
-      "id": 114111,
-      "title": "超人力霸王狄奥",
-      "officialTitle": "超人力霸王狄奧",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/59/0000150959.JPG",
-      "japaneseTitle": "ウルトラマンテオ",
-      "originalTitle": "ウルトラマンテオ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=150959",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114111",
-      "date": "2026/07",
-      "episodes": 18,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114111"
-    },
-    {
-      "classification": {
-        "attributes": [
           "喜劇",
           "戀愛",
           "溫馨",
@@ -2289,6 +2258,37 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114133"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "科幻",
+          "特攝"
+        ],
+        "types": [
+          "真人演出"
+        ],
+        "audiences": [
+          "付費會員",
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "non-animation",
+      "id": 114111,
+      "title": "超人力霸王狄奥",
+      "officialTitle": "超人力霸王狄奧",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/59/0000150959.JPG",
+      "japaneseTitle": "ウルトラマンテオ",
+      "originalTitle": "ウルトラマンテオ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=150959",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114111",
+      "date": "2026/07",
+      "episodes": 19,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114111"
     },
     {
       "classification": {
@@ -3899,7 +3899,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114053",
       "date": "2026/04",
-      "episodes": 30,
+      "episodes": 31,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114053"
@@ -16171,33 +16171,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "異世界",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113436,
-      "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
-      "officialTitle": "秒殺外掛太強了，異世界的傢伙們根本就不是對手。",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000134951.JPG",
-      "japaneseTitle": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
-      "originalTitle": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/409441",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/409441",
-      "date": "2024/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113436"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "科幻",
           "黑暗"
@@ -16223,6 +16196,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113855"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "異世界",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113436,
+      "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+      "officialTitle": "秒殺外掛太強了，異世界的傢伙們根本就不是對手。",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000134951.JPG",
+      "japaneseTitle": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+      "originalTitle": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/409441",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/409441",
+      "date": "2024/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113436"
     },
     {
       "classification": {
@@ -28577,7 +28577,7 @@
       "id": 114245,
       "title": "小林家的龙女仆S",
       "officialTitle": "小林家的龍女僕 S",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/19/0000104019.JPG?v=1793761982",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/19/0000104019.JPG",
       "japaneseTitle": "小林さんちのメイドラゴンS",
       "originalTitle": "小林さんちのメイドラゴンS",
       "originalStatus": "japanese",
@@ -39975,33 +39975,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "冒險",
-          "靈異神怪"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 84116,
-      "title": "青之驱魔师 京都不净王篇",
-      "officialTitle": "青之驅魔師 京都不淨王篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/16/0000084116.JPG",
-      "japaneseTitle": "青の祓魔師 京都不浄王篇",
-      "originalTitle": "青の祓魔師 京都不浄王篇",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/186034",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/186034",
-      "date": "2017/01",
-      "episodes": 14,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=84116"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "異世界",
           "魔法",
           "戰爭"
@@ -40025,6 +39998,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=86802"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "靈異神怪"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 84116,
+      "title": "青之驱魔师 京都不净王篇",
+      "officialTitle": "青之驅魔師 京都不淨王篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/16/0000084116.JPG",
+      "japaneseTitle": "青の祓魔師 京都不浄王篇",
+      "originalTitle": "青の祓魔師 京都不浄王篇",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/186034",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/186034",
+      "date": "2017/01",
+      "episodes": 14,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=84116"
     },
     {
       "classification": {
@@ -42308,7 +42308,7 @@
       "id": 77058,
       "title": "青年黑杰克",
       "officialTitle": "青年黑傑克",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000077058.JPG",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000077058.JPG?v=1793867348",
       "japaneseTitle": "ヤングブラック・ジャック",
       "originalTitle": "ヤングブラック・ジャック",
       "originalStatus": "japanese",
