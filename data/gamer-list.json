@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-11-07T17:12:56.737Z"
+    "lastSuccessfulRefresh": "2026-11-08T02:22:21.701Z"
   },
   "items": [
     {
@@ -540,6 +540,25 @@
       "score": 4.7
     },
     {
+      "acgSn": 150486,
+      "animeSn": 114207,
+      "videoSn": 51779,
+      "title": "至高之力",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "dateInfo": "年份：2026/10",
+      "totalEpisode": 6,
+      "popular": 65644,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.2
+    },
+    {
       "acgSn": 148164,
       "animeSn": 114210,
       "videoSn": 51787,
@@ -548,7 +567,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 5,
+      "totalEpisode": 6,
       "popular": 376406,
       "highlightTag": {
         "bilingual": false,
@@ -567,7 +586,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/70/0000153870.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 5,
+      "totalEpisode": 6,
       "popular": 30773,
       "highlightTag": {
         "bilingual": false,
@@ -576,25 +595,6 @@
         "newArrival": false
       },
       "score": 4.8
-    },
-    {
-      "acgSn": 150486,
-      "animeSn": 114207,
-      "videoSn": 51779,
-      "title": "至高之力",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
-      "popular": 65644,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.2
     },
     {
       "acgSn": 148138,
@@ -9090,25 +9090,6 @@
       "score": 4.3
     },
     {
-      "acgSn": 136326,
-      "animeSn": 113567,
-      "videoSn": 38842,
-      "title": "我要【招架】一切～反誤解的世界最強想成為冒險家～",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000136326.JPG",
-      "dateInfo": "年份：2024/07",
-      "totalEpisode": 12,
-      "popular": 2700368,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.4
-    },
-    {
       "acgSn": 127068,
       "animeSn": 114157,
       "videoSn": 50957,
@@ -9126,6 +9107,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 136326,
+      "animeSn": 113567,
+      "videoSn": 38842,
+      "title": "我要【招架】一切～反誤解的世界最強想成為冒險家～",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000136326.JPG",
+      "dateInfo": "年份：2024/07",
+      "totalEpisode": 12,
+      "popular": 2700368,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.4
     },
     {
       "acgSn": 133842,
@@ -13460,6 +13460,25 @@
       "score": 4.9
     },
     {
+      "acgSn": 123883,
+      "animeSn": 113329,
+      "videoSn": 34802,
+      "title": "藍色管弦樂",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/83/0000123883.JPG",
+      "dateInfo": "年份：2023/04",
+      "totalEpisode": 24,
+      "popular": 580848,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
+    },
+    {
       "acgSn": 130372,
       "animeSn": 113247,
       "videoSn": 33292,
@@ -13491,25 +13510,6 @@
       "popular": 8427408,
       "highlightTag": {
         "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
-      "acgSn": 123883,
-      "animeSn": 113329,
-      "videoSn": 34802,
-      "title": "藍色管弦樂",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/83/0000123883.JPG",
-      "dateInfo": "年份：2023/04",
-      "totalEpisode": 24,
-      "popular": 580848,
-      "highlightTag": {
-        "bilingual": false,
         "edition": "",
         "vipTime": "",
         "newArrival": false
@@ -32894,7 +32894,7 @@
         "vipTime": "",
         "newArrival": true
       },
-      "score": 4.6
+      "score": 4.7
     },
     {
       "acgSn": 16185,
@@ -34284,25 +34284,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 21914,
-      "animeSn": 113542,
-      "videoSn": 38214,
-      "title": "犬夜叉劇場版：天下霸道之劍",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000021914.JPG",
-      "dateInfo": "年份：2003/12",
-      "totalEpisode": 1,
-      "popular": 12623,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.7
-    },
-    {
       "acgSn": 82266,
       "animeSn": 112795,
       "videoSn": 24293,
@@ -34320,6 +34301,25 @@
         "newArrival": false
       },
       "score": 4.8
+    },
+    {
+      "acgSn": 21914,
+      "animeSn": 113542,
+      "videoSn": 38214,
+      "title": "犬夜叉劇場版：天下霸道之劍",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000021914.JPG",
+      "dateInfo": "年份：2003/12",
+      "totalEpisode": 1,
+      "popular": 12623,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.7
     },
     {
       "acgSn": 120582,

@@ -16,7 +16,7 @@
       }
     ],
     "partial": true,
-    "checked": 0,
+    "checked": 1,
     "warning": "官方视频核查中断，保留已确认结果，下次继续",
     "officialAccount": "https://space.bilibili.com/928123",
     "scope": "官方公开合集、专栏视频线索与已确认正片链接；投稿总目录仍可能遗漏隐藏视频",
@@ -220,6 +220,10 @@
     "BV1rs411Z7uZ": {
       "checkedAt": "2026-10-17",
       "status": "metadata-only"
+    },
+    "BV1kx411P7ME": {
+      "checkedAt": "2026-11-08",
+      "status": "verified"
     }
   },
   "items": {
@@ -239,7 +243,8 @@
         }
       ],
       "available": true,
-      "checkedAt": "2026-10-17"
+      "statusNote": null,
+      "checkedAt": "2026-11-08"
     },
     "BV1rx411P7Tk": {
       "bvid": "BV1rx411P7Tk",

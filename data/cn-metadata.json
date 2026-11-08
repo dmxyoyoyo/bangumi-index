@@ -15837,6 +15837,60 @@
       }
     ]
   },
+  "45839": {
+    "season_id": 45839,
+    "title": "医者2023",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/777e5916e8109e8440d0250c9c6405e5d7609dd0.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "真实再现医者群像及生命与医学的故事。",
+    "jpTitle": "",
+    "seasonTitle": "医者2023",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2023-08-25 12:00:00",
+      "pub_time_show": "2023年08月25日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 770479,
+    "firstEpisodePublishedAt": 1692936000000,
+    "type": 3,
+    "episodeCount": 18,
+    "episodeTitles": [
+      "闯入渐冻之地（上）",
+      "闯入渐冻之地（下）",
+      "守望血液病患儿"
+    ],
+    "total": 18,
+    "seasons": [
+      {
+        "id": 45839,
+        "title": "医者2023"
+      },
+      {
+        "id": 48805,
+        "title": "时代医者2024"
+      },
+      {
+        "id": 121358,
+        "title": "风起杏林"
+      },
+      {
+        "id": 358262,
+        "title": "时代医者2026"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-08",
+    "richCheckedAt": "2026-11-08"
+  },
   "45957": {
     "season_id": 45957,
     "title": "从姑获鸟开始之龙城风云",
@@ -17716,6 +17770,60 @@
         "name": "中国大陆"
       }
     ]
+  },
+  "48805": {
+    "season_id": 48805,
+    "title": "时代医者2024",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f06ad91395684b048ec2e6f5a5249aa850ccf337.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "真实记录一批国之大医如何勇闯“无人区”、敢捅“天花板”，为患者寻找救命良方的硬核故事。全新视角置入医学创新领域，彰显科技创新精神推动民族复兴的重要意义，打开大众了解高质量医学发展的新窗口。写就一代医者的砥砺前行、守护生命脉动、初心不改的坚守。",
+    "jpTitle": "",
+    "seasonTitle": "时代医者2024",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2024-09-26 12:00:00",
+      "pub_time_show": "2024年09月26日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 836631,
+    "firstEpisodePublishedAt": 1727323200000,
+    "type": 3,
+    "episodeCount": 14,
+    "episodeTitles": [
+      "季加孚",
+      "尤红",
+      "郭维琴"
+    ],
+    "total": 14,
+    "seasons": [
+      {
+        "id": 45839,
+        "title": "医者2023"
+      },
+      {
+        "id": 48805,
+        "title": "时代医者2024"
+      },
+      {
+        "id": 121358,
+        "title": "风起杏林"
+      },
+      {
+        "id": 358262,
+        "title": "时代医者2026"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-08",
+    "richCheckedAt": "2026-11-08"
   },
   "48807": {
     "season_id": 48807,
@@ -20411,6 +20519,60 @@
         "name": "英国"
       }
     ]
+  },
+  "121358": {
+    "season_id": 121358,
+    "title": "风起杏林",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a30f0985b6064f1951654f73bf032f8b3f47a1df.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "一方杏林，亦是一方江湖，这里有不见硝烟的过招，有不显山露水的绝学，更有守护生命的薪火传承。大型中医药文化纪录片《风起杏林》由北京广播电视台《医者》团队历时三年匠心打造，演员胡歌担纲配音。主创以恢弘手笔、烟火蒸腾的讲述方式聚焦祖国医学，挖宝般搜寻藏匿于京城内外的“杏林圈高手”——既有院士与国医大师的顶流加持，亦有“中医李子柒”“典籍福尔摩斯”“对中医欲罢不能的伊朗汉学家”等年轻力量破圈而来。全片内容覆盖本草、炮制、外治等六大维度，开创性融入“杏林如武林”的纪实美学，诚邀您共赴一场关乎自然、生命与东方文明的“杏林大会”。",
+    "jpTitle": "",
+    "seasonTitle": "风起杏林",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-11-14 12:00:00",
+      "pub_time_show": "2025年11月14日12:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 2378415,
+    "firstEpisodePublishedAt": 1763092800000,
+    "type": 3,
+    "episodeCount": 6,
+    "episodeTitles": [
+      "释文",
+      "守常",
+      "和鸣"
+    ],
+    "total": 6,
+    "seasons": [
+      {
+        "id": 45839,
+        "title": "医者2023"
+      },
+      {
+        "id": 48805,
+        "title": "时代医者2024"
+      },
+      {
+        "id": 121358,
+        "title": "风起杏林"
+      },
+      {
+        "id": 358262,
+        "title": "时代医者2026"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-08",
+    "richCheckedAt": "2026-11-08"
   },
   "124647": {
     "season_id": 124647,
@@ -220302,6 +220464,58 @@
     ],
     "total": 30,
     "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-08",
+    "richCheckedAt": "2026-11-08"
+  },
+  "358262": {
+    "season_id": 358262,
+    "title": "时代医者2026",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/599bea7ba0233b02179a86f673405d2a2c5c9e21.jpg",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "聚焦医者深耕医学 “无人区”、以创新求索为患者开辟生命通路的硬核故事。",
+    "jpTitle": "",
+    "seasonTitle": "时代医者2026",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-11-06 12:30:00",
+      "pub_time_show": "11月06日12:30",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7563748,
+    "firstEpisodePublishedAt": 1793939400000,
+    "type": 3,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "《时代医者——仝小林》一两等于多少克？中医院士破解《伤寒杂病论》剂量之谜 千年中医迎战现代疾病"
+    ],
+    "total": 10,
+    "seasons": [
+      {
+        "id": 45839,
+        "title": "医者2023"
+      },
+      {
+        "id": 48805,
+        "title": "时代医者2024"
+      },
+      {
+        "id": 121358,
+        "title": "风起杏林"
+      },
+      {
+        "id": 358262,
+        "title": "时代医者2026"
+      }
+    ],
     "available": true,
     "code": 0,
     "checkedAt": "2026-11-08",

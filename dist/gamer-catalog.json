@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-11-07T17:12:56.737Z",
+    "lastSuccessfulRefresh": "2026-11-08T02:22:21.701Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -800,6 +800,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "機甲",
+          "科幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114207,
+      "title": "至高之力",
+      "officialTitle": "至高之力",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "japaneseTitle": "バーテックスフォース",
+      "originalTitle": "バーテックスフォース",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/636512",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
+      "date": "2026/10",
+      "episodes": 6,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+    },
+    {
+      "classification": {
+        "attributes": [
           "冒險",
           "魔法",
           "奇幻"
@@ -819,7 +846,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/606716",
       "date": "2026/10",
-      "episodes": 5,
+      "episodes": 6,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114210"
@@ -849,37 +876,10 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114219",
       "date": "2026/10",
-      "episodes": 5,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114219"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "機甲",
-          "科幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114207,
-      "title": "至高之力",
-      "officialTitle": "至高之力",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "japaneseTitle": "バーテックスフォース",
-      "originalTitle": "バーテックスフォース",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/636512",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
-      "date": "2026/10",
       "episodes": 6,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114219"
     },
     {
       "classification": {
@@ -2122,8 +2122,8 @@
           "動作",
           "奇幻",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -3508,8 +3508,8 @@
           "戀愛",
           "時間穿越",
           "懸疑",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -5420,8 +5420,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -6785,8 +6785,8 @@
         "attributes": [
           "校園",
           "懸疑",
-          "黑暗",
           "靈異神怪",
+          "黑暗",
           "GL"
         ],
         "types": [],
@@ -8821,8 +8821,8 @@
         "attributes": [
           "懸疑",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": [
@@ -9657,8 +9657,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -11696,8 +11696,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -13517,33 +13517,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "魔法",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113567,
-      "title": "我要招架一切 逆向误解的世界最强梦想成为冒险者",
-      "officialTitle": "我要【招架】一切～反誤解的世界最強想成為冒險家～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000136326.JPG",
-      "japaneseTitle": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
-      "originalTitle": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/463389",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/463389",
-      "date": "2024/07",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113567"
-    },
-    {
-      "classification": {
-        "attributes": [
           "戀愛",
           "青春",
           "溫馨",
@@ -13570,6 +13543,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114157"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "魔法",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113567,
+      "title": "我要招架一切 逆向误解的世界最强梦想成为冒险者",
+      "officialTitle": "我要【招架】一切～反誤解的世界最強想成為冒險家～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000136326.JPG",
+      "japaneseTitle": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
+      "originalTitle": "俺は全てを【パリイ】する〜逆勘違いの世界最強は冒険者になりたい〜",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/463389",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/463389",
+      "date": "2024/07",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113567"
     },
     {
       "classification": {
@@ -14548,8 +14548,8 @@
           "戀愛",
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -16515,8 +16515,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影",
@@ -16579,8 +16579,8 @@
           "動作",
           "懸疑",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [
           "電影"
@@ -17299,8 +17299,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -18420,8 +18420,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -18475,8 +18475,8 @@
           "動作",
           "冒險",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -20014,6 +20014,33 @@
     {
       "classification": {
         "attributes": [
+          "校園",
+          "青春",
+          "音樂"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113329,
+      "title": "蓝色管弦乐",
+      "officialTitle": "藍色管弦樂",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/83/0000123883.JPG",
+      "japaneseTitle": "青のオーケストラ",
+      "originalTitle": "青のオーケストラ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/377769",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113329",
+      "date": "2023/04",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113329"
+    },
+    {
+      "classification": {
+        "attributes": [
           "機甲",
           "科幻",
           "校園",
@@ -20068,33 +20095,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113254"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
-          "青春",
-          "音樂"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113329,
-      "title": "蓝色管弦乐",
-      "officialTitle": "藍色管弦樂",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/83/0000123883.JPG",
-      "japaneseTitle": "青のオーケストラ",
-      "originalTitle": "青のオーケストラ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/377769",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113329",
-      "date": "2023/04",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113329"
     },
     {
       "classification": {
@@ -28928,8 +28928,8 @@
           "推理",
           "懸疑",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -31794,8 +31794,8 @@
           "推理",
           "懸疑",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -32085,8 +32085,8 @@
           "奇幻",
           "懸疑",
           "血腥暴力",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [
           "電影"
@@ -37464,8 +37464,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -40944,8 +40944,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -42651,8 +42651,8 @@
         "attributes": [
           "校園",
           "懸疑",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -48025,8 +48025,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越"
         ],
         "types": [
@@ -48456,8 +48456,8 @@
     {
       "classification": {
         "attributes": [
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -48925,8 +48925,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -49640,8 +49640,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -49817,8 +49817,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -50370,8 +50370,8 @@
       "classification": {
         "attributes": [
           "懸疑",
-          "黑暗",
-          "靈異神怪"
+          "靈異神怪",
+          "黑暗"
         ],
         "types": [],
         "audiences": []
@@ -51131,35 +51131,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "勵志"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113542,
-      "title": "犬夜叉剧场版：天下霸道之剑",
-      "officialTitle": "犬夜叉劇場版：天下霸道之劍",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000021914.JPG",
-      "japaneseTitle": "犬夜叉：天下覇道の剣",
-      "originalTitle": "犬夜叉：天下覇道の剣",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=21914",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113542",
-      "date": "2003/12",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113542"
-    },
-    {
-      "classification": {
-        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -51187,6 +51158,35 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112795"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "勵志"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113542,
+      "title": "犬夜叉剧场版：天下霸道之剑",
+      "officialTitle": "犬夜叉劇場版：天下霸道之劍",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000021914.JPG",
+      "japaneseTitle": "犬夜叉：天下覇道の剣",
+      "originalTitle": "犬夜叉：天下覇道の剣",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=21914",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113542",
+      "date": "2003/12",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113542"
     },
     {
       "classification": {
@@ -51606,8 +51606,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -51957,8 +51957,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
