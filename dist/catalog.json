@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-11-08T17:26:09.972Z",
-    "lastRefreshAttempt": "2026-11-08T17:26:09.972Z",
+    "lastSuccessfulRefresh": "2026-11-09T02:53:09.305Z",
+    "lastRefreshAttempt": "2026-11-09T02:53:09.305Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -96404,7 +96404,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2021-11-13",
+        "date": "2021-11-14",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1033244&s_locale=zh_CN",
         "checkedAt": "2026-11-09",
@@ -96544,7 +96544,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2021-12-08",
+        "date": "2021-12-09",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1033856&s_locale=zh_CN",
         "checkedAt": "2026-11-09",
@@ -102444,7 +102444,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-02-08",
+        "date": "2022-02-09",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1046246&s_locale=zh_CN",
         "checkedAt": "2026-11-09",
@@ -147712,7 +147712,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2024-06-26",
+        "date": "2024-06-27",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2111077&s_locale=zh_CN",
         "checkedAt": "2026-11-09",

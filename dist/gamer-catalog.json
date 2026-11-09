@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-11-08T17:17:57.235Z",
+    "lastSuccessfulRefresh": "2026-11-09T02:45:13.920Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -39678,34 +39678,6 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "喜劇",
-          "戀愛",
-          "靈異神怪"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113182,
-      "title": "妖幻三重奏",
-      "officialTitle": "妖幻三重奏",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/99/0000121099.JPG",
-      "japaneseTitle": "あやかしトライアングル",
-      "originalTitle": "あやかしトライアングル",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/363026",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113182",
-      "date": "2023/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113182"
-    },
-    {
-      "classification": {
-        "attributes": [
           "異世界",
           "喜劇",
           "戀愛"
@@ -39731,6 +39703,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113744"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "喜劇",
+          "戀愛",
+          "靈異神怪"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113182,
+      "title": "妖幻三重奏",
+      "officialTitle": "妖幻三重奏",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/99/0000121099.JPG",
+      "japaneseTitle": "あやかしトライアングル",
+      "originalTitle": "あやかしトライアングル",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/363026",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113182",
+      "date": "2023/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113182"
     },
     {
       "classification": {
@@ -40543,35 +40543,6 @@
         "attributes": [
           "動作",
           "冒險",
-          "血腥暴力"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114081,
-      "title": "鬼灭之刃 浅草篇",
-      "officialTitle": "鬼滅之刃 淺草篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/23/0000151923.JPG",
-      "japaneseTitle": "鬼滅の刃 浅草編",
-      "originalTitle": "鬼滅の刃 浅草編",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/349032",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114081",
-      "date": "2021/09",
-      "episodes": 1,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114081"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "冒險",
           "喜劇"
         ],
         "types": [
@@ -40597,6 +40568,35 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113686"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "血腥暴力"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114081,
+      "title": "鬼灭之刃 浅草篇",
+      "officialTitle": "鬼滅之刃 淺草篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/23/0000151923.JPG",
+      "japaneseTitle": "鬼滅の刃 浅草編",
+      "originalTitle": "鬼滅の刃 浅草編",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/349032",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114081",
+      "date": "2021/09",
+      "episodes": 1,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114081"
     },
     {
       "classification": {
@@ -44093,6 +44093,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "冒險",
+          "靈異神怪"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112975,
+      "title": "东方少年",
+      "officialTitle": "東方少年",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000115200.JPG",
+      "japaneseTitle": "オリエント",
+      "originalTitle": "オリエント",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/323655",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/323655",
+      "date": "2022/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112975"
+    },
+    {
+      "classification": {
+        "attributes": [
           "戀愛",
           "BL"
         ],
@@ -44117,33 +44144,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113413"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "冒險",
-          "靈異神怪"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112975,
-      "title": "东方少年",
-      "officialTitle": "東方少年",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000115200.JPG",
-      "japaneseTitle": "オリエント",
-      "originalTitle": "オリエント",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/323655",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/323655",
-      "date": "2022/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112975"
     },
     {
       "classification": {
@@ -45213,6 +45213,34 @@
     {
       "classification": {
         "attributes": [
+          "魔法",
+          "校園",
+          "戀愛",
+          "戰爭"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 63310,
+      "title": "魔法战争",
+      "officialTitle": "魔法戰爭",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000063310.JPG",
+      "japaneseTitle": "魔法戦争",
+      "originalTitle": "魔法戦争",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/79228",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=63310",
+      "date": "2014/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=63310"
+    },
+    {
+      "classification": {
+        "attributes": [
           "校園",
           "勵志",
           "運動"
@@ -45239,34 +45267,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112609"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "魔法",
-          "校園",
-          "戀愛",
-          "戰爭"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 63310,
-      "title": "魔法战争",
-      "officialTitle": "魔法戰爭",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000063310.JPG",
-      "japaneseTitle": "魔法戦争",
-      "originalTitle": "魔法戦争",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/79228",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=63310",
-      "date": "2014/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=63310"
     },
     {
       "classification": {
@@ -45516,6 +45516,32 @@
     {
       "classification": {
         "attributes": [
+          "溫馨",
+          "料理"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 70926,
+      "title": "幸腹涂鸦",
+      "officialTitle": "幸腹塗鴉",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000070926.JPG",
+      "japaneseTitle": "幸腹グラフィティ",
+      "originalTitle": "幸腹グラフィティ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/105969",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/105969",
+      "date": "2015/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=70926"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "超能力",
           "職場"
@@ -45539,32 +45565,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113560"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "溫馨",
-          "料理"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 70926,
-      "title": "幸腹涂鸦",
-      "officialTitle": "幸腹塗鴉",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000070926.JPG",
-      "japaneseTitle": "幸腹グラフィティ",
-      "originalTitle": "幸腹グラフィティ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/105969",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/105969",
-      "date": "2015/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=70926"
     },
     {
       "classification": {
@@ -46116,6 +46116,32 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "戀愛"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112709,
+      "title": "DEVILSLINE 恶魔战线",
+      "officialTitle": "DEVILSLINE 惡魔戰線",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000090342.JPG",
+      "japaneseTitle": "デビルズライン",
+      "originalTitle": "デビルズライン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=90342",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112709",
+      "date": "2018/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112709"
+    },
+    {
+      "classification": {
+        "attributes": [
           "勵志",
           "溫馨",
           "運動",
@@ -46140,32 +46166,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113508"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112709,
-      "title": "DEVILSLINE 恶魔战线",
-      "officialTitle": "DEVILSLINE 惡魔戰線",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/42/0000090342.JPG",
-      "japaneseTitle": "デビルズライン",
-      "originalTitle": "デビルズライン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=90342",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112709",
-      "date": "2018/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112709"
     },
     {
       "classification": {
@@ -46417,29 +46417,29 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "青春",
-          "勵志"
+          "校園",
+          "戀愛",
+          "青春"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 38081,
-      "title": "荒川爆笑团2",
-      "officialTitle": "荒川爆笑團 2",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000038081.JPG",
-      "japaneseTitle": "荒川アンダー ザ ブリッジ×ブリッジ",
-      "originalTitle": "荒川アンダー ザ ブリッジ×ブリッジ",
+      "id": 113268,
+      "title": "六道的恶女们",
+      "officialTitle": "六道的惡女們",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/31/0000130831.JPG",
+      "japaneseTitle": "六道の悪女たち",
+      "originalTitle": "六道の悪女たち",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/8081",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/8081",
-      "date": "2010/10",
-      "episodes": 13,
+      "originalSourceUrl": "https://bgm.tv/subject/415587",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113268",
+      "date": "2023/04",
+      "episodes": 12,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=38081"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113268"
     },
     {
       "classification": {
@@ -46470,29 +46470,29 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "戀愛",
-          "青春"
+          "喜劇",
+          "青春",
+          "勵志"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 113268,
-      "title": "六道的恶女们",
-      "officialTitle": "六道的惡女們",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/31/0000130831.JPG",
-      "japaneseTitle": "六道の悪女たち",
-      "originalTitle": "六道の悪女たち",
+      "id": 38081,
+      "title": "荒川爆笑团2",
+      "officialTitle": "荒川爆笑團 2",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000038081.JPG",
+      "japaneseTitle": "荒川アンダー ザ ブリッジ×ブリッジ",
+      "originalTitle": "荒川アンダー ザ ブリッジ×ブリッジ",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/415587",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113268",
-      "date": "2023/04",
-      "episodes": 12,
+      "originalSourceUrl": "https://bgm.tv/subject/8081",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/8081",
+      "date": "2010/10",
+      "episodes": 13,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113268"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=38081"
     },
     {
       "classification": {
@@ -47203,34 +47203,6 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "運動"
-        ],
-        "types": [],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 82751,
-      "title": "男子啦啦队！！",
-      "officialTitle": "男子啦啦隊！！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000082751.JPG",
-      "japaneseTitle": "チア男子!!",
-      "originalTitle": "チア男子!!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/175402",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=82751",
-      "date": "2016/07",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=82751"
-    },
-    {
-      "classification": {
-        "attributes": [
           "奇幻",
           "戀愛",
           "歷史"
@@ -47256,6 +47228,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113112"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "運動"
+        ],
+        "types": [],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 82751,
+      "title": "男子啦啦队！！",
+      "officialTitle": "男子啦啦隊！！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/51/0000082751.JPG",
+      "japaneseTitle": "チア男子!!",
+      "originalTitle": "チア男子!!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/175402",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=82751",
+      "date": "2016/07",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=82751"
     },
     {
       "classification": {
@@ -49139,32 +49139,6 @@
     {
       "classification": {
         "attributes": [
-          "偶像",
-          "音樂"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112454,
-      "title": "月歌2",
-      "officialTitle": "月歌。THE ANIMATION 2",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000103310.JPG",
-      "japaneseTitle": "ツキウタ。 THE ANIMATION 2",
-      "originalTitle": "ツキウタ。 THE ANIMATION 2",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/266349",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/266349",
-      "date": "2020/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112454"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "科幻"
         ],
@@ -49187,6 +49161,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=82670"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "偶像",
+          "音樂"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112454,
+      "title": "月歌2",
+      "officialTitle": "月歌。THE ANIMATION 2",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000103310.JPG",
+      "japaneseTitle": "ツキウタ。 THE ANIMATION 2",
+      "originalTitle": "ツキウタ。 THE ANIMATION 2",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/266349",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/266349",
+      "date": "2020/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112454"
     },
     {
       "classification": {
@@ -53222,39 +53222,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "科幻",
-          "特攝"
-        ],
-        "types": [
-          "電影",
-          "雙語",
-          "真人演出"
-        ],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "non-animation",
-      "id": 113323,
-      "title": "暴太郎战队 Don Brothers THE MOVIE 新．初恋英雄",
-      "officialTitle": "暴太郎戰隊 Don Brothers THE MOVIE 新．初戀英雄",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/93/0000134693.JPG",
-      "japaneseTitle": "暴太郎戦隊ドンブラザーズ THE MOVIE 新・初恋ヒーロー",
-      "originalTitle": "暴太郎戦隊ドンブラザーズ THE MOVIE 新・初恋ヒーロー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=134693",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113323",
-      "date": "2022/07",
-      "episodes": 1,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113323"
-    },
-    {
-      "classification": {
-        "attributes": [
           "冒險",
           "科幻"
         ],
@@ -53305,6 +53272,39 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113127"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "科幻",
+          "特攝"
+        ],
+        "types": [
+          "電影",
+          "雙語",
+          "真人演出"
+        ],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "non-animation",
+      "id": 113323,
+      "title": "暴太郎战队 Don Brothers THE MOVIE 新．初恋英雄",
+      "officialTitle": "暴太郎戰隊 Don Brothers THE MOVIE 新．初戀英雄",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/93/0000134693.JPG",
+      "japaneseTitle": "暴太郎戦隊ドンブラザーズ THE MOVIE 新・初恋ヒーロー",
+      "originalTitle": "暴太郎戦隊ドンブラザーズ THE MOVIE 新・初恋ヒーロー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=134693",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113323",
+      "date": "2022/07",
+      "episodes": 1,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113323"
     },
     {
       "classification": {
@@ -53561,6 +53561,36 @@
     {
       "classification": {
         "attributes": [
+          "冒險"
+        ],
+        "types": [
+          "電影",
+          "雙語"
+        ],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 113175,
+      "title": "垃圾总动员",
+      "officialTitle": "垃圾總動員",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000129237.JPG",
+      "japaneseTitle": "",
+      "originalTitle": "TRASH",
+      "originalStatus": "non-japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=129237",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113175",
+      "date": "2020/10",
+      "episodes": 1,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113175"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "特攝"
         ],
@@ -53588,36 +53618,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=102036"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險"
-        ],
-        "types": [
-          "電影",
-          "雙語"
-        ],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 113175,
-      "title": "垃圾总动员",
-      "officialTitle": "垃圾總動員",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/37/0000129237.JPG",
-      "japaneseTitle": "",
-      "originalTitle": "TRASH",
-      "originalStatus": "non-japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=129237",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113175",
-      "date": "2020/10",
-      "episodes": 1,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113175"
     },
     {
       "classification": {
@@ -53772,6 +53772,35 @@
     {
       "classification": {
         "attributes": [
+          "機甲",
+          "科幻",
+          "喜劇"
+        ],
+        "types": [
+          "OVA"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113289,
+      "title": "机战少女 Alice OVA",
+      "officialTitle": "機戰少女 Alice OVA",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/85/0000133485.JPG",
+      "japaneseTitle": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡〜",
+      "originalTitle": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡〜",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=133485",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113289",
+      "date": "2021/09",
+      "episodes": 3,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113289"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "科幻",
           "特攝"
@@ -53800,35 +53829,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=96525"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "機甲",
-          "科幻",
-          "喜劇"
-        ],
-        "types": [
-          "OVA"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113289,
-      "title": "机战少女 Alice OVA",
-      "officialTitle": "機戰少女 Alice OVA",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/85/0000133485.JPG",
-      "japaneseTitle": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡〜",
-      "originalTitle": "アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡〜",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=133485",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113289",
-      "date": "2021/09",
-      "episodes": 3,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113289"
     },
     {
       "classification": {
@@ -54016,6 +54016,32 @@
     {
       "classification": {
         "attributes": [
+          "青春",
+          "偶像"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 68309,
+      "title": "少年好莱坞",
+      "officialTitle": "少年好萊塢",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/09/0000068309.JPG",
+      "japaneseTitle": "少年ハリウッド -HOLLY STAGE FOR 49-",
+      "originalTitle": "少年ハリウッド -HOLLY STAGE FOR 49-",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/99806",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=68309",
+      "date": "2014/07",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=68309"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "科幻",
           "特攝"
@@ -54044,32 +54070,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=96527"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "青春",
-          "偶像"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 68309,
-      "title": "少年好莱坞",
-      "officialTitle": "少年好萊塢",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/09/0000068309.JPG",
-      "japaneseTitle": "少年ハリウッド -HOLLY STAGE FOR 49-",
-      "originalTitle": "少年ハリウッド -HOLLY STAGE FOR 49-",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/99806",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=68309",
-      "date": "2014/07",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=68309"
     },
     {
       "classification": {
@@ -54240,6 +54240,33 @@
     {
       "classification": {
         "attributes": [
+          "溫馨"
+        ],
+        "types": [],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 112665,
+      "title": "冰冰冰 冰淇淋君",
+      "officialTitle": "冰冰冰 冰淇淋君",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000115000.JPG",
+      "japaneseTitle": "iii あいすくりん",
+      "originalTitle": "iii あいすくりん",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115000",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112665",
+      "date": "2021/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112665"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "血腥暴力"
         ],
@@ -54264,33 +54291,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113730"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "溫馨"
-        ],
-        "types": [],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 112665,
-      "title": "冰冰冰 冰淇淋君",
-      "officialTitle": "冰冰冰 冰淇淋君",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000115000.JPG",
-      "japaneseTitle": "iii あいすくりん",
-      "originalTitle": "iii あいすくりん",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115000",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112665",
-      "date": "2021/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112665"
     },
     {
       "classification": {
