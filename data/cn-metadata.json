@@ -220563,5 +220563,38 @@
     "code": 0,
     "checkedAt": "2026-11-09",
     "richCheckedAt": "2026-11-09"
+  },
+  "360141": {
+    "season_id": 360141,
+    "title": "寄生狂潮",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/cde976b56c888dc5a88bf843903c102ebc5384ec.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "万渠台遭深海寄生虫肆虐，感染者化为嗜血恶鬼。水师聂云桥为搏前程，率领死囚小队登岛营救南安侯，竟与隐姓埋名的生父韩冲相遇。孤岛处处杀机，同行之人各怀鬼胎，背叛与牺牲接连上演。众人逐步揭开真相：这场恶鬼灾祸，是宦官与南安侯谋划的阴毒试验。父子放下旧怨，联合医者之女阿茹，对抗权奸阴谋。历经惨烈血战，罪魁伏法，阿茹依托父亲手札，探寻恶鬼的治愈之法。",
+    "jpTitle": "",
+    "seasonTitle": "寄生狂潮",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-11-11 16:00:00",
+      "pub_time_show": "11月11日16:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-10",
+    "richCheckedAt": "2026-11-10"
   }
 }

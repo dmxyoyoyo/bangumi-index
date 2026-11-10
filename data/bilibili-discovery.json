@@ -3,7 +3,7 @@
     "checkedAt": "2026-11-10",
     "partial": true,
     "rateLimited": false,
-    "failedSources": 1
+    "failedSources": 3
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -4525,7 +4525,7 @@
         "https://www.bilibili.com/opus/613361681091881122",
         "https://www.bilibili.com/opus/428417885360651517"
       ],
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     }
   },
   "seasons": [
@@ -6650,7 +6650,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 5558,
@@ -6660,7 +6660,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 25717,
@@ -6670,7 +6670,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 26298,
@@ -6680,7 +6680,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 1356,
@@ -7480,7 +7480,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 1292,
@@ -7490,7 +7490,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 2586,
@@ -7500,7 +7500,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-10"
     },
     {
       "id": 28184,
