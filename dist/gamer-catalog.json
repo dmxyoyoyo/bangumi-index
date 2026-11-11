@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1912,
-    "lastSuccessfulRefresh": "2026-11-10T19:01:07.970Z",
+    "lastSuccessfulRefresh": "2026-11-11T02:53:10.255Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -11748,34 +11748,6 @@
     {
       "classification": {
         "attributes": [
-          "魔法",
-          "奇幻",
-          "校園",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113238,
-      "title": "为美好的世界献上爆焰！",
-      "officialTitle": "為美好的世界獻上爆焰！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000129014.JPG",
-      "japaneseTitle": "この素晴らしい世界に爆焔を！",
-      "originalTitle": "この素晴らしい世界に爆焔を！",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/385209",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/385209",
-      "date": "2023/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113238"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "校園",
           "喜劇"
@@ -11801,6 +11773,34 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=739"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "魔法",
+          "奇幻",
+          "校園",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113238,
+      "title": "为美好的世界献上爆焰！",
+      "officialTitle": "為美好的世界獻上爆焰！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/14/0000129014.JPG",
+      "japaneseTitle": "この素晴らしい世界に爆焔を！",
+      "originalTitle": "この素晴らしい世界に爆焔を！",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/385209",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/385209",
+      "date": "2023/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113238"
     },
     {
       "classification": {
@@ -12965,8 +12965,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -17034,8 +17034,8 @@
       "classification": {
         "attributes": [
           "料理",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -17645,8 +17645,8 @@
           "奇幻",
           "戀愛",
           "溫馨",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -20883,8 +20883,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -22729,34 +22729,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險",
-          "異世界",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112449,
-      "title": "熊熊勇闯异世界",
-      "officialTitle": "熊熊勇闖異世界",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000109387.JPG",
-      "japaneseTitle": "くまクマ熊ベアー",
-      "originalTitle": "くまクマ熊ベアー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/297624",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112449",
-      "date": "2020/09",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112449"
-    },
-    {
-      "classification": {
-        "attributes": [
           "奇幻",
           "校園",
           "戀愛",
@@ -22782,6 +22754,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112627"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "異世界",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112449,
+      "title": "熊熊勇闯异世界",
+      "officialTitle": "熊熊勇闖異世界",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000109387.JPG",
+      "japaneseTitle": "くまクマ熊ベアー",
+      "originalTitle": "くまクマ熊ベアー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/297624",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112449",
+      "date": "2020/09",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112449"
     },
     {
       "classification": {
@@ -26140,8 +26140,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
           "職場",
+          "推理",
           "懸疑"
         ],
         "types": [],
@@ -29421,34 +29421,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 112564,
-      "title": "工作细胞 第二季",
-      "officialTitle": "工作細胞 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/88/0000104688.JPG",
-      "japaneseTitle": "はたらく細胞!!",
-      "originalTitle": "はたらく細胞!!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/278815",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112564",
-      "date": "2021/01",
-      "episodes": 8,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112564"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "超能力",
           "校園",
           "勵志"
@@ -29474,6 +29446,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112426"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 112564,
+      "title": "工作细胞 第二季",
+      "officialTitle": "工作細胞 第二季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/88/0000104688.JPG",
+      "japaneseTitle": "はたらく細胞!!",
+      "originalTitle": "はたらく細胞!!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/278815",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112564",
+      "date": "2021/01",
+      "episodes": 8,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112564"
     },
     {
       "classification": {
@@ -30063,6 +30063,32 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "超能力"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113340,
+      "title": "HIGH CARD 至高之牌",
+      "officialTitle": "HIGH CARD 至高之牌",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000125590.JPG",
+      "japaneseTitle": "HIGH CARD",
+      "originalTitle": "HIGH CARD",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=125590",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113340",
+      "date": "2023/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113340"
+    },
+    {
+      "classification": {
+        "attributes": [
           "校園",
           "喜劇",
           "青春",
@@ -30090,32 +30116,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113743"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "超能力"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113340,
-      "title": "HIGH CARD 至高之牌",
-      "officialTitle": "HIGH CARD 至高之牌",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000125590.JPG",
-      "japaneseTitle": "HIGH CARD",
-      "originalTitle": "HIGH CARD",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=125590",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113340",
-      "date": "2023/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113340"
     },
     {
       "classification": {
@@ -32118,34 +32118,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "異世界",
-          "魔法",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113916,
-      "title": "魔法药水救救我",
-      "officialTitle": "魔法藥水救救我",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000146539.JPG",
-      "japaneseTitle": "ポーション、わが身を助ける",
-      "originalTitle": "ポーション、わが身を助ける",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/576047",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113916",
-      "date": "2025/10",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113916"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "戀愛",
           "青春",
@@ -32171,6 +32143,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114061"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "異世界",
+          "魔法",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113916,
+      "title": "魔法药水救救我",
+      "officialTitle": "魔法藥水救救我",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/39/0000146539.JPG",
+      "japaneseTitle": "ポーション、わが身を助ける",
+      "originalTitle": "ポーション、わが身を助ける",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/576047",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113916",
+      "date": "2025/10",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113916"
     },
     {
       "classification": {
@@ -37388,34 +37388,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112809,
-      "title": "火影忍者剧场版8：血狱",
-      "officialTitle": "火影忍者劇場版8：血獄",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000042335.JPG",
-      "japaneseTitle": "劇場版NARUTO-ナルト- ブラッド・プリズン",
-      "originalTitle": "劇場版NARUTO-ナルト- ブラッド・プリズン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=42335",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112809",
-      "date": "2011/07",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112809"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "推理",
           "懸疑"
@@ -37441,6 +37413,34 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113549"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112809,
+      "title": "火影忍者剧场版8：血狱",
+      "officialTitle": "火影忍者劇場版8：血獄",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000042335.JPG",
+      "japaneseTitle": "劇場版NARUTO-ナルト- ブラッド・プリズン",
+      "originalTitle": "劇場版NARUTO-ナルト- ブラッド・プリズン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=42335",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112809",
+      "date": "2011/07",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112809"
     },
     {
       "classification": {
@@ -41460,8 +41460,8 @@
       "classification": {
         "attributes": [
           "戀愛",
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [
           "電影"
@@ -42167,8 +42167,8 @@
     {
       "classification": {
         "attributes": [
-          "推理",
-          "職場"
+          "職場",
+          "推理"
         ],
         "types": [],
         "audiences": []
@@ -44147,6 +44147,33 @@
     {
       "classification": {
         "attributes": [
+          "校園",
+          "戀愛",
+          "懸疑"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 66581,
+      "title": "寻找失去的未来",
+      "officialTitle": "尋找失去的未來",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000066581.JPG",
+      "japaneseTitle": "失われた未来を求めて",
+      "originalTitle": "失われた未来を求めて",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/91985",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=66581",
+      "date": "2014/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=66581"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "溫馨"
         ],
@@ -44171,33 +44198,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112692"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
-          "戀愛",
-          "懸疑"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 66581,
-      "title": "寻找失去的未来",
-      "officialTitle": "尋找失去的未來",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000066581.JPG",
-      "japaneseTitle": "失われた未来を求めて",
-      "originalTitle": "失われた未来を求めて",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/91985",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=66581",
-      "date": "2014/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=66581"
     },
     {
       "classification": {
@@ -49699,37 +49699,6 @@
     {
       "classification": {
         "attributes": [
-          "校園",
-          "青春",
-          "勵志",
-          "運動",
-          "競技"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113548,
-      "title": "电影版 后空翻少年!!",
-      "officialTitle": "電影版 後空翻少年!!",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/95/0000127495.JPG",
-      "japaneseTitle": "映画 バクテン!!",
-      "originalTitle": "映画 バクテン!!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=127495",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113548",
-      "date": "2022/07",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113548"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "冒險",
           "特攝"
@@ -49759,6 +49728,37 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113313"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "青春",
+          "勵志",
+          "運動",
+          "競技"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113548,
+      "title": "电影版 后空翻少年!!",
+      "officialTitle": "電影版 後空翻少年!!",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/95/0000127495.JPG",
+      "japaneseTitle": "映画 バクテン!!",
+      "originalTitle": "映画 バクテン!!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=127495",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113548",
+      "date": "2022/07",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113548"
     },
     {
       "classification": {
@@ -51408,6 +51408,34 @@
       "classification": {
         "attributes": [
           "戀愛",
+          "懸疑"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113314,
+      "title": "剧场版 Collar×Malice -deep cover- 前篇",
+      "officialTitle": "劇場版 Collar×Malice -deep cover- 前篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000128661.JPG",
+      "japaneseTitle": "劇場版 Collar×Malice -deep cover-",
+      "originalTitle": "劇場版 Collar×Malice -deep cover-",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128661",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113314",
+      "date": "2023/05",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113314"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "戀愛",
           "青春",
           "GL"
         ],
@@ -51432,34 +51460,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113681"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "戀愛",
-          "懸疑"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113314,
-      "title": "剧场版 Collar×Malice -deep cover- 前篇",
-      "officialTitle": "劇場版 Collar×Malice -deep cover- 前篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000128661.JPG",
-      "japaneseTitle": "劇場版 Collar×Malice -deep cover-",
-      "originalTitle": "劇場版 Collar×Malice -deep cover-",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=128661",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113314",
-      "date": "2023/05",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113314"
     },
     {
       "classification": {
@@ -51658,6 +51658,35 @@
     {
       "classification": {
         "attributes": [
+          "戀愛",
+          "偶像",
+          "音樂"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113266,
+      "title": "剧场版 歌之☆王子殿下♪ 真爱 ST☆RISH TOURS",
+      "officialTitle": "劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/95/0000123695.JPG",
+      "japaneseTitle": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+      "originalTitle": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/331652",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113266",
+      "date": "2022/09",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113266"
+    },
+    {
+      "classification": {
+        "attributes": [
           "校園",
           "青春",
           "勵志",
@@ -51685,35 +51714,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113414"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "戀愛",
-          "偶像",
-          "音樂"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113266,
-      "title": "剧场版 歌之☆王子殿下♪ 真爱 ST☆RISH TOURS",
-      "officialTitle": "劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/95/0000123695.JPG",
-      "japaneseTitle": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
-      "originalTitle": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/331652",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113266",
-      "date": "2022/09",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113266"
     },
     {
       "classification": {
