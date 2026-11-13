@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://api.gamer.com.tw/anime/v1/anime_list.php",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "checkedFilters": 42,
     "catalogIds": [
       168,
@@ -103,6 +103,7 @@
       56380,
       56768,
       56805,
+      57082,
       57096,
       57195,
       57498,
@@ -1918,7 +1919,8 @@
       114242,
       114243,
       114244,
-      114245
+      114245,
+      114246
     ]
   },
   "items": {
@@ -3024,6 +3026,15 @@
         "校園",
         "戀愛",
         "青春"
+      ],
+      "types": [],
+      "audiences": []
+    },
+    "57082": {
+      "attributes": [
+        "勵志",
+        "運動",
+        "競技"
       ],
       "types": [],
       "audiences": []
@@ -21839,6 +21850,14 @@
       "attributes": [
         "動作",
         "喜劇"
+      ],
+      "types": [],
+      "audiences": []
+    },
+    "114246": {
+      "attributes": [
+        "運動",
+        "競技"
       ],
       "types": [],
       "audiences": []
