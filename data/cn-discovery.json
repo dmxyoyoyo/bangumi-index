@@ -1,22 +1,22 @@
 {
   "checkedAt": "2026-11-13",
   "range": [
+    363042,
+    363542
+  ],
+  "backfillRange": [
     362541,
     363041
   ],
-  "backfillRange": [
-    362040,
-    362540
-  ],
-  "backfillNext": 362541,
+  "backfillNext": 363042,
   "validCandidates": 5537,
   "added": 0,
   "missing": 1004,
-  "forwardNext": 363042,
+  "forwardNext": 363543,
   "indexCandidates": 7,
   "requestBudget": 4000,
   "backfillLimit": 2000,
-  "recheckQueued": 761,
+  "recheckQueued": 0,
   "refreshStatus": "updated",
   "refreshWarning": null,
   "lastAttemptAt": "2026-11-13"
