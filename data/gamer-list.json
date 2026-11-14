@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-14T13:20:34.655Z"
+    "lastSuccessfulRefresh": "2026-11-14T17:27:30.479Z"
   },
   "items": [
     {
@@ -472,7 +472,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000144986.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 1112970,
       "highlightTag": {
         "bilingual": false,
@@ -540,25 +540,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 150486,
-      "animeSn": 114207,
-      "videoSn": 51779,
-      "title": "至高之力",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
-      "popular": 72954,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.2
-    },
-    {
       "acgSn": 148164,
       "animeSn": 114210,
       "videoSn": 51787,
@@ -597,6 +578,25 @@
       "score": 4.8
     },
     {
+      "acgSn": 150486,
+      "animeSn": 114207,
+      "videoSn": 51779,
+      "title": "至高之力",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "dateInfo": "年份：2026/10",
+      "totalEpisode": 7,
+      "popular": 72954,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.2
+    },
+    {
       "acgSn": 148138,
       "animeSn": 114211,
       "videoSn": 51790,
@@ -624,7 +624,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000135738.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 7,
+      "totalEpisode": 8,
       "popular": 402089,
       "highlightTag": {
         "bilingual": false,
@@ -681,7 +681,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/46/0000146146.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 422001,
       "highlightTag": {
         "bilingual": false,
@@ -4709,7 +4709,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/62/0000141062.JPG",
       "dateInfo": "年份：2025/09",
-      "totalEpisode": 19,
+      "totalEpisode": 20,
       "popular": 1303947,
       "highlightTag": {
         "bilingual": false,
@@ -11652,7 +11652,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.7
+      "score": 4.8
     },
     {
       "acgSn": 115682,
@@ -25487,25 +25487,6 @@
       "score": 4.2
     },
     {
-      "acgSn": 89804,
-      "animeSn": 112623,
-      "videoSn": 21671,
-      "title": "搖曳露營△",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000089804.JPG",
-      "dateInfo": "年份：2018/01",
-      "totalEpisode": 12,
-      "popular": 1944949,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 5
-    },
-    {
       "acgSn": 89111,
       "animeSn": 89111,
       "videoSn": 9292,
@@ -25523,6 +25504,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 89804,
+      "animeSn": 112623,
+      "videoSn": 21671,
+      "title": "搖曳露營△",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/04/0000089804.JPG",
+      "dateInfo": "年份：2018/01",
+      "totalEpisode": 12,
+      "popular": 1944949,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 5
     },
     {
       "acgSn": 92450,
@@ -27786,25 +27786,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 74297,
-      "animeSn": 74297,
-      "videoSn": 14933,
-      "title": "甲鐵城的卡巴內里",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
-      "dateInfo": "年份：2016/04",
-      "totalEpisode": 12,
-      "popular": 744362,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.5
-    },
-    {
       "acgSn": 78883,
       "animeSn": 78883,
       "videoSn": 5012,
@@ -27822,6 +27803,25 @@
         "newArrival": false
       },
       "score": 4.6
+    },
+    {
+      "acgSn": 74297,
+      "animeSn": 74297,
+      "videoSn": 14933,
+      "title": "甲鐵城的卡巴內里",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
+      "dateInfo": "年份：2016/04",
+      "totalEpisode": 12,
+      "popular": 744362,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.5
     },
     {
       "acgSn": 79112,
@@ -27862,25 +27862,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 80192,
-      "animeSn": 112916,
-      "videoSn": 26709,
-      "title": "我的英雄學院",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000080192.JPG",
-      "dateInfo": "年份：2016/04",
-      "totalEpisode": 13,
-      "popular": 2342114,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 80035,
       "animeSn": 80035,
       "videoSn": 4995,
@@ -27898,6 +27879,25 @@
         "newArrival": false
       },
       "score": 4.3
+    },
+    {
+      "acgSn": 80192,
+      "animeSn": 112916,
+      "videoSn": 26709,
+      "title": "我的英雄學院",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000080192.JPG",
+      "dateInfo": "年份：2016/04",
+      "totalEpisode": 13,
+      "popular": 2342114,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 79653,
@@ -33844,7 +33844,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.8
+      "score": 4.7
     },
     {
       "acgSn": 434,
@@ -35405,25 +35405,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 121549,
-      "animeSn": 112981,
-      "videoSn": 27713,
-      "title": "烏龍派出所特別篇：最危險的生存遊戲",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/49/0000121549.JPG",
-      "dateInfo": "年份：1998/04",
-      "totalEpisode": 1,
-      "popular": 121222,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 21072,
       "animeSn": 21072,
       "videoSn": 12353,
@@ -35436,6 +35417,25 @@
       "popular": 580410,
       "highlightTag": {
         "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
+      "acgSn": 121549,
+      "animeSn": 112981,
+      "videoSn": 27713,
+      "title": "烏龍派出所特別篇：最危險的生存遊戲",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/49/0000121549.JPG",
+      "dateInfo": "年份：1998/04",
+      "totalEpisode": 1,
+      "popular": 121222,
+      "highlightTag": {
+        "bilingual": true,
         "edition": "",
         "vipTime": "",
         "newArrival": false

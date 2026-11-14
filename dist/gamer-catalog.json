@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-14T13:20:34.655Z",
+    "lastSuccessfulRefresh": "2026-11-14T17:27:30.479Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -707,7 +707,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/554779",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114209"
@@ -800,33 +800,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "機甲",
-          "科幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114207,
-      "title": "至高之力",
-      "officialTitle": "至高之力",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "japaneseTitle": "バーテックスフォース",
-      "originalTitle": "バーテックスフォース",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/636512",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
-    },
-    {
-      "classification": {
-        "attributes": [
           "冒險",
           "魔法",
           "奇幻"
@@ -884,6 +857,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "機甲",
+          "科幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114207,
+      "title": "至高之力",
+      "officialTitle": "至高之力",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "japaneseTitle": "バーテックスフォース",
+      "originalTitle": "バーテックスフォース",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/636512",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "悠閒"
         ],
@@ -931,7 +931,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114208",
       "date": "2026/10",
-      "episodes": 7,
+      "episodes": 8,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114208"
@@ -1013,7 +1013,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114206",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114206"
@@ -5420,8 +5420,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -7006,7 +7006,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113895",
       "date": "2025/09",
-      "episodes": 19,
+      "episodes": 20,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113895"
@@ -9657,8 +9657,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -11696,8 +11696,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -14489,8 +14489,8 @@
           "戀愛",
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -16515,8 +16515,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影",
@@ -17299,8 +17299,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -18420,8 +18420,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -37464,8 +37464,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -37880,6 +37880,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "勵志",
+          "料理"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 89111,
+      "title": "爱吃拉面的小泉同学",
+      "officialTitle": "愛吃拉麵的小泉同學",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/11/0000089111.JPG",
+      "japaneseTitle": "ラーメン大好き小泉さん",
+      "originalTitle": "ラーメン大好き小泉さん",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/212146",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/212146",
+      "date": "2018/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=89111"
+    },
+    {
+      "classification": {
+        "attributes": [
           "溫馨",
           "料理",
           "悠閒"
@@ -37905,33 +37932,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112623"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "勵志",
-          "料理"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 89111,
-      "title": "爱吃拉面的小泉同学",
-      "officialTitle": "愛吃拉麵的小泉同學",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/11/0000089111.JPG",
-      "japaneseTitle": "ラーメン大好き小泉さん",
-      "originalTitle": "ラーメン大好き小泉さん",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/212146",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/212146",
-      "date": "2018/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=89111"
     },
     {
       "classification": {
@@ -40973,8 +40973,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -41313,32 +41313,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 74297,
-      "title": "甲铁城的卡巴内里",
-      "officialTitle": "甲鐵城的卡巴內里",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
-      "japaneseTitle": "甲鉄城のカバネリ",
-      "originalTitle": "甲鉄城のカバネリ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=74297",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=74297",
-      "date": "2016/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=74297"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "喜劇",
           "戀愛"
@@ -41362,6 +41336,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=78883"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 74297,
+      "title": "甲铁城的卡巴内里",
+      "officialTitle": "甲鐵城的卡巴內里",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/97/0000074297.JPG",
+      "japaneseTitle": "甲鉄城のカバネリ",
+      "originalTitle": "甲鉄城のカバネリ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=74297",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=74297",
+      "date": "2016/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=74297"
     },
     {
       "classification": {
@@ -41419,6 +41419,33 @@
     {
       "classification": {
         "attributes": [
+          "喜劇",
+          "溫馨",
+          "悠閒"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 80035,
+      "title": "熊巫女",
+      "officialTitle": "當女孩遇到熊",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000080035.JPG",
+      "japaneseTitle": "くまみこ",
+      "originalTitle": "くまみこ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/148361",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/148361",
+      "date": "2016/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=80035"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "超能力",
           "校園",
@@ -41443,33 +41470,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112916"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "喜劇",
-          "溫馨",
-          "悠閒"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 80035,
-      "title": "熊巫女",
-      "officialTitle": "當女孩遇到熊",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000080035.JPG",
-      "japaneseTitle": "くまみこ",
-      "originalTitle": "くまみこ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/148361",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/148361",
-      "date": "2016/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=80035"
     },
     {
       "classification": {
@@ -48130,8 +48130,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越"
         ],
         "types": [
@@ -48587,8 +48587,8 @@
     {
       "classification": {
         "attributes": [
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -49771,8 +49771,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -51737,8 +51737,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -52088,8 +52088,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -52869,6 +52869,33 @@
     {
       "classification": {
         "attributes": [
+          "勵志",
+          "運動",
+          "競技"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 21072,
+      "title": "头文字 D 1st stage",
+      "officialTitle": "頭文字 D 1st stage",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000021072.JPG",
+      "japaneseTitle": "頭文字D",
+      "originalTitle": "頭文字D",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=21072",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=21072",
+      "date": "1998/04",
+      "episodes": 26,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=21072"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -52895,33 +52922,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112981"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "勵志",
-          "運動",
-          "競技"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 21072,
-      "title": "头文字 D 1st stage",
-      "officialTitle": "頭文字 D 1st stage",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/72/0000021072.JPG",
-      "japaneseTitle": "頭文字D",
-      "originalTitle": "頭文字D",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=21072",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=21072",
-      "date": "1998/04",
-      "episodes": 26,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=21072"
     },
     {
       "classification": {
