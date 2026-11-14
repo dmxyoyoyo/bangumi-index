@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-11-14T03:22:22.639Z",
-    "lastRefreshAttempt": "2026-11-14T03:22:22.639Z",
+    "lastSuccessfulRefresh": "2026-11-14T13:24:29.515Z",
+    "lastRefreshAttempt": "2026-11-14T13:24:29.515Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -980,7 +980,7 @@
     },
     {
       "intlId": 34485,
-      "title": "在地下城寻求邂逅是否搞错了什幺 外传 剑姬神圣谭",
+      "title": "在地下城寻求邂逅是否搞错了什么 外传 剑姬神圣谭",
       "regions": [
         "ID",
         "TH",
@@ -1012,9 +1012,9 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 172155,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34485&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/172155",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -1050,7 +1050,7 @@
     },
     {
       "intlId": 34487,
-      "title": "在地下城寻求邂逅是否搞错了什幺： 猎户座之箭",
+      "title": "在地下城寻求邂逅是否搞错了什么： 猎户座之箭",
       "regions": [
         "ID",
         "TH",
@@ -1084,9 +1084,9 @@
       "japaneseTitle": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－",
       "originalName": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 238005,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34487&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/238005",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -1644,7 +1644,7 @@
     },
     {
       "intlId": 34503,
-      "title": "在地下城寻求邂逅是否搞错了什幺",
+      "title": "在地下城寻求邂逅是否搞错了什么",
       "regions": [
         "ID",
         "TH",
@@ -1678,9 +1678,9 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうか",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうか",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 116287,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34503&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/116287",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -3583,7 +3583,7 @@
     },
     {
       "intlId": 34575,
-      "title": "果然我的青春恋爱喜剧搞错了。续",
+      "title": "我的青春恋爱物语果然有问题。续",
       "regions": [],
       "regionSource": "official",
       "cnId": 273102,
@@ -3596,7 +3596,8 @@
         "Yahari Ore no Seishun LoveCome wa Machigatte Iru. Zoku",
         "My Teen Romantic Comedy: SNAFU Too!",
         "我的青春恋爱物语果然有问题 第二季",
-        "春物2"
+        "春物2",
+        "我的青春恋爱物语果然有问题。续"
       ],
       "catalogCheckedAt": "2026-11-11",
       "regionCheckedAt": "2026-11-11",
@@ -3612,9 +3613,9 @@
       "japaneseTitle": "やはり俺の青春ラブコメはまちがっている。続",
       "originalName": "やはり俺の青春ラブコメはまちがっている。続",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 102134,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34575&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1540",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -4637,7 +4638,7 @@
     },
     {
       "intlId": 34607,
-      "title": "超异域公主连结☆Re:Dive",
+      "title": "公主连结 Re:Dive",
       "regions": [],
       "regionSource": "official",
       "cnId": 273150,
@@ -4666,9 +4667,9 @@
       "japaneseTitle": "プリンセスコネクト！Re:Dive",
       "originalName": "プリンセスコネクト！Re:Dive",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 274646,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34607&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss32963",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -5134,7 +5135,7 @@
     },
     {
       "intlId": 34620,
-      "title": "我们仍未知道那天所看见的花名。",
+      "title": "我们仍未知道那天所看见的花的名字。",
       "regions": [
         "ID",
         "MY",
@@ -5180,9 +5181,9 @@
       "japaneseTitle": "あの日見た花の名前を僕達はまだ知らない。",
       "originalName": "あの日見た花の名前を僕達はまだ知らない。",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 10440,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34620&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss835",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -5474,7 +5475,7 @@
     },
     {
       "intlId": 34639,
-      "title": "无能力者娜娜",
+      "title": "无能的奈奈",
       "regions": [],
       "regionSource": "official",
       "cnId": 273174,
@@ -5501,9 +5502,9 @@
       "japaneseTitle": "無能なナナ",
       "originalName": "無能なナナ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 302418,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34639&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/302418",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -5612,7 +5613,7 @@
     },
     {
       "intlId": 34642,
-      "title": "在地下城寻求邂逅是否搞错了什幺 第三季",
+      "title": "在地下城寻求邂逅是否搞错了什么 第三季",
       "regions": [
         "ID",
         "TH",
@@ -5647,9 +5648,9 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 291412,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34642&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/291412",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -8167,7 +8168,7 @@
     },
     {
       "intlId": 34734,
-      "title": "我太受欢迎了该怎幺办",
+      "title": "我太受欢迎了该怎么办",
       "regions": [],
       "regionSource": "official",
       "cnId": 273260,
@@ -8193,9 +8194,9 @@
       "japaneseTitle": "私がモテてどうすんだ",
       "originalName": "私がモテてどうすんだ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 172492,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34734&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/172492",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -9149,7 +9150,7 @@
     },
     {
       "intlId": 34778,
-      "title": "钢弹创斗者潜网大战 Re:RISE",
+      "title": "高达创形者 再起",
       "regions": [
         "TH"
       ],
@@ -9180,9 +9181,9 @@
       "japaneseTitle": "ガンダムビルドダイバーズRe:RISE",
       "originalName": "ガンダムビルドダイバーズRe:RISE",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 286123,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34778&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss28593",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -9557,7 +9558,7 @@
     },
     {
       "intlId": 34784,
-      "title": "七大罪 众神的逆鳞",
+      "title": "七大罪 诸神的逆鳞",
       "regions": [
         "TH"
       ],
@@ -9579,9 +9580,9 @@
       "japaneseTitle": "七つの大罪 神々の逆鱗",
       "originalName": "七つの大罪 神々の逆鱗",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 280380,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34784&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss28598",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -10647,7 +10648,7 @@
     },
     {
       "intlId": 34817,
-      "title": "驰风！竞艇王",
+      "title": "驰风！赛艇王",
       "regions": [
         "TH"
       ],
@@ -10676,9 +10677,9 @@
       "japaneseTitle": "モンキーターン",
       "originalName": "モンキーターン",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 39299,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34817&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1918",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -11694,7 +11695,7 @@
     },
     {
       "intlId": 34836,
-      "title": "魔法少女什幺的已经够了啦 第二季",
+      "title": "魔法少女什么的已经够了啦 第二季",
       "regions": [
         "HK",
         "MO",
@@ -11726,9 +11727,9 @@
       "japaneseTitle": "魔法少女なんてもういいですから。セカンドシーズン",
       "originalName": "魔法少女なんてもういいですから。セカンドシーズン",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 189415,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34836&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/189415",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -12095,7 +12096,7 @@
     },
     {
       "intlId": 34849,
-      "title": "艾梅洛阁下 II 世事件簿 -魔眼搜集列车 Grace note-",
+      "title": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
       "regions": [],
       "regionSource": "official",
       "cnId": 273376,
@@ -12127,9 +12128,9 @@
       "japaneseTitle": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
       "originalName": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 267732,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34849&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss26363",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -12915,7 +12916,7 @@
     },
     {
       "intlId": 34874,
-      "title": "小长门有希的消失",
+      "title": "长门有希酱的消失",
       "regions": [
         "TH"
       ],
@@ -12945,9 +12946,9 @@
       "japaneseTitle": "長門有希ちゃんの消失",
       "originalName": "長門有希ちゃんの消失",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 90815,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34874&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1558",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -14294,7 +14295,7 @@
     },
     {
       "intlId": 34905,
-      "title": "羽球战争！",
+      "title": "轻羽飞扬！",
       "regions": [],
       "regionSource": "official",
       "cnId": 273414,
@@ -14306,7 +14307,8 @@
         "轻羽飞扬",
         "Hanebado!",
         "하네배드!",
-        "羽球战争"
+        "羽球战争",
+        "轻羽飞扬！"
       ],
       "catalogCheckedAt": "2026-11-12",
       "regionCheckedAt": "2026-11-12",
@@ -14322,9 +14324,9 @@
       "japaneseTitle": "はねバド！",
       "originalName": "はねバド！",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 236590,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34905&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss24589",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -15823,7 +15825,7 @@
     },
     {
       "intlId": 34942,
-      "title": "空挺Dragons",
+      "title": "猎龙飞船",
       "regions": [
         "TH"
       ],
@@ -15850,9 +15852,9 @@
       "japaneseTitle": "空挺ドラゴンズ",
       "originalName": "空挺ドラゴンズ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 277506,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34942&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss29359",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -17107,7 +17109,7 @@
     },
     {
       "intlId": 34971,
-      "title": "空战魔导士培训生的教官",
+      "title": "空战魔导士候补生的教官",
       "regions": [],
       "regionSource": "official",
       "cnId": 273489,
@@ -17133,9 +17135,9 @@
       "japaneseTitle": "空戦魔導士候補生の教官",
       "originalName": "空戦魔導士候補生の教官",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 108377,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34971&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss2583",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -17297,7 +17299,7 @@
     },
     {
       "intlId": 34974,
-      "title": "月刊少女野崎同学",
+      "title": "月刊少女野崎君",
       "regions": [],
       "regionSource": "official",
       "cnId": 273492,
@@ -17325,9 +17327,9 @@
       "japaneseTitle": "月刊少女野崎くん",
       "originalName": "月刊少女野崎くん",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 100449,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34974&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss53",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -17686,7 +17688,7 @@
     },
     {
       "intlId": 34986,
-      "title": "嬉皮笑园",
+      "title": "不可思议的教室",
       "regions": [
         "TH"
       ],
@@ -17715,9 +17717,9 @@
       "japaneseTitle": "ぱにぽにだっしゅ!",
       "originalName": "ぱにぽにだっしゅ!",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 1617,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34986&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1844",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -18334,7 +18336,7 @@
     },
     {
       "intlId": 34998,
-      "title": "怪物的孩子",
+      "title": "怪物之子",
       "regions": [
         "TH"
       ],
@@ -18363,9 +18365,9 @@
       "japaneseTitle": "バケモノの子",
       "originalName": "バケモノの子",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 119795,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=34998&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/119795",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -19712,7 +19714,7 @@
     },
     {
       "intlId": 35039,
-      "title": "驰风竞艇王V",
+      "title": "驰风！赛艇王 V",
       "regions": [
         "TH"
       ],
@@ -19726,7 +19728,8 @@
         "モンキーターン V",
         "驰风！赛艇王V",
         "飞艇急转弯V",
-        "Monkey Turn V"
+        "Monkey Turn V",
+        "驰风！赛艇王 V"
       ],
       "catalogCheckedAt": "2026-11-12",
       "regionCheckedAt": "2026-11-12",
@@ -19742,9 +19745,9 @@
       "japaneseTitle": "モンキーターン V",
       "originalName": "モンキーターン V",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 39300,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35039&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1919",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -20598,7 +20601,7 @@
     },
     {
       "intlId": 35057,
-      "title": "甘城辉煌乐园救世主",
+      "title": "甘城光辉游乐园",
       "regions": [
         "TH"
       ],
@@ -20626,9 +20629,9 @@
       "japaneseTitle": "甘城ブリリアントパーク",
       "originalName": "甘城ブリリアントパーク",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 93545,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35057&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss281",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -21581,7 +21584,7 @@
     },
     {
       "intlId": 35082,
-      "title": "桌球",
+      "title": "乒乓",
       "regions": [
         "ID",
         "MY",
@@ -21619,9 +21622,9 @@
       "japaneseTitle": "ピンポン THE ANIMATION",
       "originalName": "ピンポン THE ANIMATION",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 93739,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35082&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss192",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -22286,7 +22289,7 @@
     },
     {
       "intlId": 35111,
-      "title": "路人女主的养成方式",
+      "title": "路人女主的养成方法",
       "regions": [],
       "regionSource": "official",
       "cnId": 273618,
@@ -22314,9 +22317,9 @@
       "japaneseTitle": "冴えない彼女の育てかた",
       "originalName": "冴えない彼女の育てかた",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 100403,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35111&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1512",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -23755,7 +23758,7 @@
     },
     {
       "intlId": 35152,
-      "title": "悠悠哉哉少女日和 度假",
+      "title": "剧场版 悠哉日常大王 Vacation",
       "regions": [
         "TH"
       ],
@@ -23786,9 +23789,9 @@
       "japaneseTitle": "劇場版 のんのんびより ばけーしょん",
       "originalName": "劇場版 のんのんびより ばけーしょん",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 215618,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35152&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss26632",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -24785,7 +24788,7 @@
     },
     {
       "intlId": 35181,
-      "title": "翼神世音",
+      "title": "翼神传说",
       "regions": [
         "TH"
       ],
@@ -24814,9 +24817,9 @@
       "japaneseTitle": "ラーゼフォン",
       "originalName": "ラーゼフォン",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 1030,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35181&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss2079",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -25064,7 +25067,7 @@
     },
     {
       "intlId": 35187,
-      "title": "学生会长是女仆！",
+      "title": "会长是女仆大人！",
       "regions": [],
       "regionSource": "official",
       "cnId": 273669,
@@ -25091,9 +25094,9 @@
       "japaneseTitle": "会長はメイド様!",
       "originalName": "会長はメイド様!",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 4313,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35187&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss969",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -26040,7 +26043,7 @@
     },
     {
       "intlId": 35250,
-      "title": "单色小姐 第二季",
+      "title": "黑白小姐 第二季",
       "regions": [],
       "regionSource": "official",
       "cnId": 273697,
@@ -26065,9 +26068,9 @@
       "japaneseTitle": "ミス・モノクローム -The Animation- 2",
       "originalName": "ミス・モノクローム -The Animation- 2",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 129105,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35250&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss2617",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -29953,7 +29956,7 @@
     },
     {
       "intlId": 35365,
-      "title": "果然我的青春恋爱喜剧搞错了。",
+      "title": "我的青春恋爱物语果然有问题。",
       "regions": [],
       "regionSource": "official",
       "cnId": 273765,
@@ -29970,7 +29973,8 @@
         "俺ガイル",
         "OreGairu",
         "春物",
-        "果青"
+        "果青",
+        "我的青春恋爱物语果然有问题。"
       ],
       "catalogCheckedAt": "2026-11-11",
       "regionCheckedAt": "2026-11-11",
@@ -29986,9 +29990,9 @@
       "japaneseTitle": "やはり俺の青春ラブコメはまちがっている。",
       "originalName": "やはり俺の青春ラブコメはまちがっている。",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 54433,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35365&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss1539",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -30024,7 +30028,7 @@
     },
     {
       "intlId": 35366,
-      "title": "果然我的青春恋爱喜剧搞错了。续 OVA",
+      "title": "我的青春恋爱物语果然有问题 续 OVA",
       "regions": [],
       "regionSource": "official",
       "cnId": 273766,
@@ -30049,9 +30053,9 @@
       "japaneseTitle": "やはり俺の青春ラブコメはまちがっている。続 OVA",
       "originalName": "やはり俺の青春ラブコメはまちがっている。続 OVA",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 142678,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35366&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5622",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -30087,7 +30091,7 @@
     },
     {
       "intlId": 35367,
-      "title": "果然我的青春恋爱喜剧搞错了。OVA",
+      "title": "我的青春恋爱物语果然有问题。第一季 OVA",
       "regions": [],
       "regionSource": "official",
       "cnId": 273767,
@@ -30096,7 +30100,8 @@
         "やはり俺の青春ラブコメはまちがっている。 OVA",
         "果然我的青春恋爱喜剧搞错了。OVA",
         "My Teen Romantic Comedy SNAFU OVA",
-        "我的青春恋爱物语果然有问题 OVA"
+        "我的青春恋爱物语果然有问题 OVA",
+        "我的青春恋爱物语果然有问题。第一季 OVA"
       ],
       "catalogCheckedAt": "2026-11-11",
       "regionCheckedAt": "2026-11-11",
@@ -30112,9 +30117,9 @@
       "japaneseTitle": "やはり俺の青春ラブコメはまちがっている。 OVA",
       "originalName": "やはり俺の青春ラブコメはまちがっている。 OVA",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 82777,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35367&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss3437",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -30150,7 +30155,7 @@
     },
     {
       "intlId": 35368,
-      "title": "果然我的青春恋爱喜剧搞错了。完",
+      "title": "我的青春恋爱物语果然有问题。完",
       "regions": [],
       "regionSource": "official",
       "cnId": 273768,
@@ -30164,7 +30169,8 @@
         "My Teen Romantic Comedy: SNAFU Climax",
         "My Teen Romantic Comedy: SNAFU 3",
         "我的青春恋爱物语果然有问题 第三季",
-        "春物3"
+        "春物3",
+        "我的青春恋爱物语果然有问题。完"
       ],
       "catalogCheckedAt": "2026-11-13",
       "regionCheckedAt": "2026-11-13",
@@ -30180,9 +30186,9 @@
       "japaneseTitle": "やはり俺の青春ラブコメはまちがっている。完",
       "originalName": "やはり俺の青春ラブコメはまちがっている。完",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 277954,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35368&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss32998",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -33596,7 +33602,7 @@
     },
     {
       "intlId": 35475,
-      "title": "心连‧情结",
+      "title": "恋爱随意链接",
       "regions": [
         "TH"
       ],
@@ -33627,9 +33633,9 @@
       "japaneseTitle": "ココロコネクト",
       "originalName": "ココロコネクト",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 37154,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35475&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss713",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -38169,7 +38175,7 @@
     },
     {
       "intlId": 35610,
-      "title": "放学后堤防日志",
+      "title": "放学后海堤日记",
       "regions": [],
       "regionSource": "official",
       "cnId": 273941,
@@ -38196,9 +38202,9 @@
       "japaneseTitle": "放課後ていぼう日誌",
       "originalName": "放課後ていぼう日誌",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 280678,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35610&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss33026",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -39603,7 +39609,7 @@
     },
     {
       "intlId": 35660,
-      "title": "恋曲写真",
+      "title": "写真女友",
       "regions": [],
       "regionSource": "official",
       "cnId": 273989,
@@ -39630,9 +39636,9 @@
       "japaneseTitle": "フォトカノ",
       "originalName": "フォトカノ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 55032,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35660&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss580",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -41201,7 +41207,7 @@
     },
     {
       "intlId": 35690,
-      "title": "灼热的乒乓球娘",
+      "title": "灼热乒乓妹",
       "regions": [],
       "regionSource": "official",
       "cnId": 274019,
@@ -41227,9 +41233,9 @@
       "japaneseTitle": "灼熱の卓球娘",
       "originalName": "灼熱の卓球娘",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 175536,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=35690&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5539",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -51496,7 +51502,7 @@
     },
     {
       "intlId": 36386,
-      "title": "末日时在做什幺？有没有空？可以来拯救吗？",
+      "title": "末日时在做什么？有没有空？可以来拯救吗？",
       "regions": [],
       "regionSource": "official",
       "cnId": 274495,
@@ -51525,9 +51531,9 @@
       "japaneseTitle": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
       "originalName": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 185943,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36386&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/185943",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -53539,7 +53545,7 @@
     },
     {
       "intlId": 36463,
-      "title": "剧场版 精灵宝可梦DP：帝牙卢卡VS帕路奇犽VS达克莱伊",
+      "title": "宝可梦 帝牙卢卡 帕路奇亚与达克莱伊的对决",
       "regions": [],
       "regionSource": "official",
       "cnId": 274610,
@@ -53555,7 +53561,8 @@
         "Pokémon: The Rise of Darkrai",
         "げきじょうばんポケットモンスター ダイヤモンド パール ディアルガたいパルキアたいダークライ",
         "Gekijō-ban Pokettomonsutā Daiyamondo Pāru: Diaruga tai Parukia tai Dākurai",
-        "Gekijô ban poketto monsutâ: Daiamondo pâru - Diaruga vs Parukia vs Dâkurai"
+        "Gekijô ban poketto monsutâ: Daiamondo pâru - Diaruga vs Parukia vs Dâkurai",
+        "宝可梦 帝牙卢卡 帕路奇亚与达克莱伊的对决"
       ],
       "catalogCheckedAt": "2026-11-14",
       "regionCheckedAt": "2026-11-14",
@@ -53571,9 +53578,9 @@
       "japaneseTitle": "劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ",
       "originalName": "劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 3031,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36463&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5750",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -54461,7 +54468,7 @@
     },
     {
       "intlId": 36501,
-      "title": "剧场版 精灵宝可梦DP：骑拉帝纳与冰空的花束 洁咪",
+      "title": "宝可梦 骑拉帝纳与冰空的花束 谢米",
       "regions": [],
       "regionSource": "official",
       "cnId": 274717,
@@ -54477,7 +54484,8 @@
         "Pokémon: Giratina and the Sky Warrior",
         "げきじょうばんポケットモンスター ダイヤモンド パール ディアルガたいパルキアたいダークライ",
         "Gekijō-ban Pokettomonsutā Daiyamondo Pāru: Diaruga tai Parukia tai Dākurai",
-        "Gekijôban Poketto Monsutâ Daiyamondo & Pâru: Giratina to sora no hanataba Sheimi"
+        "Gekijôban Poketto Monsutâ Daiyamondo & Pâru: Giratina to sora no hanataba Sheimi",
+        "宝可梦 骑拉帝纳与冰空的花束 谢米"
       ],
       "catalogCheckedAt": "2026-11-11",
       "regionCheckedAt": "2026-11-11",
@@ -54493,9 +54501,9 @@
       "japaneseTitle": "劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ",
       "originalName": "劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 3032,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36501&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5749",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -59174,7 +59182,7 @@
     },
     {
       "intlId": 36730,
-      "title": "剧场版 精灵宝可梦：梦幻的精灵宝可梦 洛奇亚爆诞",
+      "title": "宝可梦 幻之宝可梦 洛奇亚爆诞",
       "regions": [],
       "regionSource": "official",
       "cnId": 275034,
@@ -59189,7 +59197,8 @@
         "電影版 夢幻之寵物小精靈 利基亞爆誕",
         "Pokémon the Movie 2000: The Power of One",
         "げきじょうばんポケットモンスター まぼろしのポケモン ルギアばくたん",
-        "Gekijō-ban Pokettomonsutā： Maboroshi no Pokemon Rugia Bakutan"
+        "Gekijō-ban Pokettomonsutā： Maboroshi no Pokemon Rugia Bakutan",
+        "宝可梦 幻之宝可梦 洛奇亚爆诞"
       ],
       "catalogCheckedAt": "2026-11-12",
       "regionCheckedAt": "2026-11-12",
@@ -59205,9 +59214,9 @@
       "japaneseTitle": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
       "originalName": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 3023,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36730&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5757",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -59244,7 +59253,7 @@
     },
     {
       "intlId": 36732,
-      "title": "剧场版 精灵宝可梦：雪拉比 穿梭时空的相遇",
+      "title": "宝可梦 时拉比 穿梭时空的相遇",
       "regions": [],
       "regionSource": "official",
       "cnId": 275042,
@@ -59259,7 +59268,8 @@
         "電影版 寵物小精靈：雪拉比 穿梭時空的相遇",
         "Pokémon 4Ever - Celebi: Voice of the Forest",
         "げきじょうばんポケットモンスター セレビィ ときをこえたであい",
-        "Gekijō-ban Pokettomonsutā： Serebyi Toki o Koeta Deai"
+        "Gekijō-ban Pokettomonsutā： Serebyi Toki o Koeta Deai",
+        "宝可梦 时拉比 穿梭时空的相遇"
       ],
       "catalogCheckedAt": "2026-11-11",
       "regionCheckedAt": "2026-11-11",
@@ -59275,9 +59285,9 @@
       "japaneseTitle": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
       "originalName": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 3025,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36732&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5756",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -59596,7 +59606,7 @@
     },
     {
       "intlId": 36737,
-      "title": "剧场版 精灵宝可梦超世代：宝可梦保育家与苍海的王子 玛纳霏",
+      "title": "宝可梦 宝可梦巡护员与苍海的王子 玛纳霏",
       "regions": [],
       "regionSource": "official",
       "cnId": 275050,
@@ -59611,7 +59621,8 @@
         "電影版 寵物小精靈超世代：寵物小精靈保育家與蒼海の王子 瑪納霏",
         "Pokémon Ranger and the Temple of the Sea",
         "げきじょうばんポケットモンスター アドバンスジェネレーション ポケモンレンジャーとうみのおうじ マナフィ",
-        "Gekijō-ban Pokettomonsutā Adobansu Jenerēshon: Pokemon Renjā to Umi no Ōji Manafi"
+        "Gekijō-ban Pokettomonsutā Adobansu Jenerēshon: Pokemon Renjā to Umi no Ōji Manafi",
+        "宝可梦 宝可梦巡护员与苍海的王子 玛纳霏"
       ],
       "catalogCheckedAt": "2026-11-12",
       "regionCheckedAt": "2026-11-12",
@@ -59627,9 +59638,9 @@
       "japaneseTitle": "劇場版ポケットモンスター アドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ",
       "originalName": "劇場版ポケットモンスター アドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 3030,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=36737&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss5751",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -74253,7 +74264,7 @@
     },
     {
       "intlId": 37929,
-      "title": "我的妹妹哪有这幺可爱。",
+      "title": "我的妹妹哪有这么可爱。",
       "regions": [],
       "regionSource": "official",
       "cnId": 276600,
@@ -74286,9 +74297,9 @@
       "japaneseTitle": "俺の妹がこんなに可愛いわけがない。",
       "originalName": "俺の妹がこんなに可愛いわけがない。",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 37898,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37929&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/37898",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -74324,7 +74335,7 @@
     },
     {
       "intlId": 37930,
-      "title": "我的妹妹哪有这幺可爱！",
+      "title": "我的妹妹哪有这么可爱！",
       "regions": [],
       "regionSource": "official",
       "cnId": 276601,
@@ -74354,9 +74365,9 @@
       "japaneseTitle": "俺の妹がこんなに可愛いわけがない",
       "originalName": "俺の妹がこんなに可愛いわけがない",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 5436,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37930&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/5436",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -76760,7 +76771,7 @@
     },
     {
       "intlId": 1000865,
-      "title": "当我刮掉胡子时，会发生什幺事",
+      "title": "剃须。然后捡到女高中生。",
       "regions": [
         "ID",
         "TH",
@@ -76795,9 +76806,9 @@
       "japaneseTitle": "ひげを剃る。そして女子高生を拾う。",
       "originalName": "ひげを剃る。そして女子高生を拾う。",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 297254,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1000865&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/297254",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -89270,7 +89281,7 @@
     },
     {
       "intlId": 1014306,
-      "title": "剧场编集版 隐瞒之事 -秘密是什幺-",
+      "title": "剧场编集版 隐瞒之事 -秘密是什么-",
       "regions": [],
       "regionSource": "official",
       "cnId": 277168,
@@ -89297,9 +89308,9 @@
       "japaneseTitle": "劇場編集版かくしごと ―ひめごとはなんですか―",
       "originalName": "劇場編集版かくしごと ―ひめごとはなんですか―",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 322349,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1014306&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/322349",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -97328,7 +97339,7 @@
     },
     {
       "intlId": 1035102,
-      "title": "恋上换装娃娃",
+      "title": "更衣人偶坠入爱河",
       "regions": [
         "ID",
         "TH",
@@ -97360,9 +97371,9 @@
       "japaneseTitle": "その着せ替え人形は恋をする",
       "originalName": "その着せ替え人形は恋をする",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 333158,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1035102&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/333158",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -98633,7 +98644,7 @@
     },
     {
       "intlId": 1036815,
-      "title": "艾梅洛二世事件簿-魔眼搜集列车 Grace note-特别篇",
+      "title": "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇",
       "regions": [],
       "regionSource": "official",
       "cnId": 277631,
@@ -98648,7 +98659,8 @@
         "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
         "Lord El-Melloi II`s Case Files: Rail Zeppelin Grace Note",
         "艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-",
-        "艾梅洛二世事件簿-魔眼搜集列车 Grace note-特别篇"
+        "艾梅洛二世事件簿-魔眼搜集列车 Grace note-特别篇",
+        "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇"
       ],
       "catalogCheckedAt": "2026-11-13",
       "regionCheckedAt": "2026-11-13",
@@ -98664,9 +98676,9 @@
       "japaneseTitle": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
       "originalName": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 267732,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1036815&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/340842",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -107884,7 +107896,7 @@
     },
     {
       "intlId": 1058105,
-      "title": "恋上换装娃娃（泰语配音版）",
+      "title": "更衣人偶坠入爱河（泰语配音版）",
       "regions": [
         "TH"
       ],
@@ -107917,9 +107929,9 @@
       "japaneseTitle": "その着せ替え人形は恋をする",
       "originalName": "その着せ替え人形は恋をする",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 333158,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1058105&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/333158",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -109122,7 +109134,7 @@
     },
     {
       "intlId": 1060698,
-      "title": "世界末日与柴犬同行",
+      "title": "世界末日柴犬为伴",
       "regions": [
         "BH",
         "LB",
@@ -109195,9 +109207,9 @@
       "japaneseTitle": "世界の終わりに柴犬と",
       "originalName": "世界の終わりに柴犬と",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 386628,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060698&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss42199",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -109231,7 +109243,7 @@
     },
     {
       "intlId": 1060781,
-      "title": "夜夜猫歌",
+      "title": "关于养猫我一直是新手",
       "regions": [
         "BH",
         "LB",
@@ -109305,9 +109317,9 @@
       "japaneseTitle": "夜は猫といっしょ",
       "originalName": "夜は猫といっしょ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 379456,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060781&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss42406",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -109411,7 +109423,7 @@
     },
     {
       "intlId": 1060924,
-      "title": "在地下城寻求邂逅是否搞错了什幺 第四季",
+      "title": "在地下城寻求邂逅是否搞错了什么 第四季",
       "regions": [
         "ID",
         "TH",
@@ -109450,9 +109462,9 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 326874,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1060924&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/326874",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -110304,7 +110316,7 @@
     },
     {
       "intlId": 1062554,
-      "title": "奇幻世界药局",
+      "title": "异世界药局",
       "regions": [],
       "regionSource": "official",
       "cnId": 277946,
@@ -110330,9 +110342,9 @@
       "japaneseTitle": "異世界薬局",
       "originalName": "異世界薬局",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 342200,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1062554&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/342200",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -110432,7 +110444,7 @@
     },
     {
       "intlId": 1062776,
-      "title": "小恶魔之约",
+      "title": "契约之吻",
       "regions": [],
       "regionSource": "official",
       "cnId": 277948,
@@ -110457,9 +110469,9 @@
       "japaneseTitle": "Engage Kiss",
       "originalName": "Engage Kiss",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页与用户确认译名",
       "bangumiId": 375817,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1062776&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/media/md28338525/",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -118194,7 +118206,7 @@
     },
     {
       "intlId": 2069402,
-      "title": "烙印勇士 黄金时代篇 MEMORIAL EDITION",
+      "title": "剑风传奇 黄金时代篇 MEMORIAL EDITION",
       "regions": [],
       "regionSource": "official",
       "cnId": 278009,
@@ -118221,9 +118233,9 @@
       "japaneseTitle": "ベルセルク 黄金時代篇 MEMORIAL EDITION",
       "originalName": "ベルセルク 黄金時代篇 MEMORIAL EDITION",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 388981,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2069402&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/388981",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -124256,7 +124268,7 @@
     },
     {
       "intlId": 2076190,
-      "title": "关喵什幺事",
+      "title": "关喵什么事",
       "regions": [
         "MO",
         "TW",
@@ -124305,9 +124317,9 @@
       "japaneseTitle": null,
       "originalName": "关喵什么事",
       "originalNameStatus": "non-japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 405267,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2076190&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ep708725",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -125983,7 +125995,7 @@
     },
     {
       "intlId": 2078782,
-      "title": "为美好的世界献上爆炎！",
+      "title": "为美好的世界献上爆焰！",
       "regions": [],
       "regionSource": "official",
       "cnId": 278106,
@@ -126010,9 +126022,9 @@
       "japaneseTitle": "この素晴らしい世界に爆焔を！",
       "originalName": "この素晴らしい世界に爆焔を！",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 385209,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2078782&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss46508",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -126180,7 +126192,7 @@
     },
     {
       "intlId": 2079053,
-      "title": "鬼灭之刃 锻刀村篇",
+      "title": "鬼灭之刃 刀匠村篇",
       "regions": [
         "ID",
         "TH",
@@ -126213,9 +126225,9 @@
       "japaneseTitle": "鬼滅の刃 刀鍛冶の里編",
       "originalName": "鬼滅の刃 刀鍛冶の里編",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 369768,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2079053&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss44860",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -128435,7 +128447,7 @@
     },
     {
       "intlId": 2082414,
-      "title": "鬼灭之刃 锻刀村篇（泰语配音版）",
+      "title": "鬼灭之刃 刀匠村篇（泰语配音版）",
       "regions": [
         "TH"
       ],
@@ -128468,9 +128480,9 @@
       "japaneseTitle": "鬼滅の刃 刀鍛冶の里編",
       "originalName": "鬼滅の刃 刀鍛冶の里編",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 369768,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2082414&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss44860",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -128712,7 +128724,7 @@
     },
     {
       "intlId": 2082866,
-      "title": "鬼灭之刃 锻刀村篇（印尼语配音版）",
+      "title": "鬼灭之刃 刀匠村篇（印尼语配音版）",
       "regions": [
         "ID"
       ],
@@ -128745,9 +128757,9 @@
       "japaneseTitle": "鬼滅の刃 刀鍛冶の里編",
       "originalName": "鬼滅の刃 刀鍛冶の里編",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 369768,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2082866&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss44860",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -128784,7 +128796,7 @@
     },
     {
       "intlId": 2082964,
-      "title": "鬼灭之刃 锻刀村篇",
+      "title": "鬼灭之刃 刀匠村篇（越南语配音版）",
       "regions": [
         "VN"
       ],
@@ -128816,9 +128828,9 @@
       "japaneseTitle": "鬼滅の刃 刀鍛冶の里編",
       "originalName": "鬼滅の刃 刀鍛冶の里編",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 369768,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2082964&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss44860",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -151174,7 +151186,7 @@
     },
     {
       "intlId": 2116146,
-      "title": "香格里拉·开拓异境～粪作猎手挑战神作～ 第二季",
+      "title": "香格里拉边境 第二季",
       "regions": [
         "ID",
         "TH",
@@ -151211,9 +151223,9 @@
       "japaneseTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalName": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 487684,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116146&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss68587",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -151656,7 +151668,7 @@
     },
     {
       "intlId": 2116759,
-      "title": "在地下城寻求邂逅是否搞错了什幺 第五季",
+      "title": "在地下城寻求邂逅是否搞错了什么 第五季",
       "regions": [
         "ID",
         "TH",
@@ -151692,9 +151704,9 @@
       "japaneseTitle": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
       "originalName": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 463778,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2116759&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/463778",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -153899,7 +153911,7 @@
     },
     {
       "intlId": 2118582,
-      "title": "超自然武装当哒当（泰语配音版）",
+      "title": "胆大党（泰语配音版）",
       "regions": [
         "TH"
       ],
@@ -153933,9 +153945,9 @@
       "japaneseTitle": "ダンダダン",
       "originalName": "ダンダダン",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 467461,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2118582&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss48744",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -154335,7 +154347,7 @@
     },
     {
       "intlId": 2118988,
-      "title": "超自然武装当哒当（印尼语配音版）",
+      "title": "胆大党（印尼语配音版）",
       "regions": [
         "ID"
       ],
@@ -154369,9 +154381,9 @@
       "japaneseTitle": "ダンダダン",
       "originalName": "ダンダダン",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 467461,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2118988&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss48744",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -154533,7 +154545,7 @@
     },
     {
       "intlId": 2121485,
-      "title": "香格里拉·开拓异境～粪作猎手挑战神作～ 第二季（泰语配音版）",
+      "title": "香格里拉边境 第二季（泰语配音版）",
       "regions": [
         "TH"
       ],
@@ -154570,9 +154582,9 @@
       "japaneseTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalName": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 487684,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2121485&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss68587",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -154606,7 +154618,7 @@
     },
     {
       "intlId": 2121610,
-      "title": "香格里拉·开拓异境～粪作猎手挑战神作～ 第二季（印尼语配音版）",
+      "title": "香格里拉边境 第二季（印尼语配音版）",
       "regions": [
         "ID"
       ],
@@ -154643,9 +154655,9 @@
       "japaneseTitle": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalName": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 487684,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2121610&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss68587",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -161316,7 +161328,7 @@
     },
     {
       "intlId": 2126684,
-      "title": "魔女守护者",
+      "title": "魔女与使魔",
       "regions": [
         "ID",
         "TH",
@@ -161347,9 +161359,9 @@
       "japaneseTitle": "ウィッチウォッチ",
       "originalName": "ウィッチウォッチ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 506672,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2126684&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss91466",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -162759,7 +162771,7 @@
     },
     {
       "intlId": 2247104,
-      "title": "无职英雄 ～技能什幺的毫无用处～",
+      "title": "无职英雄 ～技能什么的毫无用处～",
       "regions": [
         "ID",
         "TH",
@@ -162790,9 +162802,9 @@
       "japaneseTitle": "無職の英雄 ～別にスキルなんか要らなかったんだが～",
       "originalName": "無職の英雄 ～別にスキルなんか要らなかったんだが～",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "Bangumi 核对中文译名",
       "bangumiId": 458125,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2247104&s_locale=zh_CN",
+      "nameSourceUrl": "https://bgm.tv/subject/458125",
       "release": {
         "status": "aired",
         "confirmed": true,
@@ -170424,7 +170436,7 @@
     },
     {
       "intlId": 2128308,
-      "title": "魔女守护者（泰语配音版）",
+      "title": "魔女与使魔（泰语配音版）",
       "regions": [
         "TH"
       ],
@@ -170455,9 +170467,9 @@
       "japaneseTitle": "ウィッチウォッチ",
       "originalName": "ウィッチウォッチ",
       "originalNameStatus": "japanese",
-      "nameSource": "B站国际版官方简体中文",
+      "nameSource": "B站作品页中文译名",
       "bangumiId": 506672,
-      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2128308&s_locale=zh_CN",
+      "nameSourceUrl": "https://www.bilibili.com/bangumi/play/ss91466",
       "release": {
         "status": "aired",
         "confirmed": true,
