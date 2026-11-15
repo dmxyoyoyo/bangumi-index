@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-14T17:27:30.479Z",
+    "lastSuccessfulRefresh": "2026-11-15T02:44:27.981Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -800,6 +800,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "機甲",
+          "科幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114207,
+      "title": "至高之力",
+      "officialTitle": "至高之力",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "japaneseTitle": "バーテックスフォース",
+      "originalTitle": "バーテックスフォース",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/636512",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+    },
+    {
+      "classification": {
+        "attributes": [
           "冒險",
           "魔法",
           "奇幻"
@@ -819,7 +846,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/606716",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114210"
@@ -849,37 +876,10 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114219",
       "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114219"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "機甲",
-          "科幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114207,
-      "title": "至高之力",
-      "officialTitle": "至高之力",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "japaneseTitle": "バーテックスフォース",
-      "originalTitle": "バーテックスフォース",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/636512",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114207",
-      "date": "2026/10",
       "episodes": 7,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114207"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114219"
     },
     {
       "classification": {
@@ -5420,8 +5420,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -9657,8 +9657,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -11696,8 +11696,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -14489,8 +14489,8 @@
           "戀愛",
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -16515,8 +16515,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影",
@@ -17299,8 +17299,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -18420,8 +18420,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -37464,8 +37464,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -40973,8 +40973,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -48130,8 +48130,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越"
         ],
         "types": [
@@ -48587,8 +48587,8 @@
     {
       "classification": {
         "attributes": [
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -49771,8 +49771,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -51737,8 +51737,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -52088,8 +52088,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"

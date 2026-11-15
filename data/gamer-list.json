@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-14T17:27:30.479Z"
+    "lastSuccessfulRefresh": "2026-11-15T02:44:27.981Z"
   },
   "items": [
     {
@@ -540,6 +540,25 @@
       "score": 4.8
     },
     {
+      "acgSn": 150486,
+      "animeSn": 114207,
+      "videoSn": 51779,
+      "title": "至高之力",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
+      "dateInfo": "年份：2026/10",
+      "totalEpisode": 7,
+      "popular": 72954,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.2
+    },
+    {
       "acgSn": 148164,
       "animeSn": 114210,
       "videoSn": 51787,
@@ -548,7 +567,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/64/0000148164.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 459835,
       "highlightTag": {
         "bilingual": false,
@@ -567,7 +586,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/70/0000153870.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 36006,
       "highlightTag": {
         "bilingual": false,
@@ -576,25 +595,6 @@
         "newArrival": false
       },
       "score": 4.8
-    },
-    {
-      "acgSn": 150486,
-      "animeSn": 114207,
-      "videoSn": 51779,
-      "title": "至高之力",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000150486.JPG",
-      "dateInfo": "年份：2026/10",
-      "totalEpisode": 7,
-      "popular": 72954,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.2
     },
     {
       "acgSn": 148138,
