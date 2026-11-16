@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-11-15T18:04:57.972Z",
-    "lastRefreshAttempt": "2026-11-15T18:04:57.972Z",
+    "lastSuccessfulRefresh": "2026-11-16T03:02:37.104Z",
+    "lastRefreshAttempt": "2026-11-16T03:02:37.104Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -101739,7 +101739,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-09",
+        "date": "2022-01-10",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1044748&s_locale=zh_CN",
         "checkedAt": "2026-11-16",

@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-15T17:57:16.012Z"
+    "lastSuccessfulRefresh": "2026-11-16T02:54:19.737Z"
   },
   "items": [
     {
@@ -445,25 +445,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 150292,
-      "animeSn": 114181,
-      "videoSn": 51819,
-      "title": "轉生哥布林有問題嗎？",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000150292.JPG",
-      "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
-      "popular": 335022,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.4
-    },
-    {
       "acgSn": 150424,
       "animeSn": 114216,
       "videoSn": 51806,
@@ -481,6 +462,25 @@
         "newArrival": false
       },
       "score": 3.9
+    },
+    {
+      "acgSn": 150292,
+      "animeSn": 114181,
+      "videoSn": 51819,
+      "title": "轉生哥布林有問題嗎？",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000150292.JPG",
+      "dateInfo": "年份：2026/10",
+      "totalEpisode": 6,
+      "popular": 335022,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.4
     },
     {
       "acgSn": 145035,
@@ -15018,6 +15018,25 @@
       "score": 4.3
     },
     {
+      "acgSn": 127810,
+      "animeSn": 113331,
+      "videoSn": 34789,
+      "title": "文豪野犬 第四季",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000127810.JPG",
+      "dateInfo": "年份：2023/01",
+      "totalEpisode": 13,
+      "popular": 636143,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
+    },
+    {
       "acgSn": 126352,
       "animeSn": 113187,
       "videoSn": 32328,
@@ -15047,25 +15066,6 @@
       "dateInfo": "年份：2023/01",
       "totalEpisode": 12,
       "popular": 1277363,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
-      "acgSn": 127810,
-      "animeSn": 113331,
-      "videoSn": 34789,
-      "title": "文豪野犬 第四季",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000127810.JPG",
-      "dateInfo": "年份：2023/01",
-      "totalEpisode": 13,
-      "popular": 636143,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
@@ -23359,25 +23359,6 @@
       "score": 4.1
     },
     {
-      "acgSn": 102477,
-      "animeSn": 113066,
-      "videoSn": 29922,
-      "title": "炎炎消防隊",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
-      "dateInfo": "年份：2019/07",
-      "totalEpisode": 24,
-      "popular": 1578743,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 102289,
       "animeSn": 102289,
       "videoSn": 12651,
@@ -23414,6 +23395,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 102477,
+      "animeSn": 113066,
+      "videoSn": 29922,
+      "title": "炎炎消防隊",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
+      "dateInfo": "年份：2019/07",
+      "totalEpisode": 24,
+      "popular": 1578743,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 104065,

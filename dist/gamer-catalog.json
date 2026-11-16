@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-15T17:57:16.012Z",
+    "lastSuccessfulRefresh": "2026-11-16T02:54:19.737Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -662,34 +662,6 @@
           "冒險",
           "異世界",
           "奇幻",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114181,
-      "title": "转生哥布林有问题吗？",
-      "officialTitle": "轉生哥布林有問題嗎？",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000150292.JPG",
-      "japaneseTitle": "転生ゴブリンだけど質問ある？",
-      "originalTitle": "転生ゴブリンだけど質問ある？",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/634587",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/634587",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114181"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
-          "異世界",
-          "奇幻",
           "戀愛"
         ],
         "types": [],
@@ -711,6 +683,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114216"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "異世界",
+          "奇幻",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114181,
+      "title": "转生哥布林有问题吗？",
+      "officialTitle": "轉生哥布林有問題嗎？",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/92/0000150292.JPG",
+      "japaneseTitle": "転生ゴブリンだけど質問ある？",
+      "originalTitle": "転生ゴブリンだけど質問ある？",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/634587",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/634587",
+      "date": "2026/10",
+      "episodes": 6,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114181"
     },
     {
       "classification": {
@@ -22276,6 +22276,32 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "超能力"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113331,
+      "title": "文豪野犬 第四季",
+      "officialTitle": "文豪野犬 第四季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000127810.JPG",
+      "japaneseTitle": "文豪ストレイドッグス 第4シーズン",
+      "originalTitle": "文豪ストレイドッグス 第4シーズン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/356413",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/356413",
+      "date": "2023/01",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113331"
+    },
+    {
+      "classification": {
+        "attributes": [
           "冒險",
           "異世界",
           "奇幻",
@@ -22328,32 +22354,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113188"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "超能力"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113331,
-      "title": "文豪野犬 第四季",
-      "officialTitle": "文豪野犬 第四季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000127810.JPG",
-      "japaneseTitle": "文豪ストレイドッグス 第4シーズン",
-      "originalTitle": "文豪ストレイドッグス 第4シーズン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/356413",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/356413",
-      "date": "2023/01",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113331"
     },
     {
       "classification": {
@@ -34708,32 +34708,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "超能力"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113066,
-      "title": "炎炎消防队",
-      "officialTitle": "炎炎消防隊",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
-      "japaneseTitle": "炎炎ノ消防隊",
-      "originalTitle": "炎炎ノ消防隊",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/266372",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/266372",
-      "date": "2019/07",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "喜劇"
         ],
@@ -34785,6 +34759,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=102494"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "超能力"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113066,
+      "title": "炎炎消防队",
+      "officialTitle": "炎炎消防隊",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000102477.JPG",
+      "japaneseTitle": "炎炎ノ消防隊",
+      "originalTitle": "炎炎ノ消防隊",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/266372",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/266372",
+      "date": "2019/07",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113066"
     },
     {
       "classification": {
