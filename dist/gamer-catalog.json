@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1917,
-    "lastSuccessfulRefresh": "2026-11-17T05:16:21.589Z",
+    "lastSuccessfulRefresh": "2026-11-17T20:10:27.120Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -30,7 +30,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114188",
       "date": "2026/10",
-      "episodes": 5,
+      "episodes": 6,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114188"
@@ -398,7 +398,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114185",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114185"
@@ -434,33 +434,6 @@
     {
       "classification": {
         "attributes": [
-          "奇幻",
-          "競技",
-          "歷史"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114183,
-      "title": "Battle Spirits [Re] 绝界之空",
-      "officialTitle": "Battle Spirits [Re] 絕界之空",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000153887.JPG",
-      "japaneseTitle": "Battle Spirits [Re] 絶界の空",
-      "originalTitle": "Battle Spirits [Re] 絶界の空",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=153887",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114183",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114183"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "冒險",
           "異世界",
@@ -482,7 +455,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/624085",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114186"
@@ -490,87 +463,29 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險",
-          "魔法",
           "奇幻",
-          "喜劇",
-          "勵志"
+          "競技",
+          "歷史"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 114184,
-      "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-      "officialTitle": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000149687.JPG",
-      "japaneseTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
-      "originalTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+      "id": 114183,
+      "title": "Battle Spirits [Re] 绝界之空",
+      "officialTitle": "Battle Spirits [Re] 絕界之空",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000153887.JPG",
+      "japaneseTitle": "Battle Spirits [Re] 絶界の空",
+      "originalTitle": "Battle Spirits [Re] 絶界の空",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/625799",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/625799",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114184"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "超能力",
-          "喜劇",
-          "職場"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114182,
-      "title": "超巡！超条前辈",
-      "officialTitle": "超巡！超條前輩",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000147753.JPG",
-      "japaneseTitle": "超巡！超条先輩",
-      "originalTitle": "超巡！超条先輩",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=147753",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=153887",
       "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114182",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114183",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114182"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
-          "喜劇",
-          "戀愛",
-          "青春"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114187,
-      "title": "冷淡的佐藤同学只对我撒娇",
-      "officialTitle": "冷淡的佐藤同學只對我撒嬌",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000150438.JPG",
-      "japaneseTitle": "塩対応の佐藤さんが俺にだけ甘い",
-      "originalTitle": "塩対応の佐藤さんが俺にだけ甘い",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=150438",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114187",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114187"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114183"
     },
     {
       "classification": {
@@ -605,8 +520,93 @@
       "classification": {
         "attributes": [
           "校園",
+          "戀愛",
+          "青春",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114187,
+      "title": "冷淡的佐藤同学只对我撒娇",
+      "officialTitle": "冷淡的佐藤同學只對我撒嬌",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/38/0000150438.JPG",
+      "japaneseTitle": "塩対応の佐藤さんが俺にだけ甘い",
+      "originalTitle": "塩対応の佐藤さんが俺にだけ甘い",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=150438",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114187",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114187"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "超能力",
           "喜劇",
-          "青春"
+          "職場"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114182,
+      "title": "超巡！超条前辈",
+      "officialTitle": "超巡！超條前輩",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000147753.JPG",
+      "japaneseTitle": "超巡！超条先輩",
+      "originalTitle": "超巡！超条先輩",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=147753",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114182",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114182"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "魔法",
+          "奇幻",
+          "喜劇",
+          "勵志"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114184,
+      "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+      "officialTitle": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/87/0000149687.JPG",
+      "japaneseTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+      "originalTitle": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/625799",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/625799",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114184"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "校園",
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -745,8 +745,8 @@
       "classification": {
         "attributes": [
           "異世界",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -939,33 +939,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "戰爭"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114204,
-      "title": "The Anime「幻想水浒传」",
-      "officialTitle": "The Anime「幻想水滸傳」",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000144043.JPG",
-      "japaneseTitle": "幻想水滸伝",
-      "originalTitle": "幻想水滸伝",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=144043",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114204",
-      "date": "2026/10",
-      "episodes": 6,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114204"
-    },
-    {
-      "classification": {
-        "attributes": [
           "科幻",
           "喜劇"
         ],
@@ -1017,6 +990,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114206"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "戰爭"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114204,
+      "title": "The Anime「幻想水浒传」",
+      "officialTitle": "The Anime「幻想水滸傳」",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/43/0000144043.JPG",
+      "japaneseTitle": "幻想水滸伝",
+      "originalTitle": "幻想水滸伝",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=144043",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114204",
+      "date": "2026/10",
+      "episodes": 7,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114204"
     },
     {
       "classification": {
@@ -1218,8 +1218,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "BL"
         ],
         "types": [],
@@ -1333,8 +1333,8 @@
         "attributes": [
           "奇幻",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -1676,8 +1676,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "悠閒",
           "運動"
         ],
@@ -1748,7 +1748,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114236",
       "date": "2026/07",
-      "episodes": 19,
+      "episodes": 20,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114236"
@@ -1930,9 +1930,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -1958,8 +1958,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -2265,8 +2265,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "親情"
         ],
@@ -2377,9 +2377,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -2487,9 +2487,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -2740,9 +2740,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -2823,8 +2823,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -2853,8 +2853,8 @@
           "動作",
           "超能力",
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "親情"
         ],
         "types": [],
@@ -2882,8 +2882,8 @@
         "attributes": [
           "動作",
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -2909,8 +2909,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -3074,8 +3074,8 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "黑暗"
         ],
         "types": [],
@@ -3132,34 +3132,6 @@
     {
       "classification": {
         "attributes": [
-          "青春",
-          "勵志",
-          "感人",
-          "職場"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114008,
-      "title": "左撇子艾伦",
-      "officialTitle": "左撇子艾倫",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/25/0000128925.JPG",
-      "japaneseTitle": "左ききのエレン",
-      "originalTitle": "左ききのエレン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/409468",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114008",
-      "date": "2026/04",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114008"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "冒險",
           "異世界",
@@ -3191,8 +3163,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -3246,9 +3218,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -3271,6 +3243,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114014"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "青春",
+          "勵志",
+          "感人",
+          "職場"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114008,
+      "title": "左撇子艾伦",
+      "officialTitle": "左撇子艾倫",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/25/0000128925.JPG",
+      "japaneseTitle": "左ききのエレン",
+      "originalTitle": "左ききのエレン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/409468",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114008",
+      "date": "2026/04",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114008"
     },
     {
       "classification": {
@@ -3303,9 +3303,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -3357,6 +3357,34 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "超能力",
+          "戀愛",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 114037,
+      "title": "婚姻剧毒",
+      "officialTitle": "婚姻劇毒",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/55/0000147555.JPG",
+      "japaneseTitle": "マリッジトキシン",
+      "originalTitle": "マリッジトキシン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/590353",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/590353",
+      "date": "2026/04",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114037"
+    },
+    {
+      "classification": {
+        "attributes": [
           "校園",
           "戀愛",
           "青春"
@@ -3382,34 +3410,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114059"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "超能力",
-          "喜劇",
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 114037,
-      "title": "婚姻剧毒",
-      "officialTitle": "婚姻劇毒",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/55/0000147555.JPG",
-      "japaneseTitle": "マリッジトキシン",
-      "originalTitle": "マリッジトキシン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/590353",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/590353",
-      "date": "2026/04",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=114037"
     },
     {
       "classification": {
@@ -3475,9 +3475,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -3535,9 +3535,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [
           "泡麵番"
@@ -3565,9 +3565,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -3939,9 +3939,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "感人"
         ],
         "types": [],
@@ -4104,9 +4104,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "BL"
         ],
         "types": [],
@@ -4189,8 +4189,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -4391,8 +4391,8 @@
           "冒險",
           "魔法",
           "奇幻",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人"
         ],
         "types": [],
@@ -4558,9 +4558,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -4645,10 +4645,10 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
-          "勵志",
-          "溫馨"
+          "喜劇",
+          "溫馨",
+          "勵志"
         ],
         "types": [],
         "audiences": [
@@ -4735,8 +4735,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "偶像"
         ],
         "types": [],
@@ -5221,9 +5221,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5281,8 +5281,8 @@
           "冒險",
           "異世界",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5364,9 +5364,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5392,8 +5392,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -5475,9 +5475,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5560,8 +5560,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "偶像",
           "音樂"
         ],
@@ -5616,8 +5616,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5866,8 +5866,8 @@
         "attributes": [
           "異世界",
           "奇幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "黑暗"
         ],
         "types": [],
@@ -5894,8 +5894,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5949,9 +5949,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -5968,7 +5968,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/507634",
       "date": "2025/10",
-      "episodes": 19,
+      "episodes": 20,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113878"
@@ -6143,8 +6143,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -6251,9 +6251,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -6307,8 +6307,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -6478,8 +6478,8 @@
         "attributes": [
           "動作",
           "奇幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "血腥暴力"
         ],
         "types": [],
@@ -6643,8 +6643,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -6728,8 +6728,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -6755,8 +6755,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "勵志",
           "職場"
         ],
@@ -6899,9 +6899,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "溫馨"
         ],
         "types": [],
@@ -7235,8 +7235,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -7263,8 +7263,8 @@
         "attributes": [
           "動作",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -7486,8 +7486,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "親情"
         ],
@@ -7655,8 +7655,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "悠閒",
           "運動"
         ],
@@ -7766,9 +7766,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -7876,8 +7876,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -8095,8 +8095,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -8151,9 +8151,9 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "悠閒",
           "懸疑"
         ],
@@ -8208,8 +8208,8 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "懸疑"
         ],
         "types": [],
@@ -8296,9 +8296,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "溫馨"
         ],
         "types": [],
@@ -8386,9 +8386,9 @@
           "奇幻",
           "超能力",
           "科幻",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "血腥暴力",
           "靈異神怪"
         ],
@@ -8417,9 +8417,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -9127,8 +9127,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "勵志",
           "溫馨",
+          "勵志",
           "職場"
         ],
         "types": [
@@ -9158,8 +9158,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨"
         ],
         "types": [],
@@ -9295,8 +9295,8 @@
         "attributes": [
           "科幻",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [
           "泡麵番"
@@ -9350,8 +9350,8 @@
       "classification": {
         "attributes": [
           "異世界",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -9489,8 +9489,8 @@
           "魔法",
           "奇幻",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -9681,10 +9681,10 @@
     {
       "classification": {
         "attributes": [
-          "勵志",
           "溫馨",
-          "感人",
-          "親情"
+          "勵志",
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -9712,9 +9712,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -9872,7 +9872,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114240",
       "date": "2025/04",
-      "episodes": 24,
+      "episodes": 36,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114240"
@@ -10425,8 +10425,8 @@
           "冒險",
           "異世界",
           "奇幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "料理",
           "悠閒"
         ],
@@ -10538,9 +10538,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "勵志",
           "感人"
         ],
@@ -10679,8 +10679,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -10763,8 +10763,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -10819,8 +10819,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -10846,9 +10846,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -10874,8 +10874,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -11417,8 +11417,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "溫馨",
           "靈異神怪"
         ],
@@ -11694,8 +11694,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "悠閒"
         ],
@@ -11724,8 +11724,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -11751,8 +11751,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -11778,9 +11778,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -12112,9 +12112,9 @@
           "奇幻",
           "超能力",
           "科幻",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "血腥暴力",
           "靈異神怪"
         ],
@@ -12201,8 +12201,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "職場"
         ],
@@ -12289,9 +12289,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -12555,8 +12555,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "勵志",
           "音樂"
         ],
@@ -12737,9 +12737,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -13319,32 +13319,6 @@
     {
       "classification": {
         "attributes": [
-          "運動",
-          "競技"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113593,
-      "title": "卡片战斗!! 先导者 Divinez 第二季",
-      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000138936.JPG",
-      "japaneseTitle": "カードファイト!! ヴァンガード Divinez Season2",
-      "originalTitle": "カードファイト!! ヴァンガード Divinez Season2",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/440879",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113593",
-      "date": "2024/07",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113593"
-    },
-    {
-      "classification": {
-        "attributes": [
           "科幻",
           "特攝"
         ],
@@ -13372,6 +13346,32 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113574"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "運動",
+          "競技"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113593,
+      "title": "卡片战斗!! 先导者 Divinez 第二季",
+      "officialTitle": "卡片戰鬥!! 先導者 Divinez 第二季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/36/0000138936.JPG",
+      "japaneseTitle": "カードファイト!! ヴァンガード Divinez Season2",
+      "originalTitle": "カードファイト!! ヴァンガード Divinez Season2",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/440879",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113593",
+      "date": "2024/07",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113593"
     },
     {
       "classification": {
@@ -13404,9 +13404,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -13432,9 +13432,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -13603,9 +13603,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -13885,8 +13885,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "勵志",
           "音樂"
         ],
@@ -14233,8 +14233,8 @@
           "動作",
           "奇幻",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -14260,8 +14260,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "偶像",
           "職場"
         ],
@@ -14343,8 +14343,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "運動",
           "競技"
         ],
@@ -14375,8 +14375,8 @@
           "異世界",
           "魔法",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -14402,8 +14402,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -14488,8 +14488,8 @@
           "動作",
           "超能力",
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "親情"
         ],
         "types": [],
@@ -14544,12 +14544,12 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "悠閒",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -14715,8 +14715,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "溫馨",
           "悠閒"
         ],
@@ -14743,30 +14743,30 @@
     {
       "classification": {
         "attributes": [
-          "青春",
+          "溫馨",
           "勵志",
-          "偶像",
-          "音樂"
+          "運動",
+          "競技"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 113525,
-      "title": "偶像大师 闪耀色彩",
-      "officialTitle": "偶像大師 閃耀色彩",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000131061.JPG",
-      "japaneseTitle": "アイドルマスター シャイニーカラーズ",
-      "originalTitle": "アイドルマスター シャイニーカラーズ",
+      "id": 113508,
+      "title": "蜻蛉高球",
+      "officialTitle": "蜻蛉高球",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/18/0000137918.JPG",
+      "japaneseTitle": "オーイ！とんぼ",
+      "originalTitle": "オーイ！とんぼ",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/425222",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113525",
+      "originalSourceUrl": "https://bgm.tv/subject/433072",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/433072",
       "date": "2024/04",
-      "episodes": 12,
+      "episodes": 26,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113525"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113508"
     },
     {
       "classification": {
@@ -14798,30 +14798,30 @@
     {
       "classification": {
         "attributes": [
+          "青春",
           "勵志",
-          "溫馨",
-          "運動",
-          "競技"
+          "偶像",
+          "音樂"
         ],
         "types": [],
         "audiences": []
       },
       "contentType": "animation",
-      "id": 113508,
-      "title": "蜻蛉高球",
-      "officialTitle": "蜻蛉高球",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/18/0000137918.JPG",
-      "japaneseTitle": "オーイ！とんぼ",
-      "originalTitle": "オーイ！とんぼ",
+      "id": 113525,
+      "title": "偶像大师 闪耀色彩",
+      "officialTitle": "偶像大師 閃耀色彩",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/61/0000131061.JPG",
+      "japaneseTitle": "アイドルマスター シャイニーカラーズ",
+      "originalTitle": "アイドルマスター シャイニーカラーズ",
       "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/433072",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/433072",
+      "originalSourceUrl": "https://bgm.tv/subject/425222",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113525",
       "date": "2024/04",
-      "episodes": 26,
+      "episodes": 12,
       "bilingual": false,
       "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113508"
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113525"
     },
     {
       "classification": {
@@ -14857,8 +14857,8 @@
           "冒險",
           "魔法",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -14998,8 +14998,8 @@
       "classification": {
         "attributes": [
           "科幻",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "料理",
           "悠閒"
         ],
@@ -15531,8 +15531,8 @@
       "classification": {
         "attributes": [
           "科幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -15557,8 +15557,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "職場",
           "BL"
         ],
@@ -15700,9 +15700,9 @@
         "attributes": [
           "超能力",
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -16009,9 +16009,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -16485,8 +16485,8 @@
       "classification": {
         "attributes": [
           "異世界",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [
           "電影"
@@ -16515,8 +16515,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影",
@@ -16609,8 +16609,8 @@
     {
       "classification": {
         "attributes": [
-          "勵志",
           "溫馨",
+          "勵志",
           "職場"
         ],
         "types": [
@@ -16846,8 +16846,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "音樂"
         ],
         "types": [],
@@ -17015,8 +17015,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -17179,8 +17179,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "勵志",
           "溫馨",
+          "勵志",
           "職場"
         ],
         "types": [
@@ -17211,8 +17211,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -17299,8 +17299,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -17660,8 +17660,8 @@
           "異世界",
           "魔法",
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "GL"
         ],
         "types": [],
@@ -18008,6 +18008,34 @@
     {
       "classification": {
         "attributes": [
+          "運動",
+          "競技"
+        ],
+        "types": [],
+        "audiences": [
+          "闔家觀賞"
+        ]
+      },
+      "contentType": "animation",
+      "id": 113381,
+      "title": "队长小翼 Season2 青少年篇",
+      "officialTitle": "隊長小翼 Season2 青少年篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/13/0000131113.JPG",
+      "japaneseTitle": "キャプテン翼シーズン2 ジュニアユース編",
+      "originalTitle": "キャプテン翼シーズン2 ジュニアユース編",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131113",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113381",
+      "date": "2023/10",
+      "episodes": 39,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113381"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "冒險",
           "奇幻"
@@ -18033,34 +18061,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113380"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "運動",
-          "競技"
-        ],
-        "types": [],
-        "audiences": [
-          "闔家觀賞"
-        ]
-      },
-      "contentType": "animation",
-      "id": 113381,
-      "title": "队长小翼 Season2 青少年篇",
-      "officialTitle": "隊長小翼 Season2 青少年篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/13/0000131113.JPG",
-      "japaneseTitle": "キャプテン翼シーズン2 ジュニアユース編",
-      "originalTitle": "キャプテン翼シーズン2 ジュニアユース編",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=131113",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113381",
-      "date": "2023/10",
-      "episodes": 39,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113381"
     },
     {
       "classification": {
@@ -18121,8 +18121,8 @@
           "冒險",
           "魔法",
           "奇幻",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人"
         ],
         "types": [
@@ -18390,8 +18390,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -18420,8 +18420,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -18557,8 +18557,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -18584,8 +18584,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -18862,9 +18862,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -19086,9 +19086,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -19823,8 +19823,8 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [],
         "audiences": []
@@ -20371,8 +20371,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -20538,8 +20538,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -20730,8 +20730,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -20811,8 +20811,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [
           "電影"
@@ -20869,9 +20869,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -21377,8 +21377,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "靈異神怪"
         ],
         "types": [],
@@ -21542,9 +21542,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -22685,8 +22685,8 @@
       "classification": {
         "attributes": [
           "科幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -22711,8 +22711,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "青春",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -22849,8 +22849,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "勵志",
           "音樂"
         ],
@@ -23197,8 +23197,8 @@
         "attributes": [
           "動作",
           "超能力",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人",
           "靈異神怪"
         ],
@@ -23644,8 +23644,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "悠閒"
         ],
         "types": [],
@@ -23734,8 +23734,8 @@
         "attributes": [
           "異世界",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -24152,8 +24152,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -24403,8 +24403,8 @@
           "動作",
           "奇幻",
           "科幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -24482,9 +24482,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -24716,9 +24716,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [
           "電影"
@@ -25243,8 +25243,8 @@
         "attributes": [
           "動作",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -25324,8 +25324,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -25411,8 +25411,8 @@
       "classification": {
         "attributes": [
           "動作",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "特攝"
         ],
         "types": [],
@@ -25828,8 +25828,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [
           "OVA"
@@ -26560,9 +26560,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -26617,8 +26617,8 @@
         "attributes": [
           "校園",
           "青春",
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [],
         "audiences": []
@@ -26725,9 +26725,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -27120,8 +27120,8 @@
     {
       "classification": {
         "attributes": [
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [
           "電影"
@@ -27302,8 +27302,8 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [],
         "audiences": []
@@ -28099,35 +28099,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "魔法",
-          "奇幻"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113546,
-      "title": "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
-      "officialTitle": "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/33/0000115033.JPG",
-      "japaneseTitle": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
-      "originalTitle": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115033",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113546",
-      "date": "2021/08",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113546"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "科幻",
           "特攝"
@@ -28157,6 +28128,35 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113278"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "魔法",
+          "奇幻"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113546,
+      "title": "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
+      "officialTitle": "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/33/0000115033.JPG",
+      "japaneseTitle": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+      "originalTitle": "Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115033",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113546",
+      "date": "2021/08",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113546"
     },
     {
       "classification": {
@@ -28374,8 +28374,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -28401,8 +28401,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -28762,8 +28762,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -28869,8 +28869,8 @@
       "classification": {
         "attributes": [
           "異世界",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -29131,9 +29131,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -29275,8 +29275,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -29937,8 +29937,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -30962,8 +30962,8 @@
       "classification": {
         "attributes": [
           "戀愛",
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [
           "電影"
@@ -32348,9 +32348,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -32766,8 +32766,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -32847,8 +32847,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -33066,8 +33066,8 @@
       "classification": {
         "attributes": [
           "異世界",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -33204,8 +33204,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": [
@@ -33650,8 +33650,8 @@
       "classification": {
         "attributes": [
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -34243,37 +34243,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "校園",
-          "喜劇",
-          "靈異神怪"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 104400,
-      "title": "入间同学入魔了",
-      "officialTitle": "入間同學入魔了！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000104400.JPG",
-      "japaneseTitle": "魔入りました！入間くん",
-      "originalTitle": "魔入りました！入間くん",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/273844",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/273844",
-      "date": "2019/10",
-      "episodes": 23,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=104400"
-    },
-    {
-      "classification": {
-        "attributes": [
           "校園",
           "青春",
           "偶像",
@@ -34302,6 +34271,37 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112785"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "校園",
+          "喜劇",
+          "靈異神怪"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 104400,
+      "title": "入间同学入魔了",
+      "officialTitle": "入間同學入魔了！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/00/0000104400.JPG",
+      "japaneseTitle": "魔入りました！入間くん",
+      "originalTitle": "魔入りました！入間くん",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/273844",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/273844",
+      "date": "2019/10",
+      "episodes": 23,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=104400"
     },
     {
       "classification": {
@@ -35190,9 +35190,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -35516,8 +35516,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -35624,8 +35624,8 @@
         "attributes": [
           "動作",
           "超能力",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人",
           "靈異神怪"
         ],
@@ -35656,9 +35656,9 @@
         "attributes": [
           "科幻",
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -35959,34 +35959,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "血腥暴力",
-          "黑暗"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 94032,
-      "title": "哥布林杀手",
-      "officialTitle": "哥布林殺手",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
-      "japaneseTitle": "ゴブリンスレイヤー",
-      "originalTitle": "ゴブリンスレイヤー",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/238006",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/238006",
-      "date": "2018/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "冒險",
           "異世界",
@@ -36014,6 +35986,34 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112438"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "血腥暴力",
+          "黑暗"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 94032,
+      "title": "哥布林杀手",
+      "officialTitle": "哥布林殺手",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/32/0000094032.JPG",
+      "japaneseTitle": "ゴブリンスレイヤー",
+      "originalTitle": "ゴブリンスレイヤー",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/238006",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/238006",
+      "date": "2018/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=94032"
     },
     {
       "classification": {
@@ -36164,8 +36164,8 @@
           "校園",
           "戀愛",
           "青春",
-          "勵志",
           "溫馨",
+          "勵志",
           "時間穿越"
         ],
         "types": [],
@@ -36483,8 +36483,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
+          "喜劇",
           "靈異神怪"
         ],
         "types": [],
@@ -36536,8 +36536,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "青春",
+          "喜劇",
           "悠閒",
           "運動"
         ],
@@ -37464,8 +37464,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -37605,6 +37605,32 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "戰爭"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112921,
+      "title": "樱花忍法帖",
+      "officialTitle": "櫻花忍法帖",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000090426.JPG",
+      "japaneseTitle": "バジリスク ～桜花忍法帖～",
+      "originalTitle": "バジリスク ～桜花忍法帖～",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/220187",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/220187",
+      "date": "2018/01",
+      "episodes": 24,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112921"
+    },
+    {
+      "classification": {
+        "attributes": [
           "校園",
           "勵志",
           "運動"
@@ -37630,32 +37656,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112589"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "戰爭"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112921,
-      "title": "樱花忍法帖",
-      "officialTitle": "櫻花忍法帖",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/26/0000090426.JPG",
-      "japaneseTitle": "バジリスク ～桜花忍法帖～",
-      "originalTitle": "バジリスク ～桜花忍法帖～",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/220187",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/220187",
-      "date": "2018/01",
-      "episodes": 24,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112921"
     },
     {
       "classification": {
@@ -38112,9 +38112,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -38195,9 +38195,9 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "戀愛",
           "青春",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -40030,9 +40030,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -40336,6 +40336,34 @@
     {
       "classification": {
         "attributes": [
+          "機甲",
+          "科幻",
+          "勵志",
+          "戰爭"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 81653,
+      "title": "机动战士钢弹 铁血孤儿 第二季",
+      "officialTitle": "機動戰士鋼彈 鐵血孤兒 第二季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000081653.JPG",
+      "japaneseTitle": "機動戦士ガンダム 鉄血のオルフェンズ 第二期",
+      "originalTitle": "機動戦士ガンダム 鉄血のオルフェンズ 第二期",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=81653",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=81653",
+      "date": "2016/10",
+      "episodes": 25,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=81653"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "科幻",
           "特攝"
@@ -40364,34 +40392,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=84931"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "機甲",
-          "科幻",
-          "勵志",
-          "戰爭"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 81653,
-      "title": "机动战士钢弹 铁血孤儿 第二季",
-      "officialTitle": "機動戰士鋼彈 鐵血孤兒 第二季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/53/0000081653.JPG",
-      "japaneseTitle": "機動戦士ガンダム 鉄血のオルフェンズ 第二期",
-      "originalTitle": "機動戦士ガンダム 鉄血のオルフェンズ 第二期",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=81653",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=81653",
-      "date": "2016/10",
-      "episodes": 25,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=81653"
     },
     {
       "classification": {
@@ -40453,8 +40453,8 @@
         "attributes": [
           "校園",
           "戀愛",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人"
         ],
         "types": [
@@ -40691,8 +40691,8 @@
         "attributes": [
           "動作",
           "超能力",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人",
           "靈異神怪"
         ],
@@ -40806,9 +40806,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -40944,8 +40944,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": [
@@ -41340,8 +41340,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -42154,35 +42154,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "超能力",
-          "喜劇"
-        ],
-        "types": [
-          "雙語"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 75930,
-      "title": "一拳超人",
-      "officialTitle": "一拳超人",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/30/0000075930.JPG",
-      "japaneseTitle": "ワンパンマン",
-      "originalTitle": "ワンパンマン",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/127563",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/127563",
-      "date": "2015/10",
-      "episodes": 12,
-      "bilingual": true,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=75930"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "科幻",
           "特攝"
         ],
@@ -42210,6 +42181,35 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112505"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "超能力",
+          "喜劇"
+        ],
+        "types": [
+          "雙語"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 75930,
+      "title": "一拳超人",
+      "officialTitle": "一拳超人",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/30/0000075930.JPG",
+      "japaneseTitle": "ワンパンマン",
+      "originalTitle": "ワンパンマン",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/127563",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/127563",
+      "date": "2015/10",
+      "episodes": 12,
+      "bilingual": true,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=75930"
     },
     {
       "classification": {
@@ -42533,8 +42533,8 @@
         "attributes": [
           "冒險",
           "奇幻",
-          "勵志",
           "溫馨",
+          "勵志",
           "感人"
         ],
         "types": [
@@ -44219,8 +44219,8 @@
         "attributes": [
           "奇幻",
           "校園",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -44326,8 +44326,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
+          "喜劇",
           "職場"
         ],
         "types": [],
@@ -45104,8 +45104,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -45763,9 +45763,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -45822,8 +45822,8 @@
         "attributes": [
           "異世界",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -46050,8 +46050,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "勵志",
           "溫馨",
+          "勵志",
           "悠閒",
           "親情"
         ],
@@ -46671,8 +46671,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [
           "OVA"
@@ -47465,8 +47465,8 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -47815,9 +47815,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -47842,8 +47842,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "青春",
+          "喜劇",
           "勵志"
         ],
         "types": [],
@@ -48130,8 +48130,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越"
         ],
         "types": [
@@ -48214,8 +48214,8 @@
     {
       "classification": {
         "attributes": [
-          "喜劇",
           "青春",
+          "喜劇",
           "勵志"
         ],
         "types": [],
@@ -48587,8 +48587,8 @@
     {
       "classification": {
         "attributes": [
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [],
         "audiences": []
@@ -49540,8 +49540,8 @@
     {
       "classification": {
         "attributes": [
-          "勵志",
-          "溫馨"
+          "溫馨",
+          "勵志"
         ],
         "types": [],
         "audiences": []
@@ -49771,8 +49771,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -50289,9 +50289,9 @@
       "classification": {
         "attributes": [
           "校園",
-          "喜劇",
           "戀愛",
-          "青春"
+          "青春",
+          "喜劇"
         ],
         "types": [],
         "audiences": []
@@ -51737,8 +51737,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
           "親情",
+          "感人",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -52088,8 +52088,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "感人",
-          "親情"
+          "親情",
+          "感人"
         ],
         "types": [
           "電影"
@@ -52267,8 +52267,8 @@
           "動作",
           "冒險",
           "奇幻",
-          "喜劇",
-          "戀愛"
+          "戀愛",
+          "喜劇"
         ],
         "types": [
           "雙語"
@@ -53871,7 +53871,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114213",
       "date": "1990/04",
-      "episodes": 35,
+      "episodes": 38,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114213"
