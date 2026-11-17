@@ -1,9 +1,9 @@
 {
   "meta": {
     "checkedAt": "2026-11-17",
-    "partial": true,
+    "partial": false,
     "rateLimited": false,
-    "failedSources": 2
+    "failedSources": 0
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -2521,7 +2521,7 @@
         "https://www.bilibili.com/opus/391033643907861109",
         "https://www.bilibili.com/opus/392516640281633945"
       ],
-      "checkedAt": "2026-11-16"
+      "checkedAt": "2026-11-17"
     },
     "https://www.bilibili.com/read/cv14794306": {
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
@@ -2887,7 +2887,7 @@
       "relatedArticles": [
         "https://www.bilibili.com/opus/396511775907740710"
       ],
-      "checkedAt": "2026-11-16"
+      "checkedAt": "2026-11-17"
     },
     "https://www.bilibili.com/read/cv6295997": {
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
