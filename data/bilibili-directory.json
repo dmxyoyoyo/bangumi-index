@@ -12,7 +12,7 @@
       {
         "type": 4,
         "pages": 39,
-        "total": 1937,
+        "total": 1938,
         "complete": true
       }
     ],
@@ -10632,6 +10632,17 @@
       "mediaId": 281812061,
       "indexShow": "即将开播",
       "firstEpisode": 6252581,
+      "isFinish": false
+    },
+    {
+      "id": 361387,
+      "title": "2026-2027 bilibili国创动画作品发布会",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/7fe9ce1f40bd80d1145989b6dcb73249a8974e3b.png",
+      "type": 4,
+      "sourceType": 4,
+      "mediaId": 525828687,
+      "indexShow": "即将开播",
+      "firstEpisode": 7984394,
       "isFinish": false
     },
     {
@@ -22620,7 +22631,7 @@
       "type": 4,
       "sourceType": 4,
       "mediaId": 28235000,
-      "indexShow": "更新至第1534话",
+      "indexShow": "更新至第1535话",
       "firstEpisode": 416234,
       "isFinish": false
     },
