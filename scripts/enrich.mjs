@@ -39,7 +39,8 @@ for(const item of c.items){const meta=intl[item.intlId],local=zh[item.intlId];le
  if(!name&&isChinese(previous)){name=base(previous);nameSource='历史中文目录';}
  if(!name&&isChinese(meta?.originName)){name=meta.originName;nameSource='B站国际版官方作品原名';}
  if(!name){name=base(local?.title)||base(previous);nameSource='官方名称保留';}
- item.title=(manual[item.intlId]?.title?name:simplify(name)).trim();if(extra&&!item.title.endsWith(extra))item.title+=extra;
+ item.title=(manual[item.intlId]?.title?name:simplify(name)).trim();
+ if(extra&&manual[item.intlId]?.appendDub!==false&&!item.title.endsWith(extra))item.title+=extra;
  item.seaTitle=sea;item.seaTitleSource=meta?.available===false?'历史目录':meta?'官方国际版':'历史目录';
  const original=subject?.name||local?.originName||meta?.originName||null;
  const countryTags=countries[subject?.id]?.tags||[];
