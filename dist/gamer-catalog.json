@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1921,
-    "lastSuccessfulRefresh": "2026-11-19T15:28:56.548Z",
+    "lastSuccessfulRefresh": "2026-11-19T19:59:43.100Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -167,7 +167,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114227",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114227"
@@ -193,7 +193,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114197",
       "date": "2026/10",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114197"
@@ -1068,7 +1068,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114198",
       "date": "2026/10",
-      "episodes": 7,
+      "episodes": 8,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114198"
@@ -1237,7 +1237,7 @@
       "nameSource": "动画疯官方译名（简体转换）",
       "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=114229",
       "date": "2026/08",
-      "episodes": 6,
+      "episodes": 7,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114229"
@@ -2534,7 +2534,7 @@
       "nameSource": "Bangumi",
       "nameSourceUrl": "https://bgm.tv/subject/511177",
       "date": "2026/07",
-      "episodes": 20,
+      "episodes": 21,
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=114118"
@@ -5420,8 +5420,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -9657,8 +9657,8 @@
         "attributes": [
           "勵志",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -11724,8 +11724,8 @@
         "attributes": [
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -14489,8 +14489,8 @@
           "戀愛",
           "溫馨",
           "悠閒",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -14604,33 +14604,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "懸疑"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113690,
-      "title": "乌鸦不择主",
-      "officialTitle": "烏鴉不擇主",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
-      "japaneseTitle": "烏は主を選ばない",
-      "originalTitle": "烏は主を選ばない",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/461338",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113690",
-      "date": "2024/04",
-      "episodes": 20,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113690"
-    },
-    {
-      "classification": {
-        "attributes": [
           "動作",
           "超能力",
           "校園",
@@ -14655,6 +14628,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113528"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "懸疑"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113690,
+      "title": "乌鸦不择主",
+      "officialTitle": "烏鴉不擇主",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
+      "japaneseTitle": "烏は主を選ばない",
+      "originalTitle": "烏は主を選ばない",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/461338",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113690",
+      "date": "2024/04",
+      "episodes": 20,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113690"
     },
     {
       "classification": {
@@ -16515,8 +16515,8 @@
         "attributes": [
           "校園",
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影",
@@ -17299,8 +17299,8 @@
       "classification": {
         "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -18420,8 +18420,8 @@
           "奇幻",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -32957,6 +32957,32 @@
     {
       "classification": {
         "attributes": [
+          "歷史",
+          "戰爭"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 108606,
+      "title": "王者天下 第三季",
+      "officialTitle": "王者天下 第三季",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/06/0000108606.JPG",
+      "japaneseTitle": "キングダム 第3シリーズ",
+      "originalTitle": "キングダム 第3シリーズ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/294288",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=108606",
+      "date": "2020/04",
+      "episodes": 26,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=108606"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "超能力",
           "懸疑",
@@ -32982,32 +33008,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=104281"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "歷史",
-          "戰爭"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 108606,
-      "title": "王者天下 第三季",
-      "officialTitle": "王者天下 第三季",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/06/0000108606.JPG",
-      "japaneseTitle": "キングダム 第3シリーズ",
-      "originalTitle": "キングダム 第3シリーズ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/294288",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=108606",
-      "date": "2020/04",
-      "episodes": 26,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=108606"
     },
     {
       "classification": {
@@ -37404,6 +37404,34 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "超能力"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112443,
+      "title": "文豪 Stray Dogs 剧场版 DEAD APPLE",
+      "officialTitle": "文豪 Stray Dogs 劇場版 DEAD APPLE",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/94/0000087594.JPG",
+      "japaneseTitle": "文豪ストレイドッグス DEAD APPLE",
+      "originalTitle": "文豪ストレイドッグス DEAD APPLE",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=87594",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112443",
+      "date": "2018/03",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112443"
+    },
+    {
+      "classification": {
+        "attributes": [
           "冒險",
           "科幻"
         ],
@@ -37435,37 +37463,9 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "超能力"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112443,
-      "title": "文豪 Stray Dogs 剧场版 DEAD APPLE",
-      "officialTitle": "文豪 Stray Dogs 劇場版 DEAD APPLE",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/94/0000087594.JPG",
-      "japaneseTitle": "文豪ストレイドッグス DEAD APPLE",
-      "originalTitle": "文豪ストレイドッグス DEAD APPLE",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=87594",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112443",
-      "date": "2018/03",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112443"
-    },
-    {
-      "classification": {
-        "attributes": [
           "溫馨",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -40973,8 +40973,8 @@
         "attributes": [
           "溫馨",
           "料理",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": [
@@ -48130,8 +48130,8 @@
           "冒險",
           "戀愛",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越"
         ],
         "types": [
@@ -48587,8 +48587,8 @@
     {
       "classification": {
         "attributes": [
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [],
         "audiences": []
@@ -49771,8 +49771,8 @@
       "classification": {
         "attributes": [
           "喜劇",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"
@@ -51737,8 +51737,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
           "感人",
+          "親情",
           "時間穿越",
           "歷史",
           "戰爭"
@@ -52088,8 +52088,8 @@
           "冒險",
           "喜劇",
           "勵志",
-          "親情",
-          "感人"
+          "感人",
+          "親情"
         ],
         "types": [
           "電影"

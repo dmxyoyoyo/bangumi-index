@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1921,
-    "lastSuccessfulRefresh": "2026-11-19T15:28:56.548Z"
+    "lastSuccessfulRefresh": "2026-11-19T19:59:43.100Z"
   },
   "items": [
     {
@@ -111,7 +111,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/86/0000148486.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 60292,
       "highlightTag": {
         "bilingual": false,
@@ -130,7 +130,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/23/0000151823.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 140456,
       "highlightTag": {
         "bilingual": false,
@@ -176,7 +176,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 3.1
+      "score": 3
     },
     {
       "acgSn": 137069,
@@ -719,7 +719,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/77/0000151577.JPG",
       "dateInfo": "年份：2026/10",
-      "totalEpisode": 7,
+      "totalEpisode": 8,
       "popular": 45327,
       "highlightTag": {
         "bilingual": false,
@@ -833,13 +833,13 @@
       "flag": 1,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/44/0000154944.JPG",
       "dateInfo": "年份：2026/08",
-      "totalEpisode": 6,
+      "totalEpisode": 7,
       "popular": 26024,
       "highlightTag": {
         "bilingual": false,
         "edition": "",
         "vipTime": "",
-        "newArrival": false
+        "newArrival": true
       },
       "score": 4.9
     },
@@ -1525,7 +1525,7 @@
         "vipTime": "",
         "newArrival": false
       },
-      "score": 4.9
+      "score": 4.8
     },
     {
       "acgSn": 150959,
@@ -1707,7 +1707,7 @@
       "flag": 0,
       "cover": "https://p2.bahamut.com.tw/B/ACG/c/62/0000141262.JPG",
       "dateInfo": "年份：2026/07",
-      "totalEpisode": 20,
+      "totalEpisode": 21,
       "popular": 1913876,
       "highlightTag": {
         "bilingual": false,
@@ -6653,7 +6653,7 @@
         "bilingual": false,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 0
     },
@@ -9812,25 +9812,6 @@
       "score": 4.4
     },
     {
-      "acgSn": 136147,
-      "animeSn": 113690,
-      "videoSn": 41710,
-      "title": "烏鴉不擇主",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
-      "dateInfo": "年份：2024/04",
-      "totalEpisode": 20,
-      "popular": 436356,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.9
-    },
-    {
       "acgSn": 131287,
       "animeSn": 113528,
       "videoSn": 38112,
@@ -9848,6 +9829,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 136147,
+      "animeSn": 113690,
+      "videoSn": 41710,
+      "title": "烏鴉不擇主",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/47/0000136147.JPG",
+      "dateInfo": "年份：2024/04",
+      "totalEpisode": 20,
+      "popular": 436356,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.9
     },
     {
       "acgSn": 134161,
@@ -22181,25 +22181,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 104281,
-      "animeSn": 104281,
-      "videoSn": 15161,
-      "title": "格萊普尼爾",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000104281.JPG",
-      "dateInfo": "年份：2020/04",
-      "totalEpisode": 13,
-      "popular": 2388133,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
       "acgSn": 108606,
       "animeSn": 108606,
       "videoSn": 15166,
@@ -22217,6 +22198,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 104281,
+      "animeSn": 104281,
+      "videoSn": 15161,
+      "title": "格萊普尼爾",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/81/0000104281.JPG",
+      "dateInfo": "年份：2020/04",
+      "totalEpisode": 13,
+      "popular": 2388133,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
     },
     {
       "acgSn": 108973,
@@ -25164,25 +25164,6 @@
       "score": 4.7
     },
     {
-      "acgSn": 89510,
-      "animeSn": 112822,
-      "videoSn": 24884,
-      "title": "電影 哆啦A夢 大雄的金銀島",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000089510.JPG",
-      "dateInfo": "年份：2018/03",
-      "totalEpisode": 1,
-      "popular": 98829,
-      "highlightTag": {
-        "bilingual": true,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.8
-    },
-    {
       "acgSn": 87594,
       "animeSn": 112443,
       "videoSn": 17516,
@@ -25200,6 +25181,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 89510,
+      "animeSn": 112822,
+      "videoSn": 24884,
+      "title": "電影 哆啦A夢 大雄的金銀島",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/10/0000089510.JPG",
+      "dateInfo": "年份：2018/03",
+      "totalEpisode": 1,
+      "popular": 98829,
+      "highlightTag": {
+        "bilingual": true,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.8
     },
     {
       "acgSn": 90088,
@@ -36046,7 +36046,7 @@
         "bilingual": false,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 4.8
     },
@@ -36217,7 +36217,7 @@
         "bilingual": true,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 4.4
     },
@@ -36236,7 +36236,7 @@
         "bilingual": true,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 4.5
     },
@@ -36255,7 +36255,7 @@
         "bilingual": true,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 4.3
     },
@@ -36274,7 +36274,7 @@
         "bilingual": true,
         "edition": "",
         "vipTime": "",
-        "newArrival": true
+        "newArrival": false
       },
       "score": 4.4
     },
