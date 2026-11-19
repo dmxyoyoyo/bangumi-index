@@ -155678,6 +155678,36 @@
     "code": 0,
     "areas": []
   },
+  "278890": {
+    "season_id": 278890,
+    "title": "Virgin Punk",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/9ecaad0c9b945154bea647b8d7ab013a.jpg",
+    "areas": [],
+    "evaluate": "With her unique and unparalleled animation-based abilities as her weapon, the protagonist, Ubu, struggles with her new life as a bounty hunter.\nAmidst a whirlwind of chaos and desire, she is surrounded by a cast of intense and eccentric characters, weaving a story of ambition, conflict, and inner turmoil.",
+    "jpTitle": "",
+    "seasonTitle": "Virgin Punk",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2026-11-17 23:00:00",
+      "pub_time_show": "11月17日23:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7992390,
+    "firstEpisodePublishedAt": 1794927600000,
+    "type": 1,
+    "episodeCount": 1,
+    "episodeTitles": [
+      "Clockwork Girl"
+    ],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
   "278891": {
     "season_id": 278891,
     "title": "MAEBASHI WITCHES",
@@ -262854,6 +262884,38 @@
     "checkedAt": "2026-11-18",
     "richCheckedAt": "2026-11-18"
   },
+  "368550": {
+    "season_id": 368550,
+    "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3(Thai Dub)",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/57daa6526dcde7c6795181d4f48dce9d.png",
+    "areas": [],
+    "evaluate": "Ars Louvent, reincarnated in another world with the unique ability to assess people’s skills and stats, has earned recognition for his achievements in the war-torn region. With other sides driven by their own convictions, a new battle begins. Join Ars and his new companions as they enter a thrilling new chapter!",
+    "jpTitle": "",
+    "seasonTitle": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3(Thai Dub)",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 1,
+      "pub_time": "2026-11-18 21:00:00",
+      "pub_time_show": "11月18日21:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 7988442,
+    "firstEpisodePublishedAt": 1795006800000,
+    "type": 1,
+    "episodeCount": 3,
+    "episodeTitles": [
+      "",
+      "",
+      ""
+    ],
+    "total": 12,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
   "368596": {
     "season_id": 368596,
     "title": "别惹大小姐，她爸可是超级女儿奴",
@@ -293557,6 +293619,209 @@
     "episodeCount": 0,
     "episodeTitles": [],
     "total": 12,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369702": {
+    "season_id": 369702,
+    "title": "尘缘",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e4ae039f83e295e7ac0465ea802664253156ba25.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "改编自烟雨江南同名小说《尘缘》，讲述了平凡少年纪若尘机缘中经由一方“青石”结识了仙子顾清、谪仙吟风并卷入仙、人、魔三方争斗中，在揭开了自己的身世之谜后开启“觉醒之路”最终平息三界大乱的传奇故事。",
+    "jpTitle": "",
+    "seasonTitle": "尘缘",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-11-24 10:00:00",
+      "pub_time_show": "11月24日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369713": {
+    "season_id": 369713,
+    "title": "平江路是一条河",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/ea9200bea69a32f55c268a43c05c484082c419fb.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "《平江路是一条河》为江苏省电影集团有限公司领衔出品的纪录片，该片以平江历史文化街区为载体，记录苏州姑苏古城修缮、保护、 更新的鲜活实践，挖掘文化传承、古建修缮、邻里温情、商居共生等真实故事，展现两千五百年姑苏古城的活态传承。透过居民日常生活与真切感受，诠释“生活在这里很有福气”的深刻内涵。",
+    "jpTitle": "",
+    "seasonTitle": "平江路是一条河",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2026-11-20 19:00:00",
+      "pub_time_show": "11月20日19:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 3,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 3,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369735": {
+    "season_id": 369735,
+    "title": "我靠外卖续命",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/bafd0afb21c03f4a27407ff66961997a1863bd0b.png",
+    "areas": [],
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "我靠外卖续命",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-12-16 13:00:00",
+      "pub_time_show": "2025年12月16日13:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 8009898,
+    "firstEpisodePublishedAt": 1795081563000,
+    "type": 12,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "【我靠外卖续命1-8】可乐泡面闯古代！逆袭打脸超解气！",
+      "【我靠外卖续命9-32】活埋开局？系统物资横扫危机！"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369736": {
+    "season_id": 369736,
+    "title": "和表弟互换身体，我赢麻了",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/playlet/b9415ebc17f7e15c0567be166b9a4753814beac2.png",
+    "areas": [],
+    "evaluate": "",
+    "jpTitle": "",
+    "seasonTitle": "和表弟互换身体，我赢麻了",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 1,
+      "pub_time": "2025-12-16 10:00:21",
+      "pub_time_show": "2025年12月16日10:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": 8009899,
+    "firstEpisodePublishedAt": 1795081563000,
+    "type": 12,
+    "episodeCount": 2,
+    "episodeTitles": [
+      "【和表弟互换身体，我赢麻了1-3】重生换身！恶表弟负债被虐惨！",
+      "【和表弟互换身体，我赢麻了4-22】重生复仇！换身让表弟自食恶果！"
+    ],
+    "total": 0,
+    "seasons": [],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369737": {
+    "season_id": 369737,
+    "title": "中华民族英雄 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/835875bbc9994c25d9949310c69eae887f2c927d.png",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "evaluate": "《中华民族英雄 第二季》延续第一季的风格，以历史人物为题材、真实历史资料为根基，展现近现代对中国历史进程有突出贡献，被后人传诵的民族英雄的人生历程和壮烈事迹。",
+    "jpTitle": "",
+    "seasonTitle": "中华民族英雄 第二季",
+    "publish": {
+      "is_finish": 1,
+      "is_started": 0,
+      "pub_time": "2026-11-24 17:00:00",
+      "pub_time_show": "11月24日17:00",
+      "unknow_pub_date": 0,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 3,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 7,
+    "seasons": [
+      {
+        "id": 369737,
+        "title": "第二季"
+      },
+      {
+        "id": 277491,
+        "title": "第一季"
+      }
+    ],
+    "available": true,
+    "code": 0,
+    "checkedAt": "2026-11-19",
+    "richCheckedAt": "2026-11-19"
+  },
+  "369746": {
+    "season_id": 369746,
+    "title": "勇敢传说",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/be347eb544baf00c7e1c486231dcf33f87a292fe.png",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "evaluate": "长久以来，那些伟大的战争故事和魔幻的传说一直被人们口口相传，一代又一代，生生不息在这片延绵又神秘的苏格兰高地上。迪士尼∙皮克斯的又一诚意之作，勇敢的梅莉达抗争传统束缚，追求自由从而改变自己命运的瑰丽故事横空出世。梅莉达是佛格国王与艾莉诺皇后的长女，她是一名出色的弓箭手， 也有任性不羁，《勇敢传说》讲述的就是她的冒险故事。为了走出自己的生活之路，梅莉达拒绝承袭对于3个部落首领（丁瓦、麦金、麦葛）来说神圣不可侵犯的古老传统。梅莉达的鲁莽给她的王国带去了混乱和灾难，当她向森林中的女巫寻求帮助的时候，女巫却实施了灾难性的魔咒。接踵而来的灾难逼迫梅莉达使出浑身解术——包括自己的三胞胎弟弟们——来帮助她解除咒语，寻获勇气的真谛。\n                                    \n      ",
+    "jpTitle": "",
+    "seasonTitle": "勇敢传说",
+    "publish": {
+      "is_finish": 0,
+      "is_started": 0,
+      "pub_time": "2099-01-01 00:00:00",
+      "pub_time_show": "敬请期待",
+      "unknow_pub_date": 1,
+      "weekday": 0
+    },
+    "firstEpisode": null,
+    "firstEpisodePublishedAt": null,
+    "type": 2,
+    "episodeCount": 0,
+    "episodeTitles": [],
+    "total": 1,
     "seasons": [],
     "available": true,
     "code": 0,
