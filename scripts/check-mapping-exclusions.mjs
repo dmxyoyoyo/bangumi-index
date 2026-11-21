@@ -37,20 +37,27 @@ try{
  const recovered=await run();assert.equal(recovered.cnId,20,'A new matching SS ID for the same work must still be added');assert.equal(recovered.mappingStatus.code,'confirmed');assert.deepEqual(recovered.mappingStatus.excludedCnIds,[10]);
  const day=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Shanghai'});
  await save('dist/catalog.json',{meta:{},items:[{...item,cnId:null}]});
- await save('data/intl-metadata.json',{1:{...metadata,id:1,payPolicy:'FREE',checkedAt:day}});
+ await save('data/intl-metadata.json',{1:{...metadata,id:1,payPolicy:'FREE',checkedAt:day},3:{id:3,available:false,checkedAt:day},5:{id:5,available:false,checkedAt:day}});
  await save('data/localized-metadata.json',{1:{...localized,checkedAt:day}});
+ await save('data/user-links.json',[{id:30,intlId:3},{id:40,intlId:4}]);
  const sourceCheck=spawnSync(process.execPath,['--input-type=module','--eval',`
   const requests=[];globalThis.fetch=async value=>{const url=new URL(value);requests.push(url.href);let data;
-   if(url.pathname.endsWith('.xml'))return new Response('<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc>');
+   if(url.pathname.endsWith('.xml'))return new Response('<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc><loc>https://www.bilibili.tv/en/media/5</loc>');
    if(url.pathname.includes('/index/'))data={code:0,data:{cards:[{season_id:2,title:'New Anime'}],has_next:false}};
-   else {const id=Number(url.searchParams.get('season_id'));data={code:0,data:{season:{season_id:id,title:'Anime '+id,origin_name:'作品'+id,description:'New official synopsis',limit_areas:['TH'],season_type_enum:4}}};}
+   else {const id=Number(url.searchParams.get('season_id'));data={code:0,data:{season:{season_id:id,title:'Anime '+id,origin_name:'作品'+id,description:'New official synopsis',limit_areas:['TH'],season_type_enum:id===4?5:4}}};}
    return new Response(JSON.stringify(data),{headers:{'Content-Type':'application/json'}});
   };
   await import('./scripts/update.mjs');
   for(const locale of ['en_US','zh_CN'])if(!requests.some(value=>{const url=new URL(value);return url.searchParams.get('season_id')==='1'&&url.searchParams.get('s_locale')===locale;}))throw new Error('Same-day pending metadata was skipped');
+  const firstSeasons=requests.map(value=>new URL(value).searchParams).filter(params=>params.has('season_id')&&params.get('s_locale')==='en_US').slice(0,2).map(params=>params.get('season_id'));
+  if(!firstSeasons.includes('3')||!firstSeasons.includes('4'))throw new Error('Missing paired international IDs were not prioritized');
  `],{cwd:temp,encoding:'utf8'});
  assert.equal(sourceCheck.status,0,sourceCheck.stderr);
- assert(JSON.parse(await readFile(join(temp,'dist/catalog.json'),'utf8')).items.some(x=>x.intlId===2),'A new official Southeast Asian work must be added');
+ const refreshed=JSON.parse(await readFile(join(temp,'dist/catalog.json'),'utf8')).items;
+ assert(refreshed.some(x=>x.intlId===2),'A new official Southeast Asian work must be added');
+ assert(refreshed.some(x=>x.intlId===3&&x.regions.includes('TH')),'A paired anime must be discovered even when it is absent from both listing sources');
+ assert(!refreshed.some(x=>x.intlId===4),'A paired ID does not turn an official short drama into an anime');
+ assert(refreshed.some(x=>x.intlId===5),'An official sitemap entry must be rechecked after a same-day lookup did not return metadata');
  const workflow=await readFile(new URL('.github/workflows/refresh-edgeone.yml',root),'utf8');
  assert(/cron:\s*['"]0 7,19 \* \* \*['"]\s*\n\s*timezone:\s*Asia\/Shanghai/.test(workflow),'Preserve both Beijing-time update starts');
  assert(workflow.includes('run: npm run update'));assert(workflow.includes('makers deploy ./dist'));
