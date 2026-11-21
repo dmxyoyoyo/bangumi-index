@@ -24,8 +24,15 @@ function render(){
   const intl=element('td');intl.dataset.label='国际版 ID';if(item.intlId){intl.append(external(String(item.intlId),'https://www.bilibili.tv/en/play/'+item.intlId,'intl-link'),action('复制国际版 ID',()=>copy(String(item.intlId),'国际版 ID'),'small-button'));}else{intl.append(element('div','unmapped','对应 ID 待核实'));}
   const regions=element('td');const tags=element('div','region-tags');
   for(const [code,title] of countryEntries.filter(([code])=>item.regions.includes(code)))tags.append(element('span','',title));
-  if(!tags.childNodes.length)tags.append(element('span','',item.regionSource==='unknown'?'地区待核实':'无东南亚地区记录'));
-  regions.append(tags,element('div','data-source',item.regionSource==='official'?'官方地区信息 · '+item.regionCheckedAt: item.regionSource==='unknown'?'当前来源未提供地区信息':'历史授权 · '+catalog.meta.archiveDate));
+  if(tags.childNodes.length){
+   regions.append(tags,element('div','data-source',item.regionSource==='official'?'官方地区信息 · '+item.regionCheckedAt: item.regionSource==='unknown'?'当前来源未提供地区信息':'历史授权 · '+catalog.meta.archiveDate));
+  }else{
+   const noSeaRegions=item.regionSource==='official'&&item.regions.length>0;
+   tags.append(element('span','',noSeaRegions?'官网未列出东南亚地区':'现行授权地区待核实'));
+   regions.append(tags);
+   const history=countryEntries.filter(([code])=>item.historicalRegions?.includes(code)).map(([,title])=>title);
+   if(history.length)regions.append(element('div','data-source','历史授权（'+catalog.meta.archiveDate+'） · '+history.join('、')));
+  }
   const cn=element('td');cn.dataset.label='中国版 ss ID';const link=Catalog.chineseLink(item);
   if(link){cn.append(element('span','status-tag',item.intlId?'两端元数据已匹配':'中国版条目已核实'),element('span','cn-id','ss'+item.cnId));const actions=element('div','cn-actions');actions.append(action('复制链接',()=>copy(link,'中国版链接'),'copy-link'),external('打开',link,'open-link'));cn.append(actions,action('复制 ss ID',()=>copy('ss'+item.cnId,'中国版 ss ID'),'small-button'));}
   else{const titles={upcoming:'计划开播 · ID 待核实','source-unavailable':'接口未返回',ambiguous:'版本存在歧义','domestic-edition':'已排除国区片源 · 东南亚 ID 待核实','candidate-unavailable':'已找到关联 ID · 中国版暂无法读取','not-found':'未找到对应 ID'};const note=element('div','unmapped',titles[item.mappingStatus.code]||'待核实');const details=element('details','reason');details.append(element('summary','','查看排查原因'),element('p','',item.mappingStatus.reason));if(item.mappingStatus.code==='candidate-unavailable')for(const id of item.mappingStatus.candidateIds||[]){note.append(element('span','cn-id','ss'+id),external('查看关联条目','https://www.bilibili.com/bangumi/play/ss'+id,'open-link'));}if(item.mappingStatus.code!=='candidate-unavailable'&&item.mappingStatus.candidateIds?.length)details.append(element('p','','候选 ID：'+item.mappingStatus.candidateIds.map(x=>'ss'+x).join('、')));note.append(details);cn.append(note);}

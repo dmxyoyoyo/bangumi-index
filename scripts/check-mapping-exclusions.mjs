@@ -36,15 +36,16 @@ try{
  await save('data/mapping-episodes.json',{intl:{1:evidence},cn:{20:evidence}});
  const recovered=await run();assert.equal(recovered.cnId,20,'A new matching SS ID for the same work must still be added');assert.equal(recovered.mappingStatus.code,'confirmed');assert.deepEqual(recovered.mappingStatus.excludedCnIds,[10]);
  const day=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Shanghai'});
- await save('dist/catalog.json',{meta:{},items:[{...item,cnId:null}]});
+ await save('dist/catalog.json',{meta:{},items:[{...item,cnId:null,historicalRegions:['SG']}]});
  await save('data/intl-metadata.json',{1:{...metadata,id:1,payPolicy:'FREE',checkedAt:day},3:{id:3,available:false,checkedAt:day},5:{id:5,available:false,checkedAt:day}});
  await save('data/localized-metadata.json',{1:{...localized,checkedAt:day}});
  await save('data/user-links.json',[{id:30,intlId:3},{id:40,intlId:4}]);
+ await save('data/sea-region-history.json',{1:['ID','TH'],2:['PH']});
  const sourceCheck=spawnSync(process.execPath,['--input-type=module','--eval',`
   const requests=[];globalThis.fetch=async value=>{const url=new URL(value);requests.push(url.href);let data;
    if(url.pathname.endsWith('.xml'))return new Response('<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc><loc>https://www.bilibili.tv/en/media/5</loc>');
    if(url.pathname.includes('/index/'))data={code:0,data:{cards:[{season_id:2,title:'New Anime'}],has_next:false}};
-   else {const id=Number(url.searchParams.get('season_id'));data={code:0,data:{season:{season_id:id,title:'Anime '+id,origin_name:'作品'+id,description:'New official synopsis',limit_areas:['TH'],season_type_enum:id===4?5:4}}};}
+   else {const id=Number(url.searchParams.get('season_id'));data={code:0,data:{season:{season_id:id,title:'Anime '+id,origin_name:'作品'+id,description:'New official synopsis',limit_areas:id===1?[]:['TH'],season_type_enum:id===4?5:4}}};}
    return new Response(JSON.stringify(data),{headers:{'Content-Type':'application/json'}});
   };
   await import('./scripts/update.mjs');
@@ -58,6 +59,11 @@ try{
  assert(refreshed.some(x=>x.intlId===3&&x.regions.includes('TH')),'A paired anime must be discovered even when it is absent from both listing sources');
  assert(!refreshed.some(x=>x.intlId===4),'A paired ID does not turn an official short drama into an anime');
  assert(refreshed.some(x=>x.intlId===5),'An official sitemap entry must be rechecked after a same-day lookup did not return metadata');
+ const regionUnknown=refreshed.find(x=>x.intlId===1), regionKnown=refreshed.find(x=>x.intlId===2);
+ assert.deepEqual(regionUnknown.regions,[],'An empty current list does not inherit historical countries as current');
+ assert.deepEqual(regionUnknown.historicalRegions,['ID','TH']);
+ assert.deepEqual(regionKnown.regions,['TH']);
+ assert.equal(regionKnown.historicalRegions,undefined,'Current official countries take precedence over the archive');
  const workflow=await readFile(new URL('.github/workflows/refresh-edgeone.yml',root),'utf8');
  assert(/cron:\s*['"]0 7,19 \* \* \*['"]\s*\n\s*timezone:\s*Asia\/Shanghai/.test(workflow),'Preserve both Beijing-time update starts');
  assert(workflow.includes('run: npm run update'));assert(workflow.includes('makers deploy ./dist'));
