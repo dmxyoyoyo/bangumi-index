@@ -34,20 +34,20 @@
         }
       ],
       "uniqueIds": 350,
-      "sitemapIds": 4969,
-      "metadataChecked": 4810,
-      "unavailable": 2,
+      "sitemapIds": 4970,
+      "metadataChecked": 4811,
+      "unavailable": 1,
       "checkedAt": "2026-11-22"
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
       "confirmed": 2212,
-      "not-found": 3,
+      "not-found": 4,
       "candidate-unavailable": 2,
       "domestic-edition": 7
     },
-    "lastSuccessfulRefresh": "2026-11-21T18:36:40.166Z",
-    "lastRefreshAttempt": "2026-11-21T18:36:40.166Z",
+    "lastSuccessfulRefresh": "2026-11-22T03:18:26.324Z",
+    "lastRefreshAttempt": "2026-11-22T03:18:26.324Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -80771,7 +80771,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "1999-10-20",
+        "date": "1999-10-19",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=37976&s_locale=zh_CN",
         "checkedAt": "2026-11-22",
@@ -102811,7 +102811,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2021-11-06",
+        "date": "2021-11-05",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1032377&s_locale=zh_CN",
         "checkedAt": "2026-11-22",
@@ -108576,7 +108576,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-10",
+        "date": "2022-01-09",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1045018&s_locale=zh_CN",
         "checkedAt": "2026-11-22",
@@ -108643,7 +108643,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-10",
+        "date": "2022-01-09",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1045084&s_locale=zh_CN",
         "checkedAt": "2026-11-22",
@@ -183372,6 +183372,61 @@
       "mappingStatus": {
         "code": "confirmed",
         "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "checkedAt": "2026-11-22",
+        "candidateIds": []
+      }
+    },
+    {
+      "intlId": 2453804,
+      "cnId": null,
+      "title": "转生了的大圣女，拼死隐瞒自己身为圣女（泰语配音版）",
+      "regions": [
+        "TH"
+      ],
+      "regionSource": "official",
+      "officialTitle": "A Tale of the Secret Saint(Thai Dub)",
+      "aliases": [
+        "転生した大聖女は、聖女であることをひたかくす",
+        "A Tale of the Secret Saint(Thai Dub)",
+        "转生了的大圣女，拼死隐瞒自己身为圣女（泰语配音版）"
+      ],
+      "cover": "https://pic.bstarstatic.com/ogv/5423e0201aafd8b2243499e6ee76f260.png",
+      "catalogCheckedAt": "2026-11-22",
+      "regionCheckedAt": "2026-11-22",
+      "seaTitle": "A Tale of the Secret Saint(Thai Dub)",
+      "seaTitleSource": "官方国际版",
+      "japaneseTitle": "転生した大聖女は、聖女であることをひたかくす",
+      "originalName": "転生した大聖女は、聖女であることをひたかくす",
+      "originalNameStatus": "japanese",
+      "originCategory": "japan",
+      "originCategorySource": "官方制作地区",
+      "nameSource": "B站国际版官方简体中文",
+      "bangumiId": null,
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453804&s_locale=zh_CN",
+      "release": {
+        "status": "aired",
+        "confirmed": true,
+        "date": "2026-11-21",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453804&s_locale=zh_CN",
+        "checkedAt": "2026-11-22",
+        "note": null
+      },
+      "contentType": "animation",
+      "classification": {
+        "genres": [
+          "Novel adaptation",
+          "Isekai",
+          "Fantasy"
+        ],
+        "dub": "thai",
+        "paid": null,
+        "year": 2026,
+        "quarter": "autumn"
+      },
+      "mappingStatus": {
+        "code": "not-found",
+        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
         "checkedAt": "2026-11-22",
         "candidateIds": []
       }
