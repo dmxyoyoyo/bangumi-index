@@ -23,6 +23,22 @@ assert.equal(first.cache[326551].season_id,326551);assert.equal(first.cache[3248
 assert.equal(first.discovery.range[0],326451);assert.equal(first.discovery.forwardNext,326952);
 const second=await collectChinese({cache:first.cache,discovery:first.discovery,catalog:{items:[{cnId:323926}]},seeds,day,pause:async()=>{},request:async url=>url.includes('/season/index/result')?{code:0,data:{list:[],has_next:0}}:{code:-404}});
 assert(second.discovery.range[0]>first.discovery.range[1],'The next scan must advance even when no new mapping was made');
+const pairedId=326551,latePreviewId=326580;
+const latePreview=await collectChinese({
+ cache:{[pairedId]:{season_id:pairedId,title:'Recent Thai Dub',checkedAt:day,richCheckedAt:day,publish:{pub_time:day+' 21:00:00'}}},
+ discovery:{forwardNext:374565,backfillNext:374064},catalog:{items:[]},seeds:[{id:pairedId,intlId:2453746}],day,pause:async()=>{},
+ request:async url=>Number(new URL(url).searchParams.get('season_id'))===latePreviewId?{code:0,result:{season_id:latePreviewId,title:'Upcoming Thai Dub',type:1,episodes:[],publish:{is_started:0,pub_time:'2026-10-11 21:00:00'}}}:{code:-404},
+});
+assert.equal(latePreview.cache[latePreviewId]?.episodeCount,0,'Late previews near recent paired titles must be found behind both numeric cursors');
+assert.equal(latePreview.cache[latePreviewId].publish.is_started,0);
+assert.equal(latePreview.discovery.range[0],374565);
+const premiereDay='2026-10-11';
+const premiered=await collectChinese({
+ cache:{[latePreviewId]:{...latePreview.cache[latePreviewId],checkedAt:premiereDay,richCheckedAt:premiereDay}},
+ discovery:latePreview.discovery,catalog:{items:[{cnId:latePreviewId,mappingStatus:{preview:true}}]},day:premiereDay,pause:async()=>{},
+ request:async url=>Number(new URL(url).searchParams.get('season_id'))===latePreviewId?{code:0,result:{season_id:latePreviewId,title:'Upcoming Thai Dub',type:1,episodes:[{id:10}],publish:{is_started:1,pub_time:premiereDay+' 21:00:00'}}}:{code:-404},
+});
+assert.equal(premiered.cache[latePreviewId].episodeCount,1,'A mapped preview must be checked again on its premiere day even after a morning refresh');
 const discovered=await collectChinese({cache:{323926:{season_id:323926,checkedAt:day,richCheckedAt:day}},discovery:{backfillNext:288511},catalog:{items:indexItems},day,pause:async()=>{},request:async url=>{
  if(url.includes('/season/index/result'))return {code:0,data:{list:[{season_id:39668,title:'命运拳台'}],has_next:0}};
  const id=Number(new URL(url).searchParams.get('season_id'));return id===39668?{code:0,result:{season_id:id,title:'命运拳台',episodes:[],seasons:[{season_id:39669,season_title:'S2'}]}}:id===39669?{code:0,result:{season_id:id,title:'Example sequel',episodes:[],seasons:[]}}:{code:-404};

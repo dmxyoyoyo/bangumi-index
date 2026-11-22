@@ -7,10 +7,19 @@
     "reason": "人工核对官方中文作品名、制作地区与24集动画版本；两端简介均描述江南、灵州江城、空间系灵武者，介绍段落不同。"
   },
   "2433174": {
-    "cnId": 119021,
-    "cnTitle": "镇魂街 第五季",
+    "cnId": 319704,
+    "cnTitle": "RAKSHASA STREET 5",
     "originalName": "镇魂街 第五季",
-    "checkedAt": "2026-10-11",
-    "reason": "人工核对官方原名及第五季标签；两端简介均指曹焱兵、曹孙刘联合、群英殿与王国组织。中国版尚未开播，未来平台日期可不同。"
+    "edition": "international",
+    "checkedAt": "2026-11-22",
+    "reason": "两端官方英文标题、完整简介、封面文件及首播排期一致，已核对独立待播页及预告片。"
+  },
+  "2433235": {
+    "cnId": 319896,
+    "cnTitle": "The First Order 2",
+    "originalName": "第一序列 2",
+    "edition": "international",
+    "checkedAt": "2026-11-22",
+    "reason": "两端官方英文标题、完整简介、封面文件及首播排期一致，已核对独立待播页。"
   }
 }
