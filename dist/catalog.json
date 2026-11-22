@@ -41,13 +41,13 @@
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2212,
-      "not-found": 4,
+      "confirmed": 2215,
+      "not-found": 3,
       "candidate-unavailable": 2,
-      "domestic-edition": 7
+      "domestic-edition": 5
     },
-    "lastSuccessfulRefresh": "2026-11-22T03:18:26.324Z",
-    "lastRefreshAttempt": "2026-11-22T03:18:26.324Z",
+    "lastSuccessfulRefresh": "2026-11-22T04:09:51.723Z",
+    "lastRefreshAttempt": "2026-11-22T04:09:51.723Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -157188,9 +157188,10 @@
       },
       "mappingStatus": {
         "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "reason": "国区待播页已核实，正片尚未开播",
         "checkedAt": "2026-11-22",
-        "candidateIds": []
+        "candidateIds": [],
+        "preview": true
       },
       "originCategory": "china",
       "originCategorySource": "官方制作地区",
@@ -164422,7 +164423,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": null,
+      "cnId": 319704,
       "regionSource": "official",
       "officialTitle": "RAKSHASA STREET 5",
       "aliases": [
@@ -164452,12 +164453,11 @@
         "note": "预计排期；提前配信及平台上线状态待核实"
       },
       "mappingStatus": {
-        "code": "domestic-edition",
-        "reason": "ss119021 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。另有标题与简介匹配的候选，但尚缺两端正片结构与发布时间等版本证据，不自动确认为东南亚片源。",
+        "code": "confirmed",
+        "reason": "国区待播页已核实，正片尚未开播",
         "checkedAt": "2026-11-22",
-        "candidateIds": [
-          319704
-        ],
+        "candidateIds": [],
+        "preview": true,
         "excludedCnIds": [
           119021
         ]
@@ -164478,7 +164478,14 @@
         "year": 2026,
         "quarter": "autumn"
       },
-      "contentType": "animation"
+      "contentType": "animation",
+      "mappingEvidence": {
+        "method": "两端官方英文标题、完整简介、封面文件及首播排期一致，已核对独立待播页及预告片。",
+        "checkedAt": "2026-11-22",
+        "verifiedAt": "2026-11-22",
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=319704",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433174"
+      }
     },
     {
       "intlId": 2129061,
@@ -167027,7 +167034,7 @@
         "NZ",
         "GB"
       ],
-      "cnId": null,
+      "cnId": 319896,
       "regionSource": "official",
       "officialTitle": "The First Order 2",
       "aliases": [
@@ -167058,12 +167065,11 @@
         "note": "预计排期；提前配信及平台上线状态待核实"
       },
       "mappingStatus": {
-        "code": "domestic-edition",
-        "reason": "ss118958 已排除：用户实测确认跳转后是国区片源，并非东南亚片源。东南亚对应 ID 仍待核实，将继续检查其他候选。另有标题与简介匹配的候选，但尚缺两端正片结构与发布时间等版本证据，不自动确认为东南亚片源。",
+        "code": "confirmed",
+        "reason": "国区待播页已核实，正片尚未开播",
         "checkedAt": "2026-11-22",
-        "candidateIds": [
-          319896
-        ],
+        "candidateIds": [],
+        "preview": true,
         "excludedCnIds": [
           118958
         ]
@@ -167082,7 +167088,14 @@
         "year": 2026,
         "quarter": "autumn"
       },
-      "contentType": "animation"
+      "contentType": "animation",
+      "mappingEvidence": {
+        "method": "两端官方英文标题、完整简介、封面文件及首播排期一致，已核对独立待播页。",
+        "checkedAt": "2026-11-22",
+        "verifiedAt": "2026-11-22",
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=319896",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2433235"
+      }
     },
     {
       "intlId": 2411030,
@@ -183378,7 +183391,7 @@
     },
     {
       "intlId": 2453804,
-      "cnId": null,
+      "cnId": 362663,
       "title": "转生了的大圣女，拼死隐瞒自己身为圣女（泰语配音版）",
       "regions": [
         "TH"
@@ -183425,10 +183438,19 @@
         "quarter": "autumn"
       },
       "mappingStatus": {
-        "code": "not-found",
-        "reason": "已检查的中国版候选中没有标题与完整简介均一致的条目；可能尚未同步、未覆盖对应 ID，或两端简介不同。",
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
         "checkedAt": "2026-11-22",
-        "candidateIds": []
+        "candidateIds": [
+          362663
+        ]
+      },
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-11-22",
+        "checkedCandidateCount": 6624,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=362663",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453804"
       }
     }
   ]

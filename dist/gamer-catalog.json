@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1922,
-    "lastSuccessfulRefresh": "2026-11-22T03:10:36.485Z",
+    "lastSuccessfulRefresh": "2026-11-22T04:05:43.536Z",
     "titleNote": "主标题优先精确匹配的 Bangumi 中文名，其余使用动画疯官方译名并转换为简体；下方保留官方繁体名，日文原名来自巴哈姆特 ACG 资料或 Bangumi 精确匹配，保留原文写法并支持检索。非日本作品展示其原文名称；资料不足时显示日文原名待核实。"
   },
   "items": [
@@ -30180,32 +30180,6 @@
       "classification": {
         "attributes": [
           "動作",
-          "喜劇"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 30499,
-      "title": "城市猎人 2",
-      "officialTitle": "城市獵人 2",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/99/0000030499.JPG",
-      "japaneseTitle": "シティーハンター2",
-      "originalTitle": "シティーハンター2",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/53925",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=30499",
-      "date": "1988/04",
-      "episodes": 63,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=30499"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
           "冒險"
         ],
         "types": [],
@@ -30227,6 +30201,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113851"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "喜劇"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 30499,
+      "title": "城市猎人 2",
+      "officialTitle": "城市獵人 2",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/99/0000030499.JPG",
+      "japaneseTitle": "シティーハンター2",
+      "originalTitle": "シティーハンター2",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/53925",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=30499",
+      "date": "1988/04",
+      "episodes": 63,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=30499"
     },
     {
       "classification": {
@@ -35188,6 +35188,35 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "超能力",
+          "校園"
+        ],
+        "types": [
+          "OVA"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113432,
+      "title": "我的英雄学院 雄英HEROES BATTLE",
+      "officialTitle": "我的英雄學院 雄英 HEROES BATTLE",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/08/0000136608.JPG",
+      "japaneseTitle": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
+      "originalTitle": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/467909",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/467909",
+      "date": "2023/10",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113432"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -35214,35 +35243,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112887"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "超能力",
-          "校園"
-        ],
-        "types": [
-          "OVA"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113432,
-      "title": "我的英雄学院 雄英HEROES BATTLE",
-      "officialTitle": "我的英雄學院 雄英 HEROES BATTLE",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/08/0000136608.JPG",
-      "japaneseTitle": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
-      "originalTitle": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/467909",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/467909",
-      "date": "2023/10",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113432"
     },
     {
       "classification": {
@@ -35563,6 +35563,33 @@
     {
       "classification": {
         "attributes": [
+          "動作",
+          "勵志",
+          "料理"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 89111,
+      "title": "爱吃拉面的小泉同学",
+      "officialTitle": "愛吃拉麵的小泉同學",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/11/0000089111.JPG",
+      "japaneseTitle": "ラーメン大好き小泉さん",
+      "originalTitle": "ラーメン大好き小泉さん",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/212146",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/212146",
+      "date": "2018/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=89111"
+    },
+    {
+      "classification": {
+        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -35589,33 +35616,6 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112987"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "動作",
-          "勵志",
-          "料理"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 89111,
-      "title": "爱吃拉面的小泉同学",
-      "officialTitle": "愛吃拉麵的小泉同學",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/11/0000089111.JPG",
-      "japaneseTitle": "ラーメン大好き小泉さん",
-      "originalTitle": "ラーメン大好き小泉さん",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/212146",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/212146",
-      "date": "2018/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=89111"
     },
     {
       "classification": {
@@ -36688,34 +36688,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112796,
-      "title": "火影忍者剧场版1：大活剧！雪姬忍法帖 ！！",
-      "officialTitle": "火影忍者劇場版1：大活劇！雪姬忍法帖 ！！",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000055058.JPG",
-      "japaneseTitle": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
-      "originalTitle": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=55058",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112796",
-      "date": "2004/08",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112796"
-    },
-    {
-      "classification": {
-        "attributes": [
           "喜劇",
           "職場"
         ],
@@ -36742,6 +36714,34 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112907"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112796,
+      "title": "火影忍者剧场版1：大活剧！雪姬忍法帖 ！！",
+      "officialTitle": "火影忍者劇場版1：大活劇！雪姬忍法帖 ！！",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/58/0000055058.JPG",
+      "japaneseTitle": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
+      "originalTitle": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=55058",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112796",
+      "date": "2004/08",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112796"
     },
     {
       "classification": {
@@ -42362,6 +42362,32 @@
     {
       "classification": {
         "attributes": [
+          "校園",
+          "戀愛"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 76535,
+      "title": "小桃小栗 Love Love 物语",
+      "officialTitle": "小桃小栗 Love Love 物語",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000076535.JPG",
+      "japaneseTitle": "ももくり",
+      "originalTitle": "ももくり",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76535",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=76535",
+      "date": "2016/07",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=76535"
+    },
+    {
+      "classification": {
+        "attributes": [
           "勵志",
           "溫馨",
           "運動",
@@ -42386,32 +42412,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113508"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "校園",
-          "戀愛"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 76535,
-      "title": "小桃小栗 Love Love 物语",
-      "officialTitle": "小桃小栗 Love Love 物語",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/35/0000076535.JPG",
-      "japaneseTitle": "ももくり",
-      "originalTitle": "ももくり",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=76535",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=76535",
-      "date": "2016/07",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=76535"
     },
     {
       "classification": {
@@ -43295,6 +43295,34 @@
     {
       "classification": {
         "attributes": [
+          "奇幻",
+          "喜劇",
+          "悠閒",
+          "運動"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113576,
+      "title": "精灵小姐瘦不了。",
+      "officialTitle": "精靈小姐瘦不了",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/52/0000137352.JPG",
+      "japaneseTitle": "エルフさんは痩せられない。",
+      "originalTitle": "エルフさんは痩せられない。",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/475367",
+      "nameSource": "Bangumi",
+      "nameSourceUrl": "https://bgm.tv/subject/475367",
+      "date": "2024/07",
+      "episodes": 14,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113576"
+    },
+    {
+      "classification": {
+        "attributes": [
           "冒險",
           "奇幻"
         ],
@@ -43345,34 +43373,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112667"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "奇幻",
-          "喜劇",
-          "悠閒",
-          "運動"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113576,
-      "title": "精灵小姐瘦不了。",
-      "officialTitle": "精靈小姐瘦不了",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/52/0000137352.JPG",
-      "japaneseTitle": "エルフさんは痩せられない。",
-      "originalTitle": "エルフさんは痩せられない。",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/475367",
-      "nameSource": "Bangumi",
-      "nameSourceUrl": "https://bgm.tv/subject/475367",
-      "date": "2024/07",
-      "episodes": 14,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113576"
     },
     {
       "classification": {
@@ -48881,34 +48881,6 @@
     {
       "classification": {
         "attributes": [
-          "時間穿越",
-          "歷史"
-        ],
-        "types": [
-          "電影"
-        ],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113479,
-      "title": "特『刀剑乱舞-花丸-』～华之卷～",
-      "officialTitle": "特『刀劍亂舞-花丸-』～華之卷～",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000137621.JPG",
-      "japaneseTitle": "特『刀剣乱舞-花丸-』～華ノ巻～",
-      "originalTitle": "特『刀剣乱舞-花丸-』～華ノ巻～",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=137621",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113479",
-      "date": "2022/09",
-      "episodes": 1,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113479"
-    },
-    {
-      "classification": {
-        "attributes": [
           "科幻",
           "特攝"
         ],
@@ -48937,6 +48909,34 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=104307"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "時間穿越",
+          "歷史"
+        ],
+        "types": [
+          "電影"
+        ],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113479,
+      "title": "特『刀剑乱舞-花丸-』～华之卷～",
+      "officialTitle": "特『刀劍亂舞-花丸-』～華之卷～",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/21/0000137621.JPG",
+      "japaneseTitle": "特『刀剣乱舞-花丸-』～華ノ巻～",
+      "originalTitle": "特『刀剣乱舞-花丸-』～華ノ巻～",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=137621",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113479",
+      "date": "2022/09",
+      "episodes": 1,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113479"
     },
     {
       "classification": {
@@ -50861,6 +50861,32 @@
     {
       "classification": {
         "attributes": [
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112786,
+      "title": "南无阿弥陀佛！-莲台 UTENA-",
+      "officialTitle": "南無阿彌陀佛！-蓮台 UTENA-",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/65/0000104365.JPG",
+      "japaneseTitle": "なむあみだ仏っ！-蓮台 UTENA-",
+      "originalTitle": "なむあみだ仏っ！-蓮台 UTENA-",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/256561",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112786",
+      "date": "2019/04",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112786"
+    },
+    {
+      "classification": {
+        "attributes": [
           "動作",
           "科幻"
         ],
@@ -50939,32 +50965,6 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112841"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112786,
-      "title": "南无阿弥陀佛！-莲台 UTENA-",
-      "officialTitle": "南無阿彌陀佛！-蓮台 UTENA-",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/65/0000104365.JPG",
-      "japaneseTitle": "なむあみだ仏っ！-蓮台 UTENA-",
-      "originalTitle": "なむあみだ仏っ！-蓮台 UTENA-",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/256561",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112786",
-      "date": "2019/04",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112786"
     },
     {
       "classification": {
@@ -51056,33 +51056,6 @@
     {
       "classification": {
         "attributes": [
-          "冒險",
-          "奇幻",
-          "靈異神怪"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113674,
-      "title": "寻神的旅途",
-      "officialTitle": "尋神的旅途",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/82/0000135082.JPG",
-      "japaneseTitle": "ハイガクラ",
-      "originalTitle": "ハイガクラ",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/451426",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113674",
-      "date": "2024/10",
-      "episodes": 13,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113674"
-    },
-    {
-      "classification": {
-        "attributes": [
           "溫馨",
           "悠閒"
         ],
@@ -51109,6 +51082,33 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=107629"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻",
+          "靈異神怪"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113674,
+      "title": "寻神的旅途",
+      "officialTitle": "尋神的旅途",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/82/0000135082.JPG",
+      "japaneseTitle": "ハイガクラ",
+      "originalTitle": "ハイガクラ",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/451426",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113674",
+      "date": "2024/10",
+      "episodes": 13,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113674"
     },
     {
       "classification": {
@@ -51514,33 +51514,6 @@
     {
       "classification": {
         "attributes": [
-          "動作",
-          "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 112666,
-      "title": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
-      "officialTitle": "擾亂 THE PRINCESS OF SNOW AND BLOOD",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/52/0000115852.JPG",
-      "japaneseTitle": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
-      "originalTitle": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115852",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112666",
-      "date": "2021/03",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112666"
-    },
-    {
-      "classification": {
-        "attributes": [
           "冒險",
           "喜劇"
         ],
@@ -51568,6 +51541,33 @@
       "bilingual": true,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=113876"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "動作",
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 112666,
+      "title": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
+      "officialTitle": "擾亂 THE PRINCESS OF SNOW AND BLOOD",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/52/0000115852.JPG",
+      "japaneseTitle": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
+      "originalTitle": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://acg.gamer.com.tw/acgDetail.php?s=115852",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=112666",
+      "date": "2021/03",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=112666"
     },
     {
       "classification": {
@@ -52458,32 +52458,6 @@
       "classification": {
         "attributes": [
           "冒險",
-          "奇幻"
-        ],
-        "types": [],
-        "audiences": []
-      },
-      "contentType": "animation",
-      "id": 113186,
-      "title": "魔术士欧菲 流浪之旅 阿邦拉马篇",
-      "officialTitle": "魔術士歐菲 流浪之旅 阿邦拉馬篇",
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/27/0000127627.JPG",
-      "japaneseTitle": "魔術士オーフェンはぐれ旅 アーバンラマ編",
-      "originalTitle": "魔術士オーフェンはぐれ旅 アーバンラマ編",
-      "originalStatus": "japanese",
-      "originalSourceUrl": "https://bgm.tv/subject/401786",
-      "nameSource": "动画疯官方译名（简体转换）",
-      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113186",
-      "date": "2023/01",
-      "episodes": 12,
-      "bilingual": false,
-      "edition": "",
-      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113186"
-    },
-    {
-      "classification": {
-        "attributes": [
-          "冒險",
           "科幻"
         ],
         "types": [],
@@ -52505,6 +52479,32 @@
       "bilingual": false,
       "edition": "",
       "url": "https://ani.gamer.com.tw/animeRef.php?sn=112845"
+    },
+    {
+      "classification": {
+        "attributes": [
+          "冒險",
+          "奇幻"
+        ],
+        "types": [],
+        "audiences": []
+      },
+      "contentType": "animation",
+      "id": 113186,
+      "title": "魔术士欧菲 流浪之旅 阿邦拉马篇",
+      "officialTitle": "魔術士歐菲 流浪之旅 阿邦拉馬篇",
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/27/0000127627.JPG",
+      "japaneseTitle": "魔術士オーフェンはぐれ旅 アーバンラマ編",
+      "originalTitle": "魔術士オーフェンはぐれ旅 アーバンラマ編",
+      "originalStatus": "japanese",
+      "originalSourceUrl": "https://bgm.tv/subject/401786",
+      "nameSource": "动画疯官方译名（简体转换）",
+      "nameSourceUrl": "https://ani.gamer.com.tw/animeRef.php?sn=113186",
+      "date": "2023/01",
+      "episodes": 12,
+      "bilingual": false,
+      "edition": "",
+      "url": "https://ani.gamer.com.tw/animeRef.php?sn=113186"
     },
     {
       "classification": {
