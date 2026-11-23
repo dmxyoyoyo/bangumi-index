@@ -1,34 +1,39 @@
 {
-  "checkedAt": "2026-11-23",
+  "checkedAt": "2026-11-24",
   "range": [
+    377070,
+    377570
+  ],
+  "backfillRange": [
     376569,
     377069
   ],
-  "backfillRange": [
-    376068,
-    376568
-  ],
-  "backfillNext": 376569,
+  "backfillNext": 377070,
   "validCandidates": 7216,
-  "added": 0,
-  "missing": 1166,
-  "forwardNext": 377070,
+  "added": 1,
+  "missing": 1182,
+  "forwardNext": 377571,
   "indexCandidates": 5,
   "requestBudget": 4000,
   "backfillLimit": 2000,
-  "recheckQueued": 0,
+  "recheckQueued": 324,
   "refreshStatus": "updated",
   "refreshWarning": null,
-  "lastAttemptAt": "2026-11-23",
+  "lastAttemptAt": "2026-11-24",
   "publicationRange": null,
   "contentReview": {
-    "day": "2026-11-23",
+    "day": "2026-11-24",
     "total": 2236,
-    "attempted": 2236,
-    "verified": 2235,
+    "attempted": 1172,
+    "verified": 1170,
     "changes": [
       {
-        "id": 280163,
+        "id": 323885,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 303341,
         "episodes": 1,
         "previews": 0
       }
