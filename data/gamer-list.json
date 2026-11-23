@@ -4,7 +4,7 @@
     "officialDirectory": "https://ani.gamer.com.tw/animeList.php",
     "pages": 69,
     "records": 1919,
-    "lastSuccessfulRefresh": "2026-11-23T10:49:13.242Z"
+    "lastSuccessfulRefresh": "2026-11-23T11:38:50.648Z"
   },
   "items": [
     {
@@ -14410,25 +14410,6 @@
       "score": 4.8
     },
     {
-      "acgSn": 109284,
-      "animeSn": 109284,
-      "videoSn": 15285,
-      "title": "食戟之靈 豪之皿",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000109284.JPG",
-      "dateInfo": "年份：2020/04",
-      "totalEpisode": 13,
-      "popular": 2511,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 4.6
-    },
-    {
       "acgSn": 116555,
       "animeSn": 112966,
       "videoSn": 27381,
@@ -14446,6 +14427,25 @@
         "newArrival": false
       },
       "score": 4.9
+    },
+    {
+      "acgSn": 109284,
+      "animeSn": 109284,
+      "videoSn": 15285,
+      "title": "食戟之靈 豪之皿",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/84/0000109284.JPG",
+      "dateInfo": "年份：2020/04",
+      "totalEpisode": 13,
+      "popular": 2511,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 4.6
     },
     {
       "acgSn": 128174,
@@ -16044,25 +16044,6 @@
       "score": 4.9
     },
     {
-      "acgSn": 87490,
-      "animeSn": 87490,
-      "videoSn": 10733,
-      "title": "捏造陷阱 -NTR-",
-      "favorite": false,
-      "flag": 0,
-      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000087490.JPG",
-      "dateInfo": "年份：2017/07",
-      "totalEpisode": 12,
-      "popular": 2107,
-      "highlightTag": {
-        "bilingual": false,
-        "edition": "年齡限制",
-        "vipTime": "",
-        "newArrival": false
-      },
-      "score": 3.5
-    },
-    {
       "acgSn": 114623,
       "animeSn": 112752,
       "videoSn": 23381,
@@ -16080,6 +16061,25 @@
         "newArrival": false
       },
       "score": 4.7
+    },
+    {
+      "acgSn": 87490,
+      "animeSn": 87490,
+      "videoSn": 10733,
+      "title": "捏造陷阱 -NTR-",
+      "favorite": false,
+      "flag": 0,
+      "cover": "https://p2.bahamut.com.tw/B/ACG/c/90/0000087490.JPG",
+      "dateInfo": "年份：2017/07",
+      "totalEpisode": 12,
+      "popular": 2107,
+      "highlightTag": {
+        "bilingual": false,
+        "edition": "年齡限制",
+        "vipTime": "",
+        "newArrival": false
+      },
+      "score": 3.5
     },
     {
       "acgSn": 59228,

@@ -33,7 +33,7 @@
           "complete": true
         }
       ],
-      "uniqueIds": 370,
+      "uniqueIds": 369,
       "sitemapIds": 4970,
       "metadataChecked": 4832,
       "unavailable": 1,
@@ -46,8 +46,8 @@
       "candidate-unavailable": 2,
       "domestic-edition": 5
     },
-    "lastSuccessfulRefresh": "2026-11-23T10:53:22.448Z",
-    "lastRefreshAttempt": "2026-11-23T10:53:22.448Z",
+    "lastSuccessfulRefresh": "2026-11-23T11:42:58.845Z",
+    "lastRefreshAttempt": "2026-11-23T11:42:58.845Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -131422,9 +131422,10 @@
       },
       "mappingStatus": {
         "code": "confirmed",
-        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "reason": "国区待播页已核实，正片尚未开播",
         "checkedAt": "2026-11-23",
-        "candidateIds": []
+        "candidateIds": [],
+        "preview": true
       },
       "originCategory": "japan",
       "originCategorySource": "官方制作地区",
