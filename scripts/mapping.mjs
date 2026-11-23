@@ -1,4 +1,4 @@
-import {normalizeOfficialDate} from './release.mjs';
+import {normalizePremiereDate} from './release.mjs';
 export function nameKey(text){return String(text||'').normalize('NFKC').toLowerCase().replace(/&amp;/g,'&').replace(/[\p{P}\p{Z}\s]/gu,'');}
 export function synopsisKey(text){return nameKey(text);}
 function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';if(/dub\s*indo|indo\s*dub|印配|印尼语配音/i.test(text))return 'ID';if(/english\s*dub|dub\s*eng|英配|英语配音/i.test(text))return 'EN';if(/vietnamese\s*dub|越配|越南语配音/i.test(text))return 'VN';return null;}
@@ -26,7 +26,7 @@ export function candidatesFor(item,metadata,localized,chinese,excludedIds=[]){
 }
 export function matchesReleaseDate(candidate,release){
  if(release?.source!=='B站国际版')return false;
- const a=normalizeOfficialDate(release.date),b=candidate.publish?.pub_time?.slice(0,10),parse=v=>/^\d{4}-\d{2}-\d{2}$/.test(v||'')?Date.parse(v+'T00:00:00Z'):NaN;
+ const a=normalizePremiereDate(release.date),b=normalizePremiereDate(candidate.publish?.pub_time?.slice(0,10)),parse=v=>/^\d{4}-\d{2}-\d{2}$/.test(v||'')?Date.parse(v+'T00:00:00Z'):NaN;
  const first=parse(a),second=parse(b);
  // The same platform date can differ by one day between local and GitHub request regions.
  return Number.isFinite(first)&&Number.isFinite(second)&&new Date(first).toISOString().slice(0,10)===a&&new Date(second).toISOString().slice(0,10)===b&&Math.abs(first-second)<=86400000;
@@ -38,6 +38,25 @@ export function unavailableAssociatedCandidate(link,chinese){
 }
 export function matchesEpisodes(chinese,international){
  return chinese?.available===true&&international?.available===true&&chinese.mainCount>0&&chinese.mainCount===international.mainCount&&chinese.extraCount===international.extraCount&&chinese.firstPublishedAt>0&&chinese.firstPublishedAt===international.firstPublishedAt;
+}
+export function previewAssets(sections=[]){
+ const previewLabel=/\bPV(?=\b|\d)|预告|預告|trailer/i;
+ return (sections||[]).flatMap(section=>{
+  const title=section.ep_list_title||section.title||'',previewSection=previewLabel.test(title)&&!/\bmore\b/i.test(title);
+  return (section.episodes||[]).filter(ep=>previewSection||
+   [ep.title,ep.show_title,ep.short_title_display,ep.title_display].some(label=>previewLabel.test(label||''))
+  ).map(ep=>{
+  const asset=ep.cover?.match(/\/([\da-f]{32,64})\.[a-z]+(?:[?@#].*)?$/i)?.[1].toLowerCase()||null;
+  const time=ep.pub_time?Number(ep.pub_time)*1000:Date.parse(ep.publish_time);
+  return {asset,publishedAt:Number.isFinite(time)&&time>0?time:null};
+  });
+ });
+}
+export function isPreviewPage(candidate){
+ return candidate?.available!==false&&candidate?.episodeCount===0&&(candidate.publish?.is_started===0||Boolean(candidate.previews?.length));
+}
+export function matchesPreviews(chinese,international){
+ return Boolean(chinese?.some(a=>a.asset&&a.publishedAt&&international?.some(b=>a.asset===b.asset&&a.publishedAt===b.publishedAt)));
 }
 export function verifiedOriginalMapping(item,metadata,chinese,verification,excludedIds=[]){
  return !excludedIds.includes(verification?.cnId)&&Boolean(verification?.originalName&&verification?.cnTitle)&&item.originCategory==='china'&&Number(metadata?.type)===4&&metadata.available!==false&&chinese?.type===4&&chinese.available!==false&&chinese.season_id===verification?.cnId&&nameKey(metadata.originName)===nameKey(verification?.originalName)&&nameKey(chinese.title)===nameKey(verification?.cnTitle);

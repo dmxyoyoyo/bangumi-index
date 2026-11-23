@@ -48,6 +48,21 @@ try{
  assert.equal(verifiedPreview.cnId,30);assert.equal(verifiedPreview.mappingStatus.code,'confirmed');assert.equal(verifiedPreview.mappingStatus.preview,true);assert.equal(verifiedPreview.release.status,'upcoming');
  await save('data/cn-metadata.json',{30:{...preview,publish:{...preview.publish,is_started:1},episodeCount:1}});
  const released=await run();assert.equal(released.cnId,30);assert.equal(released.mappingStatus.preview,undefined);
+ const pv={asset:'0123456789abcdef0123456789abcdef',publishedAt:1800000000000};
+ const pvPage={...preview,season_id:33,publish:{is_started:1,pub_time:'2026-11-23 10:00:00'},previews:[pv]};
+ await save('dist/catalog.json',{meta:{},items:[previewItem]});
+ await save('data/intl-metadata.json',{1:{...metadata,title:dubTitle,type:1,indexShow:'Coming Soon',airDate:'Jan 1, 2099'}});
+ await save('data/mapping-episodes.json',{intl:{1:{available:true,mainCount:0,extraCount:1,previews:[pv]}},cn:{}});
+ const aired={...pvPage,season_id:34,episodeCount:1};
+ for(const wrongPv of [{...pv,asset:'abc'}, {...pv,publishedAt:pv.publishedAt+1000}]){
+  await save('data/cn-metadata.json',{33:{...pvPage,previews:[wrongPv]},34:aired,35:{...pvPage,season_id:35,title:'Example Anime'}});
+  assert.equal((await run()).cnId,null,'A different PV, already-aired edition, or different dub must not match an upcoming edition');
+ }
+ await save('data/cn-metadata.json',{33:pvPage,36:{...pvPage,season_id:36}});
+ assert.equal((await run()).cnId,null,'A shared trailer cannot disambiguate two otherwise identical pages');
+ await save('data/cn-metadata.json',{33:pvPage,34:aired});
+ const matchedPv=await run();
+ assert.equal(matchedPv.cnId,33);assert.equal(matchedPv.mappingStatus.preview,true);assert.match(matchedPv.mappingEvidence.method,/PV cover asset/);
  const alternatePage={...preview,season_id:40,type:4,title:metadata.title};
  await save('dist/catalog.json',{meta:{},items:[{...item,cnId:null,release:previewItem.release}]});
  await save('data/cn-metadata.json',{10:candidate,40:alternatePage});
@@ -65,7 +80,10 @@ try{
  const sourceCheck=spawnSync(process.execPath,['--input-type=module','--eval',`
   const requests=[];globalThis.fetch=async value=>{const url=new URL(value);requests.push(url.href);let data;
    if(url.pathname.endsWith('.xml'))return new Response('<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc><loc>https://www.bilibili.tv/en/media/5</loc>');
-   if(url.pathname.includes('/index/'))data={code:0,data:{cards:[{season_id:2,title:'New Anime'}],has_next:false}};
+   if(url.pathname.includes('/index/')){
+    if(url.searchParams.get('order')!=='2')throw new Error('The international index must request the latest entries first');
+    data={code:0,data:{cards:[{season_id:2,title:'New Anime'}],has_next:false}};
+   }
    else {const id=Number(url.searchParams.get('season_id'));data={code:0,data:{season:{season_id:id,title:'Anime '+id,origin_name:'作品'+id,description:'New official synopsis',limit_areas:id===1?[]:['TH'],season_type_enum:id===4?5:4}}};}
    return new Response(JSON.stringify(data),{headers:{'Content-Type':'application/json'}});
   };

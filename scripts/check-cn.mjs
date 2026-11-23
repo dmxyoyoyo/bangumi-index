@@ -1,9 +1,9 @@
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {collectChinese,collectIndexSeeds} from './refresh-cn.mjs';
-import {normalizeOfficialDate,classifyRelease} from './release.mjs';
+import {normalizeOfficialDate,normalizePremiereDate,classifyRelease} from './release.mjs';
 import {collectEpisodeEvidence} from './episode-evidence.mjs';
-import {selectMapping,matchesReleaseDate,candidatesFor,matchesEpisodes,verifiedOriginalMapping,unavailableAssociatedCandidate} from './mapping.mjs';
+import {selectMapping,matchesReleaseDate,candidatesFor,matchesEpisodes,verifiedOriginalMapping,unavailableAssociatedCandidate,isPreviewPage,matchesPreviews} from './mapping.mjs';
 const indexItems=[{title:'命运拳台',seaTitle:'Ringing Fate',aliases:[],originCategory:'china'}],indexRequests=[];
 const directory=await collectIndexSeeds({items:indexItems,pause:async()=>{},request:async url=>{
  indexRequests.push(url);return new URL(url).searchParams.get('page')==='1'?{code:0,data:{list:[{season_id:39668,title:'命运拳台'}],has_next:1}}:{code:0,data:{list:[{season_id:123,title:'Unrelated anime'}],has_next:0}};
@@ -32,6 +32,40 @@ const latePreview=await collectChinese({
 assert.equal(latePreview.cache[latePreviewId]?.episodeCount,0,'Late previews near recent paired titles must be found behind both numeric cursors');
 assert.equal(latePreview.cache[latePreviewId].publish.is_started,0);
 assert.equal(latePreview.discovery.range[0],374565);
+const previewTime=Date.parse('2026-10-10T10:00:00+08:00'),asset='0123456789abcdef0123456789abcdef';
+const intlPreview={intlId:90,title:'New Original Anime',release:{status:'upcoming'}},previewId=370626;
+const previewScan=await collectChinese({
+ cache:{369663:{season_id:369663,title:'Most recently allocated anime',type:1,checkedAt:day,richCheckedAt:day}},
+ discovery:{forwardNext:375567,backfillNext:375066},catalog:{items:[intlPreview]},
+ metadata:{90:{type:4}},day,pause:async()=>{},
+ request:async url=>{
+  const endpoint=new URL(url);
+  if(endpoint.pathname.endsWith('/index/result')){
+   assert.equal(endpoint.searchParams.get('season_type'),'4','A newly discovered original Chinese anime must use the corresponding public index');
+   return {code:0,data:{list:[],has_next:0}};
+  }
+  return Number(endpoint.searchParams.get('season_id'))===previewId?{code:0,result:{season_id:previewId,title:intlPreview.title,type:4,
+   episodes:[],publish:{is_started:1,pub_time:day+' 10:00:00'},
+   section:[{title:'预告片',episodes:[{title:'PV',cover:'https://i0.hdslb.com/bfs/bangumi/'+asset+'.png',pub_time:previewTime/1000}]}]
+  }}:{code:-404};
+ },
+});
+assert(isPreviewPage(previewScan.cache[previewId]),'The collector must find a PV-only page behind both cursors without a manual seed');
+assert.equal(previewScan.cache[previewId].publish.is_started,1,'Publishing a trailer can set the official started flag');
+assert.deepEqual(previewScan.cache[previewId].previews,[{asset,publishedAt:previewTime}]);
+const sourcePreviews=await collectEpisodeEvidence({
+ catalog:{items:[intlPreview]},chinese:previewScan.cache,day,pause:async()=>{},
+ request:async url=>url.includes('api.bilibili.tv')?
+  {code:0,data:{sections:[{ep_list_title:'PV&More',episodes:[{title_display:'PV',cover:'https://pic.bstarstatic.com/ogv/'+asset+'.png',publish_time:'2026-10-10T10:00:00+08:00'}]}]}}:
+  {code:0,result:{section:[{title:'预告片',episodes:[{}]}]}},
+});
+assert(matchesPreviews(previewScan.cache[previewId].previews,sourcePreviews.intl[90].previews));
+assert.equal(sourcePreviews.cn[previewId].mainCount,0);
+assert.equal(sourcePreviews.intl[90].mainCount,0);
+for(const placeholder of ['Jan 1, 2099','Dec 31, 2098','2099/01/01']){
+ assert.equal(normalizePremiereDate(placeholder),'');
+ assert.deepEqual(classifyRelease({date:placeholder,day,officialUpcoming:true}),{status:'upcoming',confirmed:true});
+}
 const premiereDay='2026-10-11';
 const premiered=await collectChinese({
  cache:{[latePreviewId]:{...latePreview.cache[latePreviewId],checkedAt:premiereDay,richCheckedAt:premiereDay}},

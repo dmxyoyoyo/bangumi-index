@@ -1,7 +1,8 @@
 import OpenCC from 'opencc-js';
 import SeaFilters from '../dist/sea-filters.js';
 import {classifyOrigin} from './origin.mjs';
-import {classifyRelease,normalizeOfficialDate} from './release.mjs';
+import {classifyRelease,normalizePremiereDate,internationalUpcoming} from './release.mjs';
+import {isPreviewPage} from './mapping.mjs';
 import {readJson,writeJson,saveCatalog,today,getJson} from './shared.mjs';
 import {setTimeout as delay} from 'node:timers/promises';
 const simplify=OpenCC.Converter({from:'tw',to:'cn'}),day=today();
@@ -52,13 +53,21 @@ for(const item of c.items){const meta=intl[item.intlId],local=zh[item.intlId];le
  item.aliases=[...new Set([...(item.aliases||[]),previous,sea,original,subject?.name_cn,...(subject?.aliases||[])].filter(Boolean))];
  // Store a source date independently from whether a Chinese ID has been allocated.
  item.cover=meta?.cover||local?.cover||cn[item.cnId]?.cover||item.cover||'';
- const chinese=cn[item.cnId],override=releaseOverrides[item.intlId],cnDate=chinese?.publish?.pub_time?.slice(0,10),date=normalizeOfficialDate(override?.date||local?.airDate||meta?.airDate||(extra&&cnDate)||subject?.date||cnDate||'');
- const source=override?.source||(local?.airDate||meta?.airDate?'B站国际版':extra&&cnDate?'B站中国版':subject?.date?'Bangumi':cnDate?'B站中国版':null);
+ const chinese=cn[item.cnId],override=releaseOverrides[item.intlId],preview=isPreviewPage(chinese),intlUpcoming=internationalUpcoming(meta,local);
+ const intlDate=normalizePremiereDate(local?.airDate)||normalizePremiereDate(meta?.airDate);
+ const cnDate=preview&&chinese.publish?.is_started===1?'':normalizePremiereDate(chinese?.publish?.pub_time?.slice(0,10));
+ const [date,source]=[
+  [normalizePremiereDate(override?.date),override?.source],
+  [intlDate,'B站国际版'],
+  [extra&&cnDate,'B站中国版'],
+  [!intlUpcoming&&!preview&&normalizePremiereDate(subject?.date),'Bangumi'],
+  [cnDate,'B站中国版']
+ ].find(([value])=>value)||[null,intlUpcoming?'B站国际版':preview?'B站中国版':null];
  const evidence=override?.url||(source==='Bangumi'?'https://bgm.tv/subject/'+subject.id:source==='B站中国版'?'https://api.bilibili.com/pgc/view/web/season?season_id='+item.cnId:'https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id='+item.intlId+'&s_locale=zh_CN');
- const result=classifyRelease({date,day,episodeEvidence:episodeEvidence.intl[item.intlId],started:chinese?.publish?.is_started===1,finished:local?.isFinished===true||meta?.isFinished===true,officialUpcoming:override?.verifiedSchedule===true||chinese?.publish?.is_started===0&&source==='B站中国版'});
- item.release={...result,date:date||null,source,evidenceUrl:source?evidence:null,checkedAt:day,note:[override?.note,extra&&source==='Bangumi'?'日期为原作开播日期，本配音版日期待核实':result.status==='upcoming'&&!result.confirmed?'预计排期；提前配信及平台上线状态待核实':null].filter(Boolean).join('；')||null};
+ const result=classifyRelease({date,day,episodeEvidence:episodeEvidence.intl[item.intlId],started:!preview&&chinese?.publish?.is_started===1,finished:local?.isFinished===true||meta?.isFinished===true,officialUpcoming:override?.verifiedSchedule===true||intlUpcoming||preview});
+ item.release={...result,date,source,evidenceUrl:source?evidence:null,checkedAt:day,note:[override?.note,extra&&source==='Bangumi'?'日期为原作开播日期，本配音版日期待核实':result.status==='upcoming'&&!date?'首播日期待定':result.status==='upcoming'&&!result.confirmed?'预计排期；提前配信及平台上线状态待核实':null].filter(Boolean).join('；')||null};
  item.contentType=contentOverrides[item.intlId]?.type||([1,4].includes(Number(meta?.type))?'animation':meta?.type!=null?'non-animation':null);
- item.classification=SeaFilters.classify(meta,normalizeOfficialDate(meta?.officialStart||meta?.airDate||local?.airDate||item.release.date||''));
+ item.classification=SeaFilters.classify(meta,normalizePremiereDate(meta?.officialStart)||intlDate||date||'');
 }
 await writeJson('data/bangumi-countries.json',countries);await writeJson('data/bangumi-subjects.json',selected);await writeJson('data/intl-metadata.json',intl);await writeJson('data/localized-metadata.json',zh);await writeJson('data/cn-metadata.json',cn);c.meta.titleNote='中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。';
 c.meta.updatedAt=day;await saveCatalog(c);

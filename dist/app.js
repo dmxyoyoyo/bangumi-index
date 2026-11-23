@@ -18,7 +18,7 @@ function render(){
   name.append(element('div','alternate',(item.seaTitle||item.officialTitle||item.title)+(item.seaTitleSource==='历史目录'?'（历史记录）':'')));
   name.append(element('div','original-title',item.japaneseTitle?item.japaneseTitle:item.originalNameStatus==='non-japanese'?(item.originalName||'来源未提供'):item.originalName?item.originalName+'（原名语言待确认）':'来源未提供'));
   if(item.contentType==='non-animation')name.querySelector('.original-title').append('（非动画）');
-  const release=element('div','release-line');release.append(element('span','release-tag '+item.release.status,({upcoming:item.release.confirmed?'未开播（官方排期）':'计划开播',aired:item.release.confirmed?'已开播 / 上映':'首播日期已过',unknown:'开播时间待核实'})[item.release.status]),element('span','',item.release.date?(item.release.status==='upcoming'?'预计 ':'')+item.release.date:''));
+  const release=element('div','release-line');release.append(element('span','release-tag '+item.release.status,({upcoming:!item.release.date?'未开播':item.release.confirmed?'未开播（官方排期）':'计划开播',aired:item.release.confirmed?'已开播 / 上映':'首播日期已过',unknown:'开播时间待核实'})[item.release.status]),element('span','',item.release.date?(item.release.status==='upcoming'?'预计 ':'')+item.release.date:''));
   if(item.release.note)release.append(element('span','',item.release.note));
   name.append(release);
   const intl=element('td');intl.dataset.label='国际版 ID';if(item.intlId){intl.append(external(String(item.intlId),'https://www.bilibili.tv/en/play/'+item.intlId,'intl-link'),action('复制国际版 ID',()=>copy(String(item.intlId),'国际版 ID'),'small-button'));}else{intl.append(element('div','unmapped','对应 ID 待核实'));}
