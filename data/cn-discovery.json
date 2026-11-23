@@ -1,22 +1,22 @@
 {
   "checkedAt": "2026-11-23",
   "range": [
+    375567,
+    376067
+  ],
+  "backfillRange": [
     375066,
     375566
   ],
-  "backfillRange": [
-    374565,
-    375065
-  ],
-  "backfillNext": 375066,
-  "validCandidates": 6567,
-  "added": 0,
-  "missing": 1144,
-  "forwardNext": 375567,
-  "indexCandidates": 5,
+  "backfillNext": 375567,
+  "validCandidates": 6591,
+  "added": 24,
+  "missing": 1112,
+  "forwardNext": 376068,
+  "indexCandidates": 19,
   "requestBudget": 4000,
   "backfillLimit": 2000,
-  "recheckQueued": 246,
+  "recheckQueued": 0,
   "refreshStatus": "updated",
   "refreshWarning": null,
   "lastAttemptAt": "2026-11-23"
