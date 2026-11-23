@@ -1,4 +1,5 @@
 import {normalizePremiereDate} from './release.mjs';
+import {episodeId} from './content-recheck.mjs';
 export function nameKey(text){return String(text||'').normalize('NFKC').toLowerCase().replace(/&amp;/g,'&').replace(/[\p{P}\p{Z}\s]/gu,'');}
 export function synopsisKey(text){return nameKey(text);}
 function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';if(/dub\s*indo|indo\s*dub|印配|印尼语配音/i.test(text))return 'ID';if(/english\s*dub|dub\s*eng|英配|英语配音/i.test(text))return 'EN';if(/vietnamese\s*dub|越配|越南语配音/i.test(text))return 'VN';return null;}
@@ -46,9 +47,9 @@ export function previewAssets(sections=[]){
   return (section.episodes||[]).filter(ep=>previewSection||
    [ep.title,ep.show_title,ep.short_title_display,ep.title_display].some(label=>previewLabel.test(label||''))
   ).map(ep=>{
-  const asset=ep.cover?.match(/\/([\da-f]{32,64})\.[a-z]+(?:[?@#].*)?$/i)?.[1].toLowerCase()||null;
+   const id=episodeId(ep),asset=ep.cover?.match(/\/([\da-f]{32,64})\.[a-z]+(?:[?@#].*)?$/i)?.[1].toLowerCase()||null;
   const time=ep.pub_time?Number(ep.pub_time)*1000:Date.parse(ep.publish_time);
-  return {asset,publishedAt:Number.isFinite(time)&&time>0?time:null};
+   return {asset,publishedAt:Number.isFinite(time)&&time>0?time:null,...(id?{id}:{})};
   });
  });
 }

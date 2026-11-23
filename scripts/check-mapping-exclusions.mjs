@@ -7,7 +7,7 @@ import {candidatesFor,verifiedOriginalMapping} from './mapping.mjs';
 const root=new URL('../',import.meta.url),temp=await mkdtemp(join(tmpdir(),'bangumi-mapping-exclusions-'));
 try{
  for(const name of ['scripts','dist','data'])await mkdir(join(temp,name));
- for(const path of ['scripts/diagnose.mjs','scripts/mapping.mjs','scripts/shared.mjs','scripts/release.mjs','scripts/update.mjs','dist/catalog.js','dist/sea-filters.js'])await copyFile(new URL(path,root),join(temp,path));
+ for(const path of ['scripts/diagnose.mjs','scripts/mapping.mjs','scripts/content-recheck.mjs','scripts/shared.mjs','scripts/release.mjs','scripts/update.mjs','dist/catalog.js','dist/sea-filters.js'])await copyFile(new URL(path,root),join(temp,path));
  const save=(path,value)=>writeFile(join(temp,path),JSON.stringify(value));
  const synopsis='Two companions explore an ancient city together, seeking its lost maps and the truth behind a forgotten promise.';
  const candidate={season_id:10,title:'示例动画',type:4,available:true,areas:[{id:1,name:'中国大陆'}],evaluate:synopsis};

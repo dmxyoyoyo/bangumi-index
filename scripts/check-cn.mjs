@@ -112,10 +112,11 @@ const episodeTitle='Example Animation: A Separate Official Special',published=Da
 const episodeCatalog={items:[{intlId:1,cnId:null,title:episodeTitle,seaTitle:episodeTitle}]},episodeChinese={2:{season_id:2,title:episodeTitle,firstEpisodePublishedAt:published,publish:{is_started:1},episodeCount:2}},episodeCache={intl:{},cn:{}},episodeCacheBefore=structuredClone(episodeCache);
 const episodeResult=await collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,cache:episodeCache,day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[{ep_list_title:'1-2',episodes:[{episode_id:'10',publish_time:'2026-09-15T23:00:00+08:00'},{episode_id:'11',publish_time:'2026-09-22T23:00:00+08:00'}]},{ep_list_title:'PV&More',episodes:[{episode_id:'12',publish_time:'2026-09-01T00:00:00+08:00'}]}]}}:{code:0,result:{main_section:{episodes:[{},{}]},section:[{episodes:[{}]}]}}});
 assert.deepEqual(episodeCache,episodeCacheBefore,'Optional evidence collection must not mutate the stored snapshot');
-assert.deepEqual(episodeResult.intl[1],{available:true,mainCount:2,extraCount:1,firstPublishedAt:published,checkedAt:day});assert(matchesEpisodes(episodeResult.cn[2],episodeResult.intl[1]));
+assert.deepEqual(episodeResult.intl[1],{available:true,mainCount:2,extraCount:1,firstPublishedAt:published,mainEpisodeIds:[10,11],checkedAt:day,contentAttemptAt:day,contentCheckedAt:day});assert(matchesEpisodes(episodeResult.cn[2],episodeResult.intl[1]));
 assert.equal(matchesEpisodes({...episodeResult.cn[2],extraCount:0},episodeResult.intl[1]),false);assert.equal(matchesEpisodes({...episodeResult.cn[2],firstPublishedAt:published+1000},episodeResult.intl[1]),false);
 const eveningEpisodes=await collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,cache:episodeResult,day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[{episodes:[{publish_time:'2026-09-15T23:00:00+08:00'},{},{}]}]}}:{code:0,result:{main_section:{episodes:[{},{},{}]},section:[]}}});
 assert.equal(eveningEpisodes.intl[1].mainCount,3);assert.equal(eveningEpisodes.cn[2].mainCount,3,'The evening run must refresh pending episode data even after a morning check');assert.equal(episodeResult.intl[1].mainCount,2,'A repeated refresh preserves its input cache');
+assert.deepEqual(eveningEpisodes.intlContentReview.changes,[{id:1,episodes:1,previews:0}],'International additions are reported even while the Chinese ID is still unknown');
 const infoCandidate={season_id:2,title:episodeTitle,evaluate:'No info available',episodeEvidence:episodeResult.cn[2]},infoMetadata={title:episodeTitle,description:'No info available',episodeEvidence:episodeResult.intl[1]};
 assert.deepEqual(candidatesFor({seaTitle:episodeTitle},infoMetadata,null,[infoCandidate]).map(x=>x.season_id),[2],'A long exact official title and matching episode structure/publication time can identify missing-synopsis entries');
 assert.equal(candidatesFor({seaTitle:episodeTitle},{...infoMetadata,episodeEvidence:{...infoMetadata.episodeEvidence,firstPublishedAt:published+1000}},null,[infoCandidate]).length,0);
@@ -129,6 +130,67 @@ await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:epis
 await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,day,pause:async()=>{},request:async()=>({code:0,data:{sections:[{episodes:null}]}})}),/invalid data/);
 await assert.rejects(collectEpisodeEvidence({catalog:episodeCatalog,chinese:episodeChinese,day,pause:async()=>{},request:async url=>url.includes('api.bilibili.tv')?{code:0,data:{sections:[]}}:{code:0,result:{section:[]}}}),/invalid data/);
 assert.deepEqual(episodeCache,episodeCacheBefore);
+const trackedItems=Array.from({length:6},(_,i)=>({
+ intlId:i+1,cnId:1001+i,title:'Tracked season '+(i+1),
+ release:{status:i===5?'upcoming':'aired'},mappingStatus:i===5?{preview:true}:{code:'confirmed'}
+}));
+const trackedCatalog={items:trackedItems},yesterday='2026-10-09';
+const knownContent={
+ available:true,mainEpisodeIds:[10],contentAttemptAt:yesterday,contentCheckedAt:yesterday,
+ previews:[{id:90}],episodeCount:1,mainCount:1
+};
+const oldChinese=Object.fromEntries(trackedItems.map(({cnId,title})=>[cnId,{
+ ...knownContent,season_id:cnId,title,type:1,publish:{is_started:1,is_finish:1},checkedAt:yesterday
+}]));
+oldChinese[1006]={...oldChinese[1006],episodeCount:0,mainEpisodeIds:[]};
+const oldInternational=Object.fromEntries(trackedItems.map(({intlId})=>[intlId,knownContent]));
+oldInternational[6]={...oldInternational[6],mainCount:0,mainEpisodeIds:[]};
+const noPause=async()=>{};
+function dailySource(evening,requests){
+ return async value=>{
+  const url=new URL(value),intl=url.hostname==='api.bilibili.tv';
+  const rawId=Number(url.searchParams.get('season_id')),id=intl?rawId:rawId-1000;
+  if(id<1||id>6)return {code:-404};
+  requests.push(id);
+  if(id===2&&!evening)return {code:-404};
+  if(id===4)return intl?{code:0,data:{sections:[]}}:{code:0,result:{season_id:rawId,episodes:[]}};
+  const firstEpisode=id===6&&!evening?[]:[10];
+  const main=id===1?[10,11]:firstEpisode,trailers=id===1?[90,91]:[90];
+  if(intl)return {code:0,data:{sections:[
+   {title:'正片',episodes:main.map(n=>({episode_id:String(n),publish_time:'2026-10-10T10:00:00+08:00'}))},
+   {ep_list_title:'PV&More',episodes:trailers.map(n=>({episode_id:String(n),title_display:'PV'}))}
+  ]}};
+  return {code:0,result:{season_id:rawId,title:'Tracked season '+id,type:1,publish:{is_started:1,is_finish:id===6?0:1},
+   episodes:main.map(n=>({id:n,pub_time:previewTime/1000})),
+   section:[{title:'预告片',episodes:trailers.map(n=>({id:n,title:'PV'}))}]
+  }};
+ };
+}
+const cnMorning=[],cnEvening=[],intlMorning=[],intlEvening=[];
+const morningCn=await collectChinese({cache:oldChinese,discovery:{},catalog:trackedCatalog,day,pause:noPause,request:dailySource(false,cnMorning)});
+const eveningCn=await collectChinese({cache:morningCn.cache,discovery:morningCn.discovery,catalog:trackedCatalog,day,pause:noPause,request:dailySource(true,cnEvening)});
+const morningIntl=await collectEpisodeEvidence({catalog:trackedCatalog,chinese:{},cache:{intl:oldInternational,cn:{}},day,pause:noPause,request:dailySource(false,intlMorning)});
+const eveningIntl=await collectEpisodeEvidence({catalog:trackedCatalog,chinese:{},cache:morningIntl,day,pause:noPause,request:dailySource(true,intlEvening)});
+for(const ids of [cnMorning,intlMorning])assert.deepEqual(ids,[6,1,2,3],'Active shows are checked first, followed by half of the stable catalogue');
+for(const ids of [cnEvening,intlEvening])assert.deepEqual(ids,[6,4,5,2],'New coverage takes priority over the same-day retry');
+for(const report of [morningCn.discovery.contentReview,morningIntl.intlContentReview]){
+ assert.equal(report.attempted,4);assert.equal(report.verified,3);assert.equal(report.changes.length,1);
+ assert.deepEqual({episodes:report.changes[0].episodes,previews:report.changes[0].previews},{episodes:1,previews:1});
+}
+for(const report of [eveningCn.discovery.contentReview,eveningIntl.intlContentReview]){
+ assert.equal(report.attempted,6);assert.equal(report.verified,5);assert.equal(report.changes.length,1);
+ assert.deepEqual({episodes:report.changes[0].episodes,previews:report.changes[0].previews},{episodes:1,previews:0});
+}
+assert.equal(isPreviewPage(morningCn.cache[1006]),true);assert.equal(isPreviewPage(eveningCn.cache[1006]),false);
+assert.equal(classifyRelease({day,officialUpcoming:true,episodeEvidence:morningIntl.intl[6],now:previewTime+1000}).status,'upcoming');
+assert.equal(classifyRelease({day,officialUpcoming:true,episodeEvidence:eveningIntl.intl[6],now:previewTime+1000}).status,'aired');
+assert.deepEqual(morningCn.cache[1002].mainEpisodeIds,[10]);assert.deepEqual(eveningCn.cache[1004].mainEpisodeIds,[10]);
+assert.deepEqual(morningIntl.intl[2].mainEpisodeIds,[10]);assert.deepEqual(eveningIntl.intl[4].mainEpisodeIds,[10]);
+let blockedRequests=0;
+const blockedIntl=await collectEpisodeEvidence({catalog:trackedCatalog,chinese:{},cache:morningIntl,day,pause:noPause,
+ request:async()=>{blockedRequests++;return {code:-412};}});
+assert(blockedRequests<=2,'A source limit stops further requests');
+assert.deepEqual(blockedIntl.intl,morningIntl.intl);assert.match(blockedIntl.intlContentReview.warning,/rate-limited/);
 const originalVerification={cnId:2,cnTitle:'示例动画 第二季',originalName:'示例动画 第二季',edition:'international'},originalMeta={type:4,originName:originalVerification.originalName},originalChinese={type:4,season_id:2,title:originalVerification.cnTitle,available:true};
 assert(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChinese,originalVerification));
 assert.equal(verifiedOriginalMapping({originCategory:'china'},{...originalMeta,available:false},originalChinese,originalVerification),false);assert.equal(verifiedOriginalMapping({originCategory:'china'},originalMeta,originalChinese,{...originalVerification,originalName:''}),false);

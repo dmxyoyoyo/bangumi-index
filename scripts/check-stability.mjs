@@ -46,19 +46,35 @@ try{
  for(const path of ['scripts','data','dist'])await mkdir(join(temp,path));
  for(const path of ['scripts/refresh.mjs','scripts/shared.mjs'])await copyFile(new URL(path,root),join(temp,path));
  for(const stage of ['update','refresh-cn','episode-evidence','enrich','diagnose','gamer','bilibili','check'])await writeFile(join(temp,'scripts',stage+'.mjs'),`import {appendFile,writeFile} from 'node:fs/promises';
-await appendFile('events.jsonl',JSON.stringify({stage:'${stage}',skip:process.argv.includes('--skip-chinese')})+'\\n');
-if('${stage}'==='refresh-cn')await writeFile('data/cn-discovery.json',JSON.stringify({refreshStatus:process.env.TEST_CACHED==='cn'?'cached':'updated'}));
+const internationalOnly=process.argv.includes('--international-only'),chineseOnly=process.argv.includes('--chinese-only');
+await appendFile('events.jsonl',JSON.stringify({stage:'${stage}',skip:process.argv.includes('--skip-chinese'),internationalOnly,chineseOnly})+'\\n');
+if('${stage}'==='episode-evidence'&&internationalOnly)await writeFile('data/mapping-episodes.json',JSON.stringify({intlContentReview:{
+ total:1,attempted:process.env.TEST_CACHED==='intl'?0:1,verified:process.env.TEST_CACHED==='intl'?0:1,changes:[],
+ warning:process.env.TEST_CACHED==='intl'?'Rate-limited':null
+}}));
+if('${stage}'==='refresh-cn')await writeFile('data/cn-discovery.json',JSON.stringify({refreshStatus:process.env.TEST_CACHED==='cn'?'cached':'updated',
+ contentReview:{total:1,attempted:1,verified:1,changes:[{id:278118,episodes:1,previews:0}]}
+}));
 if('${stage}'==='bilibili')await writeFile('dist/bilibili-catalog.json',JSON.stringify({meta:{refreshStatus:process.argv.includes('--skip-chinese')||process.env.TEST_CACHED==='directory'?'cached':'updated'}}));
 if('${stage}'==='check'&&process.env.TEST_CHECK_FAIL==='1')process.exit(1);`);
- const lastSuccess='2026-10-23T01:00:00Z',initial={meta:{lastSuccessfulRefresh:lastSuccess},items:[{intlId:1,cnId:278118}]};
- for(const mode of ['cn','directory','healthy','check-failure']){
+ const lastSuccess='2026-10-23T01:00:00Z',initial={meta:{lastSuccessfulRefresh:lastSuccess},items:[{intlId:1,cnId:278118,title:'已收录番剧'}]};
+ for(const mode of ['cn','directory','intl','healthy','check-failure']){
   await json('dist/catalog.json',initial);await writeFile(join(temp,'events.jsonl'),'');await writeFile(join(temp,'summary.md'),'');
   const result=spawnSync(process.execPath,['scripts/refresh.mjs'],{cwd:temp,encoding:'utf8',env:{...process.env,TEST_CACHED:mode,TEST_CHECK_FAIL:mode==='check-failure'?'1':'0',GITHUB_STEP_SUMMARY:join(temp,'summary.md')}}),catalog=JSON.parse(await readFile(join(temp,'dist/catalog.json'),'utf8')),events=(await readFile(join(temp,'events.jsonl'),'utf8')).trim().split('\n').map(JSON.parse);
   if(mode==='check-failure'){assert.notEqual(result.status,0);assert.deepEqual(catalog,initial);assert.equal(await readFile(join(temp,'summary.md'),'utf8'),'');continue;}
   assert.equal(result.status,0,result.stderr);assert(events.some(x=>x.stage==='gamer'));assert(events.some(x=>x.stage==='check'));
-  assert.equal(events.find(x=>x.stage==='episode-evidence').skip,mode==='cn');assert.equal(events.find(x=>x.stage==='bilibili').skip,mode==='cn');
+  assert.equal(events.filter(x=>x.stage==='episode-evidence').length,2);
+  assert.equal(events.find(x=>x.stage==='episode-evidence'&&x.internationalOnly).skip,false);
+  assert.equal(events.find(x=>x.stage==='episode-evidence'&&x.chineseOnly).skip,mode==='cn');
+  assert.equal(events.find(x=>x.stage==='bilibili').skip,mode==='cn');
   assert.equal(catalog.meta.refreshStatus,mode==='healthy'?'updated':'partial');
-  if(mode==='healthy'){assert.notEqual(catalog.meta.lastSuccessfulRefresh,lastSuccess);assert.deepEqual(catalog.meta.cachedSources,[]);}else{assert.equal(catalog.meta.lastSuccessfulRefresh,lastSuccess);assert(catalog.meta.cachedSources.includes('哔哩哔哩国区目录'));assert((await readFile(join(temp,'summary.md'),'utf8')).includes('沿用上次数据'));}
+  const summary=await readFile(join(temp,'summary.md'),'utf8');
+  assert(summary.includes('已收录番剧（ss278118）新增正片 1 集'));
+  if(mode==='healthy'){assert.notEqual(catalog.meta.lastSuccessfulRefresh,lastSuccess);assert.deepEqual(catalog.meta.cachedSources,[]);}
+  else{
+   assert.equal(catalog.meta.lastSuccessfulRefresh,lastSuccess);
+   assert(catalog.meta.cachedSources.includes(mode==='intl'?'东南亚国际版分集检查':'哔哩哔哩国区目录'));assert(summary.includes('沿用上次数据'));
+  }
  }
 }finally{
  if(dirname(resolve(temp))!==resolve(tmpdir())||!basename(temp).startsWith('bangumi-stability-'))throw new Error('Unexpected test directory');
