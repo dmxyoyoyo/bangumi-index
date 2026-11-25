@@ -3,7 +3,7 @@
     "checkedAt": "2026-11-25",
     "partial": true,
     "rateLimited": false,
-    "failedSources": 6
+    "failedSources": 1
   },
   "pages": {
     "https://www.bilibili.com/read/cv14759616": {
@@ -735,7 +735,7 @@
       ],
       "legacyVideos": [],
       "relatedArticles": [],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     "https://www.bilibili.com/opus/862025538638708793": {
       "sourceUrl": "https://www.bilibili.com/opus/862025538638708793",
@@ -2521,7 +2521,7 @@
         "https://www.bilibili.com/opus/391033643907861109",
         "https://www.bilibili.com/opus/392516640281633945"
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     "https://www.bilibili.com/read/cv14794306": {
       "sourceUrl": "https://www.bilibili.com/read/cv14794306",
@@ -2712,7 +2712,7 @@
       "relatedArticles": [
         "https://www.bilibili.com/opus/582496164902494207"
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     "https://www.bilibili.com/read/cv7314822": {
       "sourceUrl": "https://www.bilibili.com/read/cv7314822",
@@ -2887,7 +2887,7 @@
       "relatedArticles": [
         "https://www.bilibili.com/opus/396511775907740710"
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     "https://www.bilibili.com/read/cv6295997": {
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
@@ -3002,7 +3002,7 @@
         "https://www.bilibili.com/opus/613361681091881122",
         "https://www.bilibili.com/opus/428417885360651517"
       ],
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     }
   },
   "seasons": [
@@ -5127,7 +5127,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 5558,
@@ -5137,7 +5137,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 25717,
@@ -5147,7 +5147,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 26298,
@@ -5157,7 +5157,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 1356,
@@ -5287,7 +5287,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 44816,
@@ -5297,7 +5297,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43175,
@@ -5307,7 +5307,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43177,
@@ -5317,7 +5317,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43281,
@@ -5327,7 +5327,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43061,
@@ -5337,7 +5337,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43174,
@@ -5347,7 +5347,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43103,
@@ -5357,7 +5357,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43171,
@@ -5367,7 +5367,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43176,
@@ -5377,7 +5377,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43267,
@@ -5387,7 +5387,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43278,
@@ -5397,7 +5397,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43772,
@@ -5407,7 +5407,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43170,
@@ -5417,7 +5417,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43104,
@@ -5427,7 +5427,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43184,
@@ -5437,7 +5437,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 43064,
@@ -5447,7 +5447,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 44952,
@@ -5457,7 +5457,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 44862,
@@ -5467,7 +5467,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/opus/984809853218193431",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 44466,
@@ -5957,7 +5957,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 1292,
@@ -5967,7 +5967,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 2586,
@@ -5977,7 +5977,7 @@
       "historical": true,
       "sourceUrl": "https://www.bilibili.com/read/cv6295997",
       "verification": "official-ogv-card",
-      "checkedAt": "2026-11-21"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": 28184,
