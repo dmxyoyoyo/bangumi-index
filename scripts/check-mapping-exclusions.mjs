@@ -78,8 +78,11 @@ try{
  await save('data/user-links.json',[{id:30,intlId:3},{id:40,intlId:4}]);
  await save('data/sea-region-history.json',{1:['ID','TH'],2:['PH']});
  const sourceCheck=spawnSync(process.execPath,['--input-type=module','--eval',`
-  const requests=[];globalThis.fetch=async value=>{const url=new URL(value);requests.push(url.href);let data;
-   if(url.pathname.endsWith('.xml'))return new Response('<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc><loc>https://www.bilibili.tv/en/media/5</loc>');
+  const requests=[];let sitemapReads=0;globalThis.fetch=async value=>{const url=new URL(value);requests.push(url.href);let data;
+   if(url.pathname.endsWith('.xml')){
+    const original='<loc>https://www.bilibili.tv/en/media/1</loc><loc>https://www.bilibili.tv/en/media/2</loc><loc>https://www.bilibili.tv/en/media/5</loc>';
+    return new Response(++sitemapReads===1?original:original+'<loc>https://www.bilibili.tv/en/media/6</loc>');
+   }
    if(url.pathname.includes('/index/')){
     if(url.searchParams.get('order')!=='2')throw new Error('The international index must request the latest entries first');
     data={code:0,data:{cards:[{season_id:2,title:'New Anime'}],has_next:false}};
@@ -98,6 +101,7 @@ try{
  assert(refreshed.some(x=>x.intlId===3&&x.regions.includes('TH')),'A paired anime must be discovered even when it is absent from both listing sources');
  assert(!refreshed.some(x=>x.intlId===4),'A paired ID does not turn an official short drama into an anime');
  assert(refreshed.some(x=>x.intlId===5),'An official sitemap entry must be rechecked after a same-day lookup did not return metadata');
+ assert(refreshed.some(x=>x.intlId===6&&x.regions.includes('TH')),'A season listed during the same run must be added before the Chinese scan without a manual seed');
  const regionUnknown=refreshed.find(x=>x.intlId===1), regionKnown=refreshed.find(x=>x.intlId===2);
  assert.deepEqual(regionUnknown.regions,[],'An empty current list does not inherit historical countries as current');
  assert.deepEqual(regionUnknown.historicalRegions,['ID','TH']);

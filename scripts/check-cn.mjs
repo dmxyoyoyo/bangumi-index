@@ -32,6 +32,23 @@ const latePreview=await collectChinese({
 assert.equal(latePreview.cache[latePreviewId]?.episodeCount,0,'Late previews near recent paired titles must be found behind both numeric cursors');
 assert.equal(latePreview.cache[latePreviewId].publish.is_started,0);
 assert.equal(latePreview.discovery.range[0],374565);
+const newDub={intlId:2453958,title:'New Anime (Thai Dub)',release:{status:'aired',date:'2026-11-25'}},dubRequests=[];
+const dubDiscovery=await collectChinese({
+ cache:{
+  368550:{season_id:368550,type:1,title:'Recent Anime (Thai Dub)',publish:{pub_time:'2026-11-18 21:00:00'},checkedAt:'2026-11-26',richCheckedAt:'2026-11-26'},
+  370626:{season_id:370626,type:4,title:'Latest Anime',publish:{pub_time:'2026-11-23 10:00:00'},checkedAt:'2026-11-26',richCheckedAt:'2026-11-26'}
+ },
+ discovery:{forwardNext:379074,backfillNext:378573},catalog:{items:[newDub]},metadata:{2453958:{title:newDub.title,type:1,airDate:'Nov 25, 2026'}},
+ day:'2026-11-26',pause:async()=>{},request:async value=>{
+  const url=new URL(value);
+  if(url.pathname.endsWith('/index/result'))return {code:0,data:{list:[],has_next:0}};
+  const id=Number(url.searchParams.get('season_id'));dubRequests.push(id);
+  return id===368111?{code:0,result:{season_id:id,title:newDub.title,type:1,publish:{is_started:1,pub_time:'2026-11-25 21:00:00'},episodes:[{id:7972032}]}}:{code:-404};
+ }
+});
+assert.equal(dubDiscovery.cache[368111]?.firstEpisode,7972032,'A recently premiered dub must be found behind both numeric cursors without a user link');
+assert.equal(dubDiscovery.discovery.publicationRange,null,'The dub must be discoverable after it has already aired');
+assert(dubRequests.length<=4000,'The dub recheck stays within the normal candidate budget');
 const previewTime=Date.parse('2026-10-10T10:00:00+08:00'),asset='0123456789abcdef0123456789abcdef';
 const intlPreview={intlId:90,title:'New Original Anime',release:{status:'upcoming'}},previewId=370626;
 const previewScan=await collectChinese({

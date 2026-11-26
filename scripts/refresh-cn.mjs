@@ -1,4 +1,5 @@
-import {nameKey,previewAssets} from './mapping.mjs';
+import {dub,nameKey,previewAssets} from './mapping.mjs';
+import {normalizePremiereDate} from './release.mjs';
 import {contentQueue,contentReview,episodeIds,addedContent} from './content-recheck.mjs';
 import {readJson,writeJson,getJson,getIndexPage,SourceError,today} from './shared.mjs';
 import {setTimeout as delay} from 'node:timers/promises';
@@ -35,12 +36,31 @@ export async function collectChinese({cache,discovery,catalog,metadata={},seeds=
   for(let candidate=Math.max(1,id-40);candidate<=id+40;candidate++)if(!cache[candidate])nearby.add(candidate);
  }
  const nearbyIds=[...nearby].slice(0,160);
+ // A dub can premiere long after its Chinese season ID was allocated.
+ const dubLanguages=new Set(catalog.items.filter(item=>{
+  const official=metadata[item.intlId];
+  const premiere=normalizePremiereDate(official?.airDate)||normalizePremiereDate(item.release?.date);
+  return !item.cnId&&item.intlId&&official?.available!==false&&Math.abs(age(premiere))<=21;
+ }).map(item=>dub(metadata[item.intlId]?.title||item.seaTitle||item.title)).filter(Boolean));
+ const dubAnchors=new Map();
+ if(dubLanguages.size)for(const candidate of Object.values(cache)){
+  const id=candidate.season_id,language=dub(candidate.title);
+  if(dubLanguages.has(language)&&id>=272000&&candidate.available!==false&&[1,4].includes(candidate.type)&&
+   Math.abs(age(candidate.publish?.pub_time?.slice(0,10)))<=21&&id>(dubAnchors.get(language)||0))dubAnchors.set(language,id);
+ }
+ const dubRadius=512,dubIds=new Set();
+ for(let distance=1;dubAnchors.size&&distance<=dubRadius&&dubIds.size<900;distance++){
+  for(const anchor of dubAnchors.values())for(const id of [anchor-distance,anchor+distance]){
+   if(!cache[id]||cache[id].available===false)dubIds.add(id);
+  }
+ }
+ const dubRanges=[...dubAnchors.values()].map(id=>[id-dubRadius,id+dubRadius]);
  // Public PV pages may be published behind both numeric scan cursors.
  const latestAnimation=Math.max(0,...bridge,...Object.values(cache).filter(x=>x.available!==false&&[1,4].includes(x.type)).map(x=>x.season_id));
  const publicationRange=latestAnimation>=272000&&catalog.items.some(item=>!item.cnId&&item.intlId&&item.release?.status!=='aired')?[latestAnimation-200,latestAnimation+1024]:null;
  const recent=publicationRange?Array.from({length:publicationRange[1]-publicationRange[0]+1},(_,i)=>publicationRange[0]+i):[];
  const frontier=Math.max(282999,...Object.values(cache).filter(x=>x.available!==false).map(x=>x.season_id),...bridge,...seedIds),start=Math.max(frontier-100,discovery.forwardNext||frontier-100),end=start+500;
- const forward=Array.from({length:501},(_,i)=>start+i),required=[...new Set([...seedIds,...indexed,...linkedIds,...pendingIds,...queue,...nearbyIds,...recent,...related])].slice(0,4000-forward.length),base=new Set([...required,...forward]);
+ const forward=Array.from({length:501},(_,i)=>start+i),required=[...new Set([...seedIds,...indexed,...linkedIds,...pendingIds,...queue,...nearbyIds,...dubIds,...recent,...related])].slice(0,4000-forward.length),base=new Set([...required,...forward]);
  const rechecks=known.filter(id=>!base.has(id)&&!tracked.has(id)&&(age(cache[id]?.checkedAt)>=7||cache[id]?.publish?.is_started===0&&age(cache[id]?.checkedAt)>=1)).sort((a,b)=>age(cache[b]?.checkedAt)-age(cache[a]?.checkedAt)).slice(0,Math.max(0,4000-base.size-501));
  const priority=[...new Set([...required,...rechecks,...forward])],backfillBudget=Math.min(2000,Math.max(0,4000-priority.length));
  const backfillStart=discovery.backfillNext&&discovery.backfillNext<start?discovery.backfillNext:283000,backfillEnd=Math.min(backfillStart+backfillBudget-1,start-1);
@@ -69,7 +89,7 @@ export async function collectChinese({cache,discovery,catalog,metadata={},seeds=
   }catch(error){failure=error;}
  }}
  await Promise.all([worker(),worker()]);if(failure)throw failure;
- return {cache:next,discovery:{...discovery,refreshStatus:'updated',refreshWarning:null,lastAttemptAt:day,checkedAt:day,range:[start,end],forwardNext:end+1,publicationRange,backfillRange:[backfillStart,backfillEnd],backfillNext:backfillEnd>=backfillStart?backfillEnd+1:backfillStart,validCandidates:Object.values(next).filter(x=>x.available!==false).length,requestBudget:4000,backfillLimit:2000,recheckQueued:rechecks.length,indexCandidates:indexed.length,added,missing,contentReview:contentReview(tracked,next,day,changes)}};
+ return {cache:next,discovery:{...discovery,refreshStatus:'updated',refreshWarning:null,lastAttemptAt:day,checkedAt:day,range:[start,end],forwardNext:end+1,publicationRange,dubRanges,backfillRange:[backfillStart,backfillEnd],backfillNext:backfillEnd>=backfillStart?backfillEnd+1:backfillStart,validCandidates:Object.values(next).filter(x=>x.available!==false).length,requestBudget:4000,backfillLimit:2000,recheckQueued:rechecks.length,indexCandidates:indexed.length,added,missing,contentReview:contentReview(tracked,next,day,changes)}};
  }catch(error){
   if(!(error instanceof SourceError)||!Object.values(cache).some(x=>x.available!==false&&x.title&&Number.isSafeInteger(x.season_id)))throw error;
   console.warn('::warning::中国版 ID 补查未完成，保留原有核实结果和扫描进度，下次继续：'+error.message);
@@ -79,5 +99,5 @@ export async function collectChinese({cache,discovery,catalog,metadata={},seeds=
 if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  const result=await collectChinese({cache:await readJson('data/cn-metadata.json',{}),discovery:await readJson('data/cn-discovery.json',{}),catalog:await readJson('dist/catalog.json'),metadata:await readJson('data/intl-metadata.json',{}),seeds:await readJson('data/user-links.json',[]),links:await readJson('data/linked-candidates.json',{})});
  await writeJson('data/cn-metadata.json',result.cache);await writeJson('data/cn-discovery.json',result.discovery);
- console.log(JSON.stringify({phase:'chinese-candidates-complete',added:result.discovery.added,validCandidates:result.discovery.validCandidates,range:result.discovery.range,publicationRange:result.discovery.publicationRange}));
+ console.log(JSON.stringify({phase:'chinese-candidates-complete',added:result.discovery.added,validCandidates:result.discovery.validCandidates,range:result.discovery.range,publicationRange:result.discovery.publicationRange,dubRanges:result.discovery.dubRanges}));
 }

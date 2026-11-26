@@ -2,7 +2,7 @@ import {normalizePremiereDate} from './release.mjs';
 import {episodeId} from './content-recheck.mjs';
 export function nameKey(text){return String(text||'').normalize('NFKC').toLowerCase().replace(/&amp;/g,'&').replace(/[\p{P}\p{Z}\s]/gu,'');}
 export function synopsisKey(text){return nameKey(text);}
-function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';if(/dub\s*indo|indo\s*dub|印配|印尼语配音/i.test(text))return 'ID';if(/english\s*dub|dub\s*eng|英配|英语配音/i.test(text))return 'EN';if(/vietnamese\s*dub|越配|越南语配音/i.test(text))return 'VN';return null;}
+export function dub(text){if(/thai\s*dub|泰配|泰语配音/i.test(text))return 'TH';if(/dub\s*indo|indo\s*dub|印配|印尼语配音/i.test(text))return 'ID';if(/english\s*dub|dub\s*eng|英配|英语配音/i.test(text))return 'EN';if(/vietnamese\s*dub|越配|越南语配音/i.test(text))return 'VN';return null;}
 function label(item){return item.seasons?.find(s=>s.id===item.season_id)?.title||'';}
 function season(text){const m=String(text||'').match(/第([一二三四五六七八九十0-9]+)[季期]|season\s*([0-9]+)|([0-9]+)(?:st|nd|rd|th)\s*season|(?:^|\s)S([0-9]+)(?:$|\s)/i);return m?(Number(m[2]||m[3]||m[4]||m[1])||({一:1,二:2,三:3,四:4,五:5,六:6,七:7,八:8,九:9,十:10}[m[1]]||null)):null;}
 export function candidatesFor(item,metadata,localized,chinese,excludedIds=[]){
