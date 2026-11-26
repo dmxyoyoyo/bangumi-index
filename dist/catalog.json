@@ -33,21 +33,22 @@
           "complete": true
         }
       ],
-      "uniqueIds": 369,
-      "sitemapIds": 4992,
-      "metadataChecked": 4832,
+      "uniqueIds": 371,
+      "sitemapIds": 4993,
+      "lateIds": 0,
+      "metadataChecked": 4833,
       "unavailable": 1,
       "checkedAt": "2026-11-26"
     },
     "titleNote": "中文标题优先使用官方简体中文与 Bangumi 名称；简繁转换仅用于中文标题，日文原名保留来源写法。拉丁字母品牌名称可能保留官方名称。",
     "diagnosis": {
-      "confirmed": 2236,
+      "confirmed": 2237,
       "not-found": 3,
       "candidate-unavailable": 2,
       "domestic-edition": 5
     },
-    "lastSuccessfulRefresh": "2026-11-25T21:26:08.607Z",
-    "lastRefreshAttempt": "2026-11-25T21:26:08.607Z",
+    "lastSuccessfulRefresh": "2026-11-26T02:44:49.367Z",
+    "lastRefreshAttempt": "2026-11-26T02:44:49.367Z",
     "refreshStatus": "updated",
     "cachedSources": []
   },
@@ -140,8 +141,8 @@
         "OVERLORD 第三季",
         "不死者之王 第三季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -515,8 +516,8 @@
         "劇場版 ハイキュー!! 終わりと始まり",
         "排球少年剧场版 结束与开始"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -918,8 +919,8 @@
         "请问您今天要来点兔子吗？ 第二季",
         "请问您点的是兔子吗？？"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -1065,8 +1066,8 @@
         "期待在地下城邂逅有错吗 外传 剑姬神圣谭",
         "在地下城寻求邂逅是否搞错了什幺 外传 剑姬神圣谭"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -2355,8 +2356,8 @@
         "Re:ZERO - Starting Life in Another World - The Frozen Bond",
         "Re:ゼロから始める異世界生活 氷結の絆"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -2427,8 +2428,8 @@
         "OVERLORD",
         "不死者之王"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -2883,8 +2884,8 @@
         "魔法禁书目录 第三季",
         "Toaru Majutsu no Index III"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -4635,8 +4636,8 @@
         "Hozuki's Coolheadedness S2",
         "鬼灯の冷徹 第弐期"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -4772,8 +4773,8 @@
         "Mahou Shoujo? Naria Girls",
         "魔法少女？Naria☆Girls"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -4985,8 +4986,8 @@
         "约战狂三外传 前篇",
         "約會大作戰DATE A BULLET 赤黑新章 Dead or Bullet"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -5079,8 +5080,8 @@
         "pcr",
         "超異域公主連結 Re:Dive"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -6676,8 +6677,8 @@
         "Battle Girl High School",
         "战斗女子高校"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -6755,8 +6756,8 @@
         "体操武士",
         "Taiso Samurai"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -6820,8 +6821,8 @@
         "Enen no Shouboutai",
         "En`en no Shouboutai"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -6884,7 +6885,6 @@
       "title": "理科生坠入情网，故尝试证明之",
       "regions": [
         "BH",
-        "KR",
         "LB",
         "TL",
         "NP",
@@ -6928,7 +6928,10 @@
         "SG",
         "IL",
         "CY",
-        "TR"
+        "TR",
+        "HK",
+        "TW",
+        "MO"
       ],
       "regionSource": "official",
       "cnId": 273222,
@@ -6942,8 +6945,8 @@
         "理系が恋に落ちたので証明してみた。",
         "理科生坠入情网，故尝试证明。"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -7311,8 +7314,8 @@
         "Hachinantte, Sore wa Nai Deshou!",
         "The 8th Son? Are You Kidding Me?"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -8497,8 +8500,8 @@
         "少女终末旅行",
         "少女終末旅行"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -8575,8 +8578,8 @@
         "我们真的学不来",
         "Bokutachi wa Benkyou ga Dekinai"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -8804,8 +8807,8 @@
         "非枪人生 NO GUNS LIFE",
         "非枪人生"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -8881,8 +8884,8 @@
         "弩级战队HXEROS",
         "ド級変態エグゼロス"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -9015,8 +9018,8 @@
         "X的天使",
         "Angels of death"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -10685,8 +10688,8 @@
         "漫画少女",
         "Comic Girls"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -10760,8 +10763,8 @@
         "Free!-Eternal Summer-",
         "水泳部！永恒的夏日"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -11036,8 +11039,8 @@
         "Gakusen Toshi Asterisk",
         "学战都市 阿斯塔利斯克"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -11398,8 +11401,8 @@
         "冰菓",
         "冰果"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -12040,8 +12043,8 @@
         "ViVid Strike!",
         "魔炮VS"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -13227,8 +13230,8 @@
         "K Seven Stories",
         "K SEVEN STORIES"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -13504,8 +13507,8 @@
         "Ryuuou no Oshigoto!",
         "The Ryuo`s Work Is Never Done!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -14007,8 +14010,8 @@
         "只有我不在的街道",
         "仆街"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -14916,8 +14919,8 @@
         "つくもがみ貸します",
         "付丧神出租中"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -14991,8 +14994,8 @@
         "假面Noise",
         "The Anonymous Noise"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -15478,8 +15481,8 @@
         "Kaze ga Tsuyoku Fuite Iru",
         "強風吹拂"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -15830,8 +15833,8 @@
         "LUPIN THE IIIRD 次元大介の墓標",
         "鲁邦三世 次元大介的墓标"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -15901,8 +15904,8 @@
         "骑士魔法",
         "Knight's&Magic"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -16265,8 +16268,8 @@
         "次元魔女",
         "xxxHolic"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -16694,8 +16697,8 @@
         "BanG Dream! S2",
         "BanG Dream! 2nd Season"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -16852,8 +16855,8 @@
         "バンドリ！FILM LIVE",
         "BanG Dream! 电影演唱会"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -17055,8 +17058,8 @@
         "Drifting Dragons",
         "猎龙飞船"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -17319,8 +17322,8 @@
         "日本国有铁道公安队",
         "RAIL WARS! -日本國有鉄道公安隊-"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -17930,8 +17933,8 @@
         "宝石商リチャード氏の謎鑑定",
         "宝石商人理查德的谜鉴定"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -18189,8 +18192,8 @@
         "小小克星2",
         "Little Busters! 第二期"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -19071,8 +19074,8 @@
         "不思議なソメラちゃん",
         "Fushigi na Somera-chan"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -19930,8 +19933,8 @@
         "Kana Diary",
         "卡娜笔记"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -20143,8 +20146,8 @@
         "みらキャ",
         "おまかせ みらくるキャットだん"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -22198,8 +22201,8 @@
         "钢之管弦乐",
         "Hagane Orchestra"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -22264,8 +22267,8 @@
         "魔神相剋者",
         "魔神相克者"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -22529,8 +22532,8 @@
         "花开物语 HOME SWEET HOME",
         "Flower Story HOME SWEET HOME"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -23359,8 +23362,8 @@
         "競女!!!!!!!!",
         "竞女"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -23436,8 +23439,8 @@
         "我家女仆超级烦！",
         "我家女仆有够烦！"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -24298,8 +24301,8 @@
         "Alison and Lilia",
         "Allison and Lillia"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -25263,8 +25266,8 @@
         "Master of Duel Victory",
         "Duel Masters Victory"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -25406,8 +25409,8 @@
         "金色的马赛克",
         "Kin-iro Mosaic"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -26390,8 +26393,8 @@
         "拉西风",
         "RahXephon"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -27271,8 +27274,8 @@
         "魔法科高中的劣等生",
         "抗中奇侠"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -27427,8 +27430,8 @@
         "terror! Zombie cat",
         "复活！小猫咪"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -27490,8 +27493,8 @@
         "主攻一基之 罩子的野心",
         "与主公一起 眼罩的野心"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -28695,8 +28698,8 @@
         "Code Geass: Lelouch of the Rebellion R2",
         "叛逆的勒路什R2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -29334,8 +29337,8 @@
         "笨蛋测试召唤兽",
         "笨蛋，测试，召唤兽"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -31687,8 +31690,8 @@
         "食戟之灵 第三季 OVA",
         "Food Wars! Shokugeki no Soma S3 OVA"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -31826,8 +31829,8 @@
         "My Teen Romantic Comedy SNAFU TOO! OVA",
         "我的青春恋爱物语果然有问题 续 OVA"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -32118,8 +32121,8 @@
         "Fate/stay night UBW",
         "Fate/stay night Unlimited Blade Works"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -33328,8 +33331,8 @@
         "宇宙战舰-山本‧洋子",
         "Space Battleship-Yamamoto Yoko"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -33889,8 +33892,8 @@
         "K 诸王归来",
         "K 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -34023,8 +34026,8 @@
         "Sukitte Ii Na Yo",
         "Say \"I Love You\""
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -34607,8 +34610,8 @@
         "Rikujou Boueitai Mao-chan",
         "正义小天使真绪"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -35447,8 +35450,8 @@
         "Muhyo & Roji's Bureau of Supernatural Investigation S2",
         "ムヒョとロージーの魔法律相談事務所 第2期"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -35907,8 +35910,8 @@
         "NAZOTOKINE",
         "解谜之音"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -36044,8 +36047,8 @@
         "Acquired direction",
         "Living for the Day After Tomorrow"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -36242,8 +36245,8 @@
         "美少女遊戯ユニットクレーンゲール ギャラクシー",
         "Crane Game Girls 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -36383,8 +36386,8 @@
         "The whistle sounded",
         "Whistle!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -36720,8 +36723,8 @@
         "異世界居酒屋～古都アイテーリアの居酒屋のぶ～",
         "异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -36868,8 +36871,8 @@
         "Boku no Hero Academia (2017)",
         "My Hero Academia Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -37222,8 +37225,8 @@
         "ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編",
         "弹丸论破3 -The End of 希望之峰学园- 未来篇"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -38023,8 +38026,8 @@
         "高校星歌剧 第二季",
         "Starmyu S2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -38159,8 +38162,8 @@
         "Chihayafuru 3",
         "歌牌情缘 第三季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -38442,8 +38445,8 @@
         "Mairimashita! Iruma-kun",
         "Welcome to Demon School! Iruma-kun"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -39007,8 +39010,8 @@
         "pop子和pipi美的日常",
         "POP TEAM EPIC"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -40234,8 +40237,8 @@
         "女高中生给你做饭了！",
         "JK食堂"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -40443,8 +40446,8 @@
         "The correct use of dogs and scissors",
         "狗与剪刀必有用"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -40583,8 +40586,8 @@
         "放学后海堤日记",
         "Houkago Teibou Nisshi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -41016,8 +41019,8 @@
         "温泉幼精箱根酱",
         "Hot Spring Fine Hakone Sauce"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -41480,8 +41483,8 @@
         "夏日战争",
         "Summer Wars"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -41931,8 +41934,8 @@
         "神曲奏界",
         "Polyphonica"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -42068,8 +42071,8 @@
         "神推登上武道馆我就死而无憾",
         "If My Favorite Pop Idol Made it to the Budokan, I Would Die"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -43014,8 +43017,8 @@
         "泰坦尼亚",
         "Titania"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -43082,8 +43085,8 @@
         "斯特拉女子学院高等科C³部",
         "C3部"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -44116,8 +44119,8 @@
         "剧场版 妖精的尾巴 凤凰的巫女",
         "FAIRY TAIL 魔導少年 劇場版 鳳凰巫女"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -44320,8 +44323,8 @@
         "世界一初恋 〜羽鳥芳雪の場合〜",
         "世界第一的初恋 OVA"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -44522,8 +44525,8 @@
         "纯情罗曼史 第二季",
         "Junjou Romantica S2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -44842,8 +44845,8 @@
         "科学的超电磁炮T",
         "Toaru Kagaku no Railgun T"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -45943,8 +45946,8 @@
         "瓶装妖精",
         "Binzume Yousei"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -47758,8 +47761,8 @@
         "Full Metal Panic!",
         "惊爆危机"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -47921,8 +47924,8 @@
         "三月的狮子 第二季",
         "三月的狮子 2期"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -48617,8 +48620,8 @@
         "The Familiar of Zero: Rondo of Princesses",
         "零之使魔 第三季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -49306,8 +49309,8 @@
         "CLANNAD 〜AFTER STORY〜もうひとつの世界 杏編",
         "CLANNAD ～AFTER STORY～另一个世界 杏篇"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -49370,8 +49373,8 @@
         "超级恋人",
         "Super Lovers"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -49995,8 +49998,8 @@
         "グランブルーファンタジー",
         "GRANBLUE FANTASY"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -50260,8 +50263,8 @@
         "Abandoned princess",
         "Scrapped Princess"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -51242,8 +51245,8 @@
         "Pleiades",
         "七星的昴星团"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -51636,8 +51639,8 @@
         "人型电脑天使心",
         "Chobits"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -52032,8 +52035,8 @@
         "马娘 Pretty Derby",
         "赛马娘"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -52185,8 +52188,8 @@
         "犬夜叉 完結篇",
         "Inuyasha Kanketsuhen"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -52462,8 +52465,8 @@
         "进击的巨人 第四季",
         "Shingeki no Kyojin: The Final Season"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -52956,8 +52959,8 @@
         "Masamune-kun no Revenge",
         "Masamune-kun`s Revenge"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -53466,8 +53469,8 @@
         "Gun King endless Fafner",
         "铳皇无尽的法芙娜"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -53609,8 +53612,8 @@
         "最弱无败神装机龙《巴哈姆特》",
         "最弱無敗の神装機竜《バハムート》"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -53700,8 +53703,8 @@
         "Eiga Koe no Katachi",
         "the shape of voice"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -54323,8 +54326,8 @@
         "Maoyuu Maou Yuusha",
         "Maoyu: Archenemy & Hero"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -54750,8 +54753,8 @@
         "すかすか",
         "末日时在做什幺？有没有空？可以来拯救吗？"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -55891,8 +55894,8 @@
         "Captain Earth",
         "キャプテン アース"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -56407,8 +56410,8 @@
         "荒川Under the Bridge",
         "Arakawa Under the Bridge"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -56622,8 +56625,8 @@
         "Grey paradise",
         "Grisaia no Rakuen"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -57429,8 +57432,8 @@
         "蜡笔小新：暴风大人帝国反击战",
         "蜡笔小新：风起云涌 猛烈！大人帝国的反击"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -57721,8 +57724,8 @@
         "フルメタル・パニック! IV",
         "Full Metal Panic! IV"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -57947,8 +57950,8 @@
         "全金属狂潮 Boy Meets Girl",
         "Full Metal Panic! Movie 1: Boy Meets Girl"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -58248,8 +58251,8 @@
         "工作细胞  第二季",
         "Cells at Work! S2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -59754,8 +59757,8 @@
         "全职猎人剧场版：绯色的幻影",
         "Hunter x Hunter: Phantom Rouge"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -59823,8 +59826,8 @@
         "Bungo Stray Dogs: Dead Apple",
         "文豪ストレイドッグス デッドアップル"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -60356,8 +60359,8 @@
         "阿宅的恋爱太难",
         "阿宅的恋爱真难"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -60523,8 +60526,8 @@
         "Inu Yasha: Affections Touching Across Time",
         "InuYasha: Toki wo Koeru Omoi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -61280,8 +61283,8 @@
         "记录的地平线",
         "記錄的地平線"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -63006,8 +63009,8 @@
         "ポケモン・ザ・ムービー エックスワイ リングのちょうまじん フーパ",
         "Pokemon Za Mūbī Ekkusu Wai: Ringu no Chōmajin Fūpa"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -64530,8 +64533,8 @@
         "WWW.迷糊餐廳",
         "WEB版 迷糊餐厅"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -64671,8 +64674,8 @@
         "魔法少女圆香",
         "魔法少女小圆☆魔力"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -64901,8 +64904,8 @@
         "剧场版 魔法少女小圆 [后篇",
         "Puella Magi Madoka Magica the Movie Part 2: Eternal"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -66053,8 +66056,8 @@
         "剧场版 妄想学生会",
         "Theatrical version of Delusional Student Union"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -67095,8 +67098,8 @@
         "Tanaka-kun wa Itsumo Kedaruge",
         "Tanaka-kun Is Always Listless"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -67172,8 +67175,8 @@
         "我被绑架到贵族女校当庶民样本",
         "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -67327,8 +67330,8 @@
         "DuRaRaRa!!",
         "DRRR!!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -67699,8 +67702,8 @@
         "一弦定音！",
         "Kono Oto Tomare!: Sounds of Life"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -68354,8 +68357,8 @@
         "Mikagura Gakuen Kumikyoku",
         "Mikagura School Suite"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -68484,8 +68487,8 @@
         "The Pet Girl of Sakurasou",
         "Sakura-sou no Pet na Kanojo"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -69530,8 +69533,8 @@
         "ONE PIECE（劇場版）",
         "航海王剧场版：黄金岛大冒险"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -69958,8 +69961,8 @@
         "ワンピース THE MOVIE エピソード オブ チョッパー プラス 冬に咲く、奇跡の桜",
         "航海王剧场版：乔巴身世之谜"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -70816,8 +70819,8 @@
         "斯坦因之门",
         "シュタインズ・ゲート"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -70976,8 +70979,8 @@
         "乃木坂春香の秘密 ぴゅあれっつぁ♪",
         "乃木坂春香的秘密 purezza♪"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -71037,8 +71040,8 @@
         "Yuru Yuri San☆Hai!",
         "摇曳百合 第三季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -71821,8 +71824,8 @@
         "灼眼のシャナS",
         "灼眼的夏娜S"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -72901,8 +72904,8 @@
         "放学后的昴星团",
         "The Pleiades after school"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -73300,8 +73303,8 @@
         "はいふり",
         "Hai-Furi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -73353,7 +73356,6 @@
       "title": "宇宙巡警露露子",
       "regions": [
         "BH",
-        "KR",
         "LB",
         "TL",
         "NP",
@@ -73397,7 +73399,10 @@
         "SG",
         "IL",
         "CY",
-        "TR"
+        "TR",
+        "HK",
+        "TW",
+        "MO"
       ],
       "regionSource": "official",
       "cnId": 275822,
@@ -73409,8 +73414,8 @@
         "Uchuu Patrol Luluco",
         "宇宙警备队露露子"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -73604,8 +73609,8 @@
         "Genius Mahjong Girl National",
         "天才麻將少女 全國篇"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -73671,8 +73676,8 @@
         "Regalia 三圣星",
         "Regalia the Three Sacred Star"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -74233,8 +74238,8 @@
         "Mr. Osomatsu",
         "小松先生"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -74947,8 +74952,8 @@
         "爆音少女!! OAD",
         "Bakuon Shoujo !! OAD"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -75088,8 +75093,8 @@
         "Armor Shop for Ladies & Gentlemen S2",
         "おとなの防具屋さんII"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -76515,8 +76520,8 @@
         "暗芝居 第四季",
         "Theatre of Darkness 4"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -77007,8 +77012,8 @@
         "动物好友",
         "兽娘小伙伴"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -77614,8 +77619,8 @@
         "学园奶爸",
         "School Babysitters"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -77910,8 +77915,8 @@
         "歌之☆王子殿下♪ 真爱 REVOLUTIONS",
         "歌之王子殿下 真爱革命"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -79909,8 +79914,8 @@
         "暗杀教室 365天的时间",
         "Assassination Classroom The Movie: 365 Days' Time"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -80755,8 +80760,8 @@
         "航海王",
         "ワンピース"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "User-provided Chinese link; official title and full synopsis match",
         "checkedAt": "2026-10-06",
@@ -81024,8 +81029,8 @@
         "DEPTH OF FIELD ～ 爱与憎恨的剧场",
         "中二病也要谈恋爱SP"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -81957,8 +81962,8 @@
         "おしえて北斎! -THE ANIMATION-",
         "Oshiete Hokusai! The Animation"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -82435,8 +82440,8 @@
         "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
         "I`ve Been Killing Slimes for 300 Years and Maxed Out My Level"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -83267,8 +83272,8 @@
         "給不滅的你",
         "Fumetsu no Anata e"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -83416,8 +83421,8 @@
         "Osananajimi ga Zettai ni Makenai LoveCome",
         "Romcom Where The Childhood Friend Won't Lose"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -83494,8 +83499,8 @@
         "派遣战斗员！",
         "Sentouin, Hakenshimasu!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "User-provided Chinese link; official title and full synopsis match",
         "checkedAt": "2026-10-06",
@@ -84096,8 +84101,8 @@
         "Fairy兰丸～让我来帮助你的心～",
         "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -84401,8 +84406,8 @@
         "やくもの放課後",
         "烧陶的放学后"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -84470,8 +84475,8 @@
         "Shingeki no Kyojin",
         "进击的巨人（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -84538,8 +84543,8 @@
         "Attack on Titan Season 2",
         "进击的巨人 第二季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -84903,8 +84908,8 @@
         "91 Days",
         "ナイティーワンデイズ"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -84975,8 +84980,8 @@
         "Wandering Witch: The Journey of Elaina",
         "Majo no Tabitabi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -85128,8 +85133,8 @@
         "Naruto Shippuden",
         "鸣人疾风传"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -87863,8 +87868,8 @@
         "迷你龙女仆",
         "龙女仆小剧场"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -88306,8 +88311,8 @@
         "魔鬼恋人",
         "ディアボリックラヴァーズ"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -88572,8 +88577,8 @@
         "魔鬼恋人 第二季",
         "魔鬼恋人 第2期"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -88783,8 +88788,8 @@
         "黄金神威",
         "Golden Kamuy"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -90973,8 +90978,8 @@
         "Vanitas no Karte",
         "Les Mémoires de Vanitas"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -95847,8 +95852,8 @@
         "Sket Dance",
         "スケット・ダンス"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -96074,8 +96079,8 @@
         "青之祓魔师 剧场版",
         "Gekijouban Ao no Exorcist"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -96524,8 +96529,8 @@
         "航海王特别篇：黄金之心",
         "ワンピース～ハートオブゴールド～"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -96976,8 +96981,8 @@
         "Heaven Official's Blessing",
         "TGCF"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -97334,8 +97339,8 @@
         "周一桃夭夭",
         "Getsuyoubi no Tawawa"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -98211,8 +98216,8 @@
         "逆转世界电池少女",
         "Rumble Garanndoll"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -98878,8 +98883,8 @@
         "Tsuritama",
         "つり球"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -99468,8 +99473,8 @@
         "Hanyou no Yashahime: Ni no Shou",
         "半妖的夜叉姬 二之章"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -99848,8 +99853,8 @@
         "ビルディバイド -#000000(コードブラック)-",
         "Build Divide -#000000-"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -101819,8 +101824,8 @@
         "噬血狂袭 II",
         "Strike the Blood Second"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -102805,8 +102810,8 @@
         "鬼灭之刃 灶门炭治郎 立志篇",
         "鬼灭之刃（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -102939,8 +102944,8 @@
         "Attack on Titan: Lost Girls",
         "Wall Sina,Goodbye"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -103654,8 +103659,8 @@
         "玫瑰之王的葬礼",
         "Baraou no Souretsu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -103772,8 +103777,8 @@
         "利阿迪爾的大地之上",
         "Leadale no Daichi nite"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -104592,8 +104597,8 @@
         "进击的巨人:困难",
         "Attack on Titan: Konnan"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -104995,8 +105000,8 @@
         "オリエント 第1クール",
         "オリエント 安芸旅立ち編"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -105390,8 +105395,8 @@
         "SABIKUI BISCO",
         "Sabikui Bisco"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -105893,8 +105898,8 @@
         "Miss KUROITSU from the Monster Development Department",
         "Kaijin Kaihatsubu no Kuroitsu-san"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -105979,8 +105984,8 @@
         "トライブナイン",
         "第九部落"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -106112,8 +106117,8 @@
         "GIRLS' FRONTLINE",
         "Dolls' Frontline"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -106194,8 +106199,8 @@
         "Attack on Titan Final Season Part 2",
         "Shingeki no Kyojin: The Final Season Part 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -106393,8 +106398,8 @@
         "Kimetsu no Yaiba: Yuukaku-hen",
         "鬼灭之刃 游郭篇（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -106413,7 +106418,7 @@
       "release": {
         "status": "aired",
         "confirmed": true,
-        "date": "2022-01-02",
+        "date": "2022-01-01",
         "source": "B站国际版",
         "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=1042883&s_locale=zh_CN",
         "checkedAt": "2026-11-26",
@@ -108038,8 +108043,8 @@
         "Sabikui Bisco",
         "食锈末世录（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -109536,8 +109541,8 @@
         "重启人生：大逃亡",
         "ESTABLISHMENT IN LIFE GREAT ESCAPE"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -110117,8 +110122,8 @@
         "盾勇 2",
         "Tate no Yuusha no Nariagari Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -111282,8 +111287,8 @@
         "The Dawn of the Witch",
         "Mahoutsukai Reimeiki"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -111727,8 +111732,8 @@
         "羽球青春",
         "Love All Play"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -111801,8 +111806,8 @@
         "BIRDIE WING -Golf Girls’ Story-",
         "BIRDIE WING -Golf Girls' Story-"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -112034,8 +112039,8 @@
         "This Healer Is Troublesome",
         "Kono Healer, Mendokusai"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -112109,8 +112114,8 @@
         "In the Heart of Kunoichi Tsubaki",
         "Kunoichi Tsubaki no Mune no Uchi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -112196,8 +112201,8 @@
         "Cuckoo no Iinazuke",
         "Kakkou no Iinazuke"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -114433,8 +114438,8 @@
         "KAGUYA-SAMA LOVE IS WAR ーUltra Romanticー (Thai Dub)",
         "辉夜大小姐想让我告白？～天才们的恋爱头脑战～第3季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -114503,8 +114508,8 @@
         "SPY×FAMILY间谍家家酒(港/台)",
         "间谍过家家（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -114921,8 +114926,8 @@
         "國王排名",
         "Ousama Ranking"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -114987,8 +114992,8 @@
         "死神剧场版 无人的回忆",
         "Bleach Movie 1: Memories of Nobody"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -115058,8 +115063,8 @@
         "Bleach the Movie 2: The Diamond Dust Rebellion",
         "Gekijô ban Bleach: Za Daiyamondo Dasuto Reberion - Mô hitotsu no hyôrinmaru"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -115340,7 +115345,10 @@
         "KH",
         "LA",
         "MM",
-        "VN"
+        "VN",
+        "HK",
+        "MO",
+        "TW"
       ],
       "regionSource": "official",
       "cnId": 277918,
@@ -115359,8 +115367,8 @@
         "下将棋的他",
         "Soredemo Ayumu wa Yosetekuru"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -115475,8 +115483,8 @@
         "绽放的阿尔斯诺特利亚 嗅！",
         "Warau Arsnotoria Sun!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -115663,8 +115671,8 @@
         "极限之心",
         "极限之众心"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -116391,8 +116399,8 @@
         "与猫共度的夜晚",
         "今晚有貓伴身邊"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -117043,8 +117051,8 @@
         "YOU0 DECO",
         "Yurei Deco"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -117190,8 +117198,8 @@
         "足球风云 通往未来的一球",
         "シュートゴールトゥザフューチャー"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -121278,8 +121286,8 @@
         "顶点!!!!!!!!!!!!!!!",
         "Teppen!!!!!!!!!!!!!!!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -121619,8 +121627,8 @@
         "Made in Abyss: The Golden City of the Scorching Sun",
         "来自深渊 烈日的黄金乡（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -122455,8 +122463,8 @@
         "秋叶原冥途战争",
         "Akiba Meido Sensou"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -123392,7 +123400,6 @@
       "title": "点满农民相关技能后，不知为何就变强了。",
       "regions": [
         "BH",
-        "KR",
         "LB",
         "TL",
         "NP",
@@ -123436,7 +123443,10 @@
         "SG",
         "IL",
         "CY",
-        "TR"
+        "TR",
+        "HK",
+        "TW",
+        "MO"
       ],
       "regionSource": "official",
       "cnId": 277991,
@@ -123450,8 +123460,8 @@
         "I Somehow Got Strong By Raising Skills Related To Farming",
         "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -123732,8 +123742,8 @@
         "Peter Grill to Kenja no Jikan 2",
         "Peter Grill and the Philosopher's Time Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -127938,8 +127948,8 @@
         "Date A Live 4",
         "约会大作战 第四季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -128346,8 +128356,8 @@
         "TONIKAWA: Over the Moon For You -Uniform-",
         "Tonikaku Kawaii: Seifuku"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -129346,8 +129356,8 @@
         "異世界悠閒農家",
         "异世界休闲农家"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -129410,8 +129420,8 @@
         "阿尔斯的巨兽",
         "GIANT BEASTS OF ARS"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -129699,8 +129709,8 @@
         "真・进化之实 踏上胜利的人生",
         "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -130087,8 +130097,8 @@
         "Spy Room",
         "Spy Kyoushitsu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -131687,8 +131697,8 @@
         "The Iceblade Sorcerer Shall Rule the World",
         "Hyouken no Majutsushi ga Sekai wo Suberu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -133723,8 +133733,8 @@
         "转生贵族的异世界冒险录 〜不知自重的众神使徒〜",
         "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -133880,8 +133890,8 @@
         "魔法使之嫁 第二季",
         "The Ancient Magus' Bride SEASON2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -134392,8 +134402,8 @@
         "跳跃与乐福鞋",
         "Skip to Loafer"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -134525,8 +134535,8 @@
         "A Galaxy Next Door",
         "Otonari ni Ginga"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -134681,8 +134691,8 @@
         "我心危",
         "Boku no Kokoro no Yabai Yatsu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "The Dangers in My Heart",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "僕の心のヤバイやつ",
@@ -135318,8 +135328,8 @@
         "Yuusha ga Shinda!",
         "The Legendary Hero Is Dead"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "The Legendary Hero Is Dead!",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "勇者が死んだ！",
@@ -135797,8 +135807,8 @@
         "鬼灭之刃 游郭篇 特别编集版",
         "鬼灭之刃 游郭决战篇 特别编集版"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -136077,8 +136087,8 @@
         "Mobile Suit Gundam: THE WITCH FROM MERCURY Season2",
         "Kidou Senshi Gundam: Suisei no Majo Season2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -136821,8 +136831,8 @@
         "Dr. STONE (Season 3) (Thai Dub)",
         "新石纪 第三季 NEW WORLD（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -137600,8 +137610,8 @@
         "Classroom of the Elite 3rd Season",
         "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -139434,8 +139444,8 @@
         "Undead Girl Murder Farce",
         "不死少女的谋杀闹剧"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -140685,8 +140695,8 @@
         "僵尸百分百～在成为僵尸前要做的100件事～（印尼语配音版）",
         "僵尸百分百～变成僵尸之前想做的100件事～（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -140763,8 +140773,8 @@
         "はたらく魔王さま！第2期　後半",
         "打工吧！魔王大人 第二季 后半"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -140973,8 +140983,8 @@
         "天官賜福 貳",
         "天官赐福 第二季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -141051,8 +141061,8 @@
         "Code Geass 反叛的鲁路修 I 兴道",
         "Code Geass 反叛的鲁路修 Ⅰ 兴道"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -141970,8 +141980,8 @@
         "The Saint's Magic Power is Omnipotent Season 2",
         "Seijo no Maryoku wa Bannou desu Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -144834,8 +144844,8 @@
         "盾勇 3",
         "Tate no Yuusha no Nariagari Season 3"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -145051,8 +145061,8 @@
         "Kamonohashi Ron no Kindan Suiri",
         "Ron Kamonohashi`s Forbidden Deductions"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -146502,8 +146512,8 @@
         "One Piece: Jango's Dance Carnival",
         "航海王：强高的狂欢舞会"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -147114,8 +147124,8 @@
         "JOJO5",
         "JOJO的奇妙冒险 黄金之风（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -147973,8 +147983,8 @@
         "灵能百分百 第三季（泰语配音版）",
         "路人超能100 III（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148340,8 +148350,8 @@
         "我内心的糟糕念头 第二季",
         "我心中的野兽 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148481,8 +148491,8 @@
         "The Witch and the Beast",
         "Majo to Yajuu"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148617,8 +148627,8 @@
         "The Demon Prince of Momochi House",
         "Momochi-san Chi no Ayakashi Ouji"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148691,8 +148701,8 @@
         "ぽんのみち",
         "碰之道"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148834,8 +148844,8 @@
         "Ore dake Level Up na Ken",
         "Na Honjaman Level Up"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -148902,8 +148912,8 @@
         "Tsuki ga Michibiku Isekai Douchuu Dai Ni Maku",
         "Tsuki ga Michibiku Isekai Douchuu 2nd Season"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "TSUKIMICHI -Moonlit Fantasy- Season 2",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "月が導く異世界道中 第二幕",
@@ -148968,8 +148978,8 @@
         "Tales of Wedding Rings",
         "Kekkon Yubiwa Monogatari"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149035,8 +149045,8 @@
         "The Foolish Angel Dances with the Devil",
         "Oroka na Tenshi wa Akuma to Odoru"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149105,8 +149115,8 @@
         "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou Sareru",
         "The Strongest Tank`s Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero`s Party"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "The Strongest Tank’s Labyrinth Raids-A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero’s Party-",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～",
@@ -149169,8 +149179,8 @@
         "到了30岁还是处男，似乎会变成魔法师",
         "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149239,8 +149249,8 @@
         "Villainess Level 99: I May Be the Hidden Boss but I`m Not the Demon Lord",
         "反派千金等级99～我是隐藏头目但不是魔王～"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149375,8 +149385,8 @@
         "进击的巨人 最终季（泰语配音版）",
         "进击的巨人 The Final Season完结篇 (前篇)（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149444,8 +149454,8 @@
         "进击的巨人 最终季 Part.2（泰语配音版）",
         "进击的巨人 The Final Season完结篇 (后篇)（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -149513,8 +149523,8 @@
         "进击的巨人 最终季（印尼语配音版）",
         "进击的巨人 The Final Season完结篇 (前篇)（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -150423,8 +150433,8 @@
         "欢迎来到实力至上主义的教室",
         "欢迎来到实力至上主义的教室（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -150625,8 +150635,8 @@
         "史上最强的大魔王转生为村民A（泰语配音版）",
         "史上最强大魔王重生为村民甲（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -150765,8 +150775,8 @@
         "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
         "欢迎来到实力至上主义的教室 第三季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -150833,8 +150843,8 @@
         "Mato Seihei no Slave",
         "魔都精兵的奴隶（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -151363,8 +151373,8 @@
         "Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu",
         "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -151507,8 +151517,8 @@
         "Kimetsu no Yaiba: Hashira Geiko hen",
         "Demon Slayer: Hashira Training Arc"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -151583,8 +151593,8 @@
         "Tensei Shitara Slime Datta Ken 3rd Season",
         "That Time I Got Reincarnated as a Slime Season 3"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -151789,8 +151799,8 @@
         "Black Butler: Public School Arc",
         "Kuroshitsuji - Kishuku Gakkou-hen"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153085,8 +153095,8 @@
         "秒杀外挂太强了，异世界的家伙们根本就不是对手。（泰语配音版）",
         "秒杀外挂太强了，异世界的家伙们根本就不是对手（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153289,8 +153299,8 @@
         "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
         "Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153357,8 +153367,8 @@
         "老夫老妻重返青春",
         "Jiisan Baasan Wakagaeru"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153496,8 +153506,8 @@
         "约会大作战 第五季",
         "Date a Live V"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153566,8 +153576,8 @@
         "Kono Subarashii Sekai ni Shukufuku o! 3",
         "Konosuba: God`s Blessing on This Wonderful World! 3"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153847,8 +153857,8 @@
         "单人房、日照一般、附天使。",
         "One Room, Hiatari Futsuu, Tenshi-tsuki."
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -153992,8 +154002,8 @@
         "Tensei Kizoku, Kantei Skill de Nariagaru",
         "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154124,8 +154134,8 @@
         "僕のヒーローアカデミア Memories",
         "我的英雄学院 memories"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154204,8 +154214,8 @@
         "關於我轉生變成史萊姆這檔事",
         "転スラ"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154350,8 +154360,8 @@
         "Tensei Shitara Slime Datta Ken (2021)",
         "That Time I Got Reincarnated as a Slime (2021)"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154421,8 +154431,8 @@
         "到了30岁还是处男，似乎会变成魔法师（泰语配音版）",
         "樱桃魔法！～到了30岁还是处男，似乎就会成为魔法师〜（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154607,8 +154617,8 @@
         "昏行者 & 炫目篝火",
         "昏行者"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154674,8 +154684,8 @@
         "JOJO5",
         "JOJO的奇妙冒险 黄金之风（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -154743,8 +154753,8 @@
         "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability",
         "转生为第七王子，随心所欲的魔法学习之路（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -155360,8 +155370,8 @@
         "新世界之门（泰语配音版）",
         "THE NEW GATE（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -155498,8 +155508,8 @@
         "That Time I Got Reincarnated as a Slime Season 3",
         "关于我转生变成史莱姆这档事 第三季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -155568,8 +155578,8 @@
         "That Time I Got Reincarnated as a Slime Season 3",
         "关于我转生变成史莱姆这档事 第三季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -155691,12 +155701,54 @@
       "intlId": 2110141,
       "title": "百变的七仓同学",
       "regions": [
-        "MY",
-        "VN",
-        "SG",
-        "ID",
+        "BH",
+        "LB",
+        "TL",
+        "NP",
         "TH",
-        "PH"
+        "PK",
+        "AE",
+        "BT",
+        "OM",
+        "AZ",
+        "KP",
+        "PH",
+        "KH",
+        "QA",
+        "KG",
+        "MV",
+        "MY",
+        "MN",
+        "SA",
+        "BN",
+        "LA",
+        "TM",
+        "KZ",
+        "PS",
+        "TJ",
+        "GE",
+        "KW",
+        "SY",
+        "IN",
+        "ID",
+        "AM",
+        "AF",
+        "UZ",
+        "LK",
+        "IQ",
+        "VN",
+        "IR",
+        "YE",
+        "JO",
+        "MM",
+        "BD",
+        "SG",
+        "IL",
+        "CY",
+        "TR",
+        "HK",
+        "TW",
+        "MO"
       ],
       "regionSource": "official",
       "cnId": 278696,
@@ -155711,8 +155763,8 @@
         "模擬後宮體驗",
         "Giji Harem"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -156433,8 +156485,8 @@
         "Maougun Saikyou no Majutsushi wa Ningen datta",
         "The Strongest Magician in the Demon Lord's Army Was a Human"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -156502,8 +156554,8 @@
         "时不时说一句俄罗斯语来掩饰害羞的邻桌艾莉同学",
         "不时用俄语小声说真心话的邻桌艾莉同学"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -156641,8 +156693,8 @@
         "新人大叔冒險者，被最強隊伍操到死成無敵。",
         "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -157650,8 +157702,8 @@
         "Make Heroine ga Oosugiru!",
         "Toooooo Many Losing Heroines!"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -157987,8 +158039,8 @@
         "依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切（泰语配音版）",
         "靠废柴技能【状态异常】成为最强的我将蹂躏一切（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -158123,8 +158175,8 @@
         "异世界悠闲纪行 ～边养娃边当冒险者～（泰语配音版）",
         "异世界悠闲纪行～边养娃边当冒险者～（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -158592,8 +158644,8 @@
         "Go-Toubun no Hanayome *",
         "五等分的新娘 新婚旅行篇"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -158798,8 +158850,8 @@
         "妖精的尾巴 百年任务（泰语配音版）",
         "妖精的尾巴：百年任务（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -158867,8 +158919,8 @@
         "妖精的尾巴 百年任务（印尼语配音版）",
         "妖精的尾巴：百年任务（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159006,8 +159058,8 @@
         "Seirei Gensouki: Spirit Chronicles Season 2",
         "Seirei Gensouki 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159234,8 +159286,8 @@
         "Bleach Season 4, Bleach: Sennen Kessen Hen Part 3",
         "死神 千年血战篇 -相克谭-"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159308,8 +159360,8 @@
         "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
         "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159375,8 +159427,8 @@
         "Maou 2099",
         "Demon Lord 2099"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159585,8 +159637,8 @@
         "平职 3",
         "Arifureta Shokugyou de Sekai Saikyou Season 3"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159655,8 +159707,8 @@
         "Raise wa Tanin ga Ii",
         "Yakuza Fiancé"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159723,8 +159775,8 @@
         "一个人的异世界攻略",
         "Hitoribocchi no Isekai Kouryaku"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159795,8 +159847,8 @@
         "Sword Art Online Alternative: Gun Gale Online II",
         "刀剑神域外传GGO 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -159862,8 +159914,8 @@
         "Good Bye, Dragon Life",
         "Sayounara Ryuusei, Konnichiwa Jinsei"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -160001,8 +160053,8 @@
         "在地下城寻求邂逅是否搞错了什幺 第五季 丰饶的女神篇",
         "在地下城寻求邂逅是否搞错了什幺 第五季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -160234,8 +160286,8 @@
         "时光代理人 英都篇",
         "時光代理人 -LINK CLICK- 英都篇"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -161895,8 +161947,8 @@
         "蓝色监狱 第二季",
         "BLUE LOCK VS. U-20 JAPAN"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -161965,8 +162017,8 @@
         "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
         "sonochiyushi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -162102,8 +162154,8 @@
         "Tsuma, Shougakusei ni Naru.",
         "If My Wife Became an Elementary School Student."
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -162242,8 +162294,8 @@
         "胆大党（泰语配音版）",
         "超自然武装当哒当（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -163086,8 +163138,8 @@
         "To Be Hero X",
         "TO BE HERO X"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -163567,8 +163619,8 @@
         "BLEACH: Thousand-Year Blood War Part 4",
         "死神 千年血战篇 -祸进谭-"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -164884,8 +164936,8 @@
         "醜男真戰士、丑男真战士",
         "Busamen Gachi Fighter"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -165112,8 +165164,8 @@
         "杀手青春",
         "Kill Ao"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -166068,8 +166120,8 @@
         "Dorohedoro Season 2",
         "异兽魔都第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -166302,8 +166354,8 @@
         "凸变英雄X",
         "TO BE HERO X"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -167649,8 +167701,8 @@
         "手品先輩",
         "魔术学姐"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -168325,8 +168377,8 @@
         "具象革命 超人幻想",
         "Concrete‧Revolutio 超人幻想"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -169333,8 +169385,8 @@
         "脱离了A级队伍的我，和从前的徒弟们前往迷宫深处。（印尼语配音版）",
         "脱离了A级队伍的我，和从前的徒弟们前往迷宫深处（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -169399,8 +169451,8 @@
         "Even Given the Worthless \"Appraiser\" Class, I’m Actually the Strongest",
         "不幸职业【鉴定士】实则最强（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -169466,8 +169518,8 @@
         "九龙大众浪漫",
         "九龙泛型浪漫"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -169601,8 +169653,8 @@
         "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
         "轉生為白豬貴族的我，運用前世記憶養育雛鳥般的弟弟"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
@@ -169808,8 +169860,8 @@
         "炎炎消防队 第三季",
         "炎炎消防隊 參之章"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -170015,8 +170067,8 @@
         "The Beginning After the End",
         "最强王者的第二人生（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -170350,8 +170402,8 @@
         "Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru",
         "被驱逐开勇者派对的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -170490,8 +170542,8 @@
         "Kaijuu 8 Gou (2025)",
         "Kaiju No. 8 Staffel 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -170905,8 +170957,8 @@
         "ステつよ",
         "Sutetsuyo"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -171040,8 +171092,8 @@
         "不擅吸血的吸血鬼",
         "超萌吸血鬼不能好好吸血"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -171793,8 +171845,8 @@
         "One-Punch Man Season 3",
         "一拳超人 第三季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -172130,8 +172182,8 @@
         "Re:ZERO -Starting Life in Another World- Season 4",
         "Re：从零开始的异世界生活 第四季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -172268,8 +172320,8 @@
         "ようこそ実力至上主義の教室へ 2年生編1学期",
         "欢迎来到实力至上主义教室 第四季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -172936,8 +172988,8 @@
         "Re:ZERO -Starting Life in Another World- Season 4（泰语配音版）",
         "Re：从零开始的异世界生活 第四季（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -173561,8 +173613,8 @@
         "世界最强的后卫 ～迷宫国的新人探索者～",
         "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "The World’s Strongest Rearguard",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "世界最強の後衛 ～迷宮国の新人探索者～",
@@ -173632,8 +173684,8 @@
         "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
         "The Reincarnated Great Saint Hides That She's a Saint"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "A Tale of the Secret Saint",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "転生した大聖女は、聖女であることをひた隠す",
@@ -173768,8 +173820,8 @@
         "转生贵族靠着鉴定技能一飞冲天 第三季",
         "贵族凭鉴定技能扭转人生 第三季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "seaTitle": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "seaTitleSource": "官方国际版",
       "japaneseTitle": "転生貴族、鑑定スキルで成り上がる 第3期",
@@ -174045,8 +174097,8 @@
         "平凡上班族到異世界當上了四天王的故事",
         "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -174182,8 +174234,8 @@
         "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
         "Even Given the Worthless \"Appraiser\" Class, I’m Actually the Strongest"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -174386,8 +174438,8 @@
         "脱离了A级队伍的我，和从前的徒弟们前往迷宫深处。（泰语配音版）",
         "脱离了A级队伍的我，和从前的徒弟们前往迷宫深处（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -174523,8 +174575,8 @@
         "Kuroshitsuji: Midori no Majo Hen",
         "Black Butler: Emerald Witch Arc"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -174591,8 +174643,8 @@
         "Kijin Gentoushou",
         "キジンゲントウショウ"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -174855,8 +174907,8 @@
         "牧神记（泰配）（泰语配音版）",
         "牧神记（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -175000,8 +175052,8 @@
         "Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu Season 2",
         "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -175066,8 +175118,8 @@
         "咔嗒咔嗒",
         "废渊战鬼"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -175207,8 +175259,8 @@
         "这届侦探真不行",
         "Mattaku Saikin no Tantei to Kitara"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -176915,8 +176967,8 @@
         "Wistoria: Wand and Sword Season 2",
         "杖与剑的魔剑谭 第二季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -177257,8 +177309,8 @@
         "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
         "从领民0人开始的边境领主生活"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -177947,8 +177999,8 @@
         "Hana wa Saku, Shura no Gotoku",
         "群花绽放、彷如修罗"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178223,8 +178275,8 @@
         "Even Given the Worthless \"Appraiser\" Class, I’m Actually the Strongest",
         "不幸职业【鉴定士】实则最强（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178359,8 +178411,8 @@
         "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
         "治疗师退队作为无照治疗师快乐过活"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178428,8 +178480,8 @@
         "Vigilante: Boku no Hero Academia ILLEGALS",
         "正义使者: 我的英雄学院之非法英雄"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178501,8 +178553,8 @@
         "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season",
         "I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2nd Season"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178642,8 +178694,8 @@
         "九龙珠",
         "真･武士传YAIBA"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178709,8 +178761,8 @@
         "Aru Majo ga Shinu Made",
         "Until the Witch Dies"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178776,8 +178828,8 @@
         "魔女与使魔（泰语配音版）",
         "魔女守护者（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178841,8 +178893,8 @@
         "防风铃 第二季",
         "防风少年 第二季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178905,8 +178957,8 @@
         "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2（印尼语配音版）",
         "打了300年的史莱姆，不知不觉就练到了满级 第二季（印尼语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -178977,8 +179029,8 @@
         "超自然武装当哒当 第二季",
         "膽大黨 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179118,8 +179170,8 @@
         "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
         "Apocalypse Bringer Mynoghra"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179323,8 +179375,8 @@
         "禁止出入的鼹鼠",
         "出入禁止的鼴鼠"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179390,8 +179442,8 @@
         "Tsuihousha Shokudou e Youkoso!",
         "歡迎光臨流放者食堂！"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179674,8 +179726,8 @@
         "Campfire Cooking in Another World with My Absurd Skills Season 2",
         "拥有超常技能的奇幻世界流浪美食家 第二季"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179819,8 +179871,8 @@
         "One Punch Man 3",
         "One-Punch Man Season 3"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -179951,8 +180003,8 @@
         "GINTAMA - Mr. Ginpachi's Zany Class",
         "3年Z组银八老师"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -180089,8 +180141,8 @@
         "機械女僕·瑪麗",
         "Kikaijikake no Marie"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -180709,8 +180761,8 @@
         "Goumon Baito-kun no Nichijou",
         "The Daily Life of a Part-time Torturer"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -181184,8 +181236,8 @@
         "容易对付的恶魔大人",
         "Kanan-sama wa Akumade Choroi"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -181323,8 +181375,8 @@
         "輪迴的花瓣",
         "Reincarnation no Kaben"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -181390,8 +181442,8 @@
         "楠木邸的神明庭院",
         "Kami no Niwatsuki Kusunoki-tei"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -181583,8 +181635,8 @@
         "杀手青春（泰语配音版）",
         "杀手青青（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -182756,8 +182808,8 @@
         "无职转生 第三季 ～到了异世界就拿出真本事～（泰语配音版）",
         "无职转生 Ⅲ ～到了异世界就拿出真本事～（泰语配音版）"
       ],
-      "catalogCheckedAt": "2026-11-19",
-      "regionCheckedAt": "2026-11-19",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
       "mappingEvidence": {
         "method": "Unique official title and full synopsis match within checked candidates",
         "checkedAt": "2026-10-06",
@@ -190123,6 +190175,75 @@
         "checkedAt": "2026-11-26",
         "candidateIds": [],
         "preview": true
+      }
+    },
+    {
+      "intlId": 2453958,
+      "cnId": 368111,
+      "title": "世界最强魔女，始动（泰语配音版）",
+      "regions": [
+        "TH"
+      ],
+      "regionSource": "official",
+      "officialTitle": "The World's Strongest Witch(Thai Dub)",
+      "aliases": [
+        "世界最強の魔女、始めました。",
+        "The World's Strongest Witch(Thai Dub)",
+        "世界最強の魔女、始めました",
+        "世界最强的魔女，就此开始",
+        "Sekai Saikyou no Majo, Hajimemashita",
+        "The World's Strongest Witch",
+        "世界最强魔女，始动",
+        "世界最强魔女，始动（泰语配音版）"
+      ],
+      "cover": "https://pic.bstarstatic.com/ogv/bb41aeb7e52d85014bf6d7aedf470f5b.png",
+      "catalogCheckedAt": "2026-11-26",
+      "regionCheckedAt": "2026-11-26",
+      "seaTitle": "The World's Strongest Witch(Thai Dub)",
+      "seaTitleSource": "官方国际版",
+      "japaneseTitle": "世界最強の魔女、始めました",
+      "originalName": "世界最強の魔女、始めました",
+      "originalNameStatus": "japanese",
+      "originCategory": "japan",
+      "originCategorySource": "官方制作地区",
+      "nameSource": "B站国际版官方简体中文",
+      "bangumiId": 646154,
+      "nameSourceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453958&s_locale=zh_CN",
+      "release": {
+        "status": "aired",
+        "confirmed": true,
+        "date": "2026-11-25",
+        "source": "B站国际版",
+        "evidenceUrl": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453958&s_locale=zh_CN",
+        "checkedAt": "2026-11-26",
+        "note": null
+      },
+      "contentType": "animation",
+      "classification": {
+        "genres": [
+          "Novel adaptation",
+          "Isekai",
+          "Action"
+        ],
+        "dub": "thai",
+        "paid": null,
+        "year": 2026,
+        "quarter": "autumn"
+      },
+      "mappingEvidence": {
+        "method": "Official title with complete synopsis or matching episode count and exact publication time; ambiguous editions checked using episode sections, season/SP labels and platform dates",
+        "checkedAt": "2026-11-26",
+        "checkedCandidateCount": 7279,
+        "cnApi": "https://api.bilibili.com/pgc/view/web/season?season_id=368111",
+        "intlApi": "https://api.bilibili.tv/intl/gateway/web/v2/ogv/play/season_info?season_id=2453958"
+      },
+      "mappingStatus": {
+        "code": "confirmed",
+        "reason": "官方元数据已匹配；实际播放权限另行确认",
+        "checkedAt": "2026-11-26",
+        "candidateIds": [
+          368111
+        ]
       }
     }
   ]
