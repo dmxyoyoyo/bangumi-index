@@ -1,32 +1,68 @@
 {
-  "checkedAt": "2026-11-27",
+  "checkedAt": "2026-11-28",
   "range": [
+    381579,
+    382079
+  ],
+  "backfillRange": [
     381078,
     381578
   ],
-  "backfillRange": [
-    380577,
-    381077
-  ],
-  "backfillNext": 381078,
-  "validCandidates": 7221,
-  "added": 0,
-  "missing": 1165,
-  "forwardNext": 381579,
+  "backfillNext": 381579,
+  "validCandidates": 7222,
+  "added": 1,
+  "missing": 1167,
+  "forwardNext": 382080,
   "indexCandidates": 5,
   "requestBudget": 4000,
   "backfillLimit": 2000,
-  "recheckQueued": 0,
+  "recheckQueued": 639,
   "refreshStatus": "updated",
   "refreshWarning": null,
-  "lastAttemptAt": "2026-11-27",
+  "lastAttemptAt": "2026-11-28",
   "publicationRange": null,
   "contentReview": {
-    "day": "2026-11-27",
+    "day": "2026-11-28",
     "total": 2237,
-    "attempted": 2237,
-    "verified": 2236,
-    "changes": [],
+    "attempted": 1172,
+    "verified": 1170,
+    "changes": [
+      {
+        "id": 350617,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 362634,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 322690,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 323880,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 292531,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 292532,
+        "episodes": 1,
+        "previews": 0
+      },
+      {
+        "id": 323905,
+        "episodes": 1,
+        "previews": 0
+      }
+    ],
     "warning": null
   },
   "dubRanges": []
